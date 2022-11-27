@@ -1,0 +1,33 @@
+/**
+ * This file provides the design styles for tab list in sidebar
+ */
+
+/* default view */
+#dokuwiki__aside ul.sidebar-tabs {
+    margin-top: 0;
+    margin-bottom: @nav-margin;
+
+    border-bottom: 1px solid @ini_nav_menu_color;
+
+    white-space: nowrap;
+
+    li {
+        display: inline-block;
+        border: 1px solid @ini_nav_menu_color;
+        padding: 0.25em 0.5em;
+        margin-bottom: -1px;
+        margin-left: 0.5em;
+        border-top-right-radius: @fix_border-radius;
+        border-top-left-radius: @fix_border-radius;
+
+        &.active {
+            border-bottom: 1px solid @ini_background_site;
+            font-weight: bold;
+        }
+    }
+}
+
+/* wide content view */
+.wide-content #dokuwiki__aside ul.sidebar-tabs {
+    visibility: hidden;
+}

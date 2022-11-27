@@ -1,0 +1,116 @@
+/**
+ * This file provides styles for bureaucracy plugin
+ */
+
+/* + + + + +  global  + + + + + */
+.dokuwiki form.bureaucracy__plugin {
+    fieldset {
+        width: 100%;
+        max-width: 800px;
+        box-sizing: border-box;
+        border: 0 none;
+        text-align: center;
+        margin-left: 0;
+        margin-bottom: (@grid * 2);
+        padding: @grid 0 0;
+
+        > *:not(button) {
+            text-align: left;
+        }
+    }
+
+    legend {
+        font-size: @font-size-small;
+        font-weight: bold;
+        text-align: left;
+    }
+
+    label {
+        clear: both;
+        padding-top: (@grid / 2);
+
+        &::after {
+            content: '';
+            clear: both;
+        }
+
+        sup {
+            float: right;
+            font-size: 1em;
+        }
+
+        input,
+        select {
+            float: left;
+            width: 50%;
+            text-align: left;
+            padding: .1em .2em;
+        }
+
+        input[type="checkbox"] {
+            width: 1.5rem;
+            height: 1.5rem;
+            background-image: none;
+        }
+
+        span {
+            float: left;
+            text-align: right;
+            line-height: @line-height-default;
+            padding-top: .2em;
+            padding-right: @grid;
+
+            &:not([class]) {
+                font-weight: bold;
+                margin-top: .5em;
+
+                + input,
+                + select {
+                    margin-top: .3em;
+                }
+
+                // checkboxes
+                + input + input {
+                    margin-top: .3em;
+                }
+            }
+
+            &.label {
+                text-align: right;
+                padding-top: .5em;
+            }
+
+            &.input {
+                width: 49%;
+                text-align: left;
+                padding-left: 0;
+            }
+        } // span
+    } // label
+
+    button[type="submit"] {
+        margin-top: (@grid * 2);
+    }
+}
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* min-width: 1440px */
+@media @screen_min-xlg {
+    .dokuwiki form.bureaucracy__plugin {
+        p {
+            font-size: @font-size-default;
+        }
+    }
+}
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* max-width: 1439px */
+@media @screen_max-xlg {
+    .dokuwiki form.bureaucracy__plugin {
+        p,
+        label,
+        button[type="submit"] {
+            font-size: @font-size-default;
+        }
+    }
+}

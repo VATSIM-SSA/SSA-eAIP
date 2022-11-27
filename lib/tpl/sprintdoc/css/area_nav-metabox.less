@@ -1,0 +1,419 @@
+/**
+ * This file provides the design styles for the metatabbox
+ */
+
+#spr__meta-box {
+    .display-flex();
+    .flex-direction();
+    .justify-content(flex-end);
+
+    position: relative;
+    float: right;
+    max-width: 40%;
+    margin-top: -(@page_padding-top); // reverse padding-top of .page container
+    margin-right: -1px;
+
+    // >= 1024
+    @media @screen_min-md {
+        height: @page-header_height;
+        border: 1px solid transparent;
+    }
+
+    // < 1024
+    @media @screen_max-md {
+        position: relative;
+        top: .2rem;
+        right: auto;
+        float: none;
+        max-width: 100%;
+        min-height: @page-header_height;
+        height: auto;
+        border: 0 none;
+    }
+
+    &.sticky {
+        position: fixed;
+        top: 0;
+
+        ul.meta-tabs > li > a {
+            border-top-color: @ini_background_site;
+            border-bottom-color: @noopentasks-border;
+            border-radius: 0 0 @ini_default_border_radius @ini_default_border_radius;
+
+        }
+
+        .meta-content .tab-pane.active {
+            max-height: 80vh;
+            overflow: auto;
+        }
+    }
+
+    + .msg-area + a {
+        clear: right;
+        margin-top: 20px;
+    }
+
+    .tab-container {
+        display: table;
+
+        @media @screen_max-md {
+            display: block;
+            width: 100%;
+        }
+    }
+
+    .box-content {
+        position: relative;
+        height: 0;
+        overflow-y: visible;
+    }
+
+
+    /* + + + + +  tab controls  + + + + + */
+    ul.meta-tabs {
+        list-style: none;
+        line-height: 160%;
+        margin: 0;
+        padding: 0;
+
+        @media @screen_min-md {
+            white-space: nowrap;
+            text-align: right;
+        }
+
+        &::before,
+        &::after {
+            content: '';
+            clear: both;
+            display: table;
+            box-sizing: border-box;
+        }
+
+        > li:first-child {
+            > a {
+                margin-left: 0;
+            }
+        }
+
+        > li {
+            position: relative;
+            display: inline-block;
+            vertical-align: bottom;
+            margin: 0;
+
+            @media @screen_min-md {
+                margin-left: .3rem;
+            }
+
+            @media @screen_max-md {
+                margin-right: .4rem;
+                margin-bottom: .2rem;
+            }
+
+            > a {
+                cursor: pointer;
+                position: relative;
+                display: block;
+                font-size: @font-size-small;
+                transition: @transition background-color, @transition border-color, @transition color;
+
+                @media @screen_min-md {
+                    background-color: @ini_background_site;
+                    border: 1px solid @noopentasks-border;
+                    border-bottom-color: @ini_background_site;
+                    border-radius: @ini_default_border_radius @ini_default_border_radius 0 0; // @ini_default_border_radius vs. @fix_border-radius
+                    color: @ini_nav_menu_color;
+                    margin-left: 4px;
+                    padding: .3em 1rem .1em;
+                }
+
+                @media @screen_max-md {
+                    background-color: @ini_background;
+                    top: 0;
+                    border: 1px solid @ini_existing;
+                    color: @ini_existing;
+                    margin-top: .2rem;
+                    margin-left: 0;
+                    padding: .2em .3rem;
+                }
+
+                * {
+                    cursor: pointer;
+                    color: inherit;
+                    font-size: inherit;
+                }
+
+                .prefix {
+                    position: relative;
+                    color: inherit;
+                    font-size: @font-size-small;
+                }
+
+                &:hover,
+                &:focus,
+                &:active {
+                    text-decoration: none;
+
+                    @media @screen_min-md {
+                        background-color: @ini_background;
+                        border-color: @ini_existing;
+                        color: @ini_existing;
+                    }
+
+                    @media @screen_max-md {
+                        background-color: @ini_existing;
+                        border-color: @ini_background;
+                        color: @ini_background;
+                    }
+                }
+            }
+
+            &.active {
+                > a {
+                    cursor: default;
+                    background-color: @ini_background;
+                    border-color: @ini_existing;
+                    border-bottom-color: @ini_background;
+                    color: @ini_existing;
+
+                    @media @screen_max-md {
+                        background-color: @ini_existing;
+                        border-bottom-color: @ini_existing;
+                        border-radius: 0;
+                        color: @ini_background;
+                    }
+                }
+            }
+        }
+    }
+
+    /* + + + + +  toggle content  + + + + + */
+    .meta-content {
+        margin-top: -1px;
+
+        @media @screen_max-md {
+            clear: both;
+            margin-top: 2px;
+        }
+
+        .tab-pane {
+            position: absolute;
+            top: 0;
+            right: 0;
+            display: none;
+            width: 100%;
+            background-color: @ini_background;
+            border: 1px solid @ini_existing;
+
+            @media @screen_min-xs {
+                min-width: 20em;
+            }
+
+            @media @screen_min-md {
+                border-radius: 0 0 @fix_border-radius @fix_border-radius; // @ini_default_border_radius vs. @fix_border-radius
+            }
+
+            &.active {
+                display: block;
+            }
+
+            a {
+                color: @ini_existing;
+            }
+
+            > div {
+                font-size: @font-size-small;
+                padding: .8rem .5rem .5rem;
+
+                * {
+                    font-size: inherit;
+                }
+
+                p {
+                    padding-left: 1em;
+                }
+
+                ul {
+                    list-style: none;
+                    padding-left: 0;
+                }
+
+                li {
+                    list-style-image: none; // overwrite universally styles
+                    margin-left: 0;
+                    padding-left: 1em;
+                }
+            }
+
+            &#spr__tab-tags {
+                > div {
+                    ul {
+                        li {
+                            padding-left: 0;
+                        }
+                    }
+                }
+            }
+
+            #dw__toc {
+                width: auto;
+                float: none;
+                margin: 0;
+                padding: .6rem .5rem .5rem .8rem;
+                background: transparent;
+                border: 0 none;
+
+                h3 {
+                    display: none;
+                }
+
+                > div {
+                    padding: 0;
+                }
+
+                > div ul.toc {
+                    font-size: @font-size-small;
+                    padding-left: .5em;
+
+                    a {
+                        font-size: @font-size-small;
+                        display: inline-block;
+                        padding-left: 10px;
+                        position: relative;
+                    }
+
+                    div.li {
+                        position: relative;
+                        padding: .15em 0;
+
+                        &::before {
+                            content: '';
+                            position: absolute;
+                            top: .6em;
+                            left: 0;
+                            display: inline-block;
+                            width: 4px;
+                            height: 4px;
+                            overflow: hidden;
+                            background-color: @ini_existing;
+                        }
+                    }
+                }
+
+                > div > ul.toc {
+                    padding: 0;
+                }
+            }
+        }
+    }
+
+    /* + + + + +  tab issues  + + + + + */
+    #spr__tab-issues {
+        ul.mmissuelist {
+            padding-left: 0;
+            margin-top: 1rem;
+
+            li {
+                &.noissue {
+                    font-size: @font-size-small;
+                    list-style-type: none;
+                    margin-left: 0;
+
+                    .li {
+                        font-size: @font-size-small;
+                        margin-left: .5rem;
+                    }
+                }
+
+                a {
+                    display: inline-block;
+                }
+            }
+
+            img {
+                vertical-align: bottom;
+                margin-right: .3rem;
+            }
+
+            .mm__status {
+                padding-left: .3rem;
+                padding-right: .3rem;
+            }
+
+            form {
+                vertical-align: text-top;
+            }
+        }
+    }
+
+    /* + + + + +  tab issues  + + + + + */
+    /* see plugins/magic-matcher.less   */
+    #spr__tab-issues {
+        ul.mmissuelist {
+            padding-left: 0;
+            margin-top: .5rem;
+            margin-bottom: .6rem;
+
+            li {
+                list-style-type: none;
+                margin-top: .3rem;
+                margin-left: .5rem;
+
+                &.noissue {
+                    list-style-type: none;
+                    margin-left: 0;
+                }
+            }
+
+            a {
+                display: inline-block;
+                font-size: @font-size-small;
+
+                * {
+                    font-size: inherit;
+                }
+            }
+
+            img {
+                vertical-align: bottom;
+                margin-right: .3rem;
+            }
+
+            .mm__status {
+                display: inline-block;
+                text-decoration: none;
+                padding-left: .3rem;
+                padding-right: .3rem;
+            }
+
+            form {
+                vertical-align: text-top;
+
+                button {
+                    background: @ini_button_background;
+                    border-color: @ini_button_background;
+                    color: @ini_button_color;
+                    font-size: @font-size-small;
+                    padding: .2em .3em;
+
+                    &[name="removeIssue"] {
+                        min-width: 20px;
+                        font-size: .94rem;
+                        font-weight: bold;
+                        line-height: 95%;
+                        text-align: center;
+                        padding: 0 .1rem .1rem;
+                        margin-left: .5rem;
+                    }
+
+                    &:hover,
+                    &:focus,
+                    &:active {
+                        background: @ini_button_color;
+                        color: @ini_button_background;
+                    }
+                }
+            }
+        }
+    }
+}

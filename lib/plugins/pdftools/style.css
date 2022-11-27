@@ -1,0 +1,116 @@
+.boxed {
+    display:inline-block;
+    border: 1px solid red;
+    background: pink;
+    padding: 5px;
+    margin:3px;
+}
+
+.wrap_maxtabelle table{width:100%;}
+
+.wrap_formular table, .wrap_formular td, .wrap_formular tr, .wrap_formular tbody{
+	border:none;
+	background:none;
+	border-color:white;
+}
+
+.wrap_formular2 table td, .wrap_formular2 table tr,.wrap_formular2 table {
+	border-bottom:1px solid red;
+	border-top:0px;
+	border-left:0px;
+	border-right:0px;
+}
+
+.wrap_platz table td {
+	padding-top:12px;
+	padding-bottom:12px;
+}
+
+.wrap_bigtext {font-size:115%;}
+
+.wrap_smalltext {font-size:90%;}
+
+.pdftools_print_area {
+    position:fixed;
+    bottom:50px;
+    right:-375px;
+    background:#f6f6f6;
+    width:375px;
+    transition: right 0.2s ease-in-out;
+    z-index:1;
+    border-top:1px solid black;
+    border-bottom:1px solid black;
+}
+
+.pdftools_print_area:hover {
+    right:0px;
+}
+
+.pdftools_templates {
+    padding: 10px 5px 0px 15px;
+    text-align:right;
+}
+
+.pdftools_templates hr{
+    margin-top:4px;
+    margin-bottom:4px;
+}
+
+.pdftools_print_icon {
+    overflow:hidden;
+    width:80px;
+    right:375px;
+    bottom:0px;
+    position:absolute;
+    border-radius:10% 0 0 10%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    z-index:1;
+    background:white;
+}
+
+.pdftools_print_icon img {
+    width:60px;
+    padding:10px;
+}
+
+.pdftools_printButton {
+    box-shadow: inset 0 1px 0 0 #e1e5e9;
+    background: linear-gradient(to bottom,#a7b4b9 5%,#555e64 100%);
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid #124d77;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a7b4b9', endColorstr='#555e64',GradientType=0);
+    background-color: #007dc1;
+    border-radius: 3px;
+    border: 1px solid #949ba1;
+    display: inline-block;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 13px;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #154682;
+    margin: 6px 15px 6px 7px;
+    min-width: 60px;
+    text-align: center;
+}
+
+.pdftools_printButton2 {
+    box-shadow: inset 0px 1px 0px 0px #54a3f7;
+    background: linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid #124d77;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#007dc1', endColorstr='#0061a7',GradientType=0);
+    background-color: #007dc1;
+    border-radius: 3px;
+    display: inline-block;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 17px;
+    font-weight:600;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #154682;
+    margin: 6px 15px 6px 7px;
+    min-width: 80px;
+    text-align: center;
+}

@@ -1,0 +1,7 @@
+base   pdftools
+author Gero Gothe
+email  gero.gothe@medizindoku.de
+date   2021-11-11
+name   PDF-Tools for dw2pdf
+desc   Additional features for PDF-Generation (requires dw2pdf)
+url    https://www.dokuwiki.org/plugin:pdftools

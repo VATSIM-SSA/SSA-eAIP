@@ -1,0 +1,19 @@
+==== FNLU ====
+
+Lorem ipsum verbis est
+
+=== Airport Data ===
+=== Runways ===
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| | | | | | | |
+| | | | | | | |
+
+=== Aprons ===
+
+=== Positions & Frequencies ===
+
+
+----
+
+//This page is a subsection of the [[FNLU]] airport page.//

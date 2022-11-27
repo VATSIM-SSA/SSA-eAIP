@@ -1,0 +1,39 @@
+table.pdfheader {
+	display:none;
+    
+}
+
+table.pdffooter {
+    font-size: 8pt;
+    border-collapse: collapse;
+    border-top: 1px solid #000000;
+    clear: both;
+}
+
+@page {
+	
+	margin:1cm 1cm 1cm 1cm; 
+	margin-header:0.5cm; 
+	margin-footer:0.5cm;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {margin-bottom:0px;margin-top:5px;}
+
+
+h3 {font-size:115%;}
+h4 {font-size:105%;}
+h5 {font-size:100%;font-weight:normal;text-decoration:underline;}
+
+p {margin-bottom:4px;margin-top:4px}
+
+body {
+    font-size:12px;
+}
+
+
+
+

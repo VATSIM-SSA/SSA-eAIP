@@ -1,0 +1,277 @@
+/**
+ * This file provides the design styles for the page header.
+ */
+
+#dokuwiki__header {
+    @header-font-opacity: 1;
+
+    @media @screen_max-xs {
+        min-height: 120px;
+    }
+
+    /* + + +  wiki logo  + + + */
+    @media @screen_min-md {
+        .logo {
+            padding: 1rem 0 .3rem;
+
+            img {
+                height: 4.6rem;
+                width: auto;
+                border-style: solid;
+                border-color: transparent;
+                border-width: 2px 0;
+            }
+
+            a:hover,
+            a:focus,
+            a:active {
+                img {
+                    border-width: 0;
+                }
+            }
+        }
+    }
+
+    @media @screen_max-md {
+        .logo {
+            display: table-cell;
+
+            .mobile-only {
+                margin: .8rem 1rem .6rem 0;
+            }
+        }
+    }
+
+    /* + + + + +  DESKTOP  -  wiki title + claim  + + + + + */
+    .main-title.desktop-only {
+        @media @screen_min-md {
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        @media @screen_max-md {
+            display: block;
+        }
+
+        p.title {
+            @media @screen_max-md {
+                display: none;
+            }
+        }
+
+        p.claim {
+            @media @screen_max-md {
+                display: block;
+                padding-bottom: 1rem;
+            }
+
+            @media @screen_max-xs {
+                padding-right: (@toggle-size + @headericons-margin-xxs);
+            }
+        }
+    }
+
+    /* + + + + +  MOBILE  -  wiki title wrapper  + + + + + */
+    .main-title:not([class*="desktop-only"]) {
+        @media @screen_max-md {
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        @media @screen_max-xs {
+            padding-right: (@toggle-size + @headericons-margin-xxs);
+        }
+    }
+
+    /* + + +  wiki title  + + + */
+    p.title {
+        background-color: @ini_background_site;
+        opacity: @header-font-opacity;
+        color: @ini_text_webframe;
+        line-height: @line-height-default;
+        margin-bottom: .5rem;
+
+        @media @screen_min-md {
+            font-size: @font-size-big;
+        }
+
+        @media @screen_max-md {
+            font-size: (@font-size-default + .25);
+            padding-top: .5rem;
+            padding-left: 1rem;
+        }
+    }
+
+    /* + + + + +  DESKTOP  -  wiki claim, logo, title wrapper  + + + + + */
+    @media @screen_min-md {
+        div.claim {
+            display: table-cell;
+            height: 100%;
+            vertical-align: middle;
+        }
+    }
+
+    /* + + +  wiki claim  + + + */
+    p.claim {
+        opacity: @header-font-opacity;
+        color: @ini_text_webframe;
+        font-size: @font-size-default;
+        margin-bottom: 0;
+
+        @media @screen_max-md {
+            padding-top: .5rem;
+        }
+    }
+
+    /* + + +  mobile nav togglelink  + + + */
+    .menu-togglelink {
+        position: relative;
+        margin: @headericons-margin-xxs -(@very-small-spacing) 0 0;
+
+        a {
+            .fontello();
+            .icon-menu();
+            .btn-hover();
+
+            display: block;
+            min-height: @toggle-size;
+            min-width: @toggle-size;
+            box-sizing: border-box;
+            border: 1px solid @ini_border;
+            border-radius: @ini_default_border_radius; // @ini_default_border_radius vs. @fix_border-radius
+            font-size: 1rem;
+            text-align: center;
+            text-decoration: none;
+            line-height: 1;
+
+            &::before {
+                font-size: 1.5rem;
+                margin: .1rem 0 0;
+            }
+        }
+    }
+
+    /* + + +  mobile select for doku wiki tools   + + + */
+    .menu-tool-select {
+        position: relative;
+        z-index: 1000;
+        display: none;
+        @media @screen_max-xxs {
+            display: block;
+        }
+
+        select {
+            display:  block;
+            width:100%;
+        }
+    }
+
+    /* + + + + +  with magic matcher  + + + + + */
+    &.has-magicmatcher {
+        .logo {
+            @media @screen_min-md {
+                padding-top: 3rem;
+            }
+        }
+
+        .main-title.desktop-only {
+            @media @screen_min-md {
+                vertical-align: bottom;
+                padding-top: @height-context-bar;
+                padding-bottom: 1rem;
+            }
+
+            p.title {
+                @media @screen_min-md {
+                    margin-right: 16rem;
+                }
+            }
+
+            p.claim {
+                @media @screen_max-md {
+                    display: block;
+                    padding-bottom: 1rem;
+                }
+            }
+        }
+    }
+}
+
+/* + + + + +  layout option compact  + + + + + */
+.header-compact {
+    #dokuwiki__header {
+        min-height: 2.7rem;
+        margin-bottom: 0.5rem;
+
+        .main-title.desktop-only p.claim,
+        p.claim {
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            overflow: hidden;
+            max-width: 35em;
+        }
+
+        // desktop
+        @media @screen_min-md {
+            div.claim {
+                vertical-align: top;
+            }
+
+            .main-title.desktop-only {
+                vertical-align: top;
+            }
+
+            .main-title.desktop-only,
+            .logo {
+                padding-top: 0.4rem;
+            }
+
+            .logo img {
+                height: 3.6rem;
+            }
+        }
+
+        // mobile middle
+        @media @screen_max-md {
+
+            .main-title.desktop-only p.claim,
+            p.claim {
+                display: none;
+            }
+
+            .logo {
+                display: block;
+                position: absolute;
+                top: 0;
+                left: 3rem;
+
+                .mobile-only {
+                    margin: .4rem;
+                    height: 1.75rem;
+                }
+            }
+
+            .main-title:not([class*="desktop-only"]) {
+                display: inline-block;
+                vertical-align: top;
+                padding-left: 1.75rem;
+            }
+
+            p.title {
+                font-size: 1rem;
+            }
+        }
+        
+        @media @screen_max-xxs {
+            min-height: 70px; // needed for menu select toolbar
+
+            .logo {
+                left: 2rem;
+            }
+
+            .menu-tool-select {
+                padding-top: .3rem;
+            }
+        }
+    }
+}

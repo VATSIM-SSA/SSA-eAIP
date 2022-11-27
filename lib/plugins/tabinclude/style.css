@@ -1,0 +1,109 @@
+/**
+ * Tabinclude plugin CSS
+ *
+ * Colors corresponds to template's colors in style.ini.
+ */
+
+div#dwpl-ti-container{
+  margin:0 0 0.5em 0;
+  padding:0.1em;
+}
+
+/**
+ * List of tabs
+ */
+
+div#dwpl-ti-container ul.dwpl-ti {
+  margin:0;
+  padding:1em 1em 0 1em;
+  overflow: hidden;
+}
+
+div#dwpl-ti-container li.dwpl-ti-tab {
+  list-style:none;
+  float:left;
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  background-color: __background__;
+  border-color: __background_alt__;
+  border-image: none;
+  border-style: solid;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-width: 1px 1px 0;
+  box-shadow: 0 0 0.5em __text_alt__;
+  color: __text_alt__;
+  padding: 0.1em 0.35em;
+  margin:0 0.5em;
+}
+
+div#dwpl-ti-container li.dwpl-ti-tab a{
+  color: __text_alt__;
+}
+
+div#dwpl-ti-container li.dwpl-ti-tab:hover {
+  background-color:__background_alt__;
+  text-decoration:underline;
+}
+
+div#dwpl-ti-container li.dwpl-ti-tab div
+{
+  margin:0;
+  padding:0;
+  cursor:pointer;
+}
+
+div#dwpl-ti-container li.dwpl-ti-tab .selected
+{
+  color:__text__;
+}
+div#dwpl-ti-container li.dwpl-ti-tab div.error
+{
+ padding-left: 32px;
+}
+
+/**
+ * Tab content
+ */
+
+div#dwpl-ti-container div.dwpl-ti-content-box {
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: __background_alt__;
+  border-image: none;
+  border-style: solid;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-width: 1px 1px 0;
+  box-shadow: 0 0 0.5em __text_alt__;
+  padding:1em 2em 1em 1em;
+  background-color:__background__;
+  overflow:scroll;
+  scroll-bar:vertical;
+  height:99%;
+}
+
+div#dwpl-ti-container div.dwpl-ti-loading{
+  background-image:url('img/loading.gif');
+  background-repeat:no-repeat;
+  background-position:left center;
+  padding:0 0 0 18px;
+  margin:2em;
+  display:none;
+}
+
+div#dwpl-ti-container div.dwpl-ti-content{ }
+
+div#dwpl-ti-container div.dwpl-ti-permalink-header{
+  text-align:right;
+  font-size:0.9em;
+}
+
+div#dwpl-ti-container div.dwpl-ti-permalink-footer{
+  text-align:right;
+  font-size:0.9em;
+}

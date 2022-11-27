@@ -1,0 +1,7 @@
+base   highlightparent
+author Michael Große
+email  dokuwiki@cosmocode.de
+date   2017-04-21
+name   highlightparent plugin
+desc   Highlight a configured parent namespace
+url    https://dokuwiki.org/plugin:highlightparent

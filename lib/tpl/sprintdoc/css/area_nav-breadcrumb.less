@@ -1,0 +1,85 @@
+/**
+ * This file provides the design styles for the breadcrumb
+ */
+
+.breadcrumbs {
+    position: relative;
+    min-height: @page-header_height;
+    box-sizing: border-box;
+    background-color: @ini_background;
+    border-bottom: 1px solid @ini_border_light;
+    padding: 1rem 1.8rem .2rem;
+
+    @media @screen_max-md {
+        background-color: @ini_background_page_header;
+    }
+
+    @media @screen_max-xs {
+        padding-left: @margin-small;
+        padding-right: .75rem;
+    }
+
+    @media @screen_xs-lg {
+        background-color: @ini_background;
+    }
+
+    > p {
+        font-size: @font-size-small;
+        margin: 0;
+
+        @media @screen_max-xs{
+            width: 1px;
+            position: relative;
+            overflow: hidden;
+            height: 1.6rem;
+        }
+
+        * {
+            font-size: @font-size-small;
+        }
+
+        .bchead {
+            .sr-only();
+        }
+
+        span.home {
+            margin-left: -.2rem; // reverse spacing in home icon --> content text and home icon aligned
+
+            .wide-content & {
+                margin-left: .4rem; //toggle link has position absolute, hover on home icon needs more space than left padding of breadcrumb
+            }
+
+            a {
+                .fontello();
+                .hide-text-show-before();
+                .icon-home();
+
+                min-height: 1.8em;
+                min-width: 1.9em;
+                width: auto;
+                box-sizing: border-box;
+                border: solid 1px transparent;
+                border-radius: @ini_default_border_radius; // @ini_default_border_radius vs. @fix_border-radius
+                vertical-align: middle;
+                text-decoration: none;
+                margin-top: -.2em;
+                transition: @transition border-color;
+
+                &:before {
+                    font-size: @font-size-default + (@font-scale-factor * 2);
+                    margin-top: .17rem;
+                }
+
+                &:hover,
+                &:focus,
+                &:active {
+                    border-color: @ini_existing;
+                }
+            }
+        }
+
+        bdi {
+            padding: .1em .1em 0;
+        }
+    }
+}

@@ -1,0 +1,288 @@
+/**
+ * This file provides styles for the general layout structure.
+ */
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* col grid */
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+.make-grid(xs);
+
+@media screen {
+    .container {
+        margin: 0 @margin-big;
+    }
+}
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* font sizing */
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+@media @screen_min-xxs {
+    html {
+        font-size: 100%; //16px
+    }
+}
+
+@media @screen_min-xs {
+    html {
+        font-size: 100%; //16px
+    }
+}
+
+@media @screen_min-sm {
+    .make-grid(sm);
+    html {
+        font-size: 100%; //16px
+    }
+}
+
+@media @screen_min-md {
+    .make-grid(md);
+    html {
+        font-size: 87.5%; //14px
+    }
+}
+
+@media @screen_min-lg {
+    .make-grid(lg);
+    html {
+        font-size: 87.5%; //14px
+    }
+}
+
+@media @screen_min-xlg {
+    html {
+        font-size: 93.75%; //15px
+    }
+}
+
+@media @screen_min-xxlg {
+    html {
+        font-size: 100%; //16px
+    }
+}
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* z-indices */
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+@media screen {
+    .nav-direct p {
+        z-index: 1000; // keyboard-navigation overlays always on top
+    }
+
+    .top-header {
+        z-index: 2; // put MagicMatcher-Dropdowns above .content and metabox-tabs
+    }
+
+    #dokuwiki__aside div.nav a {
+        &:hover, &:focus, &:active {
+            z-index: 100; // show label/link above content on hover etc.
+        }
+    }
+
+    .qc-output {
+        z-index: 1; // put qc-output above meta-box
+    }
+
+    #spr__meta-box {
+        z-index: 10; // put meta-box above positioned content-elements such as aggregations, edit-buttons
+        ul.meta-tabs > li.active {
+            z-index: 1; // put the active tab above the meta-content in .tab-pane.active
+        }
+    }
+
+    nav#dokuwiki__pagetools {
+        z-index: 100; // put labels of the pagetools above content on hover etc.
+    }
+
+    #dokuwiki__detail .img-link a::before {
+        z-index: 2; // put 'view original file'-overlay above image
+    }
+
+    /* plug-in do_tasks */
+    .plugin__do_usertasks_list {
+        z-index: 200; // put tasks-list above pagetools
+    }
+
+    /* plug-in editable */
+    #dokuwiki__content.main-content div.editbutton_table {
+        z-index: 1; // for IE
+    }
+
+    /* plug-in tabinclude */
+    div#dwpl-ti-container li.dwpl-ti-tab div.selected {
+        z-index: 1; // put .slected tab above div.dwpl-ti-content-box
+    }
+}
+
+@media @screen_min-md {
+    .wide-content .search.main-sidebar p.toggleSearch {
+        z-index: 1; // put search-toggle-button above #dw__search
+    }
+}
+
+@media @screen_max-md {
+    body.show-mobile-sidebar #dokuwiki__aside {
+            z-index: 200; // mobile sidebar above all except nav-direct
+    }
+}
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* screen sizing */
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+
+// >= 1024
+@media @screen_min-md {
+
+    .content .row > .col-xs-12 {
+        border-radius: 0 @ini_default_border_radius @fix_border-radius @fix_border-radius; // @ini_default_border_radius vs. @fix_border-radius
+    }
+
+    .top-header {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 50%;
+    }
+
+    .header,
+    .tools {
+        .row {
+            position: relative;
+
+            > .col-xs-12 {
+                width: @ini_sidebar_width;
+                box-sizing: border-box;
+            }
+        }
+    }
+
+    .header {
+        .row > .col-xs-12 {
+            position: relative;
+            height: 150px;
+            min-height: 6rem;
+            display: table;
+
+            + .col-xs-12 {
+                float: right;
+                width: @ini_site_width;
+                box-sizing: border-box;
+            }
+        }
+    }
+
+    /* + + + + +  layout option compact  + + + + + */
+    .header-compact {
+        .header {
+            .row > .col-xs-12 {
+                height: auto;
+                min-height: auto;
+            }
+        }
+    }
+
+    .tools {
+        .row > .col-xs-12 {
+            position: absolute;
+        }
+    }
+
+    .content {
+        .row > .col-xs-12 {
+            position: relative;
+            width: 100%;
+            background-color: #fff;
+        }
+    }
+
+    .showSidebar {
+        .content {
+            .row > .col-xs-12 {
+                width: @ini_site_width;
+                float: right;
+            }
+        }
+    }
+
+    .wide-content {
+        .content {
+            .row > .col-xs-12 {
+                width: auto;
+                float: none;
+            }
+        }
+
+        &.showSidebar {
+            .content {
+                .row > .col-xs-12 {
+                    margin-left: @toggle-showsidebar_width;
+                }
+            }
+        }
+    }
+
+    .main-sidebar {
+        &.search {
+            > img {
+                width: 100%;
+                height: auto;
+            }
+        }
+    }
+}
+
+// > 1024
+@media @screen_md-lg {
+    .wide-content.showSidebar {
+        .content {
+            .row > .col-xs-12 {
+                margin-left: 2.3rem;
+            }
+        }
+    }
+}
+
+@media @screen_max-md {
+    .container {
+        margin: 0 1.25rem;
+    }
+
+    .content {
+        position: relative;
+
+        #dokuwiki__pagetools {
+            top: 0;
+        }
+
+        .row > .col-xs-12 #dokuwiki__content::before {
+            display: none;
+        }
+    }
+
+    .tools {
+        .main-sidebar {
+            display: none;
+        }
+    }
+}
+
+@media @screen_max-xxs {
+    @mobileMargin: 4px;
+
+    .container {
+        margin: 0 @mobileMargin;
+    }
+
+    body.show-mobile-sidebar #dokuwiki__aside {
+        left: @mobileMargin;
+    }
+
+    #dokuwiki__footer {
+        .main-footer {
+            > * {
+                padding-left: 2rem;
+                padding-right: 2rem;
+            }
+        }
+    }
+}

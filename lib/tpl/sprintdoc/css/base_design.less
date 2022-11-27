@@ -1,0 +1,633 @@
+/**
+ * This file provides the main design styles
+ * across all template elements (typo, colors etc.)
+ */
+
+
+html, body {
+    background-color: @ini_background_site;
+}
+
+/* highlight selected tool */
+.mode_admin a.action.admin,
+.mode_login a.action.login,
+.mode_register a.action.register,
+.mode_profile a.action.profile,
+.mode_recent a.action.recent,
+.mode_index a.action.index,
+.mode_media a.action.media,
+.mode_revisions a.action.revs,
+.mode_backlink a.action.backlink,
+.mode_subscribe a.action.subscribe {
+    font-weight: bold;
+}
+
+.dokuwiki {
+    .page ol li,
+    .page ul li,
+    .aside ul li {
+        color: @ini_text;
+    }
+
+    .pageId {
+        float: right;
+        margin-right: -1em;
+        margin-bottom: -1px;
+        margin-top: -1.5em;
+        overflow: hidden;
+        padding: 0.5em 1em 0;
+
+        span {
+            font-size: @font-size-small;
+            border: solid @ini_background_alt;
+            border-width: 1px 1px 0;
+            background-color: @ini_background_site;
+            color: @ini_text_alt;
+            padding: .1em .35em;
+            border-top-left-radius: 2px;
+            border-top-right-radius: 2px;
+            box-shadow: 0 0 .5em @ini_text_alt;
+            display: block;
+        }
+    }
+
+    div.page {
+        clear: both;
+        overflow: hidden;
+        word-wrap: break-word;
+        background: @ini_background;
+        color: inherit;
+        padding: @page_padding-top @margin-default @margin-default;
+
+        @media @screen_max-md {
+            padding-right: (@margin-default * 1.6);
+        }
+
+        @media @screen_max-xs {
+            padding-left: @margin-small;
+        }
+
+        @media @screen_max-xxs {
+            padding-right: @margin-small;
+        }
+    }
+
+    .content #dokuwiki__pagetools {
+        @media @screen_max-md {
+            top: 4rem;
+        }
+    }
+
+    .docInfo {
+        font-size: @font-size-small;
+        text-align: right;
+    }
+
+    /* license note under edit window */
+    div.license {
+        font-size: @font-size-small;
+        line-height: @line-height-default;
+        padding-top: 1rem;
+
+        @media @screen_max-lg {
+            font-size: @font-size-default;
+        }
+
+        @media @screen_max-md {
+            font-size: @font-size-small;
+        }
+
+        * {
+            font-size: inherit;
+        }
+    }
+
+    [dir=rtl] & .docInfo {
+        text-align: left;
+    }
+
+    [dir=rtl] & .pageId {
+        float: left;
+        margin-left: -1em;
+        margin-right: 0;
+    }
+}
+
+caption,
+figcaption,
+summary,
+legend {
+    padding: 0;
+    margin: 0 0 .35em;
+    line-height: 1.2;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
+    padding: 0;
+    line-height: 1.2;
+    clear: both;
+}
+
+[dir=rtl] h1,
+[dir=rtl] h2,
+[dir=rtl] h3,
+[dir=rtl] h4,
+[dir=rtl] h5,
+[dir=rtl] h6 {
+    clear: right;
+}
+
+h1 {
+    font-size: @font-size-head1;
+    margin: 0 0 @font-size-head1;
+    padding-top: 1em;
+}
+
+h2 {
+    font-size: @font-size-head2;
+    margin: 0 0 @font-size-head2;
+    padding-top: (@font-size-head2 / 2);
+
+    .secedit + &,
+    div[class^="level"] + &,
+    .section_highlight &:first-child {
+        padding-top: 0;
+    }
+
+    .section_highlight + & {
+        padding-top: (@font-size-head2 / 2);
+    }
+}
+
+h3 {
+    font-size: @font-size-head3;
+    margin: 0 0 @font-size-head3;
+    padding-top: (@font-size-head3 / 2);
+
+    .secedit + &,
+    div[class^="level"] + &,
+    .section_highlight &:first-child {
+        padding-top: 0;
+    }
+
+    .section_highlight + & {
+        padding-top: (@font-size-head3 / 2);
+    }
+}
+
+h4 {
+    font-size: @font-size-head4;
+    margin: 0 0 @font-size-head4;
+    padding-top: (@font-size-head4 / 2);
+
+    .secedit + &,
+    div[class^="level"] + &,
+    .section_highlight &:first-child {
+        padding-top: 0;
+    }
+
+    .section_highlight + & {
+        padding-top: (@font-size-head4 / 2);
+    }
+}
+
+h5 {
+    font-size: @font-size-head5;
+    margin: 0 0 @font-size-head5;
+    padding-top: (@font-size-head5 / 2);
+
+    .secedit + &,
+    div[class^="level"] + &,
+    .section_highlight &:first-child {
+        padding-top: 0;
+    }
+
+    .section_highlight + & {
+        padding-top: (@font-size-head5 / 2);
+    }
+}
+
+h6 {
+    font-size: @font-size-head6;
+    font-weight: @font-weight-bold;
+    margin: 0 0 @font-size-head6;
+    padding-top: (@font-size-head6 / 2);
+
+    .secedit + &,
+    div[class^="level"] + &,
+    .section_highlight &:first-child {
+        padding-top: 0;
+    }
+
+    .section_highlight + & {
+        padding-top: (@font-size-head6 / 2);
+    }
+}
+
+p {
+    font-size: @font-size-default;
+    line-height: @line-height-big;
+
+    a,
+    span,
+    strong {
+        font-size: inherit;
+    }
+}
+
+label,
+legend,
+button {
+    font-size: @font-size-default;
+
+    a,
+    span,
+    strong {
+        font-size: inherit;
+    }
+}
+
+hr,
+figure,
+details,
+address {
+    font-size: @font-size-default;
+    line-height: 140%;
+}
+
+p,
+ul,
+ol,
+dl,
+pre,
+table,
+hr,
+blockquote,
+figure,
+details,
+fieldset,
+address {
+    margin: 0 0 1.4em; /* bottom margin = line-height */
+    padding: 0;
+}
+
+div,
+video,
+audio {
+    margin: 0;
+    padding: 0;
+}
+
+small,
+.code {
+    font-size: @font-size-small;
+}
+
+.code {
+    margin-top: @grid;
+
+    // SPR-926: darker colors for accessibility
+    .es6 {
+        color: #00832B;
+    }
+
+    .kw5 {
+        color: #005D00;
+    }
+
+    .kw6 {
+        color: #DC0075;
+    }
+
+    .nu0 {
+        color: #A74DA7;
+    }
+
+    .re3 {
+        color: #DE1B1B;
+    }
+
+    .re4 {
+        color: #007F6F;
+    }
+
+    .br0, .sy0 {
+        color: #248124;
+    }
+
+    .co1, .coMULTI, .sc-1 {
+        color: #707070;
+    }
+
+    .co2, .sy1 {
+        color: #108400;
+    }
+
+    .co3, .sy4 {
+        color: #008070;
+    }
+
+    .kw1, .kw8 {
+        color: #747400;
+    }
+
+    .re1, .st0, .st_h {
+        color: #DD0000;
+    }
+}
+
+/* + + +  lists   + + + */
+ul,
+ol {
+    font-size: @font-size-default;
+    line-height: 140%;
+    padding: 0 0 0 1.5em;
+}
+
+[dir=rtl] ul,
+[dir=rtl] ol {
+    padding: 0 1.5em 0 0;
+}
+
+li,
+dd {
+    padding: 0;
+    margin: 0 0 0 1.5em;
+}
+
+[dir=rtl] li,
+[dir=rtl] dd {
+    margin: 0 1.5em 0 0;
+}
+
+dl {
+    font-size: @font-size-default;
+    line-height: 140%;
+}
+
+dt,
+dd {
+    line-height: inherit;
+}
+
+dt {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+li ul,
+li ol,
+li dl,
+dl ul,
+dl ol,
+dl dl {
+    margin-bottom: 0;
+    padding: 0;
+}
+
+li li {
+    font-size: 100%;
+}
+
+ul {
+    list-style: square outside;
+}
+
+ol {
+    list-style: decimal outside;
+}
+
+ol ol {
+    list-style-type: lower-alpha;
+}
+
+ol ol ol {
+    list-style-type: upper-roman;
+}
+
+ol ol ol ol {
+    list-style-type: upper-alpha;
+}
+
+ol ol ol ol ol {
+    list-style-type: lower-roman;
+}
+
+/* + + +  tables   + + + */
+.dokuwiki {
+    table.inline tr:hover {
+        th {
+            background-color: fade(@ini_background_alt, 50%);
+        }
+
+        td {
+            background-color: fade(@ini_background_alt, 80%);
+            color: @ini_text_alt;
+
+            *:not(button,a) {
+                color: @ini_text_alt;
+            }
+        }
+    }
+}
+
+table {
+    border-collapse: collapse;
+    empty-cells: show;
+    border-spacing: 0;
+    border: 1px solid @ini_border;
+    font-size: @font-size-default;
+    line-height: 140%;
+}
+
+caption {
+    caption-side: top;
+    text-align: left;
+}
+
+[dir=rtl] caption {
+    text-align: right;
+}
+
+th,
+td {
+    padding: .3em .5em;
+    margin: 0;
+    vertical-align: top;
+    border: 1px solid @ini_border;
+}
+
+th {
+    font-weight: bold;
+    background-color: @ini_background_alt;
+    color: @ini_text_alt;
+    text-align: left;
+
+    a {
+        color: @ini_link_alt;
+    }
+}
+
+[dir=rtl] th {
+    text-align: right;
+}
+
+a {
+    outline: none;
+
+    &:link,
+    &:visited {
+        text-decoration: none;
+        color: @ini_link; // links to non wikipages (external links)
+    }
+
+    &:hover,
+    &:focus,
+    &:active {
+        text-decoration: underline;
+    }
+}
+
+img {
+    display: inline-block;
+    border-width: 0;
+    vertical-align: middle;
+    color: #666;
+    background-color: transparent;
+    font-style: italic;
+    height: auto;
+}
+
+img,
+object,
+embed,
+iframe,
+video,
+audio {
+    max-width: 100%;
+}
+
+button img {
+    max-width: none;
+}
+
+hr {
+    border-top: solid @ini_border;
+    border-bottom: solid @ini_background_site;
+    border-width: 1px 0;
+    height: 0;
+    text-align: center;
+    clear: both;
+}
+
+acronym,
+abbr {
+    cursor: help;
+    border-bottom: 1px dotted;
+    font-style: normal;
+}
+
+em acronym,
+em abbr {
+    font-style: italic;
+}
+
+mark {
+    background-color: @ini_highlight;
+    color: @ini_highlight_text;
+}
+
+pre,
+code,
+samp,
+kbd {
+    font-family: Consolas, "Andale Mono WT", "Andale Mono", "Bitstream Vera Sans Mono", "Nimbus Mono L", Monaco, "Courier New", monospace;
+    /* same font stack should be used for ".dokuwiki table.diff td" in _diff.css */
+    font-size: @font-size-default;
+    direction: ltr;
+    text-align: left;
+    background-color: @code-background;
+    color: @noopentasks-color;
+    box-shadow: inset 0 0 .3em @noopentasks-border;
+    border-radius: @fix_border-radius;
+    padding-left: @small-spacing;
+    padding-right: @small-spacing;
+
+    * {
+        font-family: inherit;
+        font-size: inherit;
+    }
+
+    span {
+        color: inherit;
+    }
+
+    a {
+        &:link,
+        &:visited {
+            color: inherit;
+            text-decoration: underline;
+        }
+
+        &:hover,
+        &:focus,
+        &:active {
+            text-decoration: none;
+        }
+    }
+}
+
+pre {
+    overflow: auto;
+    word-wrap: normal;
+    border: 1px solid @noopentasks-border;
+    font-size: @font-size-default;
+    line-height: 140%;
+    padding: .7em 1em;
+}
+
+code:not([class]) {
+    display: inline-block;
+}
+
+blockquote {
+    border: solid @ini_border;
+    border-width: 0 0 0 .25em;
+    font-size: @font-size-default;
+    line-height: 140%;
+    padding: 0 .5em;
+}
+
+[dir=rtl] blockquote {
+    border-width: 0 .25em 0 0;
+}
+
+q:before,
+q:after {
+    content: '';
+}
+
+sub,
+sup {
+    font-size: .8em;
+    line-height: 1;
+}
+
+sub {
+    vertical-align: sub;
+}
+
+sup {
+    vertical-align: super;
+}
+
+small {
+    font-size: .9em;
+}

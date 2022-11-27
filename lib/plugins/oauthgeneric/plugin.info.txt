@@ -1,0 +1,7 @@
+base   oauthgeneric
+author Andreas Gohr
+email  dokuwiki@cosmocode.de
+date   2022-02-13
+name   oauth generic Service
+desc   Generic Service for use with the oAuth Plugin
+url    http://www.dokuwiki.org/plugin:oauthgeneric

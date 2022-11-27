@@ -1,0 +1,7 @@
+base   tabinclude
+author Ikuo Obataya
+email  i.obataya[at]gmail_com
+date   2017-08-28
+name   Tab include plugin
+desc   Tab control of wiki pages
+url    http://www.dokuwiki.org/plugin:tabinclude

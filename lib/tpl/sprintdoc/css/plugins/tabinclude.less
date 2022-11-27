@@ -1,0 +1,57 @@
+/**
+ * This file provides styles for the tabinclude
+ */
+
+/* + + + + +  plugin tabinclude  + + + + + */
+div#dwpl-ti-container {
+    li.dwpl-ti-tab {
+        box-shadow: none;
+        background-color: @ini_background_page_header;
+        border-color: @ini_border;
+        border-radius: @fix_border-radius @fix_border-radius 0 0;
+        color: @ini_background_page_footer;
+        padding: 0;
+
+        &:hover {
+            background-color: @ini_background_page_header;
+            text-decoration: none;
+
+            div {
+                text-decoration: underline;
+
+                &.selected {
+                    color: @ini_text;
+                }
+            }
+        }
+
+        div {
+            border-radius: inherit;
+            color: inherit;
+            padding: .1em .35em;
+
+            &.selected {
+                position: relative;
+                background-color: @ini_background;
+                color: @ini_text;
+            }
+        }
+    }
+
+/* + + +  content box  + + + */
+    div.dwpl-ti-content-box {
+        position: relative;
+        overflow: auto;
+        box-shadow: @box-shadow;
+        background-color: @ini_background;
+        border: solid 1px @ini_border;
+        border-radius: 0;
+        margin-top: -1px;
+    }
+}
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* media queries */
+@media @screen_max-md {
+    div#dwpl-ti-container { }
+}

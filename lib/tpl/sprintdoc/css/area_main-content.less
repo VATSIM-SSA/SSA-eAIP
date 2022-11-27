@@ -1,0 +1,51 @@
+/**
+ * This file provides the design styles for the main-content.
+ */
+
+#dokuwiki__content.main-content {
+    div[class^="level"] {
+        p a.media {
+            img {
+                border: 1px dotted @ini_background_site;
+
+            }
+            &:hover,
+            &:focus,
+            &:active {
+                img {
+                    border: 1px solid @ini_existing;
+                }
+            }
+        }
+    }
+
+    > div,
+    .section_highlight > div,
+    div[class^="level"] {
+        > ul,
+        > ol {
+            &:not([class="tabs"]) > li {
+                margin-bottom: @small-spacing;
+            }
+        }
+    }
+
+    .wikipagefooter {
+        > hr {
+            margin-top: 3em;
+            margin-bottom: .5em;
+            border-top: dashed @ini_border_light 2px;
+            border-bottom: none;
+        }
+    }
+}
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* min-width: 1440px */
+// @media @screen_min-xlg {
+// }
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* max-width: 1199px */
+// @media @screen_max-xlg {
+// }

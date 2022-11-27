@@ -1,0 +1,165 @@
+/**
+ * This file provides the design styles for the the detail template
+ * (media details)
+ */
+
+#dokuwiki__detail {
+
+    /* + + + + +  linked image  + + + + + */
+    @media screen {
+        .img-link {
+            text-align: center;
+
+            a {
+                position: relative;
+                left: 0;
+                display: inline-block;
+                max-width: 100%;
+                color: @ini_button_color;
+                margin: 0 auto 1.4em;
+
+                &::before {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    display: block;
+                    width: 100%;
+                    box-sizing: border-box;
+                    background: @ini_button_background;
+                    line-height: @line-height-default;
+                    padding: @margin-small;
+                }
+
+                img {
+                    margin: 0;
+                    display: block;
+                    border: 1px dotted @ini_background_site;
+                    position: relative;
+                }
+
+                &:hover,
+                &:focus,
+                &:active {
+                    text-decoration: none;
+
+                    &::before {
+                        content: attr(title);
+                    }
+
+                    img {
+                        border: 1px solid @ini_button_background;
+                    }
+                }
+            }
+        }
+    }
+
+
+    /* + + + + +  meta data  + + + + + */
+    div.img_detail {
+        @media screen {
+            /* vertical minus margin of .img-detail corresponds to the padding of .page */
+            background-color: @ini_background_page_header;
+            border: solid @ini_border_light;
+            border-width: 1px 0;
+            margin: @margin-default -(@margin-default);
+
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6,
+            p {
+                padding-left: @margin-default;
+                padding-right: @margin-default;
+            }
+
+            > h4 {
+                padding-top: (@margin-default / 2);
+            }
+        }
+
+        dl {
+            @media screen {
+                .display-flex();
+                .flex-wrap();
+
+                width: 100%;
+
+                dt,
+                dd {
+                    box-sizing: border-box;
+                    margin: .2em 0;
+                    padding: (@small-spacing * 2) @small-spacing;
+                }
+            }
+
+            dt {
+                background-color: @ini_highlight;
+                color: @ini_highlight_text;
+
+                @media @screen_min-xs {
+                    width: 33.3%;
+                }
+
+                @media @screen_max-xs {
+                    width: 40%;
+                }
+            }
+
+            dd {
+                padding-left: (@small-spacing * 2);
+
+                @media @screen_min-xs {
+                    width: 66.6%;
+                }
+
+                @media @screen_max-xs {
+                    width: 59.9%;
+                }
+            }
+        }
+
+        .os-map {
+            p {
+                text-align: right;
+            }
+
+            iframe {
+                border: solid @ini_button_background;
+                border-width: 1px 0;
+                margin: 0;
+                padding: 0;
+            }
+        }
+
+        @media @screen_max-md {
+            margin-right: -(@margin-default * 1.6);
+
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6,
+            p {
+                padding-right: (@margin-default * 1.6);
+            }
+        }
+
+        @media @screen_max-xs {
+            margin-left: -(@margin-small);
+
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6,
+            p {
+                padding-left: @margin-small;
+            }
+        }
+    }
+}

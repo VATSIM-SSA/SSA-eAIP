@@ -1,0 +1,67 @@
+====== About the eAIP ======
+
+  * [[wiki:vatssa|About VATSSA]]
+  * [[wiki:eaip|About the eAIP]]
+  * [[wiki:contribute|How to Contribute]]
+
+
+====== Part 1 General @one.svg ======
+
+  * [[wiki:tbd|TBD]]
+
+
+====== Part 2 FSS & Oceanic @two.svg ======
+
+  * [[wiki:oceanic|Oceanic]]
+  * [[wiki:fss|Flight Service Station]]
+
+
+====== Part 3 Airspace & Aerodromes @three.svg ======
+
+  * [[wiki:angola|Angola (FN)]]
+  * [[wiki:benin|Benin (DB)]]
+  * [[wiki:botswana|Botswana (FB)l]]
+  * [[wiki:burundi|Burundi (HB)]]
+  * [[wiki:cameroon|Cameroon (FK)]]
+  * [[wiki:cape-verde|Cape Verde (GV)]]
+  * [[wiki:central-african-republic|Central African Republic (FE)]]
+  * [[wiki:comoros|Comoros (FM)]]
+  * [[wiki:congo-democratic-republic|Congo, Democratic Republic of (FZ)]]
+  * [[wiki:congo-republic|Congo, Republic of (FC)]]
+  * [[wiki:biot|British Indian Ocean Territories (FJ)]]
+  * [[wiki:equatorial-guinea|Equatorial Guinea (FG)]]
+  * [[wiki:eswatini|Eswatini (FD)]]
+  * [[wiki:gabon|Gabon (FO)]]
+  * [[wiki:ghana|Ghana (DG)]]
+  * [[wiki:guinea|Guinea Republic (GU)]]
+  * [[wiki:guinea-bissau|Guinea-Bissau (GG)]]
+  * [[wiki:ivory-coast|Ivory Coast (DI)]]
+  * [[wiki:kenya|Kenya (HK)]]
+  * [[wiki:reunion|La Reunion (FM)]]
+  * [[wiki:lesotho|Lesotho (FX)]]
+  * [[wiki:liberia|Liberia (GL)]]
+  * [[wiki:madagascar|Madagascar (FM)]]
+  * [[wiki:malawi|Malawi (FW)]]
+  * [[wiki:mali|Mali (GA)]]
+  * [[wiki:mauritania|Mauritania (GQ)]]
+  * [[wiki:mauritius|Mauritius (FI)]]
+  * [[wiki:mayotte|Mayotte (FM)]]
+  * [[wiki:mozambique|Mozambique (FQ)]]
+  * [[wiki:namibia|Namibia (FY)]]
+  * [[wiki:nigeria|Nigeria (DN)]]
+  * [[wiki:rwanda|Rwanda (HR)]]
+  * [[wiki:sao-tome-principe|Sao Tome and Principe (FP)]]
+  * [[wiki:senegal|Senegal (GO)]]
+  * [[wiki:seychelles|Seychelles (FS)]]
+  * [[wiki:sierra-leone|Sierra Leone (GF)]]
+  * [[wiki:south-africa|South Africa (FA)]]
+  * [[wiki:st-helena|St Helena (FH)]]
+  * [[wiki:tanzania|Tanzania (HT)]]
+  * [[wiki:togo|Togo (DX)]]
+  * [[wiki:uganda|Uganda (HU)]]
+  * [[wiki:zambia|Zambia (FL)]]
+  * [[wiki:zimbabwe|Zimbabwe (FV)]]
+
+
+
+====== Part 4 Others @four.svg ======

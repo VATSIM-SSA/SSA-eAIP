@@ -1,0 +1,290 @@
+
+#pagelist {
+    margin-bottom: 1em;
+}
+
+#pagelist li {
+    cursor: move;
+}
+
+div.bookcreator__bookbar {
+    border: 1px solid __border__;
+    background-color: __background_alt__;
+    background-image: url(images/notebook-outline.svg);
+    background-position: 40px 5px;
+    background-repeat: no-repeat;
+    background-size: 40px;
+
+    margin: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85% !important;
+    min-height: 40px;
+    text-align: justify;
+    vertical-align: middle;
+    border-collapse: collapse;
+    padding: 5px 5px 5px 90px;
+}
+/* Workaround for Bootstrap3 template */
+.tpl_bootstrap3 div.bookcreator__bookbar {
+    min-height: 52px;
+}
+
+div.bookcreator__bookbar {
+    display: none; /* will be shown by JavaScript */
+}
+
+div.bookcreator__bookbar {
+    svg {
+        height: 18px;
+        width: 18px;
+        vertical-align: middle;
+    }
+    .bc__bookmarkplus svg{
+        fill: #00b000;
+    }
+    .bc__bookmarkmin svg {
+        fill: #b1240c;
+    }
+    .bc__manager svg {
+        /*height: 20px;*/
+        /*width: 20px;*/
+        fill: #5d6368;
+    }
+    .bc__bookmarkhelp svg {
+        fill: #0d7bdc;
+    }
+}
+
+div.bookcreator__panel {
+    text-align: justify;
+    vertical-align: middle;
+    margin-right: 20px;
+    float: left;
+    display: block;
+}
+/* specific for dokuwiki template: place the ToC just below toolbar */
+.tpl_dokuwiki div.bookcreator__bookbar {
+    margin-bottom: 1.6em;
+}
+
+/*
+ * Book manager
+ */
+.dokuwiki .bookcreator__manager {
+
+}
+.dokuwiki .bookcreator__pagelist {
+    width:50%;
+    float:left;
+    border: 1px solid __border__;
+    padding: 0.5em;
+}
+.dokuwiki .bookcreator__pagelist ul{
+    padding-top:0.5em;
+    padding-bottom:0.5em;
+}
+.dokuwiki .bookcreator__pagelist ul.pagelist:empty {
+    border: 1px solid #eee;
+}
+.dokuwiki .bookcreator__pagelist li{
+    margin: 0;
+    background-color: #fafafa;
+}
+/* delete and include bottons */
+.dokuwiki .bookcreator__pagelist ul li a.action{
+    width: 16px;
+    height:16px;
+    display: inline-block;
+    cursor: pointer;
+    vertical-align: middle;
+}
+.dokuwiki .bookcreator__pagelist ul.selected li a.action.include {
+    display: none;
+}
+.dokuwiki .bookcreator__pagelist ul.selected li a.action.remove {
+    display: inline-block;
+}
+.dokuwiki .bookcreator__pagelist ul.selected li a.action svg{
+    fill: #b1240c;
+    height: 18px;
+    width: 18px;
+}
+.dokuwiki .bookcreator__pagelist ul.deleted li a.action.include {
+    display: inline-block;
+}
+.dokuwiki .bookcreator__pagelist ul.deleted li a.action.remove {
+    display: none;
+}
+.dokuwiki .bookcreator__pagelist ul.deleted li a.action svg{
+    fill: #00b000;
+    height: 18px;
+    width: 18px;
+}
+
+.dokuwiki .bookcreator__manager div.bookcreator__actions {
+    width:40%;
+    float:left;
+    padding: 1em;
+}
+
+.dokuwiki .bookcreator__manager fieldset {
+    width: 100%;
+    text-align:left;
+    margin-bottom: 1em;
+}
+.dokuwiki .bookcreator__manager fieldset legend,
+.dokuwiki .bookcreator__selections__list fieldset legend {
+    font-weight: bold;
+}
+
+.dokuwiki label.book_skipforbiddenpages {
+    display: block;
+}
+/*
+ * List of saved selections
+ */
+.dokuwiki .bookcreator__selections__list fieldset {
+    text-align:left;
+}
+
+.bookcreator__selections__list svg {
+    height: 18px;
+    width: 18px;
+    vertical-align: middle;
+    fill: @ini_link;
+}
+.bookcreator__selections__list .load svg {
+    fill: @ini_text;
+}
+
+.bookcreator__selections__list .delete svg {
+    fill: @ini_missing;
+}
+
+/*
+ * download dialoog
+ */
+.downloadresponse {
+    margin-top: 1em;
+}
+
+/**
+ * Page tools
+ * show add/remove icon
+ */
+
+/* svg has two paths, toggling depending on selection state of page */
+#dokuwiki__pagetools div.tools ul li.plugin_bookcreator__addtobook a .bookmin {
+    display: none;
+}
+
+#dokuwiki__pagetools div.tools ul li.plugin_bookcreator__addtobook a.remove .bookplus {
+    display: none;
+}
+#dokuwiki__pagetools div.tools ul li.plugin_bookcreator__addtobook a.remove .bookmin {
+    display: block;
+}
+
+/*
+ * Workaround for bootstrap3 Template
+ */
+.tools a.plugin_bookcreator__addtobook .bookmin {
+    display: none;
+}
+
+.tools a.plugin_bookcreator__addtobook.remove .bookplus {
+    display: none;
+}
+.tools a.plugin_bookcreator__addtobook.remove .bookmin {
+    display: block;
+}
+
+
+/*!***/
+/* * page add/remove button*/
+/* *!*/
+/*#dokuwiki__pagetools ul li a.plugin_bookcreator_addtobook {*/
+/*    display: none; !* will be shown by JavaScript *!*/
+/*}*/
+
+/* Namespace picker (opens by clicking on button "Add Namespace to Selection")
+******************************************************************************/
+.bookcreator__selectns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#bc__nspicker {
+}
+
+[dir=rtl] #bc__nspicker_close {
+    float: left;
+}
+
+#bc__nspicker_select {
+    margin-left: 1em;
+}
+
+#bc__nspicker_cancel {
+    margin-left: 0.5em;
+}
+
+#bc__nspicker_recursive {
+    margin-right: 0.5em;
+}
+
+#bc__nspicker_result {
+    background-color: @ini_background;
+    width:  40vw;
+    height: 50vh;
+    overflow: auto;
+    border: 1px solid @ini_border;
+    margin: 3px auto;
+    text-align: left;
+    line-height: 1;
+}
+[dir=rtl] #bc__nspicker_result {
+    text-align: right;
+}
+
+#bc__nspicker_result div {
+    padding: 3px 3px 3px 0;
+}
+
+#bc__nspicker_result div a {
+    display: block;
+    padding-left: 22px;
+    min-height: 16px;
+    background: transparent 3px center no-repeat;
+}
+[dir=rtl] #bc__nspicker_result div a {
+    padding: 3px 22px 3px 3px;
+    background-position: 257px 3px;
+}
+
+#bc__nspicker_result div.type_u a {
+    background-image: url(../../images/up.png);
+}
+#bc__nspicker_result div.type_f a {
+    background-image: url(../../images/page.png);
+}
+#bc__nspicker_result div.type_d a {
+    background-image: url(../../images/ns.png);
+}
+
+#bc__nspicker_result div.even {
+    background-color: @ini_background_neu;
+}
+
+#bc__nspicker_result div.selected {
+    background-color: @ini_background_alt;
+}
+
+#bc__nspicker_result span {
+    display: block;
+    color: @ini_text_neu;
+    margin-left: 22px;
+}
+

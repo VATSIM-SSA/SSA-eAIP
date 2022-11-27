@@ -1,0 +1,49 @@
+/**
+ * This file provides the design styles for the direct / menu jump links.
+ */
+
+.nav-direct {
+    background-color: @nav_direct_background;
+    margin-top: -1px;
+
+    p {
+        box-sizing: border-box;
+        text-align: center;
+        position: absolute;
+        left: 0;
+        top: -1px;
+        width: 100%;
+        height: 1px;
+
+        a:link,
+        a:visited {
+            .sr-out();
+
+            box-shadow: @box-shadow;
+            display: block;
+            width: 100%;
+            background-color: @nav_direct_background;
+            border-bottom: 1px solid @ini_border_light;
+            color: @nav_direct_color;
+            line-height: @line-height-default;
+            text-decoration: none;
+            padding: 1em;
+            box-sizing: border-box;
+            border-radius: 0;
+        }
+
+        a:focus,
+        a:hover,
+        a:active {
+            top: 0;
+            left: 0;
+            text-decoration: underline;
+            min-height: 50px;
+        }
+
+        a:hover,
+        a:active {
+            text-decoration: none;
+        }
+    }
+}

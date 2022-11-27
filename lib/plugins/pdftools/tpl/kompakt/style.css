@@ -1,0 +1,112 @@
+table.pdfheader {
+    font-size: 8pt;
+    border-collapse: collapse;
+    border-bottom: 1px solid #000000;
+    clear: both;
+}
+
+table.pdffooter {
+    font-size: 8pt;
+    border-collapse: collapse;
+    border-top: 1px solid #000000;
+    clear: both;
+    
+}
+
+/* Table of Content -- see http://mpdf1.com/manual/index.php?tid=243 */
+div.mpdf_toc {
+}
+a.mpdf_toc_a {
+    color: black; /* links black as well */
+}
+/* Whole line level 0 */
+div.mpdf_toc_level_0 {
+	font-size:20pt;
+    line-height: 1.5;
+    margin-left: 0;
+    padding-right: 1em; /* padding-right should match e.g <dottab outdent="2em" /> 0 is default */
+}
+/* Title level 0 - may be inside <a> */
+span.mpdf_toc_t_level_0 {
+}
+/* Page no. level 0 - may be inside <a> */
+span.mpdf_toc_p_level_0 {
+}
+/* Whole line level 1 */
+div.mpdf_toc_level_1 {
+    margin-left: 1em;
+    text-indent: -1em;
+    padding-right: 1em; /* padding-right should match <dottab outdent="2em" /> 2em is default */
+}
+/* Title level 1 */
+span.mpdf_toc_t_level_1 {
+}
+/* Page no. level 1 - may be inside <a> */
+span.mpdf_toc_p_level_1 {
+}
+/* level 2 */
+div.mpdf_toc_level_2 {
+    margin-left: 2em;
+    text-indent: -1em;
+    padding-right: 1em; /* padding-right should match <dottab outdent="2em" /> 2em is default */
+}
+span.mpdf_toc_t_level_2 {}
+span.mpdf_toc_p_level_2 {}
+
+/* level 3 */
+div.mpdf_toc_level_3 {
+    margin-left: 3em;
+    text-indent: -1em;
+    padding-right: 1em; /* padding-right should match <dottab outdent="2em" /> 2em is default */
+}
+span.mpdf_toc_t_level_3 {}
+span.mpdf_toc_p_level_3 {}
+
+/* level 4 */
+div.mpdf_toc_level_4 {
+    margin-left: 4em;
+    text-indent: -1em;
+    padding-right: 1em; /* padding-right should match <dottab outdent="2em" /> 2em is default */
+}
+span.mpdf_toc_t_level_4 {}
+span.mpdf_toc_p_level_4 {}
+
+table {
+	font-size:12px;
+	margin-top:8px;
+}
+
+table th {background-color:cornsilk;}
+
+body {
+	font-size:10px;
+	line-height:1.1;
+	margin-top:-14px;
+	margin-bottom:-14px;
+}
+
+
+h1 {
+	font-size:14px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	margin-top:0px;
+}
+
+h2{
+	font-size:12px;
+	margin-bottom:0px;
+	margin-top:-2px;
+}
+
+h3{
+	font-size:11px;
+	margin-bottom:0px;
+	margin-top:1px;
+}
+
+p{
+	margin:2px;
+}
+
+@page { margin:0cm 1cm; margin-header:0.1cm; margin-footer:0.1cm }

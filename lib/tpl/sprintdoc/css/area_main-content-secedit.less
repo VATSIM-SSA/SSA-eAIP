@@ -1,0 +1,54 @@
+/**
+ * This styles the "section editing button" (if not added by data-plugin)
+ */
+
+#dokuwiki__content.main-content {
+    .secedit:not([class*="plugin"]):not([class*="table"]) {
+        position: relative;
+        top: 0;
+        float: right;
+        margin-top: 0; // for best position of edit-tab beneath table
+
+        form div.no {
+            button {
+                margin-top: -.4rem;
+                padding-right: 0;
+            }
+        }
+
+        // "section editing button"
+        button {
+            background-color: transparent;
+            color: transparent;
+            border-color: transparent;
+
+            &::after {
+                content: '';
+                float: right;
+                display: inline-block;
+                background: transparent url("svg.php?svg=pencil.svg&f=existing") center center no-repeat;
+                height: 1em;
+                width: 1em;
+                background-size: contain;
+                border: solid 2px transparent;
+                border-radius: @ini_default_border_radius;
+                margin-left: @small-spacing;
+                margin-top: -1px;
+            }
+
+            &:hover,
+            &:active,
+            &:focus {
+                //background-color: @ini_existing;
+                color: @ini_existing;
+                //border-color: @ini_existing;
+
+                &::after {
+                    background-color: @ini_existing;
+                    background-image: url("svg.php?svg=pencil.svg&f=background");
+                    border-color: @ini_existing;
+                }
+            }
+        }
+    }
+}

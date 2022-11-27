@@ -1,0 +1,41 @@
+2022-11-27 13:41:04	/home/bdccabes/eaip.vatssa.com/lib/plugins/tplinc/helper.php(148)	dokuwiki\Exception\FatalException: Array and string offset access syntax with curly braces is no longer supported
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}
+2022-11-27 13:41:16	/home/bdccabes/eaip.vatssa.com/lib/plugins/tplinc/helper.php(148)	dokuwiki\Exception\FatalException: Array and string offset access syntax with curly braces is no longer supported
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}
+2022-11-27 13:41:50	/home/bdccabes/eaip.vatssa.com/lib/plugins/tplinc/helper.php(148)	dokuwiki\Exception\FatalException: Array and string offset access syntax with curly braces is no longer supported
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}
+2022-11-27 20:06:38	/home/bdccabes/eaip.vatssa.com/lib/plugins/oauthgeneric/action.php(30)	OAuthException: Failed to parse data from userurl
+  #0 /home/bdccabes/eaip.vatssa.com/lib/plugins/oauth/OAuthManager.php(69): action_plugin_oauthgeneric->getUser()
+  #1 /home/bdccabes/eaip.vatssa.com/lib/plugins/oauth/OAuthManager.php(39): dokuwiki\plugin\oauth\OAuthManager->loginByService()
+  #2 /home/bdccabes/eaip.vatssa.com/lib/plugins/oauth/auth.php(45): dokuwiki\plugin\oauth\OAuthManager->continueFlow()
+  #3 /home/bdccabes/eaip.vatssa.com/inc/auth.php(96): auth_plugin_oauth->trustExternal()
+  #4 /home/bdccabes/eaip.vatssa.com/inc/init.php(232): auth_setup()
+  #5 /home/bdccabes/eaip.vatssa.com/doku.php(36): require_once('/home/bdccabes/...')
+  #6 {main}
+2022-11-27 20:13:42	/home/bdccabes/eaip.vatssa.com/lib/plugins/oauthgeneric/action.php(30)	OAuthException: Failed to parse data from userurl
+  #0 /home/bdccabes/eaip.vatssa.com/lib/plugins/oauth/OAuthManager.php(69): action_plugin_oauthgeneric->getUser()
+  #1 /home/bdccabes/eaip.vatssa.com/lib/plugins/oauth/OAuthManager.php(39): dokuwiki\plugin\oauth\OAuthManager->loginByService()
+  #2 /home/bdccabes/eaip.vatssa.com/lib/plugins/oauth/auth.php(45): dokuwiki\plugin\oauth\OAuthManager->continueFlow()
+  #3 /home/bdccabes/eaip.vatssa.com/inc/auth.php(96): auth_plugin_oauth->trustExternal()
+  #4 /home/bdccabes/eaip.vatssa.com/inc/init.php(232): auth_setup()
+  #5 /home/bdccabes/eaip.vatssa.com/doku.php(36): require_once('/home/bdccabes/...')
+  #6 {main}
+2022-11-27 20:15:20	/home/bdccabes/eaip.vatssa.com/lib/plugins/oauthgeneric/action.php(30)	OAuthException: Failed to parse data from userurl
+  #0 /home/bdccabes/eaip.vatssa.com/lib/plugins/oauth/OAuthManager.php(69): action_plugin_oauthgeneric->getUser()
+  #1 /home/bdccabes/eaip.vatssa.com/lib/plugins/oauth/OAuthManager.php(39): dokuwiki\plugin\oauth\OAuthManager->loginByService()
+  #2 /home/bdccabes/eaip.vatssa.com/lib/plugins/oauth/auth.php(45): dokuwiki\plugin\oauth\OAuthManager->continueFlow()
+  #3 /home/bdccabes/eaip.vatssa.com/inc/auth.php(96): auth_plugin_oauth->trustExternal()
+  #4 /home/bdccabes/eaip.vatssa.com/inc/init.php(232): auth_setup()
+  #5 /home/bdccabes/eaip.vatssa.com/doku.php(36): require_once('/home/bdccabes/...')
+  #6 {main}
+2022-11-27 20:16:18	/home/bdccabes/eaip.vatssa.com/lib/plugins/oauthgeneric/action.php(30)	OAuthException: Failed to parse data from userurl
+  #0 /home/bdccabes/eaip.vatssa.com/lib/plugins/oauth/OAuthManager.php(69): action_plugin_oauthgeneric->getUser()
+  #1 /home/bdccabes/eaip.vatssa.com/lib/plugins/oauth/OAuthManager.php(39): dokuwiki\plugin\oauth\OAuthManager->loginByService()
+  #2 /home/bdccabes/eaip.vatssa.com/lib/plugins/oauth/auth.php(45): dokuwiki\plugin\oauth\OAuthManager->continueFlow()
+  #3 /home/bdccabes/eaip.vatssa.com/inc/auth.php(96): auth_plugin_oauth->trustExternal()
+  #4 /home/bdccabes/eaip.vatssa.com/inc/init.php(232): auth_setup()
+  #5 /home/bdccabes/eaip.vatssa.com/doku.php(36): require_once('/home/bdccabes/...')
+  #6 {main}

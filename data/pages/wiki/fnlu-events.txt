@@ -1,0 +1,8 @@
+==== FNLU Events ====
+
+Lorem ipsum verbis est
+
+
+----
+
+//This page is a subsection of the [[FNLU]] airport page.//

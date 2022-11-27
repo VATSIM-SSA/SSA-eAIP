@@ -1,0 +1,17 @@
+#plugin__struct_editor .jsoneditor-menu {
+    display: none;
+}
+
+#plugin__struct_editor div.jsoneditor {
+    width: 350px;
+}
+
+#plugin__struct_editor div.jsoneditor table,
+#plugin__struct_editor div.jsoneditor tr,
+#plugin__struct_editor div.jsoneditor th,
+#plugin__struct_editor div.jsoneditor td,
+#plugin__struct_editor div.jsoneditor tbody,
+#plugin__struct_editor div.jsoneditor {
+    border: 0;
+    margin: 0;
+}

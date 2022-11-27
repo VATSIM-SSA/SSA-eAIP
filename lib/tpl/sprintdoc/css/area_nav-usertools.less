@@ -1,0 +1,358 @@
+/**
+ * This file provides the design styles for the direct / menu jump links.
+ */
+
+#dokuwiki__usertools.nav-usertools {
+    @media @screen_min-md {
+        right: 1.25rem;
+    }
+
+    @media @screen_max-md {
+        position: absolute;
+        top: 0;
+        left: (@toggle-size + 1.25); // margin-left content
+        right: @headericons-margin-xxs;
+        margin-top: 0;
+        margin-right: 0;
+    }
+
+    &.has-bar {
+        @media @screen_min-md {
+            margin-top: @height-context-bar;
+            padding-top: .5em;
+        }
+    }
+
+    /* + + + + +  icon list  + + + + + */
+    ul {
+        float: right;
+        padding: 0;
+        margin: (@very-small-spacing * 2) -.25rem 0 0;
+
+        @media @screen_max-md {
+            margin-right: .5rem;
+        }
+
+        @media @screen_max-xxs {
+            margin-right: -.3rem;
+        }
+
+        li {
+            .btn-usertools-wrapper(); // uniform li
+            .btn-usertools-num();
+
+            float: right;
+
+            @media @screen_max-xs {
+                display: block;
+                float: none;
+
+                margin-bottom: @headericons-margin-xxs;
+            }
+
+            @media @screen_max-xxs {
+                margin-bottom: (@headericons-margin-xxs - .2);
+                display: none;
+            }
+
+            > span,
+            > a {
+                display: block;
+                width: auto;
+                min-width: (@toggle-size + .25);
+                min-height: @toggle-size;
+                overflow: hidden;
+                border: 1px solid @wikiicons-border;
+                border-radius: @ini_default_border_radius; // @ini_default_border_radius vs. @fix_border-radius
+                text-align: center;
+                margin: 0;
+
+                @media @screen_md-xlg {
+                    padding-top: .14rem;
+                }
+            }
+
+            /* !!! &.user-task FIND in plugins/do_tasks.less !!! */
+            &.user {
+                position: relative;
+                display: table-cell;
+                background-color: @ini_background_site;
+                border: solid 1px @wikiicons-border;
+                border-radius: @ini_default_border_radius; // @ini_default_border_radius vs. @fix_border-radius
+                color: @ini_text_webframe;
+                padding-right: .3rem;
+
+                @media @screen_min-md {
+                    padding-top: .35rem;
+                }
+
+                @media @screen_max-md {
+                    min-height: @toggle-size;
+                    padding-top: .3rem;
+                }
+
+                @media @screen_max-sm {
+                    padding-top: .35rem;
+                }
+
+                @media @screen_max-xs {
+                    position: absolute;
+                    top: @headericons-margin-xxs;
+                    right: (@toggle-size + @headericons-margin-xxs + 1); // 1.75rem + 1 + (button login/out margin-right)
+                    overflow: hidden;
+                    white-space: nowrap;
+                    margin: -1px 0 0;
+                    padding-top: .4rem;
+                }
+
+                @media @screen_max-xxs {
+                    left: -10px;
+                    right: 0;
+                    width: auto;
+                    padding-top: .35rem;
+                }
+
+                > a {
+                    .display-flex();
+                    .align-items();
+
+                    position: relative;
+                    height: 1rem; // for IE11
+                    overflow: visible;
+                    background: @ini_nav_menu_hover_bg; // for removing bg-image
+                    border: 0 none;
+                    color: @ini_nav_menu_hover_color;
+                    text-indent: 0;
+                    font-size: inherit;
+                    margin-right: -.3rem;
+                    padding: 0 .2em 0 0;
+
+                    @media @screen_min-xxlg {
+                        min-height: (@toggle-size - .1);
+                        margin-top: -.4rem;
+                    }
+
+                    @media @screen_max-xxlg {
+                        min-height: (@toggle-size - .15);
+                        margin-top: -.35rem;
+                    }
+
+                    @media @screen_max-md {
+                        min-height: (@toggle-size - .1);
+                        margin-top: -.35rem;
+                    }
+
+                    @media @screen_max-sm {
+                        margin-top: -.35rem;
+                    }
+
+                    @media @screen_max-xs {
+                        margin-top: -.4rem;
+                    }
+
+                    &::before {
+                        content: '';
+                        top: -1px;
+                        bottom: -1px;
+                        left: -1px;
+                        right: -1px;
+                        width: auto;
+                        opacity: 0;
+                        border: solid 1px @ini_nav_menu_hover_color;
+                        border-radius: @ini_default_border_radius; // @ini_default_border_radius vs. @fix_border-radius
+                        color: inherit;
+                        transform: none;
+                    }
+
+                    &:hover,
+                    &:focus,
+                    &:active {
+                        background-color: @ini_nav_menu_hover_color;
+                        color: @ini_nav_menu_hover_bg;
+
+                        &::before {
+                            opacity: 1;
+                            border-color: @ini_nav_menu_hover_color;
+                        }
+
+                        bdi,
+                        bdi:first-of-type {
+                            color: @ini_nav_menu_hover_bg;
+                        }
+                    }
+                }
+
+                bdi {
+                    display: inline-block;
+                    color: inherit;
+                }
+
+                bdi:first-of-type {
+                    .fontello();
+                    .icon-user-circle();
+
+                    position: relative;
+                    margin: 0 0 0 .25rem;
+                    padding: 0 .1rem 0 1.3rem;
+
+                    &::before {
+                        position: absolute;
+                        left: -2px;
+                        font-size: 1.4rem;
+                        margin: 0;
+
+                        @media @screen_min-xxlg {
+                            top: -.25rem;
+                        }
+
+                        @media @screen_max-xxlg {
+                            top: -.2rem;
+                        }
+
+                        @media @screen_max-xs {
+                            top: -.25rem;
+
+                        }
+                    }
+                }
+            } // user
+        } // li
+
+        /* + + +  icons  + + + */
+        .menuitem, button {
+            padding: 2px 0 0 2px;
+            min-height: @toggle-size; // overrides button[type="submit"] styles
+            border: solid 1px @wikiicons-border; // overrides button[type="submit"] styles
+            .btn-hover();
+
+            &:hover svg, &:focus svg {
+                transition: @transition fill;
+                fill: @ini_nav_menu_hover_bg;
+            }
+
+            svg {
+                fill: @ini_nav_menu_hover_color;
+                height: @font-size-default + (@font-scale-factor * 4);
+            }
+
+            span {
+                display: none;
+            }
+        }
+
+        a { // Pre-Greebo backwards compatibility, remove after transitioning to Greebo
+            .fontello();
+            .hide-text-show-before();
+            .btn-hover();
+
+            cursor: pointer;
+            position: relative;
+            line-height: 1;
+            text-decoration: none;
+
+            &::before {
+                .center-middle();
+
+                content: "?";
+                cursor: pointer;
+                display: block;
+                width: 100%;
+                box-sizing: border-box;
+                font-size: @font-size-default + (@font-scale-factor * 4);
+                line-height: 1;
+            }
+
+            /* icon register new user */
+            &.register {
+                .icon-user();
+            }
+
+            /* icon log-out */
+            &.logout {
+                .icon-logout();
+            }
+
+            /* icon log-in */
+            &.login {
+                .icon-login();
+            }
+
+            /* icon admin */
+            &.admin {
+                .icon-cog();
+
+                &::before {
+                    vertical-align: top;
+                }
+            }
+        } // a
+    } // ul
+} // nav-usertools
+
+/* + + + + +  layout option compact  + + + + + */
+.header-compact {
+    #dokuwiki__usertools.nav-usertools {
+
+        // mobile
+        @media @screen_max-md {
+            left: 6rem;
+
+            ul {
+                overflow: hidden;
+
+                li.user {
+                    color: @ini_background_site;
+
+                    bdi {
+                        position: absolute;
+                        width: 0;
+                        padding: 0;
+                        text-indent: -10000px;
+
+                        &:before {
+                            transition: @transition background-color;
+                            background-color: @ini_background_site;
+                            color: @ini_nav_menu_color;
+                            text-indent: 0;
+                        }
+                    }
+
+                    > a {
+                        padding: 0 .2em;
+                        color: @ini_nav_menu_hover_bg;
+
+                        bdi {
+                            &:before {
+                                background-color: @ini_nav_menu_hover_bg;
+                                color: @ini_nav_menu_hover_color;
+                            }
+                        }
+
+                        &:hover {
+                            color: @ini_nav_menu_hover_color;
+
+                            bdi {
+                                &:before {
+                                    background-color: @ini_nav_menu_hover_color;
+                                    color: @ini_nav_menu_hover_bg;
+                                }
+                            }
+                        }
+                    }
+
+                    bdi + bdi {
+                        display: none;
+                    }
+                }
+            }
+        }
+
+        @media @screen_max-sm {
+            ul li {
+                position: static;
+                float: right;
+                top: 0; right: 0;
+            }
+        }
+    }
+}

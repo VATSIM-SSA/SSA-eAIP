@@ -1,0 +1,215 @@
+/**
+ * This file provides styles for magic matcher plugin
+ */
+
+/* + + + + + + + + + + + + + + + + + + + + + + + */
+/* magic matcher bar with form on top of page */
+#spr__magic-matcher {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+    .container {
+        @media @screen_md-lg {
+            margin-left: 1.8rem;
+        }
+    }
+
+    #mm__issueselect_chosen {
+        max-width: 50%;
+    }
+
+    select[name="mmissues"] + div.chosen-container {
+        max-width: 67%;
+    }
+
+    button[name="toggleSuggestions"] {
+        position: absolute;
+        right: 0;
+        top: 0;
+        border: 0;
+        border-bottom: 1px solid @ini_border;
+        border-left: 1px solid @ini_border;
+        color: @ini_nav_menu_color;
+        background: #fff;
+        border-radius: 0;
+        border-bottom-left-radius: 5px;
+
+        &:hover,
+        &:focus,
+        &:active {
+            border-color: @ini_button_background;
+            color: @ini_button_background;
+        }
+    }
+
+    #magicmatcher__context {
+        position: relative;
+        width: 100%;
+        min-height: @height-context-bar;
+        box-sizing: border-box;
+        box-shadow: @box-shadow;
+        background-color: @ini_background;
+        border-radius: 0 0 @ini_default_border_radius @ini_default_border_radius;
+        font-size: @font-size-default;
+        padding: .8em 1em .5em;
+        margin-bottom: 0;
+
+        .chosen-container-single,
+        .chosen-container-single *,
+        #mm_issue_loading,
+        .mm__status,
+        .toggleSuggestions {
+            font-size: @font-size-default;
+        }
+
+        .chosen-container-single {
+            .chosen-single span {
+                line-height: @line-height-bigger;
+            }
+        }
+
+        @media @screen_max-md {
+            padding-top: @margin-default;
+
+            .chosen-container {
+                display: block;
+                min-width: 100%;
+                max-width: 100%;
+                margin-bottom: .5rem;
+            }
+        }
+    }
+}
+
+/* + + + + +  in content  + + + + + */
+a.jiralink {
+    font-size: @font-size-default;
+
+    img {
+        float: left;
+        display: inline-block;
+        margin-top: .13em;
+        margin-right: 3px;
+    }
+
+    span.mm__status {
+        display: inline-block;
+        font-size: @font-size-default;
+        margin-left: 5px;
+        padding: 1px 4px;
+    }
+}
+
+/* + + + + +  tooltip in metabox  + + + + + */
+.dokuwiki {
+    .serverToolTip {
+        box-shadow: @box-shadow;
+        border-radius: @fix_border-radius;
+        font-size: @font-size-default;
+
+        h1.issueTitle {
+            font-size: @font-size-default;
+        }
+
+        h2 {
+            font-size: @font-size-small;
+        }
+
+        ul {
+            margin-top: @small-spacing;
+        }
+
+        p,
+        li {
+            font-size: (@font-size-small - .06);
+
+            * {
+                font-size: inherit;
+            }
+        }
+
+        p {
+            margin-top: @small-spacing;
+            margin-bottom: @small-spacing;
+        }
+
+        .components {
+            .component {
+                font-size: (@font-size-small - .06);
+            }
+        }
+
+        .labels {
+            .label {
+                font-size: (@font-size-small - .06);
+            }
+        }
+
+        .descriptionTeaser {
+            font-size: (@font-size-small - .06);
+            margin-top: (@small-spacing * 2);
+            margin-bottom: (@small-spacing * 2);
+        }
+    }
+}
+
+/* + + + + +  no js version  + + + + + */
+.no-js {
+    #spr__magic-matcher {
+        display: none;
+    }
+}
+
+.do-admin #dokuwiki__content {
+    #magicmatcher__repoadmin,
+    #magicmatcher_adminimport {
+        .tabs li {
+            a {
+                cursor: pointer;
+            }
+            &.active {
+                a {
+                    cursor: default;
+                }
+            }
+        }
+
+        .service_wrapper > a{
+            display: inline-block;
+            margin-top: 20px;
+        }
+    }
+}
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* max-width: 1023px */
+@media @screen_max-lg {
+    #spr__magic-matcher {
+        #magicmatcher__context {
+            .chosen-container-single {
+                width: 20% !important;
+
+                + select + .chosen-container-single {
+                    width: 58% !important;
+                }
+            }
+        }
+    }
+}
+
+@media @screen_max-md {
+    #spr__magic-matcher {
+        display: none;
+    }
+}
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* print */
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+@media print {
+    #spr__magic-matcher {
+        display: none;
+    }
+}

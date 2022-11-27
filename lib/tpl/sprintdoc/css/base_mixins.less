@@ -1,0 +1,363 @@
+/**
+ * This file provides less mixins for all other style modules
+ */
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* Fonts */
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+.setLocalFontFace(@fontFamily,@fontWeight,@localFontName,@localFontNameVar,@filename) {
+    @font-face {
+        font-family: @fontFamily;
+        font-style: normal;
+        font-weight: @fontWeight;
+        src: ~"local('@{localFontName}'), local('@{localFontNameVar}'), url(fonts/@{filename}.eot)";
+        src: ~"url(fonts/@{filename}.eot?#iefix) format('embedded-opentype'), url(fonts/@{filename}.woff) format('woff')";
+    }
+}
+
+.setIconFontFace(@fontFamily,@filename) {
+    @font-face {
+        font-family: @fontFamily;
+        src: ~"url('fonts/icons/@{filename}.eot?6762325')";
+        src: ~"url('fonts/icons/@{filename}.eot?6762325#iefix') format('embedded-opentype'), url('fonts/icons/@{filename}.woff2?6762325') format('woff2'), url('fonts/icons/@{filename}.woff?6762325') format('woff'), url('fonts/icons/@{filename}.ttf?6762325') format('truetype'), url('fonts/icons/@{filename}.svg?6762325#fontello') format('svg')";
+        font-weight: normal;
+        font-style: normal;
+    }
+}
+
+.fontello() {
+    &::before {
+        font-family: "fontello";
+        font-style: normal;
+        font-weight: normal;
+        speak: none;
+
+        display: inline-block;
+        text-decoration: inherit;
+        width: 1em;
+        margin-right: .2em;
+        text-align: center;
+
+        /* For safety - reset parent styles, that can break glyph codes*/
+        font-variant: normal;
+        text-transform: none;
+
+        /* fix buttons height, for twitter bootstrap */
+        line-height: 1em;
+
+        /* Animation center compensation - margins should be symmetric */
+        /* remove if not needed */
+        margin-left: .2em;
+
+        /* you can be more comfortable with increased icons size */
+        /* font-size: 120%; */
+
+        /* Font smoothing. That was taken from TWBS */
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+
+        /* Uncomment for 3D effect */
+        /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+    }
+}
+
+.fontello-double() {
+    &::before,
+    &::after {
+        font-family: "fontello";
+        font-style: normal;
+        font-weight: normal;
+        speak: none;
+
+        display: inline-block;
+        text-decoration: inherit;
+        width: 1em;
+        margin-right: .2em;
+        text-align: center;
+
+        /* For safety - reset parent styles, that can break glyph codes*/
+        font-variant: normal;
+        text-transform: none;
+
+        /* fix buttons height, for twitter bootstrap */
+        line-height: 1em;
+
+        /* Animation center compensation - margins should be symmetric */
+        /* remove if not needed */
+        margin-left: .2em;
+
+        /* you can be more comfortable with increased icons size */
+        /* font-size: 120%; */
+
+        /* Font smoothing. That was taken from TWBS */
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+
+        /* Uncomment for 3D effect */
+        /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+    }
+}
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* Screenreader / Hide */
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+.sr-out() {
+    display: block;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    top: -200000em;
+    left: -200000em;
+}
+
+.sr-only() {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+}
+
+.sr-only-focusable() {
+    &:active,
+    &:focus {
+        position: static;
+        width: auto;
+        height: auto;
+        margin: 0;
+        overflow: visible;
+        clip: auto;
+    }
+}
+
+/* + + + + +  small icon-buttons (breadcrumb, page-header)  + + + + + */
+.btn-hover {
+    background-color: @ini_nav_menu_hover_bg;
+    color: @ini_nav_menu_hover_color;
+    transition: @transition color, @transition background-color, @transition border-color;
+
+    &:hover,
+    &:active,
+    &:focus {
+        background-color: @ini_nav_menu_hover_color;
+        border-color: @ini_nav_menu_hover_color;
+        color: @ini_nav_menu_hover_bg;
+
+        .prefix {
+            color: inherit;
+        }
+    }
+}
+
+.btn-usertools-wrapper(@elem:@toggle-size) {
+    display: inline-block;
+    min-height: @elem;
+    min-width: @elem;
+    box-sizing: border-box;
+    color: @ini_text_webframe;
+    font-size: @font-size-small;
+    padding: 0;
+    margin: 0 .25rem;
+
+    * {
+        font-size: @font-size-small;
+    }
+}
+
+.btn-usertools-num() {
+    .num {
+        position: absolute;
+        right: -.4rem;
+        top: -.5em;
+        background-color: @ini_nav_menu_hover_color;
+        border-radius: 2px;
+        color: @ini_nav_menu_hover_bg;
+        font-size: @font-size-very-small;
+        font-weight: 400;
+        text-align: center;
+        line-height: 1;
+        padding: .1em @very-small-spacing;
+        transition: @transition color, @transition background-color;
+    }
+}
+
+.btn-prefix(@margin-top:.3rem) {
+    .fontello();
+    .hide-text-show-before();
+
+    color: inherit;
+    font-size: @font-size-default;
+
+    @media @screen_min-xxlg {
+        margin-top: .22rem;
+    }
+
+    @media @screen_max-xxlg {
+        margin-top: @margin-top;
+    }
+
+    @media @screen_max-md {
+        margin-top: .2rem;
+    }
+}
+
+.hide-text-show-before() {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-indent: -9999px;
+
+    &::before {
+        float: left;
+        width: 100%;
+        text-indent: 0;
+        margin: 0;
+    }
+
+    &::after {
+        float: left;
+        text-indent: 0;
+    }
+}
+
+.hide-text-show-after() {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-indent: -9999px;
+
+    &::before {
+        float: right;
+        text-indent: 0;
+    }
+
+    &::after {
+        float: right;
+        text-indent: 0;
+    }
+}
+
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* flex-box */
+
+.display-flex() {
+    display: flex;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+}
+
+.flex-direction(@elem:column) {
+    flex-direction: @elem;
+    -ms-flex-direction: @elem;
+    -webkit-flex-direction: @elem;
+}
+
+.justify-content(@elem:center) {
+    justify-content: @elem;
+    -ms-justify-content: @elem;
+    -webkit-justify-content: @elem;
+}
+
+.align-items(@elem:center) {
+    align-items: @elem;
+    -ms-align-items: @elem;
+    -webkit-align-items: @elem;
+}
+
+.flex(@elem:1 0 auto) {
+    flex: @elem;
+    -ms-flex: @elem;
+    -webkit-flex: @elem;
+}
+
+.flex-wrap() {
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+}
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* positioning */
+.center-middle() {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+}
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* Screenreader / Hide */
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+.reset() {
+    background: transparent;
+    border: none 0; outline: 0; vertical-align: baseline;
+    font-style: normal;
+    margin: 0; padding: 0;
+}
+
+.elementsReset() {
+    div, span, object, iframe,
+    h1, h2, h3, h4, h5, h6, p, blockquote,
+    a, abbr, em,acronym, img, strong,
+    dl, dt, dd, ol, ul, li,
+    fieldset, form, label, legend,
+    table, caption, tbody, tfoot, thead, tr, th, td,
+    input, select, option, textarea, button {
+        .reset();
+    }
+}
+
+
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+/* Col Grid */
+/* + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + */
+.make-grid(@class) {
+    .float-grid-columns(@class);
+    .grid-columns(1, @class, width);
+    .grid-columns(2, @class, width);
+    .grid-columns(3, @class, width);
+    .grid-columns(4, @class, width);
+    .grid-columns(5, @class, width);
+    .grid-columns(6, @class, width);
+    .grid-columns(7, @class, width);
+    .grid-columns(8, @class, width);
+    .grid-columns(9, @class, width);
+    .grid-columns(10, @class, width);
+    .grid-columns(11, @class, width);
+    .grid-columns(12, @class, width);
+}
+
+.float-grid-columns(@class) {
+    .col-@{class}-1,
+    .col-@{class}-2,
+    .col-@{class}-3,
+    .col-@{class}-4,
+    .col-@{class}-5,
+    .col-@{class}-6,
+    .col-@{class}-7,
+    .col-@{class}-8,
+    .col-@{class}-9,
+    .col-@{class}-10,
+    .col-@{class}-11,
+    .col-@{class}-12 {
+        float: left;
+    }
+}
+
+// todo: no recusion - fix it !!!
+.grid-columns(@index, @class, @type) {
+    .calc-grid-column(@index, @class, @type);
+}
+
+.calc-grid-column(@index, @class, @type) when (@type = width) and (@index > 0) {
+    .col-@{class}-@{index} {
+        width: percentage((@index / @grid-columns));
+    }
+}

@@ -1,0 +1,117 @@
+/**
+ * This file provides styles for do-task plugin
+ */
+
+/* + + + + +  global  + + + + + */
+ul.page-attributes {
+    .plugin_do_pagetasks {
+        position: relative;
+        border-radius: @ini_default_border_radius; // @ini_default_border_radius vs. @fix_border-radius
+
+        strong {
+            overflow: hidden;
+            background-color: @ini_background_site;
+            border-color: @noopentasks-border;
+            color: @ini_text_webframe;
+        }
+
+        &.do_none {
+            .num {
+                background-color: @noopentasks-border; // fix
+                color: @noopentasks-color; // fix
+            }
+        }
+    }
+}
+
+/* + + + + +  usertool icon in header  + + + + + */
+#dokuwiki__usertools.nav-usertools {
+    ul {
+        li {
+            &.user-task {
+                .btn-usertools-wrapper();
+                .btn-usertools-num();
+
+                position: relative;
+
+                .plugin__do_usertasks {
+                    width: 100%;
+                    min-width: (@toggle-size + .25);
+                    min-height: @toggle-size;
+                    border-radius: @ini_default_border_radius;
+                    border: 1px solid @wikiicons-border;
+                    padding: .14rem 0 0 0;
+
+                    &::before {
+                        content: ''; // remove when fontello is removed from usertools
+                    }
+
+                    &:hover,
+                    &:focus,
+                    &:active {
+                        background-color: @ini_nav_menu_hover_color;
+                        border: none;
+
+                        svg path {
+                            fill: @ini_nav_menu_hover_bg;
+                        }
+                    }
+                }
+
+                button {
+                    background-color: @ini_nav_menu_hover_bg;
+                }
+
+                svg {
+                    width: 1.2rem;
+                    height: 1.2rem; // for IE 11
+                    margin-bottom: 2px;
+
+                    path {
+                        fill: @ini_nav_menu_hover_color;
+                    }
+                }
+
+                .noopentasks {
+                    span {
+                        background-color: @ini_background_site;
+                        border-color: @noopentasks-border;
+                        color: @ini_text_webframe;
+                    }
+
+                    svg path {
+                        fill: @ini_text_webframe;
+                    }
+
+                    .num {
+                        background-color: @noopentasks-border; // fix
+                        color: @noopentasks-color; // fix
+                        margin-top: 1px;
+                    }
+                }
+
+                @media @screen_max-xs {
+                    display: none;
+                }
+            } // user-task
+        } // li
+    } // ul
+}
+
+.plugin__do_usertasks_list {
+    background-color: transparent;
+
+    @media @screen_max-sm {
+        right: 1.25rem !important;
+        left: 1.25rem !important;
+    }
+
+    table.inline {
+        background-color: #FFF;
+        margin-top: .5rem;
+
+        @media @screen_max-sm {
+            width: 100%;
+        }
+    }
+}
