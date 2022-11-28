@@ -1,0 +1,64 @@
+==== GOBD Tower ====
+
+Lorem ipsum verbis est
+
+=== Runway Selection ===
+
+  * Runway 01 is the preferred active runway, up to 10 kts of tailwind. 
+
+
+=== Runway Change Operations ===
+
+  * Runway changes must be coordinate with existing DEL, GND, TWR, DEP and APP controllers.
+  * If possible, hold aircraft on stand before a runway change operation.
+  * If an aircraft is already taxying on Twy C, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
+  * If an aicraft as already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
+
+=== Wake Separation ===
+
+== Arrivals (nm) ==
+
+^ Lead ^ J ^ H ^ M ^ L ^
+| J | - | - | - | - |
+| H | 6 | 4 | - | - |
+| M | 7 | 5 | 5 | - |
+| L | 8 | 6 | 5 | 5 |
+
+== Departures (min) ==
+
+^ Lead ^ J ^ H ^ M ^ L ^
+| J | - | - | - | - |
+| H | 2 | - | - | - |
+| M | 3 | 2 | - | - |
+| L | 3 | 2 | 2 | - |
+
+
+=== Missed Approach Procedures ===
+
+=== VFR Operations ===
+
+== VFR Circuits ==
+
+^ Rwy ^ Turn ^ Altitude ^ Remarks ^ 
+| 01 | Right | Up to 1500 AFL | - |
+| 19 | Left | Up to 1500 AFL | - |
+
+== VFR Departures ==
+
+== VFR Arrivals ==
+
+== VFR Transitions ==
+
+=== Helicopter Operations ===
+
+  * [[glossary#t|TLOF]] is available on TWY M, next to the threshold of RWY 19.
+
+
+
+----
+
+[[GOBD]] (Blaise Diagne Intl) | [[gobd-about|About]] | [[gobd-delivery|Delivery]] | [[gobd-ground|Ground]] | [[gobd-tower|Tower]] | [[gobd-departure|Departure]] | [[gobd-approach|Approach]] | [[gobd-events|Events]] | [[gobd-charts|Charts]] | [[gobd-scenery|Scenery]]
+ 
+[[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]
+
+~~DISCUSSION~~

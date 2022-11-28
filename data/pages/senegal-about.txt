@@ -1,0 +1,8 @@
+==== Senegal Information ====
+
+Lorem ipsum verbis est
+
+
+----
+
+//This page is a subsection of the [[Senegal]] country page.//

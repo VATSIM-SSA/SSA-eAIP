@@ -1,0 +1,20 @@
+==== GOBD Delivery ====
+
+Lorem ipsum verbis est
+
+=== IFR Clearance Rules ===
+
+=== Cruise Level Rules ===
+
+=== Departure Procedures & Initial Climbs ===
+
+
+
+
+----
+
+[[GOBD]] (Blaise Diagne Intl) | [[gobd-about|About]] | [[gobd-delivery|Delivery]] | [[gobd-ground|Ground]] | [[gobd-tower|Tower]] | [[gobd-departure|Departure]] | [[gobd-approach|Approach]] | [[gobd-events|Events]] | [[gobd-charts|Charts]] | [[gobd-scenery|Scenery]]
+ 
+[[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]
+
+~~DISCUSSION~~

@@ -1,0 +1,27 @@
+==== GOBD Ground ====
+
+Lorem ipsum verbis est
+
+=== Pushback Procedures ===
+
+^ Apron ^ Type ^ Facing ^ Remarks ^
+| Apron G | General Aviation | South | - |
+| Apron J1 | Remote Stands | West | - |
+| Apron J2 | Remote Stands | West | - |
+| Apron N | Overflow/ Remote | North/South | - |
+| Apron T | Main Terminal | North/South | - |
+| Apron V | Cargo | South | - |
+| Apron VIP | VIP | South | - |
+
+=== Taxi Out Procedures ===
+
+=== Taxi In Procedures ===
+
+
+----
+
+[[GOBD]] (Blaise Diagne Intl) | [[gobd-about|About]] | [[gobd-delivery|Delivery]] | [[gobd-ground|Ground]] | [[gobd-tower|Tower]] | [[gobd-departure|Departure]] | [[gobd-approach|Approach]] | [[gobd-events|Events]] | [[gobd-charts|Charts]] | [[gobd-scenery|Scenery]]
+ 
+[[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]
+
+~~DISCUSSION~~

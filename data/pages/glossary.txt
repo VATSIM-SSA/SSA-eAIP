@@ -1,0 +1,25 @@
+===== Glossary =====
+
+==== F =====
+
+^ Term ^ Definition ^ Remarks ^
+| FATO | Final Approach and Takeoff | - |
+
+==== I =====
+
+^ Term ^ Definition ^ Remarks ^
+| IF | Intermediate Fix | - |
+| IAF | Initial Approach Fix | - |
+| - | - | - |
+
+==== M =====
+
+^ Term ^ Definition ^ More Info ^ Remarks ^
+| MSA | Minimum Sector Altitude | [[https://skybrary.aero/articles/minimum-sector-altitude-msa|More Info]] | - |
+| - | - | - |
+
+==== T =====
+
+^ Term ^ Definition ^ Remarks ^
+| TLOF | Touch-down and Lift-off | - |
+| - | - | - |

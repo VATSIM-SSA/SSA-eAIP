@@ -3,7 +3,7 @@
 Lorem ipsum verbis est
 
 ^ ICAO ^ Name ^City ^
-| [[airports:FNLU]] | 4th of February | Luanda |
+| [[FNLU]] | 4th of February | Luanda |
 
 ----
 

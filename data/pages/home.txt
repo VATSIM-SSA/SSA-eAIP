@@ -1,0 +1,13 @@
+===== VATSSA eAIP =====
+
+Welcome to the VATSSA eAIP.
+
+This platform is being developed to consolidate the existing controller and pilot information documents that exist at VATSSA. It allows for collaborative development of airspace and aerodrome information and knowledge that will of service to both controllers and pilots.
+
+It is, as always, a work in progress that has just recently been initiated, so give us some time to start populating as many aerodromes as possible.
+
+If you are a pilot looking for event related briefings, please checkout the [[pilot-briefings|Pilot Briefings]] page for up to date information.
+
+
+----
+//The information contained in this platform is for **flight simulation purposes** only and shall not be used, under any circumstances, for real world aviation.//

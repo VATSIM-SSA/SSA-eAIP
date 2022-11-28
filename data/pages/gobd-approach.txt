@@ -1,0 +1,55 @@
+==== GOBD Approach ====
+
+Lorem ipsum verbis est
+
+=== Approach Procedures ===
+
+^ Rwy ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
+| 01 | ILS Z or LOC Z | 110.10 IDS | 006º | 3.00º | 8.6 DME IDS | 3000 ft | //16 DME Arc// | 
+| ::: | ILS Y or LOC Y | 110.10 IDS | 006º | 3.00º | 8.6 DME IDS | 3000 ft | - |
+| ::: | ILS X or LOC X | 110.10 IDS | 006º | 3.00º | DEPAL, GATRO or LIPEK | 3000 ft | - |
+| ::: | RNAV (GNSS) | - | 006º | 3.00º | DEPAL, GATRO or LIPEK | 3000 ft | - |
+| ::: | VOR Z | 115.40 DS | 006º | 3.00º | 8 DME DS | 3000 ft | //16 DME Arc// |
+| ::: | VOR Y | 115.40 DS | 006º | 3.00º | 8 DME DS | 3000 ft | - |
+| 19 | RNAV (GNSS) | - | 186º | 3.00º | KOSOM, PIMLA or RUSMO | 3000 ft | - |
+| ::: | VOR Z | 115.40 DS | 186º | 3.00º | 11 DME DS |3000 ft | //16 DME Arc// |
+| ::: | VOR Y | 115.40 DS | 186º | 3.00º | 11 DME DS | 3000 ft | - |
+
+=== Holds ===
+
+^ Name ^ STAR ^ Altitude ^ Speed (IAS) ^ Inbound CRS ^ Turn ^ Leg Time ^ Remarks ^
+| DEPAL | - | 3000 ft to FL090 | 230 KT | 006º | Right | 1 min | Runway 01 |
+| KOSOM | - | 3000 ft to FL090 | 230 KT | 186º | Right | 1 min | Runway 19 |
+
+=== Missed Approach Procedures ===
+
+^ Rwy ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 01 | ILS Z or LOC Z | Climb on Runway Heading. At 2000 ft turn LEFT and climb to 3000 ft to join the DS VOR. Then join DEPAL via R-176 DS. | DEPAL | - |
+| ::: | ILS Y or LOC Y | ::: | ::: | ::: |
+| ::: | VOR Z or VOR Y | ::: | ::: | ::: |
+| ::: | IlS X or LOC X | Climb on Runway Heading. At BD502 turn LEFT and climb to 3000 ft and direct BD503. Then join GATRO. | ::: | ::: |
+| ::: | RNAV (GNSS) | ::: | ::: | ::: |
+| 19 | RNAV (GNSS) | Climb on Runway Heading. At BD505 turn RIGHT and climb to 3000 ft and direct to BD506. Then join PIMLA. | KOSOM | - |
+| ::: | VOR Z or VOR Y | Climb on Runway Heading. At 2000 ft turn LEFT and climb to 3000 ft to join the DS VOR. Then join KOSOM via R-356 DS. | ::: | ::: |
+
+=== MSA and MRVA ===
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| DS | 0 nm | 25 nm | 089º | 029 º | 2000 ft | - |
+| ::: | ::: | ::: | 029º | 089 | 3000 ft | - |
+
+=== Diversions ===
+
+^ ICAO ^ Name ^ Distance ^ Longest Rwy ^ Remarks ^ 
+| GOOY | Leopold Sedar Senghor (Dakar, Senegal) | 30 nm | 3490 m | - |
+| GBYD | Banjul Intl (Banjul, Gambia) | 130 nm | 3600 m | - |
+| GOGS | Cap Skirring Intl (Cap Skirring, Senegal) | 185 nm | 2000 m | - |
+| GGOV | Osvaldo Vieira (Bissau, Guinea-Bissau) | 235 nm | 3200 m | - |
+
+----
+
+[[GOBD]] (Blaise Diagne Intl) | [[gobd-about|About]] | [[gobd-delivery|Delivery]] | [[gobd-ground|Ground]] | [[gobd-tower|Tower]] | [[gobd-departure|Departure]] | [[gobd-approach|Approach]] | [[gobd-events|Events]] | [[gobd-charts|Charts]] | [[gobd-scenery|Scenery]]
+ 
+[[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]
+
+~~DISCUSSION~~

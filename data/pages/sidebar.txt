@@ -1,0 +1,69 @@
+====== About the eAIP ======
+
+  * [[vatssa|About VATSSA]]
+  * [[eaip|About the eAIP]]
+  * [[contribute|How to Contribute]]
+
+
+====== Part 1 General @one.svg ======
+
+  * [[pilot-briefings|Pilot Briefings]]
+
+
+====== Part 2 FSS & Oceanic @two.svg ======
+
+  * [[oceanic|Oceanic]]
+  * [[fss|Flight Service Station]]
+
+
+====== Part 3 Airspace & Aerodromes @airports.svg ======
+
+  * [[angola|Angola (FN)]]
+  * [[benin|Benin (DB)]]
+  * [[botswana|Botswana (FB)l]]
+  * [[burundi|Burundi (HB)]]
+  * [[cameroon|Cameroon (FK)]]
+  * [[cape-verde|Cape Verde (GV)]]
+  * [[central-african-republic|Central African Republic (FE)]]
+  * [[comoros|Comoros (FM)]]
+  * [[congo-democratic-republic|Congo, Democratic Republic of (FZ)]]
+  * [[congo-republic|Congo, Republic of (FC)]]
+  * [[biot|British Indian Ocean Territories (FJ)]]
+  * [[equatorial-guinea|Equatorial Guinea (FG)]]
+  * [[eswatini|Eswatini (FD)]]
+  * [[gabon|Gabon (FO)]]
+  * [[ghana|Ghana (DG)]]
+  * [[guinea|Guinea Republic (GU)]]
+  * [[guinea-bissau|Guinea-Bissau (GG)]]
+  * [[ivory-coast|Ivory Coast (DI)]]
+  * [[kenya|Kenya (HK)]]
+  * [[reunion|La Reunion (FM)]]
+  * [[lesotho|Lesotho (FX)]]
+  * [[liberia|Liberia (GL)]]
+  * [[madagascar|Madagascar (FM)]]
+  * [[malawi|Malawi (FW)]]
+  * [[mali|Mali (GA)]]
+  * [[mauritania|Mauritania (GQ)]]
+  * [[mauritius|Mauritius (FI)]]
+  * [[mayotte|Mayotte (FM)]]
+  * [[mozambique|Mozambique (FQ)]]
+  * [[namibia|Namibia (FY)]]
+  * [[nigeria|Nigeria (DN)]]
+  * [[rwanda|Rwanda (HR)]]
+  * [[sao-tome-principe|Sao Tome and Principe (FP)]]
+  * [[senegal|Senegal (GO)]]
+  * [[seychelles|Seychelles (FS)]]
+  * [[sierra-leone|Sierra Leone (GF)]]
+  * [[south-africa|South Africa (FA)]]
+  * [[st-helena|St Helena (FH)]]
+  * [[tanzania|Tanzania (HT)]]
+  * [[togo|Togo (DX)]]
+  * [[uganda|Uganda (HU)]]
+  * [[zambia|Zambia (FL)]]
+  * [[zimbabwe|Zimbabwe (FV)]]
+
+
+
+====== Part 4 Others @four.svg ======
+
+  * [[glossary|Glossary]]

@@ -1,3 +1,0 @@
-===== Benin | DB | DGAC =====
-
-{{tabembed>benin-about|About,benin-airspace|Airspace,benin-airports|Airports}}

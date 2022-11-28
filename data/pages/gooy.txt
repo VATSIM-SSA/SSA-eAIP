@@ -1,0 +1,7 @@
+===== GOOY |  Leopold Sedar Senghor | Dakar, Senegal =====
+
+{{tabembed>gooy-about|About,gooy-delivery|Delivery,gooy-ground|Ground,gooy-tower|Tower,gooy-departure|Departure,gooy-approach|Approach,gooy-events|Events,gooy-charts|Charts}}
+
+
+----
+[[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]

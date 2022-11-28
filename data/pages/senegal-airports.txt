@@ -1,0 +1,11 @@
+==== Senegal Airports ====
+
+Lorem ipsum verbis est
+
+^ ICAO ^ Name ^City ^
+| [[GOBD]] | Blaise Diagne Intl | Dakar-Diass |
+| [[GOOY]] | Leopold Sedar Senghor | Dakar |
+
+----
+
+//This page is a subsection of the [[Senegal]] country page.//
