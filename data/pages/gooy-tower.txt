@@ -1,0 +1,109 @@
+==== GOBD Tower ====
+
+  * This section is under development and has not yet been validated or published. If you're seeing this online, please disregard the information below.
+
+=== Runway Selection ===
+
+  * Lorem ipsum verbis est
+
+=== Runway Change Operations ===
+
+  * Lorem ipsum verbis est
+
+=== Wake Separation ===
+
+== Arrivals (nm) ==
+
+^ Lead ^ J ^ H ^ M ^ L ^
+| J | ||||
+| H | 6 | 4 | ||
+| M | 7 | 5 | 5 | |
+| L | 8 | 6 | 5 | 5 |
+
+== Departures (min) ==
+
+^ Lead ^ J ^ H ^ M ^ L ^
+| J | ||||
+| H | 2 | |||
+| M | 3 | 2 | ||
+| L | 3 | 2 | 2 | |
+
+
+=== Missed Approach Procedures ===
+
+=== HIRO ===
+
+  * Lorem ipsum verbis est
+
+^ Rwy ^ Exit ^ Taxi Instructions ^ Remarks ^
+| 01 | C3 (High Speed) | <code>Taxi Right on CHARLIE</code> | - |
+| ::: | C2 | ::: | - |
+| 19 | C5 (High Speed) | <code>Taxi Right on CHARLIE</code> | - |
+| ::: | C6 | ::: | - |
+| ::: | C8 | - | //Cargo Apron Only// |
+
+=== VFR Operations ===
+
+  * Lorem ipsum verbis est
+
+== VFR Circuits ==
+
+^ Rwy ^ Turn ^ Altitude ^ Remarks ^ 
+| 01 | Left | Up to 1000 AFL | - |
+| 19 | Right | Up to 1000 AFL | - |
+
+== VFR Departures ==
+
+^ Rwy ^ Sector ^ Exit Procedure ^ Altitude ^ Remarks ^
+| 01 | N | SW-N1-NK-NG | 1500 ft | - |
+| ::: | NE | E3-TS | 1000 ft | //Left Circuit before E3// |
+| ::: | E | E3-E4 | 1000 ft | //Left Circuit before E3// |
+| ::: | SE | E3-S1 | 1000 ft | //Left Circuit before E3// |
+| ::: | S | E3-SN | 1000 ft | //Left Circuit before E3// |
+| ::: | W | SW-W2 | 1000 ft | - |
+| 19 | N | SW-N1-NK-NG | 1500 ft | - |
+| ::: | NE | E3-TS | 1000 ft | - |
+| ::: | E | E3-E4 | 1000 ft | - |
+| ::: | SE | E3-S1 | 1000 ft | - |
+| ::: | S | E3-SN | 1000 ft | - |
+| ::: | W | SW-W2 | 1000 ft | - |
+
+== VFR Arrivals ==
+
+  * Lorem ipsum verbis est
+
+^ Sector ^ Entry Procedure ^ Altitude ^ Remarks ^
+| N | NG-NK-N1-SW | 1500 ft | - |
+| W | W2-SW | 1000 ft | - |
+| NE/E | E4-E3 | 1000 ft | - |
+| SE | S1-E3 | 1000 ft | - |
+| S | S2-E3 | 1000 ft | - |
+
+== VFR Transitions ==
+
+== Visual Reference Points ==
+
+^ Code ^ Designation ^ VOR & Radial ^ Distance ^ Remarks ^
+| NG | NOVEMBER GOLF | DS 017º | 20.8 | - |
+| N1 | NOVEMBER ONE | DS 329º | 14.6 | - |
+| NK | NOVEMBER KILO | DS 357º | 16.5 | - |
+| E3 | ECHO THREE | DS 085º | 3.3 | - |
+| E4 | ECHO FOUR | DS 077º | 20.8 | - |
+| S1 | SIERRA ONE | DS 124º | 21.1 | - |
+| W2 | WHISKEY TWO | DS 290º | 21.3 | - |
+| SW | SIERRA WHISKEY | DS 275º | 6.2 | - |
+| E5 | ECHO FIVE | DS 047º | 21.4 | - |
+| SN | SIERRA NOVEMBER | DS 163º | 7.3 | - |
+| E2 | ECHO TWO | DS 165º | 18.5 | - |
+| TS | TANGO SIERRA | DS 056º | 8.8 | - |
+| //SN and S2 are reserved for arrivals and departures to Saly Airfield.// |||||
+| //E5 is reserved for arrivals and departures to This Military Aerodrome.// |||||
+
+
+=== Helicopter Operations ===
+
+  * [[glossary#t|TLOF]] is available on TWY M, next to the threshold of RWY 19.
+
+
+
+{{page>go-footer#GOOY}}

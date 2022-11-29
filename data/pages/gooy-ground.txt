@@ -1,0 +1,37 @@
+==== GOBD Ground ====
+
+  * This section is under development and has not yet been validated or published. If you're seeing this online, please disregard the information below.
+
+
+=== Push-back Procedures ===
+
+== Phraseology ==
+
+<code>
+CALLSIGN, push-back approved, facing DIRECTION.
+</code>
+
+== Directions ==
+
+^ Apron ^ Type ^ Facing ^ Remarks ^
+| - | - | - | - |
+
+=== Taxi Out Procedures ===
+
+== Phraseology ==
+
+<code>
+CALLSIGN, taxi via taxiway CHARLIE to holding point CHARLIE SEVEN.
+</code>
+
+
+=== Taxi In Procedures ===
+
+== Phraseology ==
+
+<code>
+CALLSIGN, welcome to Dakar. Taxi to STAND ALPHA SEVEN via taxiway CHARLIE, ALPHA THREE.
+</code>
+
+
+{{page>go-footer#GOOY}}

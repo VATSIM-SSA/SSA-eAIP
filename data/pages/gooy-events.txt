@@ -1,0 +1,22 @@
+==== GOBD Events ====
+
+  * This section is under development and has not yet been validated or published. If you're seeing this online, please disregard the information below.
+
+=== Ground & Tower Coordination ===
+
+== On Departure ==
+
+  * Lorem ipsum verbis est
+
+== On Arrival ==
+
+  * Lorem ipsum verbis est
+
+<code>
+CALLSIGN, taxi left on CHARLIE, hold short ALPHA FOUR, contact Ground on 121.800
+</code>
+
+  * Lorem ipsum verbis est
+
+
+{{page>go-footer#GOOY}}

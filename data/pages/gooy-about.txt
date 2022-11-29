@@ -1,0 +1,56 @@
+==== GOBD Information ====
+
+  * This section is under development and has not yet been validated or published. If you're seeing this online, please disregard the information below.
+
+=== Aerodrome Data ===
+
+| ICAO | GOBD |
+| IATA | DSS |
+| Elevation | 290 ft |
+| Transition Altitude | 3500 ft |
+| Transition Level | FL40 |
+| Mag Variation | 07º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Blaise_Diagne_International_Airport&params=14_40_16_N_17_4_1_W_region:SN_type:airport&title=Blaise+Diagne+International+Airport|14°40′16″N 17°4′1″W]] |
+| Site | [[https://dakaraeroport.com/|dakaraeroport.com]] |
+
+=== Runways ===
+
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 01 | 006º | 3500 | 3700 | 3620 | 3500 | - |
+| 19 | 186º | 3500 | 3600 | 3620 | 3500 | - |
+
+=== Aprons ===
+
+^ Apron ^ Type ^ Entry / Exit ^ Remarks ^
+| Apron G | General Aviation | Twy G | - |
+| Apron J1 | Remote Stands | Twy A4 | - |
+| Apron J2 | Remote Stands | Twy A2 | - |
+| Apron N | Overflow/ Remote | Twy A1 | - |
+| Apron T | Main Terminal | Twy A3 | - |
+| Apron V | Cargo | Twy C8 | - |
+| Apron VIP | VIP | Twy P | - |
+
+
+
+=== Positions & Frequencies ===
+
+^ Position ^ Callsign ^ Frequency ^ Remarks ^
+| GOBD_ATIS | Diass ATIS | 120.500 | - |
+| GOBD_DEL | Diass Delivery | 122.100 | //VATSIM Only// |
+| GOBD_GND | Diass Ground | 121.800 | - |
+| GOBD_TWR | Diass Tower | 118.800 | - |
+| GOBD_APP | Diass Approach | 120.500 | - |
+| GOOO_CTR | Dakar Control | 129.500 | - |
+
+
+=== Airspace ===
+
+^ Airspace ^ Class ^ Owner ^ Limits ^ Remarks ^
+| Dakar-Diass CTR | D | GOBD_TWR | GND - FL045 | - |
+| Dakar-Diass TMA | D | GOBD_APP | FL045 - FL145 | - |
+| Dakar-Diass TMA | A | GOBD_APP | FL145 - FL245 | - |
+| Dakar FIR/UIR | A | GOOO_CTR | FL245 - UNL | - |
+
+
+{{page>go-footer#GOOY}}

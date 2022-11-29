@@ -1,0 +1,19 @@
+==== GOBD Departure ====
+
+  * This section is under development and has not yet been validated or published. If you're seeing this online, please disregard the information below.
+
+=== Departure Procedures ===
+
+  * Lorem Ipsum
+
+
+=== Noise Abatement Procedures ===
+
+  * Lorem ipsum verbis est
+
+
+=== Coordinating GOBD & GOOY Departures ===
+
+  * Lorem ipsum verbis est
+
+{{page>go-footer#GOOY}}

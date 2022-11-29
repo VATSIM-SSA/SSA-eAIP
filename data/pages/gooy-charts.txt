@@ -1,0 +1,29 @@
+==== GOBD Charts ====
+
+  * This section is under development and has not yet been validated or published. If you're seeing this online, please disregard the information below.
+
+
+The following charts are sources from ASECNA's public AIP.
+
+^ Code ^ Description ^ URL ^ Remarks ^
+| ADC | Aerodrome Chart | [[|Chart]] | - |
+| APDC | Parking Chart | [[|Chart]] | - |
+| IAC | Approach Chart - ILS X 01 | [[|Chart]] | - |
+| IAC | Approach Chart - ILS Y 01 | [[|Chart]] | - |
+| IAC | Approach Chart - ILS Z 01 | [[|Chart]] | - |
+| IAC | Approach Chart - VOR Y 01 | [[|Chart]] | - |
+| IAC | Approach Chart - VOR Z 01 | [[|Chart]] | - |
+| IAC | Approach Chart - RNAV 01 | [[|Chart]] | - |
+| IAC | Approach Chart - RNAV 19 | [[|Chart]] | - |
+| ADC | Aerodrome Chart | [[|Chart]] | - |
+| ADC | Aerodrome Chart | [[|Chart]] | - |
+| ADC | Aerodrome Chart | [[|Chart]] | - |
+| ADC | Aerodrome Chart | [[|Chart]] | - |
+| ADC | Aerodrome Chart | [[|Chart]] | - |
+| VAC | Visual Approach Chart | [[|Chart]] | - |
+| ADC | Aerodrome Chart | [[|Chart]] | - |
+| ADC | Aerodrome Chart | [[|Chart]] | - |
+| ADC | Aerodrome Chart | [[|Chart]] | - |
+
+
+{{page>go-footer#GOOY}}

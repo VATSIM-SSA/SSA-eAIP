@@ -1,0 +1,43 @@
+==== GOBD Approach ====
+
+  * This section is under development and has not yet been validated or published. If you're seeing this online, please disregard the information below.
+
+=== Arrivals Procedures ===
+
+^ Rwy ^ Fix ^ Arrival ^ Type ^ Track Miles ^ Approach ^ Remarks ^
+| - | - | - | - | - nm | - | - |
+
+=== Approach Procedures ===
+
+^ Rwy ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
+| - | - | -.10 IDS | - | 3.00º | - DME IDS | - ft | - | 
+
+
+=== Holds ===
+
+^ Name ^ STAR ^ Altitude ^ Speed (IAS) ^ Inbound CRS ^ Turn ^ Leg Time ^ Remarks ^
+| - | - | - ft to - | - KT | - | - | 1 min | - |
+
+
+=== Missed Approach Procedures ===
+
+^ Rwy ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| - | - | - | - | - |
+
+
+=== MSA and MRVA ===
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| DS | 0 nm | 25 nm | 089º | 029 º | 2000 ft | - |
+| ::: | ::: | ::: | 029º | 089 | 3000 ft | - |
+
+=== Diversions ===
+
+^ ICAO ^ Name ^ Distance ^ Longest Rwy ^ Remarks ^ 
+| GOOY | Leopold Sedar Senghor (Dakar, Senegal) | 30 nm | 3490 m | - |
+| GBYD | Banjul Intl (Banjul, Gambia) | 130 nm | 3600 m | - |
+| GOGS | Cap Skirring Intl (Cap Skirring, Senegal) | 185 nm | 2000 m | - |
+| GGOV | Osvaldo Vieira (Bissau, Guinea-Bissau) | 235 nm | 3200 m | - |
+
+
+{{page>go-footer#GOOY}}
