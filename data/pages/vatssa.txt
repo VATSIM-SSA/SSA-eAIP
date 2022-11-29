@@ -1,0 +1,3 @@
+VATSSA is VATSIM's Sub Saharan Africa Division, responsible for all the airspace represented below. For more information, please visit https://vatssa.com/.
+
+{{:vatssa_airspace.jpg?900|}}

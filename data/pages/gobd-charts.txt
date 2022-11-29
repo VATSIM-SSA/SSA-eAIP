@@ -23,10 +23,4 @@ The following charts are sources from ASECNA's public AIP.
 | ADC | Aerodrome Chart | [[|Chart]] | - |
 
 
-----
-
-[[GOBD]] (Blaise Diagne Intl) | [[gobd-about|About]] | [[gobd-delivery|Delivery]] | [[gobd-ground|Ground]] | [[gobd-tower|Tower]] | [[gobd-departure|Departure]] | [[gobd-approach|Approach]] | [[gobd-events|Events]] | [[gobd-charts|Charts]] | [[gobd-scenery|Scenery]]
- 
-[[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]
-
-~~DISCUSSION~~
+{{page>go-footer#GOBD}}

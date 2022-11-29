@@ -47,19 +47,11 @@
 
 === Airspace ===
 
-^ Airspace | Class ^ Owner ^ Limits ^ Remarks ^
+^ Airspace ^ Class ^ Owner ^ Limits ^ Remarks ^
 | Dakar-Diass CTR | D | GOBD_TWR | GND - FL045 | - |
 | Dakar-Diass TMA | D | GOBD_APP | FL045 - FL145 | - |
 | Dakar-Diass TMA | A | GOBD_APP | FL145 - FL245 | - |
 | Dakar FIR/UIR | A | GOOO_CTR | FL245 - UNL | - |
 
 
-
-
-----
-
-[[GOBD]] (Blaise Diagne Intl) | [[gobd-about|About]] | [[gobd-delivery|Delivery]] | [[gobd-ground|Ground]] | [[gobd-tower|Tower]] | [[gobd-departure|Departure]] | [[gobd-approach|Approach]] | [[gobd-events|Events]] | [[gobd-charts|Charts]] | [[gobd-scenery|Scenery]]
- 
-[[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]
-
-~~DISCUSSION~~
+{{page>go-footer#GOBD}}

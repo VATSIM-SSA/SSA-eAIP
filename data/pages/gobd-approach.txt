@@ -1,6 +1,40 @@
 ==== GOBD Approach ====
 
-Lorem ipsum verbis est
+=== Arrivals Procedures ===
+
+^ Rwy ^ Fix ^ Arrival ^ Type ^ Track Miles ^ Approach ^ Remarks ^
+| 01 | AMROD | AMRO2D | Conventional | 47 nm | ILS Z | - |
+| ::: | ::: | AMRO3D | ::: | 46 nm | ILS X / RNAV via DEPAL | - |
+| ::: | BIKIS | BIKI2D | ::: | 135 nm | ILS Z | - |
+| ::: | ::: | BIKI3D | ::: | 120 nm | ILS X / RNAV via DEPAL | - |
+| ::: | ::: | BIKI2V | ::: | 99 nm | ILS Y | - |
+| ::: | BJ | BJ2D | ::: | 67 nm | ILS X / RNAV via DEPAL | - |
+| ::: | ERIDI | ERID2D | ::: | 139 nm | ILS Z | - |
+| ::: | KITNI | KITN2D | ::: | 125 nm | ::: | - |
+| ::: | LIGOV | LIGO2D | ::: | 151 nm | ::: | - |
+| ::: | ::: | LIGO3D | ::: | 165 nm | ILS X / RNAV via DEPAL | - |
+| ::: | LIMAX | LIMA2D | ::: | 154 nm | ILS Z | - |
+| ::: | ::: | LIMA3D | ::: | 148 nm | ILS X / RNAV via DEPAL | - |
+| ::: | ::: | LIMA2V | ::: | 127 nm | ILS Y | - | 
+| ::: | NURAS | NURA2D | ::: | 101 nm | ILS Z | - |
+| ::: | PIVSA | PIVS2D | ::: | 58 nm | ::: | - |
+| ::: | SLO | SLO2D | ::: | 127 nm | ::: | - | 
+| ::: | ::: | SLO3D | ::: | 111 nm | ILS X / RNAV via DEPAL | - |
+| ::: | ::: | SLO2V | ::: | 90 nm | ILS Y | - |
+| 19 | AMROD | AMRO2K | ::: | 17 nm | RNAV via KOSOM | - |
+| ::: | BIKIS | BIKI2K | ::: | 84 nm | ::: | - |
+| ::: | BJ | BJ2K | ::: | 124 nm | ::: | - |
+| ::: | ::: | BJ3K | ::: | 103 nm | ::: | - |
+| ::: | ::: | BJ2V | ::: | 82 nm | VOR Y | - |
+| ::: | ERIDI | ERID2K | ::: | 144 nm | RNAV via KOSOM | - |
+| ::: | ::: | ERID3K | ::: | 164 nm | ::: | - |
+| ::: | ::: | ERID2V | ::: | 143 nm | VOR Y | - |
+| ::: | KITNI | KITN2K | ::: | 123 nm | RNAV via KOSOM | - |
+| ::: | LIGOV | LIGO2K | ::: | 136 nm | ::: | - |
+| ::: | LIMAX | LIMA2K | ::: | 111 nm | ::: | - |
+| ::: | NURAS | NURA2K | ::: | 198 nm | ::: | - |
+| ::: | PIVSA | PIVS2K | ::: | 71 nm | ::: | - |
+| ::: | SLO | SLO2K | ::: | 77 nm | ::: | - |
 
 === Approach Procedures ===
 
@@ -46,10 +80,5 @@ Lorem ipsum verbis est
 | GOGS | Cap Skirring Intl (Cap Skirring, Senegal) | 185 nm | 2000 m | - |
 | GGOV | Osvaldo Vieira (Bissau, Guinea-Bissau) | 235 nm | 3200 m | - |
 
-----
 
-[[GOBD]] (Blaise Diagne Intl) | [[gobd-about|About]] | [[gobd-delivery|Delivery]] | [[gobd-ground|Ground]] | [[gobd-tower|Tower]] | [[gobd-departure|Departure]] | [[gobd-approach|Approach]] | [[gobd-events|Events]] | [[gobd-charts|Charts]] | [[gobd-scenery|Scenery]]
- 
-[[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]
-
-~~DISCUSSION~~
+{{page>go-footer#GOBD}}

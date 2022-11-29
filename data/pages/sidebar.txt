@@ -2,6 +2,7 @@
 
   * [[vatssa|About VATSSA]]
   * [[eaip|About the eAIP]]
+  * [[faq|FAQs]]
   * [[contribute|How to Contribute]]
 
 
@@ -61,7 +62,6 @@
   * [[uganda|Uganda (HU)]]
   * [[zambia|Zambia (FL)]]
   * [[zimbabwe|Zimbabwe (FV)]]
-
 
 
 ====== Part 4 Others @four.svg ======

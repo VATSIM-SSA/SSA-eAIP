@@ -1,19 +1,22 @@
 ==== GOBD Departure ====
 
-Lorem ipsum verbis est
+  * GOBD doesn't have a dedicated Departure Position, with Diass Approach (GOBD APP) assuming the role of Departure.
+
 
 === Departure Procedures ===
 
-=== Noise Abetement Procedures ===
+  * Lorem Ipsum
+
+
+=== Noise Abatement Procedures ===
 
   * When take-off on RWY 01 with a clearance to turn right, the ACFT must maintain the RWY axis until 3000 ft before beginning right turn.
   * When take-off on RWY 19 with a clearance to turn right, the ACFT must maintain the RWY axis during 3 minutes before beginning right turn.
 
 
-----
+=== Coordinating GOBD & GOOY Departures ===
 
-[[GOBD]] (Blaise Diagne Intl) | [[gobd-about|About]] | [[gobd-delivery|Delivery]] | [[gobd-ground|Ground]] | [[gobd-tower|Tower]] | [[gobd-departure|Departure]] | [[gobd-approach|Approach]] | [[gobd-events|Events]] | [[gobd-charts|Charts]] | [[gobd-scenery|Scenery]] | [[gobd-scenery|Scenery]]
- 
-[[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]
+  * Both GOBD and [[GOOY]] have North / South runways, 30 nm apart. When operating as Diass Approach (GOBD APP) and assuming the role of Departure, controllers must be mindful of simultaneous departures from both airports and keep aircraft separated.
 
-~~DISCUSSION~~
+
+{{page>go-footer#GOBD}}

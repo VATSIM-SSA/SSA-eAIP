@@ -1,8 +1,14 @@
 ==== GOBD Ground ====
 
-Lorem ipsum verbis est
+=== Push-back Procedures ===
 
-=== Pushback Procedures ===
+== Phraseology ==
+
+<code>
+CALLSIGN, push-back approved, facing DIRECTION.
+</code>
+
+== Directions ==
 
 ^ Apron ^ Type ^ Facing ^ Remarks ^
 | Apron G | General Aviation | South | - |
@@ -15,13 +21,20 @@ Lorem ipsum verbis est
 
 === Taxi Out Procedures ===
 
+== Phraseology ==
+
+<code>
+CALLSIGN, taxi via taxiway CHARLIE to holding point CHARLIE SEVEN.
+</code>
+
+
 === Taxi In Procedures ===
 
+== Phraseology ==
 
-----
+<code>
+CALLSIGN, welcome to Dakar. Taxi to STAND ALPHA SEVEN via taxiway CHARLIE, ALPHA THREE.
+</code>
 
-[[GOBD]] (Blaise Diagne Intl) | [[gobd-about|About]] | [[gobd-delivery|Delivery]] | [[gobd-ground|Ground]] | [[gobd-tower|Tower]] | [[gobd-departure|Departure]] | [[gobd-approach|Approach]] | [[gobd-events|Events]] | [[gobd-charts|Charts]] | [[gobd-scenery|Scenery]]
- 
-[[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]
 
-~~DISCUSSION~~
+{{page>go-footer#GOBD}}
