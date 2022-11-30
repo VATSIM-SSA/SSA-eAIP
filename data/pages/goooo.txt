@@ -1,0 +1,6 @@
+===== GOOO | Dakar Oceanic | GOOOO =====
+
+{{tabembed>goooo-about|About}}
+
+
+{{page>go-footer#Senegal}}

@@ -1,0 +1,22 @@
+==== Dakar Continental Information ====
+
+Dakar Continental FIR is a Flight Information Region that spans multiple countries, namely [[Senegal]] (in full), [[Mauritania]] (in full), [[Ivory Coast]] (in full), [[Guinea-Bissau]] (partially), [[Mali]] (partially) and a slice of airspace from Burkina Faso.
+
+[[goooo|Dakar Oceanic]] is part of the Dakar FIR, but operational purposes, we've split it from Dakar Continental.
+
+
+
+
+
+^ Airspace ^ Class ^ Owner ^ Limits ^ Remarks ^
+| Dakar Continental | G | - | GND - FL145 | - |
+| Dakar Continental | G | - | FL145 - FL195 | //With the exception of ATS Routes// |
+| Dakar Continental | A | - | FL195 - FL245 | - |
+| Dakar Continental UIR | A | - | FL245 - UNLTD | - |
+| [[GOOC]] |||||
+
+=== SLOP ===
+
+  * The use of SLOP in Dakar Continental is in compliance with provisions in ICAO Doc. 4444, between flight level FL280 and FL460.
+
+{{page>go-footer#GOOOC}}

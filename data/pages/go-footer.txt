@@ -3,6 +3,18 @@
 
 //This page is a subsection of the [[Senegal]] country page.//
 
+==== GOOOC ====
+
+----
+
+[[GOOOC]] (Dakar Continental) | v0.1
+
+==== GOOOO ====
+
+----
+
+[[GOOOO]] (Dakar Oceanic) | v0.1
+
 ==== GOBD ====
 
 ----
@@ -14,11 +26,3 @@
 ----
 
 [[GOOY]] (Leopold Sedar Senghor) | v0.1
-
-==== GOBD-OLD ====
-
-----
-
-[[GOBD]] (Blaise Diagne Intl) | [[gobd-about|About]] | [[gobd-delivery|Delivery]] | [[gobd-ground|Ground]] | [[gobd-tower|Tower]] | [[gobd-departure|Departure]] | [[gobd-approach|Approach]] | [[gobd-events|Events]] | [[gobd-charts|Charts]] | [[gobd-scenery|Scenery]]
- 
-[[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]

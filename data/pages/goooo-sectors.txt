@@ -1,0 +1,15 @@
+==== Dakar Oceanic Sectors ====
+
+ * The Dakar Oceanic airspace is divident into the following sectors:
+
+
+ === Dakar Oceanic ===
+
+^ Position  ^ Callsign      ^ Frequency ^ Remarks ^
+| GOOC_FSS  | Dakar Radio   | 122.500   | - |
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Dakar Oceanic FIS | G     | GOOC_FSS  | GND - FL145   | - |
+| Dakar Oceanic FIS | G     | GOOC_FSS  | FL145 - FL195 | //Except for ATS Routes (Class A)// |
+| Dakar Oceanic FIS | G     | GOOC_FSS  | FL195 - FL245 | - |
+| Dakar Oceanic UIR | A     | GOOC_FSS  | FL245 - UNLTD | - |
