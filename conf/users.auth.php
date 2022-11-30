@@ -11,4 +11,6 @@
 # login:passwordhash:Real Name:email:groups,comma,separated
 
 vatssa1:$2y$10$z2DSPAHYpiT9dneoewuKuetQ6yqL0D3sUQI5ZVrgmBihRXOxDjzi.:Miguel Albano:vatssa1@vatssa.com:admin,user
-810471:$2y$10$Rdvuz5mCI4jq4bcjeXFsiu9XHCP8o8HFRvGy2HdDzJ3AzV3GXnmCG:Miguel Albano:hello@vcaptainmike.com:admin,user
+810471:$2y$10$4YiIUMkZaEdCW1HXvafxFuG5C4znAg150pJCZsGQ8F/y/VAnt3l5u:Miguel Albano:hello@vcaptainmike.com:user,generic,admin
+1439732:$2y$10$2jEGrNaZeZPeHL3UDmKDA.D6OuezkW1ZugspjVhGSoI7lH22t4YHG:Marlon Gomez:thersfindustry@gmail.com:user,generic
+1628492:$2y$10$qJp1qJP55BajCkmrbGkAHeTA7tkKLBM3NOkjbyjKj6NCBcVac56mG:cheikh Ibrahima pene:peneibrahima84@gmail.com:user,generic

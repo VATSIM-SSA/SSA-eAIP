@@ -5,7 +5,8 @@
 
 === Departure Procedures ===
 
-  * Lorem Ipsum
+  * After departure, maintain aircraft on runway heading. You may issue further climb instructions (usually FL150).
+  * If necessary, vector aircraft right (runway 01 departures) or left (runway 19 departures)
 
 
 === Noise Abatement Procedures ===
