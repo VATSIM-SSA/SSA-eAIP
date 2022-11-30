@@ -1,0 +1,8 @@
+==== South Africa Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[ICAO]]  | Name          | City          | -             | - |
+
+
+
+{{page>fa-footer#South_Africa}}

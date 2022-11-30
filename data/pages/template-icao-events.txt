@@ -1,0 +1,27 @@
+==== GOBD Events ====
+
+=== Ground & Tower Coordination ===
+
+== On Departure ==
+
+When runway 01 is active, departing traffic shall be instructed to taxi to the runway via C and hold short H, allowing Tower Controllers to issue further instructions to taxi to C6 or C7 based on preferential departure separation.
+
+When runway 19 is active, departing traffic shall be instructed to taxi to the runway via C and contact Tower after passing A1, allowing Tower Controllers to issue further instructions to taxi to C1 or C2 based on preferential departure separation.
+
+
+== On Arrival ==
+
+In low traffic situations, Tower Controllers are expected to hand over arrival traffic to Ground Controllers once the traffic has vacated the runway. 
+
+In high traffic situations, in order to maintain the high speed exits clear of traffic, Tower Controllers may issue an initial taxi instruction to arrival traffic before handover to Ground Controllers.
+
+If runway 19 is active and traffic is vacating C5, the following instruction may be issued by the Tower Controller.
+
+<code>
+CALLSIGN, taxi left on CHARLIE, hold short ALPHA FOUR, contact Ground on 121.800
+</code>
+
+The exception with this rule is traffic landing on runway 19 and wishing to vacate at the end to Apron V. In this situation, Tower Controllers will maintain control of the aircraft.
+
+
+{{page>go-footer#GOBD}}

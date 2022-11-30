@@ -1,0 +1,8 @@
+==== Nigeria Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[ICAO]]  | Name          | City          | -             | - |
+
+
+
+{{page>dn-footer#Nigeria}}

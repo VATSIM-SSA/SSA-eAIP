@@ -1,0 +1,6 @@
+===== GOBD | Blaise Diagne Intl | Dakar-Diass, Senegal =====
+
+{{tabembed>gobd-about|About,gobd-delivery|Delivery,gobd-ground|Ground,gobd-tower|Tower,gobd-departure|Departure,gobd-approach|Approach,gobd-coordination|Coordination,gobd-charts|Charts,gobd-scenery|Scenery,gobd-briefing|Briefing}}
+
+----
+[[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]

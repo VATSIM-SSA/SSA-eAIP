@@ -1,0 +1,11 @@
+==== GOBD Scenery ====
+
+^ Platform ^ Type ^ Developer ^ Link ^ Remarks ^
+| XP11 | Freeware | Aerosoft | [[https://secure.simmarket.com/aerosoft-dakar-xp-x-plane-11.phtml|Scenery]] | - |
+| XP11 | Freeware | FSDG | [[https://fsdg-online.com/Sceneries/X-Plane/Dakar-XP::30.html|Scenery]] | - |
+| P3D | Payware | FSDG | [[https://fsdg-online.com/Sceneries/FSX-P3D/The-LITE-Series/Dakar::37.html|Scenery]] | - |
+| FSX | Payware | FSDG | [[https://fsdg-online.com/Sceneries/FSX-P3D/The-LITE-Series/Dakar::37.html|Scenery]] | - |
+| MSFS | Payware | DeVinci | [[https://secure.simmarket.com/devinci-design-and-development-msfs2020-gobd-blaise-diagne-intl-diass-senegal.phtml|Scenery]] | - |
+
+
+{{page>go-footer#GOBD}}

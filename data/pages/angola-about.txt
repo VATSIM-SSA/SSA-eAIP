@@ -1,8 +1,6 @@
-==== Angola Information ====
+==== Angoia Information ====
 
-Lorem ipsum verbis est
+//This section is incomplete.//
 
 
-----
-
-//This page is a subsection of the [[Angola]] country page.//
+{{page>fn-footer#Angoia}}

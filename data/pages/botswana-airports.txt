@@ -1,0 +1,8 @@
+==== Botswana Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[ICAO]]  | Name          | City          | -             | - |
+
+
+
+{{page>fb-footer#Botswana}}

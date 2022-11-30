@@ -1,0 +1,8 @@
+==== Cape Verde Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[ICAO]]  | Name          | City          | -             | - |
+
+
+
+{{page>gv-footer#Cape_Verde}}
