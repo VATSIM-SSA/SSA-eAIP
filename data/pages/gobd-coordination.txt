@@ -1,0 +1,22 @@
+==== GOBD Coordination ====
+
+=== GOBD & GOOY ===
+
+  * GOBD Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at GOBD and [[GOOY]]. In most cases, both airports will operate similar runway configurations (North/South). The fact that both airports are 30 nm apart allows for some maneuvering room, but during events, release management should be coordinated through Diass Approach.
+
+=== GOBD & GVSC ===
+
+  * For flights departing GOBD to airports at Cape Verde, GOBD Approach should coordinate with GVSC CTR or GVSC APP. In the absence of GOOO CTR and/or GVSC CTR, GOBD APP is authorized to handover traffic to GVSC APP.
+
+=== GOBD & GOOO ===
+
+=== GOBD & Oceanic ===
+
+  * All GOBD departing flights that will cross Oceanic Airspace (GVSC or GOOO) will need request Oceanic Clearance on ground.
+
+
+
+
+
+
+{{page>go-footer#GOBD}}

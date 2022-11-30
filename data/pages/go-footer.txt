@@ -2,6 +2,18 @@
 
 ----
 
+[[GOBD]] (Blaise Diagne Intl) | v0.1
+
+==== GOOY ====
+
+----
+
+[[GOOY]] (Leopold Sedar Senghor) | v0.1
+
+==== GOBD-OLD ====
+
+----
+
 [[GOBD]] (Blaise Diagne Intl) | [[gobd-about|About]] | [[gobd-delivery|Delivery]] | [[gobd-ground|Ground]] | [[gobd-tower|Tower]] | [[gobd-departure|Departure]] | [[gobd-approach|Approach]] | [[gobd-events|Events]] | [[gobd-charts|Charts]] | [[gobd-scenery|Scenery]]
  
 [[Senegal]] (GO) Airports | [[GOBD]] | [[GOOY]]

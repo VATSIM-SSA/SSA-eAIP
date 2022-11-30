@@ -8,6 +8,8 @@ It is, as always, a work in progress that has just recently been initiated, so g
 
 If you are a pilot looking for event related briefings, please checkout the [[pilot-briefings|Pilot Briefings]] page for up to date information.
 
+And these are the airports which have seen the latest updates: [[GOBD]]
+
 
 ----
 //The information contained in this platform is for **flight simulation purposes** only and shall not be used, under any circumstances, for real world aviation.//

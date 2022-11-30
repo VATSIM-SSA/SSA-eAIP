@@ -7,6 +7,7 @@
 | Dakar Continental | G | - | FL145 - FL195 | //With the exception of ATS Routes// |
 | Dakar Continental | A | - | FL195 - FL245 | - |
 | Dakar Continental UIR | A | - | FL245 - UNLTD | - |
+| [[GOOC]] |||||
 
 
 === Oceanic ===
@@ -16,6 +17,7 @@
 | Dakar Oceanic | G | - | FL145 - FL195 | //With the exception of ATS Routes// |
 | Dakar Oceanic | A | - | FL195 - FL245 | - |
 | Dakar Oceanic UIR | A | - | FL245 - UNLTD | - |
+| [[GOOO]] |||||
 
 
 === SLOP ===

@@ -22,7 +22,7 @@
 
 === Departure Procedures & Initial Climbs ===
 
-GOBD does not have coded SID procedures, so, the runway heading rule will apply.
+  * GOBD does not have coded SID procedures, so, the runway heading rule will apply.
 
 ^ Rwy ^ Heading ^ Initial Climb ^ Remarks ^
 | 01 | 006 | 3000 ft | - |
