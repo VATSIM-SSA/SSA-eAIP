@@ -1,0 +1,6 @@
+===== DNMM | Murtala Muhammed Intl | Lagos, Nigeria =====
+
+{{tabembed>gobd-about|About,gobd-delivery|Delivery,gobd-ground|Ground,gobd-tower|Tower,gobd-departure|Departure,gobd-approach|Approach,gobd-coordination|Coordination,gobd-charts|Charts,gobd-scenery|Scenery,gobd-briefing|Briefing}}
+
+
+{{page>dn-footer#Nigeria}}
