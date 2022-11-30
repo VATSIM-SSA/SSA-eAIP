@@ -1,0 +1,8 @@
+==== Kenya Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[ICAO]]  | Name          | City          | -             | - |
+
+
+
+{{page>hk-footer#Kenya}}

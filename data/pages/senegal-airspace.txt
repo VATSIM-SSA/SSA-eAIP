@@ -25,6 +25,5 @@
   * The use of SLOP in Dakar Continental is in compliance with provisions in ICAO Doc. 4444, between flight level FL280 and FL460.
   * The use of SLOP in Dakar Oceanic is in compliance with provisions in ICAO Doc. 4444, between flight level FL280 and UNLTD.
 
-----
 
-//This page is a subsection of the [[Senegal]] country page.//
+{{page>go-footer#Senegal}}

@@ -1,4 +1,4 @@
-==== Angola Airspace ====
+==== Burundi Airspace ====
 
 === Airspace ===
 
@@ -13,4 +13,4 @@
 
 
 
-{{page>fn-footer#Angola}}
+{{page>hb-footer#Burundi}}

@@ -16,6 +16,4 @@
 | [[GOTT]] | Tambacounda | Tambacounda | //Not Available// | - |
 
 
-----
-
-//This page is a subsection of the [[Senegal]] country page.//
+{{page>go-footer#Senegal}}

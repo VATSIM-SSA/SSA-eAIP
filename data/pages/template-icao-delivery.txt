@@ -1,0 +1,33 @@
+==== GOBD Delivery ====
+
+=== IFR Clearance Rules ===
+
+=== Cruise Level Rules ===
+
+== RVSM (feet) ==
+
+^ EVEN ^ IFR ^ ODD ^ 
+| 180º to 359º | IFR | 360º to 179º |
+| 020, 040, 060, 080, 100 | ::: | 010, 030, 050, 070, 090 |
+| 120, 140, 160, 180, 200 | ::: | 110, 130, 150, 170, 190 |
+| 220, 240, 260, 280, 300 | ::: | 210, 230, 250, 270, 290 |
+| 320, 340, 360, 380, 400 | ::: | 310, 330, 350, 370, 390 |
+| 430, 470, 510, 550, 590 | ::: | 410, 450, 490, 430, 570 |
+| |||
+| 180º to 359º | VFR | 360º to 179º |
+| 045, 065, 085, 105 | ::: | 035, 055, 075, 095 |
+| 125, 145 | ::: | 115, 135 |
+
+  * The VFR flights are not allowed over and above the flight level 150 (DOC 7030 ICAO).
+
+=== Departure Procedures & Initial Climbs ===
+
+  * GOBD does not have coded SID procedures, so, the runway heading rule will apply.
+
+^ Rwy ^ Heading ^ Initial Climb ^ Remarks ^
+| 01 | 006 | 3000 ft | - |
+| 19 | 186 | 3000 ft | - |
+| //Please alert the pilots to the [[gobd-departure#noise_abatement_procedures|Noise Abatement Procedures]]// ||||
+
+
+{{page>go-footer#GOBD}}

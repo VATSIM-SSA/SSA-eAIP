@@ -1,0 +1,3 @@
+===== Cape Verde | GV | GVSC =====
+
+{{tabembed>cape_verde-about|About,cape_verde-airspace|Airspace,cape_verde-airports|Airports}}

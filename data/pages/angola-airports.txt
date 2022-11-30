@@ -1,10 +1,8 @@
 ==== Angola Airports ====
 
-Lorem ipsum verbis est
+^ ICAO      ^ Name                      ^ City              ^ Status        ^ Remarks ^
+| [[FNLU]]  | 4th of February           | Luanda            | -             | - |
 
-^ ICAO ^ Name ^City ^
-| [[FNLU]] | 4th of February | Luanda |
 
-----
 
-//This page is a subsection of the [[Angola]] country page.//
+{{page>fn-footer#Angola}}

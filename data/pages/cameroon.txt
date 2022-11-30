@@ -1,0 +1,3 @@
+===== Cameroon | FK | FCCC =====
+
+{{tabembed>cameroon-about|About,cameroon-airspace|Airspace,cameroon-airports|Airports}}

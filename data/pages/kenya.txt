@@ -1,0 +1,3 @@
+===== Kenya | HK | HKNA =====
+
+{{tabembed>kenya-about|About,kenya-airspace|Airspace,kenya-airports|Airports}}

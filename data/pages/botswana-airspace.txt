@@ -1,4 +1,4 @@
-==== Angola Airspace ====
+==== Botswana Airspace ====
 
 === Airspace ===
 
@@ -13,4 +13,4 @@
 
 
 
-{{page>fn-footer#Angola}}
+{{page>fb-footer#Botswana}}

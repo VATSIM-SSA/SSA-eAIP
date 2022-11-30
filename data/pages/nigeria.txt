@@ -1,0 +1,3 @@
+===== Nigeria | DN | DNKK =====
+
+{{tabembed>nigeria-about|About,nigeria-airspace|Airspace,nigeria-airports|Airports}}

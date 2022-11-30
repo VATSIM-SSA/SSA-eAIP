@@ -1,0 +1,3 @@
+===== Burundi | HB | HBBA =====
+
+{{tabembed>burundi-about|About,burundi-airspace|Airspace,burundi-airports|Airports}}

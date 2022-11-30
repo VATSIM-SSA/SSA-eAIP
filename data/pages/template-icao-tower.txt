@@ -1,0 +1,114 @@
+==== GOBD Tower ====
+
+  * Lorem ipsum verbis est
+
+=== Runway Selection ===
+
+  * Runway 01 is the preferred active runway, up to 10 kts of tailwind. 
+
+
+=== Runway Change Operations ===
+
+  * Runway changes must be coordinate with existing DEL, GND, TWR, DEP and APP controllers.
+  * If possible, hold aircraft on stand before a runway change operation.
+  * If an aircraft is already taxying on Twy C, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
+  * If an aicraft as already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
+
+=== Wake Separation ===
+
+== Arrivals (nm) ==
+
+^ Lead ^ J ^ H ^ M ^ L ^
+| J | ||||
+| H | 6 | 4 | ||
+| M | 7 | 5 | 5 | |
+| L | 8 | 6 | 5 | 5 |
+
+== Departures (min) ==
+
+^ Lead ^ J ^ H ^ M ^ L ^
+| J | ||||
+| H | 2 | |||
+| M | 3 | 2 | ||
+| L | 3 | 2 | 2 | |
+
+
+=== Missed Approach Procedures ===
+
+=== HIRO ===
+
+  * When HIRO Ops are in effect, Tower Controllers will only handover traffic to Ground Controllers after issuing initial taxi instructions to pilots to avoid runway exit congestion.
+  * If possible, Tower Controllers should advise pilots on which exit they should expect to vacate.
+
+^ Rwy ^ Exit ^ Taxi Instructions ^ Remarks ^
+| 01 | C3 (High Speed) | <code>Taxi Right on CHARLIE</code> | - |
+| ::: | C2 | ::: | - |
+| 19 | C5 (High Speed) | <code>Taxi Right on CHARLIE</code> | - |
+| ::: | C6 | ::: | - |
+| ::: | C8 | - | //Cargo Apron Only// |
+
+=== VFR Operations ===
+
+  * Pilots must have the latest [[gobd-charts|Visual Approach Chart]].
+
+== VFR Circuits ==
+
+^ Rwy ^ Turn ^ Altitude ^ Remarks ^ 
+| 01 | Left | Up to 1000 AFL | - |
+| 19 | Right | Up to 1000 AFL | - |
+
+== VFR Departures ==
+
+^ Rwy ^ Sector ^ Exit Procedure ^ Altitude ^ Remarks ^
+| 01 | N | SW-N1-NK-NG | 1500 ft | - |
+| ::: | NE | E3-TS | 1000 ft | //Left Circuit before E3// |
+| ::: | E | E3-E4 | 1000 ft | //Left Circuit before E3// |
+| ::: | SE | E3-S1 | 1000 ft | //Left Circuit before E3// |
+| ::: | S | E3-SN | 1000 ft | //Left Circuit before E3// |
+| ::: | W | SW-W2 | 1000 ft | - |
+| 19 | N | SW-N1-NK-NG | 1500 ft | - |
+| ::: | NE | E3-TS | 1000 ft | - |
+| ::: | E | E3-E4 | 1000 ft | - |
+| ::: | SE | E3-S1 | 1000 ft | - |
+| ::: | S | E3-SN | 1000 ft | - |
+| ::: | W | SW-W2 | 1000 ft | - |
+
+== VFR Arrivals ==
+
+  * Pilots must report crossing each VRP unless otherwise instructed by the controller.
+
+^ Sector ^ Entry Procedure ^ Altitude ^ Remarks ^
+| N | NG-NK-N1-SW | 1500 ft | - |
+| W | W2-SW | 1000 ft | - |
+| NE/E | E4-E3 | 1000 ft | - |
+| SE | S1-E3 | 1000 ft | - |
+| S | S2-E3 | 1000 ft | - |
+
+== VFR Transitions ==
+
+== Visual Reference Points ==
+
+^ Code ^ Designation ^ VOR & Radial ^ Distance ^ Remarks ^
+| NG | NOVEMBER GOLF | DS 017º | 20.8 | - |
+| N1 | NOVEMBER ONE | DS 329º | 14.6 | - |
+| NK | NOVEMBER KILO | DS 357º | 16.5 | - |
+| E3 | ECHO THREE | DS 085º | 3.3 | - |
+| E4 | ECHO FOUR | DS 077º | 20.8 | - |
+| S1 | SIERRA ONE | DS 124º | 21.1 | - |
+| W2 | WHISKEY TWO | DS 290º | 21.3 | - |
+| SW | SIERRA WHISKEY | DS 275º | 6.2 | - |
+| E5 | ECHO FIVE | DS 047º | 21.4 | - |
+| SN | SIERRA NOVEMBER | DS 163º | 7.3 | - |
+| E2 | ECHO TWO | DS 165º | 18.5 | - |
+| TS | TANGO SIERRA | DS 056º | 8.8 | - |
+| //SN and S2 are reserved for arrivals and departures to Saly Airfield.// |||||
+| //E5 is reserved for arrivals and departures to This Military Aerodrome.// |||||
+
+
+=== Helicopter Operations ===
+
+  * [[glossary#t|TLOF]] is available on TWY M, next to the threshold of RWY 19.
+
+
+
+{{page>go-footer#GOBD}}
