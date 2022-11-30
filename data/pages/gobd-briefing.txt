@@ -1,6 +1,6 @@
 ==== GOBD Pilot Briefing ====
 
-Pilots taking part in events that depart from or arrive to GOBD should make themselves familiar with this briefing page as well as with all existing charts.
+//Pilots taking part in events that depart from or arrive to GOBD should make themselves familiar with this briefing page as well as with all existing charts.//
 
 === Overview ===
 
@@ -8,11 +8,32 @@ Pilots taking part in events that depart from or arrive to GOBD should make them
 
 == Clearance Delivery ==
 
+* GOBD does not have a real world Delivery position but one has been created on VATSIM, particularly for busy events. If offline, contact Ground for Delivery Clearance.
+
+* When requesting IFR clearance, please provide your Aircraft Type, Stand Number and ATIS letter.
+
+== Departure Procedures ==
+
+* GOBD does not have structured departure procedures (SIDs) so you are expected to maintain runway heading until further instructions. Do not deviate from the runway heading after takeoff.
+
+
 === Arrival Briefing ===
 
 == Arrivals and Approaches ==
 
+ * As your flight is approaching GOBD, you should make yourself familiar with the existing Arrivals (STARs), Holding Points and Approaches.
+
+ * Be aware that GOBD has 3 distinct sets of ILS Approaches (X, Y and Z) and that they have distinct approach procedures. Controllers will inform you what Approach to expect based on an assigned Arrival.
+
+ * GOBD is a single runway airport, so during Arrival Events, you should expect to Hold.
+
+ * In case of Missed Approach, climb 3000 ft and maintain runway heading. You'll receive further instructions by the Controllers.
+
+ * During busy events, expect to vacate right on A3 if landing 01 or vacate left on A5 if landing 19. You might be requested by Tower to continue taxi after vacating the runway. Follow the instructions.
+
 == Parking and Ground Operations ==
+
+* GOBD has plenty of parking positions across multiple aprons. Initial aircraft may be offered the Main Terminal Apron whilst subsequent aircraft will be directed to adjacent Aprons. There is limited parking availability at the Cargo Apron and due to its location on the airfield, you may be requested to taxi to a different parking position during busy events.
 
 
 {{page>go-footer#GOBD}}
