@@ -8,22 +8,25 @@
 CALLSIGN, push-back approved, facing DIRECTION.
 </code>
 
+
 == Directions ==
 
-^ Apron ^ Type ^ Facing ^ Remarks ^
-| Apron G | General Aviation | South | - |
-| Apron J1 | Remote Stands | West | - |
-| Apron J2 | Remote Stands | West | - |
-| Apron N | Overflow/ Remote | North/South | - |
-| Apron T | Main Terminal | North/South | - |
-| Apron V | Cargo | South | - |
-| Apron VIP | VIP | South | - |
+^ Apron     ^ Type              ^ Facing ^ Remarks ^
+| Apron G   | General Aviation  | South | - |
+| Apron J1  | Remote Stands     | West | - |
+| Apron J2  | Remote Stands     | West | - |
+| Apron N   | Overflow/ Remote  | North/South | - |
+| Apron T   | Main Terminal     | North/South | - |
+| Apron V   | Cargo             | South | - |
+| Apron VIP | VIP               | South | - |
+
 
 === Taxi Out Procedures ===
 
   * When runway 01 is active, departing traffic shall be instructed to taxi to the runway via C and hold short H, allowing Tower Controllers to issue further instructions to taxi to C6 or C7 based on preferential departure separation.
 
   * When runway 19 is active, departing traffic shall be instructed to taxi to the runway via C and contact Tower after passing A1, allowing Tower Controllers to issue further instructions to taxi to C1 or C2 based on preferential departure separation.
+
 
 == Phraseology ==
 
