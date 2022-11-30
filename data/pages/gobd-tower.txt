@@ -1,7 +1,5 @@
 ==== GOBD Tower ====
 
-  * Lorem ipsum verbis est
-
 === Runway Selection ===
 
   * Runway 01 is the preferred active runway, up to 10 kts of tailwind. 
