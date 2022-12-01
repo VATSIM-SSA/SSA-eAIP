@@ -1,7 +1,7 @@
 ==== Kenya Airports ====
 
 ^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
-| [[ICAO]]  | Name          | City          | -             | - |
+| [[HKJK]]  | Jomo Kenyatta | Nairobi       | In Development| - |
 
 
 

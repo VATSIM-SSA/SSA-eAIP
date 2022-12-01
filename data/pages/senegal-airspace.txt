@@ -2,10 +2,28 @@
 
 === Airspace ===
 
-^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
-| GOOO  | Dakar Continental | [[GOOOC]] | -       | - |
-| GOOO  | Dakar Oceanic     | [[GOOOO]] | Oceanic | - |
+^ Airspace ^ Class ^ Owner ^ Limits ^ Remarks ^
+| Dakar Continental | G | - | GND - FL145 | - |
+| Dakar Continental | G | - | FL145 - FL195 | //With the exception of ATS Routes// |
+| Dakar Continental | A | - | FL195 - FL245 | - |
+| Dakar Continental UIR | A | - | FL245 - UNLTD | - |
+| [[GOOC]] |||||
 
+
+=== Oceanic ===
+
+^ Airspace ^ Class ^ Owner ^ Limits ^ Remarks ^
+| Dakar Oceanic | G | - | GND - FL145 | - |
+| Dakar Oceanic | G | - | FL145 - FL195 | //With the exception of ATS Routes// |
+| Dakar Oceanic | A | - | FL195 - FL245 | - |
+| Dakar Oceanic UIR | A | - | FL245 - UNLTD | - |
+| [[GOOO]] |||||
+
+
+=== SLOP ===
+
+  * The use of SLOP in Dakar Continental is in compliance with provisions in ICAO Doc. 4444, between flight level FL280 and FL460.
+  * The use of SLOP in Dakar Oceanic is in compliance with provisions in ICAO Doc. 4444, between flight level FL280 and UNLTD.
 
 
 {{page>go-footer#Senegal}}

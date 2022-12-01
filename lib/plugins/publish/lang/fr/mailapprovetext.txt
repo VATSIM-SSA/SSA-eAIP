@@ -1,0 +1,11 @@
+Bonjour @FULLNAME@ !
+
+Votre page @TITLE@ pour le site @DOKUWIKIURL@ :
+
+URL: @URL@
+
+a bien été approuvée !
+
+-- 
+Courriel envoyé par dokuwiki à
+@DOKUWIKIURL@

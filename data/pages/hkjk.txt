@@ -1,0 +1,6 @@
+===== HKJK | Jomo Kenyatta | Nairobi, Kenya =====
+
+{{tabembed>hkjk-about|About,hkjk-delivery|Delivery,hkjk-ground|Ground,hkjk-tower|Tower,hkjk-departure|Departure,hkjk-approach|Approach,hkjk-coordination|Coordination,hkjk-charts|Charts,hkjk-scenery|Scenery,hkjk-briefing|Briefing}}
+
+----
+[[Kenya]] (HK) Airports | [[HKJK]]

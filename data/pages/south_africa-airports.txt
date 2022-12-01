@@ -1,7 +1,7 @@
 ==== South Africa Airports ====
 
 ^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
-| [[ICAO]]  | Name          | City          | -             | - |
+| [[FACT]]  | Cape Town Intl| Cape Town     | In Development| - |
 
 
 

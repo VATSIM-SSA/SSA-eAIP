@@ -1,0 +1,1 @@
+Plug-in to allow simple page approval process.

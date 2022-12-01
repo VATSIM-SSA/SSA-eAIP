@@ -1,0 +1,6 @@
+===== FACT | Cape Town Intl | Cape Town, South Africa =====
+
+{{tabembed>fact-about|About,fact-delivery|Delivery,fact-ground|Ground,fact-tower|Tower,fact-departure|Departure,fact-approach|Approach,fact-coordination|Coordination,fact-charts|Charts,fact-scenery|Scenery,fact-briefing|Briefing}}
+
+----
+[[South Africa]] (FA) Airports | [[FACT]] | [[FAOR]]

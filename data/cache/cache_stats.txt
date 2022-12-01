@@ -1,12 +1,13 @@
 
-.xhtml,1971,1895
-.metadata,7380,6789
-.i,1405,433
-.css,32,24
-.js,46,37
-.svg,13,13
+.xhtml,2186,2087
+.metadata,7914,7285
+.i,1718,573
+.css,41,30
+.js,64,52
+.svg,14,14
 .dw2pdf,1,0
 .dw2.pdf,1,1
 .media.120x120.crop.jpg,1,0
 .media.600x0.jpg,1,0
 .media.900x0.jpg,1,0
+.repo,136,105

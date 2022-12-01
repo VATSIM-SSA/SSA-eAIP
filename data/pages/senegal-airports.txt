@@ -1,19 +1,19 @@
 ==== Senegal Airports ====
 
-^ ICAO      ^ Name ^ City ^ Status ^ Remarks ^
-| [[GOBD]]  | Blaise Diagne Intl | Dakar-Diass | - | - |
-| [[GOGG]]  | Ziguinchor | Ziguinchor | //Not Available// | - |
-| [[GOGK]]  | Sare Bidji | Kolda | //Not Available// | - |
-| [[GOGS]]  | Cap Skirring Intl | Cap Skirring | //Not Available// | - |
-| [[GOOK]]  | Kaolack | Kaolack | //Not Available// | - |
-| [[GOOY]]  | Leopold Sedar Senghor | Dakar | - | - |
-| [[GOSM]]  | Ouro Sogui | Matam | //Not Available// | - |
-| [[GOSP]]  | Podor | Podor | //Not Available// | - |
-| [[GOSR]]  | Richard Toll | Richard Toll | //Not Available// | - |
-| [[GOSS]]  | St Louis | St Louis | //Not Available// | - |
-| [[GOTB]]  | Bakel | Bakel | //Not Available// | - |
-| [[GOTS]]  | Simenti | Simenti | //Not Available// | - |
-| [[GOTT]]  | Tambacounda | Tambacounda | //Not Available// | - |
+^ ICAO ^ Name ^ City ^ Status ^ Remarks ^
+| [[GOBD]] | Blaise Diagne Intl | Dakar-Diass | - | - |
+| [[GOGG]] | Ziguinchor | Ziguinchor | //Not Available// | - |
+| [[GOGK]] | Sare Bidji | Kolda | //Not Available// | - |
+| [[GOGS]] | Cap Skirring Intl | Cap Skirring | //Not Available// | - |
+| [[GOOK]] | Kaolack | Kaolack | //Not Available// | - |
+| [[GOOY]] | Leopold Sedar Senghor | Dakar | - | - |
+| [[GOSM]] | Ouro Sogui | Matam | //Not Available// | - |
+| [[GOSP]] | Podor | Podor | //Not Available// | - |
+| [[GOSR]] | Richard Toll | Richard Toll | //Not Available// | - |
+| [[GOSS]] | St Louis | St Louis | //Not Available// | - |
+| [[GOTB]] | Bakel | Bakel | //Not Available// | - |
+| [[GOTS]] | Simenti | Simenti | //Not Available// | - |
+| [[GOTT]] | Tambacounda | Tambacounda | //Not Available// | - |
 
 
 {{page>go-footer#Senegal}}

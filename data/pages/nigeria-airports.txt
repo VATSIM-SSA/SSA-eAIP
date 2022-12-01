@@ -1,10 +1,8 @@
 ==== Nigeria Airports ====
 
 ^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
-| [[DNAA]]  | Nnamdi Azikiwe Intl           | Abuja         | -             | - |
-| [[DNKN]]  | Mallam Aminu Kano Intl        | Kano          | -             | - |
-| [[DNMM]]  | Murtala Muhammed Intl         | Lagos         | -             | - |
-| [[DNPO]]  | Port Harcourt Intl            | Port Harcourt | -             | - |
+| [[DNMM]]  | Name          | Lagos | In Development             | - |
+
 
 
 {{page>dn-footer#Nigeria}}

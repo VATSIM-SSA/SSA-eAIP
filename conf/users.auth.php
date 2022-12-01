@@ -11,6 +11,8 @@
 # login:passwordhash:Real Name:email:groups,comma,separated
 
 vatssa1:$2y$10$z2DSPAHYpiT9dneoewuKuetQ6yqL0D3sUQI5ZVrgmBihRXOxDjzi.:Miguel Albano:vatssa1@vatssa.com:admin,user
-810471:$2y$10$4YiIUMkZaEdCW1HXvafxFuG5C4znAg150pJCZsGQ8F/y/VAnt3l5u:Miguel Albano:hello@vcaptainmike.com:user,generic,admin
-1439732:$2y$10$2jEGrNaZeZPeHL3UDmKDA.D6OuezkW1ZugspjVhGSoI7lH22t4YHG:Marlon Gomez:thersfindustry@gmail.com:user,generic
 1628492:$2y$10$qJp1qJP55BajCkmrbGkAHeTA7tkKLBM3NOkjbyjKj6NCBcVac56mG:cheikh Ibrahima pene:peneibrahima84@gmail.com:user,generic
+1475111:$2y$10$pKDDFp4WJmhbE6FZKlvteO7/ohmG19JApbkppF/ZLApCYzy6Vjkz6:Harrison Dowding:harrisondcrafter@gmail.com:user,generic
+1439732:$2y$10$2jEGrNaZeZPeHL3UDmKDA.D6OuezkW1ZugspjVhGSoI7lH22t4YHG:Marlon Gomez:thersfindustry@gmail.com:user,generic,contributors
+1499880:$2y$10$ieuprR3cgjpd4aTRxrSJ0eBV5IDhJcVh.iib3XiBXH7cmvrJYW70i:Joshua Ong:joshpower128@gmail.com:user,generic,contributors
+810471:$2y$10$4YiIUMkZaEdCW1HXvafxFuG5C4znAg150pJCZsGQ8F/y/VAnt3l5u:Miguel Albano:hello@vcaptainmike.com:user,generic,admin,contributors

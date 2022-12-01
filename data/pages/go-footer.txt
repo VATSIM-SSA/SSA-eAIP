@@ -7,22 +7,22 @@
 
 ----
 
-[[GOOOC]] (Dakar Continental) | v0.1
+[[GOOOC]] Dakar Continental | v0.1
 
 ==== GOOOO ====
 
 ----
 
-[[GOOOO]] (Dakar Oceanic) | v0.1
+[[GOOOO]] Dakar Oceanic | v0.1
 
 ==== GOBD ====
 
 ----
 
-[[GOBD]] (Blaise Diagne Intl) | v0.1
+[[GOBD]] Blaise Diagne Intl | v0.1
 
 ==== GOOY ====
 
 ----
 
-[[GOOY]] (Leopold Sedar Senghor) | v0.1
+[[GOOY]] Leopold Sedar Senghor | v0.1
