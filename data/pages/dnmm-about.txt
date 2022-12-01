@@ -1,0 +1,68 @@
+==== DNMM Information ====
+
+//Not  yet written//
+
+
+=== Aerodrome Data ===
+
+| ICAO                  | DNMM |
+| IATA                  | LOS |
+| Elevation             | 138 ft |
+| Transition Altitude   | 3500 ft |
+| Transition Level      | FL50 |
+| Mag Variation         | 02º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Blaise_Diagne_International_Airport&params=14_40_16_N_17_4_1_W_region:SN_type:airport&title=Blaise+Diagne+International+Airport|14°40′16″N 17°4′1″W]] |
+| Site | [[https://dakaraeroport.com/|dakaraeroport.com]] |
+
+
+=== Runways ===
+
+^ Runway    ^ Heading   ^ TORA (m)  ^ TODA (m)  ^ ASDA (m)  ^ LDA (m)   ^ Remarks ^
+| 36R       | 001º      | 2745      | 2745      | 2805      | 2745      | - |
+| 18L       | 181º      | 2745      | 2745      | 2788      | 2745      | - |
+| 36L       | 001º      | 3900      | 3900      | 4020      | 3900      | - |
+| 18R       | 181º      | 3900      | 3900      | 4020      | 3900      | - |
+
+  * DNMM is not certified for simultaneous or parallel approaches/landings.
+
+
+=== Aprons ===
+
+^ Apron Type            ^ Code  ^ Stands    ^ Entry / Exit  ^ Remarks ^
+| International 1       | -     | D31-E66   | F1-F2-F3-F4   | - |
+| International 2       | -     | A1-A8     | F5            | - |
+| Domestic 1            | -     | 1-6       | C2            | - |
+| Domestic 2            | -     | A1-B8     | C ?           | - |
+| Cargo                 | -     | -         | A ?           | - |  
+| Business / FBO        | -     | -         | B4            | - |
+| General Aviation      | -     | -         | C2            | - |
+| Presidential / VIP    | -     | -         | C ?           | - |
+| Military              | -     | -         | C5            | - |
+| |||||
+| //Be aware of the similar stand numbers for International 2 and Domestic 2.// |||||
+
+
+
+=== Positions & Frequencies ===
+
+^ Position      ^ Callsign          ^ Frequency ^ Remarks ^
+| DNMM_ATIS     | Lagos ATIS        | 123.800   | - |
+| DNMM_DEL      | Lagos Delivery    | -.-       | //VATSIM Only (coming soon)// |
+| DNMM_GND      | Lagos Ground      | 121.900   | - |
+| DNMM_TWR      | Lagos Tower       | 118.100   | - |
+| DNMM_APP      | Lagos Approach    | 124.700   | - |
+| DNMM_CTR      | Lagos Control     | 120.900   | //FIR Split// |
+| DNKK_CTR      | Kano Control      | 124.100   | - |
+
+
+=== Airspace ===
+
+^ Airspace      ^ Class ^ Owner ^ Limits        ^ Remarks ^
+| Lagos CTR     | D | DNMM_TWR | GND - A015     | - |
+| Lagos TMA     | B | DNMM_APP | A015 - FL145   | - |
+| Lagos ACC     | B | DNMM_CTR | FL045 - FL145  | - |
+| Lagos ACC     | A | DNMM_CTR | FL145 - FL460  | //FIR Split// |
+| Kano FIR/UIR  | A | DNKK_CTR | FL145 - UNLTD  | - |
+
+
+{{page>dn-footer#DNMM}}

@@ -1,0 +1,23 @@
+==== DNMM Departure ====
+
+  * GOBD doesn't have a dedicated Departure Position, with Diass Approach (GOBD APP) assuming the role of Departure.
+
+
+=== Departure Procedures ===
+
+  * After departure, maintain aircraft on runway heading. You may issue further climb instructions (usually FL150).
+  * If necessary, vector aircraft right (runway 01 departures) or left (runway 19 departures)
+
+
+=== Noise Abatement Procedures ===
+
+  * When take-off on RWY 01 with a clearance to turn right, the ACFT must maintain the RWY axis until 3000 ft before beginning right turn.
+  * When take-off on RWY 19 with a clearance to turn right, the ACFT must maintain the RWY axis during 3 minutes before beginning right turn.
+
+
+=== Coordinating GOBD & GOOY Departures ===
+
+  * Both GOBD and [[GOOY]] have North / South runways, 30 nm apart. When operating as Diass Approach (GOBD APP) and assuming the role of Departure, controllers must be mindful of simultaneous departures from both airports and keep aircraft separated.
+
+
+{{page>dn-footer#DNMM}}
