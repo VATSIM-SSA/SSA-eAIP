@@ -1,33 +1,32 @@
-==== DNMM Delivery ====
+===== DNMM Delivery =====
 
-=== IFR Clearance Rules ===
+==== IFR Clearance Rules ====
 
-=== Cruise Level Rules ===
+* We have not implemented any specific IFR Clearance or Flight Plan Validation rules at this point.
 
-== RVSM (feet) ==
 
-^ EVEN ^ IFR ^ ODD ^ 
-| 180º to 359º | IFR | 360º to 179º |
-| 020, 040, 060, 080, 100 | ::: | 010, 030, 050, 070, 090 |
-| 120, 140, 160, 180, 200 | ::: | 110, 130, 150, 170, 190 |
-| 220, 240, 260, 280, 300 | ::: | 210, 230, 250, 270, 290 |
-| 320, 340, 360, 380, 400 | ::: | 310, 330, 350, 370, 390 |
-| 430, 470, 510, 550, 590 | ::: | 410, 450, 490, 430, 570 |
-| |||
-| 180º to 359º | VFR | 360º to 179º |
-| 045, 065, 085, 105 | ::: | 035, 055, 075, 095 |
-| 125, 145 | ::: | 115, 135 |
+==== Cruise Level Rules ====
 
-  * The VFR flights are not allowed over and above the flight level 150 (DOC 7030 ICAO).
+  * Nigerian Airspace operates with the following RVSM standard table of Cruising Levels.
 
-=== Departure Procedures & Initial Climbs ===
+  * VFR flights are not allowed over and above the flight level 150 (DOC 7030 ICAO).
 
-  * GOBD does not have coded SID procedures, so, the runway heading rule will apply.
+{{page>icao-cruiselevels#RVSM Feet}}
 
-^ Rwy ^ Heading ^ Initial Climb ^ Remarks ^
-| 01 | 006 | 3000 ft | - |
-| 19 | 186 | 3000 ft | - |
-| //Please alert the pilots to the [[gobd-departure#noise_abatement_procedures|Noise Abatement Procedures]]// ||||
 
+==== Departure Procedures & Initial Climbs ====
+
+^ RWY ^ Fix ^ Departure ^ Type ^ Initial Climb ^ Remarks^
+| 18R | BUDSI | BUDS1Q | RNAV Departure | FL070 | - |
+| ::: | IBA | IBA1Q | ::: | FL070 | - |
+| ::: | ILKEL | ILKE1Q | ::: | FL070 | - |
+| ::: | UMUNA | UMUN1Q | ::: | FL070 | - |
+| ::: | BOTBO | BOTB1Q | ::: | FL070 | - |
+| ::: | PISBA | PISB1Q | ::: | FL070 | - |
+| ::: | POLTO | POLT1Q | ::: | FL070 | - |
+| 18L | BUDSI | BUDS1S | ::: | FL070 | - |
+| ::: | IBA | IBA1S | ::: | FL070 | - |
+| ::: | UMUNA | UMUN1S | ::: | FL120 | - |
+| ::: | UMUNA | UMUN2S | ::: | FL070 | - |
 
 {{page>dn-footer#DNMM}}

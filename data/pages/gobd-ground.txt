@@ -1,15 +1,13 @@
-==== GOBD Ground ====
+===== GOBD Ground =====
 
-=== Push-back Procedures ===
+==== Push-back Procedures ====
 
-== Phraseology ==
+=== Phraseology ===
 
-<code>
-CALLSIGN, push-back approved, facing DIRECTION.
-</code>
+{{page>phraseology-icao#Pushback Approved}}
 
 
-== Directions ==
+=== Directions ===
 
 ^ Apron     ^ Type              ^ Facing ^ Remarks ^
 | Apron G   | General Aviation  | South | - |
@@ -21,21 +19,19 @@ CALLSIGN, push-back approved, facing DIRECTION.
 | Apron VIP | VIP               | South | - |
 
 
-=== Taxi Out Procedures ===
+==== Taxi Out Procedures ===
 
   * When runway 01 is active, departing traffic shall be instructed to taxi to the runway via C and hold short H, allowing Tower Controllers to issue further instructions to taxi to C6 or C7 based on preferential departure separation.
 
   * When runway 19 is active, departing traffic shall be instructed to taxi to the runway via C and contact Tower after passing A1, allowing Tower Controllers to issue further instructions to taxi to C1 or C2 based on preferential departure separation.
 
 
-== Phraseology ==
+=== Phraseology ==
 
-<code>
-CALLSIGN, taxi via taxiway CHARLIE to holding point CHARLIE SEVEN.
-</code>
+{{page>phraseology-icao#Taxi to HP}}
 
 
-=== Taxi In Procedures ===
+==== Taxi In Procedures ====
 
   * In low traffic situations, Tower Controllers are expected to hand over arrival traffic to Ground Controllers once the traffic has vacated the runway. 
 
@@ -46,11 +42,9 @@ CALLSIGN, taxi via taxiway CHARLIE to holding point CHARLIE SEVEN.
   * The exception with this rule is traffic landing on runway 19 and wishing to vacate at the end to Apron V. In this situation, Tower Controllers will maintain control of the aircraft.
 
 
-== Phraseology ==
+=== Phraseology ===
 
-<code>
-CALLSIGN, welcome to Dakar. Taxi to STAND ALPHA SEVEN via taxiway CHARLIE, ALPHA THREE.
-</code>
+{{page>phraseology-icao#Taxi to Stand}}
 
 
 {{page>go-footer#GOBD}}

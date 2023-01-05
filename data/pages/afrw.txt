@@ -1,0 +1,5 @@
+===== AFRW | Africa West | FSS =====
+
+{{tabembed>afrw-about|About,afrw-sectors|Sectors,afrw-rules|Rules,eur-sam|EUR-SAM,aorra|AORRA,afrw-loa|Agreements,afrw-sectorfile|Sector File,alias-fss|Alias}}
+
+{{page>fss-footer#AFRW}}

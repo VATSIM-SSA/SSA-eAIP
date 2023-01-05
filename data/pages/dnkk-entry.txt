@@ -1,0 +1,4 @@
+===== DNKK Kano FIR Entry =====
+
+^ Entry Fix ^ Airway ^ Destination
+| TENTU | UR981 | DNMM

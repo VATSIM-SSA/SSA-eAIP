@@ -1,0 +1,3 @@
+===== Mauritius | FI | FIMP =====
+
+{{tabembed>mauritius-about|About,mauritius-airspace|Airspace,mauritius-airports|Airports}}

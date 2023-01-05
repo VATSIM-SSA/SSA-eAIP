@@ -1,0 +1,8 @@
+===== FSIA Charts =====
+
+Unfortunately, Seychelles does not provide publicly accessible navigational charts for its airspace or airports.
+
+So, the most we can do at this point is to offer you a link to the Seychelles Civil Aviation website, to an AIRAC Ammendment PDF that contains most of the charts to FSIA -  [[https://www.scaa.sc/files/AIRAC%20AMDT%2001-15.pdf|PDF]].
+
+
+{{page>fs-footer#FSIA}}

@@ -1,0 +1,7 @@
+===== Africa West Sector File =====
+
+  * Lorem
+
+
+
+{{page>fss-footer#AFRW}}

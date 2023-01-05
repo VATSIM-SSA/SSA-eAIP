@@ -1,0 +1,68 @@
+===== DNKK Kano Agreements =====
+
+==== External (Neighours) ====
+
+=== DRRR Niamey ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== FTTT N'Djamena ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+==== External (Division) ====
+
+=== DGAC Accra ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== FCCC Brazzaville ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== DGAO Accra Oceanic ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+==== Internal (DNKK) ====
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| //Notes// |||||||
+
+
+{{page>dn-footer#DNKK}}
+

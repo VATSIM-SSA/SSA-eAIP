@@ -1,0 +1,106 @@
+===== Sector Files AIRAC 2212 Changelog =====
+
+==== DGAC ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== DNKK ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== FASA ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== FBGR ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== FCCC ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== FIMM ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== FLFI ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== FMMM ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== FMMM ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== FNAN ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== FQBE ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== FSSS ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== FVHF ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== FWLL ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== FYWF ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== FZZA ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== GOOO ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== GVSC ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== HKNA ====
+
+  * NavData Updated to AIRAC 2212.
+  * [[HKMO]] Mombasa Arrivals, Approaches and Departures updated on Topsky and GroundRadar Maps.
+
+==== HTDC ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== HUEC ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== AFRC ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== AFRS ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== AFRW ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== AFOS ====
+
+  * NavData Updated to AIRAC 2212.
+
+==== AFOW ====
+
+  * NavData Updated to AIRAC 2212.

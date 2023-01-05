@@ -1,0 +1,3 @@
+===== Seychelles | FS | FSIA =====
+
+{{tabembed>seychelles-about|About,seychelles-airspace|Airspace,seychelles-airports|Airports}}

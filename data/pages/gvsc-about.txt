@@ -1,0 +1,5 @@
+===== GVSC Sal Flight Information Region =====
+
+  * The Sal FIR covers the entirety of [[Cape Verde]]'s borders. It is neighbored by [[GOOO|Dakar]] FIR in the East, the Canaries and Santa Maria FIRs to the North and [[GOOOO|Dakar Oceanic]] to the South.
+
+{{page>gv-footer#GVSC}}

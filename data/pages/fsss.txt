@@ -1,0 +1,6 @@
+===== FSSS | Seychelles Continental =====
+
+{{tabembed>fsss-about|About,fsss-classification|Classification,fsss-sectors|Sectors,fsss-rules|Rules,fsss-transitions|TA/TL,fsss-loa|Agreements,fsss-sectorfile|Sector File,alias-std|Alias}}
+
+
+{{page>fs-footer#Seychelles}}

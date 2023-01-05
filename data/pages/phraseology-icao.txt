@@ -1,0 +1,71 @@
+===== Phraseology (ICAO) =====
+
+==== Ground Operations ====
+
+=== Delivery Procedures ===
+
+== Delivery Clearance ==
+
+<code>
+CALLSIGN, cleared to DESTINATION as filed, via DEPARTURE_PROCEDURE runway NUMBER, initial climb ALTITUDE, squawk NUMBER.
+</code>
+
+=== Pushback Procedures ===
+
+== Pushback Approved ==
+
+<code>
+CALLSIGN, pushback approved, facing DIRECTION.
+</code>
+
+=== Taxi Procedures ===
+
+== Taxi to HP ==
+
+<code>
+CALLSIGN,taxi to holding point NUMBER runway NUMBER via ROUTE, time TIME, hold short of runway NUMBER.
+</code>
+
+== Taxi to Stand ==
+
+<code>
+CALLSIGN,taxi to stand NUMBER via ROUTE.
+</code>
+
+==== Tower Operations ====
+
+=== Runway Operations ===
+
+== Takeoff Clearance ==
+
+<code>
+CALLSIGN, surface wind DIRECTION degrees SPEED knots, runway NUMBER, cleared for takeoff (report airborne).
+</code>
+
+==== Approach Operations ====
+
+=== Approach Procedures ===
+
+== ILS Approach Clearance ==
+
+<code>
+CALLSIGN, cleared ILS Approach runway NUMBER, report established.
+</code>
+
+== RNAV Approach Straight In Clearance ==
+
+<code>
+CALLSIGN, cleared direct STRAIGHT_IN_RNAV_IAF, maintain at or above ALTITUDE until STRAIGHT_IN_RNAV_IAF, cleared straight-in RNAV runway NUMBER, QNH PRESSURE.
+</code>
+
+== RNAV Approach Step Down Clearance ==
+
+<code>
+CALLSIGN, cleared direct STEPDOWN_RNAV_FIX, cross STEPDOWN_RNAV_FIX at or above ALTITUDE, cleared RNAV runway NUMBER, QNH PRESSURE.
+</code>
+
+== RNAV Approach Lateral Clearance ==
+
+<code>
+CALLSIGN, cleared direct LATERAL_RNAV_IAF, maintain at or above ALTITUDE until LATERAL_RNAV_IAF, cleared RNAV runway NUMBER, LATERAL_RNAV_IAF transition, QNH PRESSURE.
+</code>

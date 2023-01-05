@@ -1,1 +1,7 @@
-==== HKJK Charts ====
+===== HKJK Charts =====
+
+Unfortunately, Kenya does not provide publicly accessible navigational charts for its airspace or airports.
+
+So, the most we can do at this point is to offer you a link to Google's [[https://www.google.com/search?q=HKJK+Charts|Search Results]].
+
+{{page>hk-footer#HKJK}}

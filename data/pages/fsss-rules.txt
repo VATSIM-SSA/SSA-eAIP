@@ -1,0 +1,27 @@
+===== FSSS Seychelles Airspace Rules =====
+
+==== Separation ====
+
+  * ATC shall apply 10 minutes (or 100NM) lateral separation minima to aircraft which are approved for RNP 10 operations on all ATS routes implemented within the Seychelles FIR.
+  * Satellite based ADS-B coverage is NOT available in the Seychelles FIR. It is expected to come online at the end of 2023.
+  * Position Reporting can be simulated via ADS-C/CPDLC.
+
+=== Vertical Separation ===
+
+  * Separation of 1000 ft in RVSM airspace and below then 2000 ft above RVSM airspace
+
+=== Horizontal Separation ===
+
+  * A longitudinal separation of 10 minutes or 100NM shall be applied between aircraft equipped in accordance with RNP 10 navigation requirements, when operating on ATS Routes within Seychelles FIR.
+
+==== SELCAL ====
+
+  * Seychelles offers SELCAL capabilities.
+
+==== SLOP ====
+
+  * Offsets may be applied beyond 200NM radius from the PRA DME and above FL290 in the oceanic airspace of the Seychelles FIR.
+  * Pilots are advised to coordinate offset on UNICOM (122.800).
+
+
+{{page>fs-footer#FSSS}}

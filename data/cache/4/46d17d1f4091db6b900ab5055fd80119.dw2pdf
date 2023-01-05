@@ -1,0 +1,1115 @@
+<a name="dnkk__"></a>
+<h2><bookmark content=" DNKK | Kano | DNKK" level="1" /><a name="dnkk__dnkk_kano_dnkk">DNKK | Kano | DNKK</a></h2>
+<div class="level2">
+
+<p>
+<div id="dwpl-ti-container">
+<ul class="dwpl-ti">
+<li class="dwpl-ti-tab"><div class="dwpl-ti-tab-embd-title selected">About</div></li>
+</li>
+<li class="dwpl-ti-tab"><div class="dwpl-ti-tab-embd-title">Sectors</div></li>
+</li>
+<li class="dwpl-ti-tab"><div class="dwpl-ti-tab-embd-title">Rules</div></li>
+</li>
+<li class="dwpl-ti-tab"><div class="dwpl-ti-tab-embd-title">TA/TL</div></li>
+</li>
+<li class="dwpl-ti-tab"><div class="dwpl-ti-tab-embd-title">Agreements</div></li>
+</li>
+<li class="dwpl-ti-tab"><div class="dwpl-ti-tab-embd-title">FRA</div></li>
+</li>
+<li class="dwpl-ti-tab"><div class="dwpl-ti-tab-embd-title">Sector File</div></li>
+</li>
+</ul>
+<div class="dwpl-ti-content-box"><div id="dwpl-ti-content" class="dwpl-ti-content"><div class="dwpl-ti-tab-embd"><div class="dwpl-ti-permalink-header"><a href="/dnkk-about" >>> Go to this page.</a></div>
+
+<h2 class="sectionedit1" id="dnkk_kano_flight_information_region">DNKK Kano Flight Information Region</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> The Kano FIR covers the entirety of Nigeria&#039;s borders. It is neighbored by Accra FIR in the West, the Niamey FIR in the North, the N&#039;Djamena FIR, the Northeast and Brazzaville in the East and Accra Oceanic in the South.</div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_start&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;0-&quot;} --><div class="plugin_include_content plugin_include__dn-footer">
+<div class="level2">
+<hr />
+
+<p>
+<a href="/dnkk" class="wikilink1" title="dnkk" data-wiki-id="dnkk">DNKK</a> Kano FIR | v0.1
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_editbtn&quot;,&quot;name&quot;:&quot;DNKK&quot;,&quot;hid&quot;:null,&quot;secid&quot;:4,&quot;range&quot;:&quot;0-&quot;} --><!-- EDIT{&quot;target&quot;:&quot;plugin_include_end&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:3,&quot;range&quot;:&quot;0-&quot;} --></div>
+<div class="level2">
+
+</div>
+<div class="dwpl-ti-permalink-footer"><a href="/dnkk-about" >>> Go to this page.</a></div>
+</div></div>
+<div id="dwpl-ti-content" class="dwpl-ti-content"><div class="dwpl-ti-tab-embd hidden"><div class="dwpl-ti-permalink-header"><a href="/dnkk-sectors" >>> Go to this page.</a></div>
+
+<h2 class="sectionedit1" id="dnkk_kano_sectors">DNKK Kano Sectors</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> Kano East covers Kano West if offline.</div>
+</li>
+<li class="level1"><div class="li"> Kano East covers Lagos West if offline.</div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;DNKK Kano Sectors&quot;,&quot;hid&quot;:&quot;dnkk_kano_sectors&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;1-119&quot;} -->
+<h3 class="sectionedit2" id="kano_sector_east">Kano Sector East</h3>
+<div class="level3">
+<div class="table sectionedit3"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> Position  </th><th class="col1 leftalign"> Callsign          </th><th class="col2"> Frequency </th><th class="col3"> CPDLC </th><th class="col4"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 leftalign"> DNKK_CTR  </td><td class="col1 leftalign"> Kano East   </td><td class="col2 leftalign"> 124.100   </td><td class="col3"> DNKC </td><td class="col4"> - </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:3,&quot;range&quot;:&quot;148-262&quot;} --><div class="table sectionedit4"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> Airspace      </th><th class="col1"> Class </th><th class="col2 leftalign"> Owner     </th><th class="col3 leftalign"> Limits        </th><th class="col4"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 leftalign"> Kano Sector East   </td><td class="col1 leftalign"> D     </td><td class="col2 leftalign"> DNKK_CTR  </td><td class="col3 leftalign"> A035 - FL145   </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> Kano Sector East   </td><td class="col1 leftalign"> A     </td><td class="col2 leftalign"> DNKK_CTR  </td><td class="col3"> FL145 - UNLTD </td><td class="col4"> - </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:4,&quot;range&quot;:&quot;264-454&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Kano Sector East&quot;,&quot;hid&quot;:&quot;kano_sector_east&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;120-455&quot;} -->
+<h3 class="sectionedit5" id="kano_sector_west">Kano Sector West</h3>
+<div class="level3">
+<div class="table sectionedit6"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> Position  </th><th class="col1 leftalign"> Callsign          </th><th class="col2"> Frequency </th><th class="col3"> CPDLC </th><th class="col4"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 leftalign"> DNKK_W_CTR  </td><td class="col1 leftalign"> Kano West   </td><td class="col2 leftalign"> 128.500   </td><td class="col3"> DNKW </td><td class="col4"> - </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table2&quot;,&quot;secid&quot;:6,&quot;range&quot;:&quot;484-600&quot;} --><div class="table sectionedit7"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> Airspace      </th><th class="col1"> Class </th><th class="col2 leftalign"> Owner     </th><th class="col3 leftalign"> Limits        </th><th class="col4"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 leftalign"> Kano Sector West   </td><td class="col1 leftalign"> D     </td><td class="col2 leftalign"> DNKK_W_CTR  </td><td class="col3 leftalign"> A035 - FL145   </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> Kano Sector West   </td><td class="col1 leftalign"> A     </td><td class="col2 leftalign"> DNKK_W_CTR  </td><td class="col3"> FL145 - UNLTD </td><td class="col4"> - </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table3&quot;,&quot;secid&quot;:7,&quot;range&quot;:&quot;602-796&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Kano Sector West&quot;,&quot;hid&quot;:&quot;kano_sector_west&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:5,&quot;range&quot;:&quot;456-798&quot;} -->
+<h3 class="sectionedit8" id="lagos_acc">Lagos ACC</h3>
+<div class="level3">
+<div class="table sectionedit9"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> Position  </th><th class="col1 leftalign"> Callsign          </th><th class="col2"> Frequency </th><th class="col3"> CPDLC </th><th class="col4"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 leftalign"> DNMM_CTR  </td><td class="col1 leftalign"> Lagos West   </td><td class="col2 leftalign"> 120.900   </td><td class="col3"> DNKW </td><td class="col4"> - </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table4&quot;,&quot;secid&quot;:9,&quot;range&quot;:&quot;820-935&quot;} --><div class="table sectionedit10"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> Airspace      </th><th class="col1"> Class </th><th class="col2 leftalign"> Owner     </th><th class="col3 leftalign"> Limits        </th><th class="col4"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 leftalign"> Lagos ACC   </td><td class="col1 leftalign"> B     </td><td class="col2 leftalign"> DNMM_CTR  </td><td class="col3 leftalign"> FL045 - FL145   </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> Lagos ACC   </td><td class="col1 leftalign"> A     </td><td class="col2 leftalign"> DNMM_CTR  </td><td class="col3"> FL145 - UNLTD </td><td class="col4"> - </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table5&quot;,&quot;secid&quot;:10,&quot;range&quot;:&quot;937-1114&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_start&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:11,&quot;range&quot;:&quot;0-&quot;} --><div class="plugin_include_content plugin_include__dn-footer">
+<div class="level3">
+<hr />
+
+<p>
+<a href="/dnkk" class="wikilink1" title="dnkk" data-wiki-id="dnkk">DNKK</a> Kano FIR | v0.1
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_editbtn&quot;,&quot;name&quot;:&quot;DNKK&quot;,&quot;hid&quot;:null,&quot;secid&quot;:13,&quot;range&quot;:&quot;0-&quot;} --><!-- EDIT{&quot;target&quot;:&quot;plugin_include_end&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:12,&quot;range&quot;:&quot;0-&quot;} --></div>
+<div class="level3">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Lagos ACC&quot;,&quot;hid&quot;:&quot;lagos_acc&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:8,&quot;range&quot;:&quot;799-&quot;} --><div class="dwpl-ti-permalink-footer"><a href="/dnkk-sectors" >>> Go to this page.</a></div>
+</div></div>
+<div id="dwpl-ti-content" class="dwpl-ti-content"><div class="dwpl-ti-tab-embd hidden"><div class="dwpl-ti-permalink-header"><a href="/dnkk-rules" >>> Go to this page.</a></div>
+
+<h2 class="sectionedit1" id="dnkk_kano_airspace_rules">DNKK Kano Airspace Rules</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;DNKK Kano Airspace Rules&quot;,&quot;hid&quot;:&quot;dnkk_kano_airspace_rules&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;1-38&quot;} -->
+<h3 class="sectionedit2" id="separation">Separation</h3>
+<div class="level3">
+<ul>
+<li class="level1"><div class="li"> Satellite based ADS-B coverage is available in the Kano sector and as such, the following separation standards are to be applied:</div>
+</li>
+</ul>
+
+</div>
+
+<h4 id="vertical_separation">Vertical Separation</h4>
+<div class="level4">
+<ul>
+<li class="level1"><div class="li"> Separation of 1000 ft in RVSM airspace and below then 2000 ft above RVSM airspace</div>
+</li>
+</ul>
+
+</div>
+
+<h4 id="horizontal_separation">Horizontal Separation</h4>
+<div class="level4">
+<ul>
+<li class="level1"><div class="li"> Separation of 5 NM between position symbols but may be increased to 10 NM if required.</div>
+</li>
+<li class="level1"><div class="li"> Separation of 5 NM between position symbol between an aircraft in Climb or Descent configuration and another stable aircraft at a flight level provided that the climbing or descending aircraft crosses the level of stable traffic only behind said traffic. </div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Separation&quot;,&quot;hid&quot;:&quot;separation&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;39-695&quot;} -->
+<h3 class="sectionedit3" id="selcal">SELCAL</h3>
+<div class="level3">
+<ul>
+<li class="level1"><div class="li"> DNKK Kano does NOT offer SELCAL capabilities.</div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;SELCAL&quot;,&quot;hid&quot;:&quot;selcal&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:3,&quot;range&quot;:&quot;696-764&quot;} -->
+<h3 class="sectionedit4" id="slop">SLOP</h3>
+<div class="level3">
+<ul>
+<li class="level1"><div class="li"> The use of SLOP at DNKK Kano is in compliance with provisions in ICAO Doc. 4444, between flight level FL290 and FL410 on all enroute ATS routes.</div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;SLOP&quot;,&quot;hid&quot;:&quot;slop&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:4,&quot;range&quot;:&quot;765-930&quot;} -->
+<h3 class="sectionedit5" id="vfr_rules">VFR Rules</h3>
+<div class="level3">
+<ul>
+<li class="level1"><div class="li"> Flights over populous areas are not allowed below 1500 ft above the highest obstacle within a radius of 2000 ft from the aircraft.</div>
+</li>
+<li class="level1"><div class="li"> </div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_start&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:6,&quot;range&quot;:&quot;0-&quot;} --><div class="plugin_include_content plugin_include__dn-footer">
+<div class="level3">
+<hr />
+
+<p>
+<a href="/dnkk" class="wikilink1" title="dnkk" data-wiki-id="dnkk">DNKK</a> Kano FIR | v0.1
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_editbtn&quot;,&quot;name&quot;:&quot;DNKK&quot;,&quot;hid&quot;:null,&quot;secid&quot;:8,&quot;range&quot;:&quot;0-&quot;} --><!-- EDIT{&quot;target&quot;:&quot;plugin_include_end&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:7,&quot;range&quot;:&quot;0-&quot;} --></div>
+<div class="level3">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;VFR Rules&quot;,&quot;hid&quot;:&quot;vfr_rules&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:5,&quot;range&quot;:&quot;931-&quot;} --><div class="dwpl-ti-permalink-footer"><a href="/dnkk-rules" >>> Go to this page.</a></div>
+</div></div>
+<div id="dwpl-ti-content" class="dwpl-ti-content"><div class="dwpl-ti-tab-embd hidden"><div class="dwpl-ti-permalink-header"><a href="/dnkk-transitions" >>> Go to this page.</a></div>
+
+<h2 class="sectionedit1" id="dnkk_kano_transition_table">DNKK Kano Transition Table</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_start&quot;,&quot;name&quot;:&quot;ssa-transition-table&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;0-&quot;} --><div class="plugin_include_content plugin_include__ssa-transition-table">
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> Some airfields within SSA have published fixed Transition Levels. In this case, use the published transition level. </div>
+</li>
+<li class="level1"><div class="li"> CAUTION – With a fixed Transition Level, it may mean less than 1,000 ft separation exists between aircraft operating at the Transition Altitude and Transition Level depending on the QNH.</div>
+</li>
+<li class="level1"><div class="li"> Where a fixed transition level is not published, use the table below to determine the transition level.</div>
+</li>
+</ul>
+<div class="table sectionedit4"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> QNH           </th><th class="col1 leftalign"> 2000  </th><th class="col2 leftalign"> 3000  </th><th class="col3 leftalign"> 4000  </th><th class="col4 leftalign"> 5000  </th><th class="col5 leftalign"> 6000  </th><th class="col6 leftalign"> 7000  </th><th class="col7 leftalign"> 8000  </th><th class="col8 leftalign"> 9000  </th><th class="col9"> 10000 </th><th class="col10"> 14000 </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 leftalign"> 1060 - 1050   </td><td class="col1"> FL020 </td><td class="col2"> FL030 </td><td class="col3"> FL040 </td><td class="col4"> FL050 </td><td class="col5"> FL060 </td><td class="col6"> FL070 </td><td class="col7"> FL080 </td><td class="col8"> FL090 </td><td class="col9"> FL100 </td><td class="col10"> FL140 </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> 1049 - 1032   </td><td class="col1"> FL025 </td><td class="col2"> FL035 </td><td class="col3"> FL045 </td><td class="col4"> FL055 </td><td class="col5"> FL065 </td><td class="col6"> FL075 </td><td class="col7"> FL085 </td><td class="col8"> FL095 </td><td class="col9"> FL105 </td><td class="col10"> FL145 </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign"> 1031 - 1014   </td><td class="col1"> FL030 </td><td class="col2"> FL040 </td><td class="col3"> FL050 </td><td class="col4"> FL060 </td><td class="col5"> FL070 </td><td class="col6"> FL080 </td><td class="col7"> FL090 </td><td class="col8"> FL100 </td><td class="col9"> FL110 </td><td class="col10"> FL150 </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign"> 1013 - 995    </td><td class="col1"> FL035 </td><td class="col2"> FL045 </td><td class="col3"> FL055 </td><td class="col4"> FL065 </td><td class="col5"> FL075 </td><td class="col6"> FL085 </td><td class="col7"> FL095 </td><td class="col8"> FL105 </td><td class="col9"> FL115 </td><td class="col10"> FL155 </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:4,&quot;range&quot;:&quot;484-977&quot;} --><ul>
+<li class="level1"><div class="li"> Although the Transition Level may not be a ‘whole’ flight level. Commonly the ‘Lowest Useful Flight Level’ will be the nearest ‘whole’ flight level. E.g. FL85 would be FL90 (Always round up)</div>
+</li>
+</ul>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_editbtn&quot;,&quot;name&quot;:&quot;Dynamic Transition&quot;,&quot;hid&quot;:null,&quot;secid&quot;:5,&quot;range&quot;:&quot;0-&quot;} --><!-- EDIT{&quot;target&quot;:&quot;plugin_include_end&quot;,&quot;name&quot;:&quot;ssa-transition-table&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:3,&quot;range&quot;:&quot;0-&quot;} --></div>
+<div class="level2">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_start&quot;,&quot;name&quot;:&quot;ssa-transition-table&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:6,&quot;range&quot;:&quot;0-&quot;} --><div class="plugin_include_content plugin_include__ssa-transition-table">
+<div class="level2">
+<div class="table sectionedit8"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> Airport   </th><th class="col1 leftalign"> Transition Altitude   </th><th class="col2"> Transition Level (If Fixed) </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 leftalign"> <a href="/dnaa" class="wikilink2" title="dnaa" rel="nofollow" data-wiki-id="dnaa">DNAA</a>  </td><td class="col1 leftalign"> 5000 ft               </td><td class="col2"> FL 065 </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> <a href="/dnai" class="wikilink2" title="dnai" rel="nofollow" data-wiki-id="dnai">DNAI</a>  </td><td class="col1 leftalign"> 3500 ft               </td><td class="col2"> FL 050 </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign"> <a href="/dnak" class="wikilink2" title="dnak" rel="nofollow" data-wiki-id="dnak">DNAK</a>  </td><td class="col1 leftalign"> 5500 ft               </td><td class="col2"> FL 070 </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign"> <a href="/dnbc" class="wikilink2" title="dnbc" rel="nofollow" data-wiki-id="dnbc">DNBC</a>  </td><td class="col1 leftalign"> 5000 ft               </td><td class="col2"> FL 065 </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0 leftalign"> <a href="/dnbe" class="wikilink2" title="dnbe" rel="nofollow" data-wiki-id="dnbe">DNBE</a>  </td><td class="col1 leftalign"> 3500 ft               </td><td class="col2"> FL 050 </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0 leftalign"> <a href="/dnbk" class="wikilink2" title="dnbk" rel="nofollow" data-wiki-id="dnbk">DNBK</a>  </td><td class="col1 leftalign"> 5000 ft               </td><td class="col2"> FL 065 </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0 leftalign"> <a href="/dnca" class="wikilink2" title="dnca" rel="nofollow" data-wiki-id="dnca">DNCA</a>  </td><td class="col1 leftalign"> 5000 ft               </td><td class="col2"> FL 065 </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0 leftalign"> <a href="/dnds" class="wikilink2" title="dnds" rel="nofollow" data-wiki-id="dnds">DNDS</a>  </td><td class="col1 leftalign"> 5000 ft               </td><td class="col2"> FL 065 </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0 leftalign"> <a href="/dngo" class="wikilink2" title="dngo" rel="nofollow" data-wiki-id="dngo">DNGO</a>  </td><td class="col1 leftalign"> 5000 ft               </td><td class="col2"> FL 065 </td>
+	</tr>
+	<tr class="row10">
+		<td class="col0 leftalign"> <a href="/dnib" class="wikilink2" title="dnib" rel="nofollow" data-wiki-id="dnib">DNIB</a>  </td><td class="col1 leftalign"> 3500 ft               </td><td class="col2"> FL 050 </td>
+	</tr>
+	<tr class="row11">
+		<td class="col0 leftalign"> <a href="/dnil" class="wikilink2" title="dnil" rel="nofollow" data-wiki-id="dnil">DNIL</a>  </td><td class="col1 leftalign"> 3500 ft               </td><td class="col2"> FL 050 </td>
+	</tr>
+	<tr class="row12">
+		<td class="col0 leftalign"> <a href="/dnjo" class="wikilink2" title="dnjo" rel="nofollow" data-wiki-id="dnjo">DNJO</a>  </td><td class="col1 leftalign"> 8500 ft               </td><td class="col2"> FL 100 </td>
+	</tr>
+	<tr class="row13">
+		<td class="col0 leftalign"> <a href="/dnka" class="wikilink2" title="dnka" rel="nofollow" data-wiki-id="dnka">DNKA</a>  </td><td class="col1 leftalign"> 5000 ft               </td><td class="col2"> FL 065 </td>
+	</tr>
+	<tr class="row14">
+		<td class="col0 leftalign"> <a href="/dnkn" class="wikilink2" title="dnkn" rel="nofollow" data-wiki-id="dnkn">DNKN</a>  </td><td class="col1 leftalign"> 4000 ft               </td><td class="col2"> FL 050 </td>
+	</tr>
+	<tr class="row15">
+		<td class="col0 leftalign"> <a href="/dnkt" class="wikilink2" title="dnkt" rel="nofollow" data-wiki-id="dnkt">DNKT</a>  </td><td class="col1 leftalign"> 5000 ft               </td><td class="col2"> FL 065 </td>
+	</tr>
+	<tr class="row16">
+		<td class="col0 leftalign"> <a href="/dnma" class="wikilink2" title="dnma" rel="nofollow" data-wiki-id="dnma">DNMA</a>  </td><td class="col1 leftalign"> 3500 ft               </td><td class="col2"> FL 050 </td>
+	</tr>
+	<tr class="row17">
+		<td class="col0 leftalign"> <a href="/dnmm" class="wikilink1" title="dnmm" data-wiki-id="dnmm">DNMM</a>  </td><td class="col1 leftalign"> 3500 ft               </td><td class="col2"> FL 050 </td>
+	</tr>
+	<tr class="row18">
+		<td class="col0 leftalign"> <a href="/dnmn" class="wikilink2" title="dnmn" rel="nofollow" data-wiki-id="dnmn">DNMN</a>  </td><td class="col1 leftalign"> 4500 ft               </td><td class="col2"> FL 060 </td>
+	</tr>
+	<tr class="row19">
+		<td class="col0 leftalign"> <a href="/dnpo" class="wikilink2" title="dnpo" rel="nofollow" data-wiki-id="dnpo">DNPO</a>  </td><td class="col1 leftalign"> 3500 ft               </td><td class="col2"> FL 050 </td>
+	</tr>
+	<tr class="row20">
+		<td class="col0 leftalign"> <a href="/dnso" class="wikilink2" title="dnso" rel="nofollow" data-wiki-id="dnso">DNSO</a>  </td><td class="col1 leftalign"> 5000 ft               </td><td class="col2"> FL 065 </td>
+	</tr>
+	<tr class="row21">
+		<td class="col0 leftalign"> <a href="/dnsu" class="wikilink2" title="dnsu" rel="nofollow" data-wiki-id="dnsu">DNSU</a>  </td><td class="col1 leftalign"> 3000 ft               </td><td class="col2"> FL 050 </td>
+	</tr>
+	<tr class="row22">
+		<td class="col0 leftalign"> <a href="/dnyo" class="wikilink2" title="dnyo" rel="nofollow" data-wiki-id="dnyo">DNYO</a>  </td><td class="col1 leftalign"> 5000 ft               </td><td class="col2"> FL 065 </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:8,&quot;range&quot;:&quot;1642-2743&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_editbtn&quot;,&quot;name&quot;:&quot;DNKK&quot;,&quot;hid&quot;:null,&quot;secid&quot;:9,&quot;range&quot;:&quot;0-&quot;} --><!-- EDIT{&quot;target&quot;:&quot;plugin_include_end&quot;,&quot;name&quot;:&quot;ssa-transition-table&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:7,&quot;range&quot;:&quot;0-&quot;} --></div>
+<div class="level2">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_start&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:10,&quot;range&quot;:&quot;0-&quot;} --><div class="plugin_include_content plugin_include__dn-footer">
+<div class="level2">
+<hr />
+
+<p>
+<a href="/dnkk" class="wikilink1" title="dnkk" data-wiki-id="dnkk">DNKK</a> Kano FIR | v0.1
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_editbtn&quot;,&quot;name&quot;:&quot;DNKK&quot;,&quot;hid&quot;:null,&quot;secid&quot;:12,&quot;range&quot;:&quot;0-&quot;} --><!-- EDIT{&quot;target&quot;:&quot;plugin_include_end&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:11,&quot;range&quot;:&quot;0-&quot;} --></div>
+<div class="level2">
+
+</div>
+<div class="dwpl-ti-permalink-footer"><a href="/dnkk-transitions" >>> Go to this page.</a></div>
+</div></div>
+<div id="dwpl-ti-content" class="dwpl-ti-content"><div class="dwpl-ti-tab-embd hidden"><div class="dwpl-ti-permalink-header"><a href="/dnkk-loa" >>> Go to this page.</a></div>
+
+<h2 class="sectionedit1" id="dnkk_kano_agreements">DNKK Kano Agreements</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;DNKK Kano Agreements&quot;,&quot;hid&quot;:&quot;dnkk_kano_agreements&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;1-34&quot;} -->
+<h3 class="sectionedit2" id="external_neighours">External (Neighours)</h3>
+<div class="level3">
+
+</div>
+
+<h4 id="drrr_niamey">DRRR Niamey</h4>
+<div class="level4">
+<div class="table sectionedit3"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> From      </th><th class="col1 leftalign"> To        </th><th class="col2 leftalign"> Dest. ICAO    </th><th class="col3 leftalign"> Fix/Airway    </th><th class="col4 leftalign"> Agreement     </th><th class="col5 leftalign"> Conditions    </th><th class="col6"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0" colspan="7"> <strong>SECTOR INBOUND</strong> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> ICAO_CTR 	</td><td class="col1 leftalign"> ICAO_CTR  </td><td class="col2 leftalign"> ICAO          </td><td class="col3 leftalign"> -             </td><td class="col4 centeralign">    -           </td><td class="col5 leftalign"> -             </td><td class="col6"> - </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0" colspan="7"> <strong>SECTOR OUTBOUND</strong> </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign"> ICAO_CTR 	</td><td class="col1 leftalign"> ICAO_CTR  </td><td class="col2 leftalign"> ICAO          </td><td class="col3 leftalign"> -             </td><td class="col4 centeralign">    -           </td><td class="col5 leftalign"> -             </td><td class="col6"> - </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0" colspan="7"> <em>Notes</em> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:3,&quot;range&quot;:&quot;88-456&quot;} -->
+</div>
+
+<h4 id="fttt_n_djamena">FTTT N&#039;Djamena</h4>
+<div class="level4">
+<div class="table sectionedit4"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> From      </th><th class="col1 leftalign"> To        </th><th class="col2 leftalign"> Dest. ICAO    </th><th class="col3 leftalign"> Fix/Airway    </th><th class="col4 leftalign"> Agreement     </th><th class="col5 leftalign"> Conditions    </th><th class="col6"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0" colspan="7"> <strong>SECTOR INBOUND</strong> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> ICAO_CTR 	</td><td class="col1 leftalign"> ICAO_CTR  </td><td class="col2 leftalign"> ICAO          </td><td class="col3 leftalign"> -             </td><td class="col4 centeralign">    -           </td><td class="col5 leftalign"> -             </td><td class="col6"> - </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0" colspan="7"> <strong>SECTOR OUTBOUND</strong> </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign"> ICAO_CTR 	</td><td class="col1 leftalign"> ICAO_CTR  </td><td class="col2 leftalign"> ICAO          </td><td class="col3 leftalign"> -             </td><td class="col4 centeralign">    -           </td><td class="col5 leftalign"> -             </td><td class="col6"> - </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0" colspan="7"> <em>Notes</em> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:4,&quot;range&quot;:&quot;483-851&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;External (Neighours)&quot;,&quot;hid&quot;:&quot;external_neighours&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;35-853&quot;} -->
+<h3 class="sectionedit5" id="external_division">External (Division)</h3>
+<div class="level3">
+
+</div>
+
+<h4 id="dgac_accra">DGAC Accra</h4>
+<div class="level4">
+<div class="table sectionedit6"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> From      </th><th class="col1 leftalign"> To        </th><th class="col2 leftalign"> Dest. ICAO    </th><th class="col3 leftalign"> Fix/Airway    </th><th class="col4 leftalign"> Agreement     </th><th class="col5 leftalign"> Conditions    </th><th class="col6"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0" colspan="7"> <strong>SECTOR INBOUND</strong> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> ICAO_CTR 	</td><td class="col1 leftalign"> ICAO_CTR  </td><td class="col2 leftalign"> ICAO          </td><td class="col3 leftalign"> -             </td><td class="col4 centeralign">     -          </td><td class="col5 leftalign"> -             </td><td class="col6"> - </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0" colspan="7"> <strong>SECTOR OUTBOUND</strong> </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign"> ICAO_CTR 	</td><td class="col1 leftalign"> ICAO_CTR  </td><td class="col2 leftalign"> ICAO          </td><td class="col3 leftalign"> -             </td><td class="col4 centeralign">    -           </td><td class="col5 leftalign"> -             </td><td class="col6"> - </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0" colspan="7"> <em>Notes</em> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table2&quot;,&quot;secid&quot;:6,&quot;range&quot;:&quot;905-1273&quot;} -->
+</div>
+
+<h4 id="fccc_brazzaville">FCCC Brazzaville</h4>
+<div class="level4">
+<div class="table sectionedit7"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> From      </th><th class="col1 leftalign"> To        </th><th class="col2 leftalign"> Dest. ICAO    </th><th class="col3 leftalign"> Fix/Airway    </th><th class="col4 leftalign"> Agreement     </th><th class="col5 leftalign"> Conditions    </th><th class="col6"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0" colspan="7"> <strong>SECTOR INBOUND</strong> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> ICAO_CTR 	</td><td class="col1 leftalign"> ICAO_CTR  </td><td class="col2 leftalign"> ICAO          </td><td class="col3 leftalign"> -             </td><td class="col4 centeralign">     -          </td><td class="col5 leftalign"> -             </td><td class="col6"> - </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0" colspan="7"> <strong>SECTOR OUTBOUND</strong> </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign"> ICAO_CTR 	</td><td class="col1 leftalign"> ICAO_CTR  </td><td class="col2 leftalign"> ICAO          </td><td class="col3 leftalign"> -             </td><td class="col4 centeralign">    -           </td><td class="col5 leftalign"> -             </td><td class="col6"> - </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0" colspan="7"> <em>Notes</em> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table3&quot;,&quot;secid&quot;:7,&quot;range&quot;:&quot;1302-1670&quot;} -->
+</div>
+
+<h4 id="dgao_accra_oceanic">DGAO Accra Oceanic</h4>
+<div class="level4">
+<div class="table sectionedit8"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> From      </th><th class="col1 leftalign"> To        </th><th class="col2 leftalign"> Dest. ICAO    </th><th class="col3 leftalign"> Fix/Airway    </th><th class="col4 leftalign"> Agreement     </th><th class="col5 leftalign"> Conditions    </th><th class="col6"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0" colspan="7"> <strong>SECTOR INBOUND</strong> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> ICAO_CTR 	</td><td class="col1 leftalign"> ICAO_CTR  </td><td class="col2 leftalign"> ICAO          </td><td class="col3 leftalign"> -             </td><td class="col4 centeralign">    -           </td><td class="col5 leftalign"> -             </td><td class="col6"> - </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0" colspan="7"> <strong>SECTOR OUTBOUND</strong> </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign"> ICAO_CTR 	</td><td class="col1 leftalign"> ICAO_CTR  </td><td class="col2 leftalign"> ICAO          </td><td class="col3 leftalign"> -             </td><td class="col4 centeralign">    -           </td><td class="col5 leftalign"> -             </td><td class="col6"> - </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0" colspan="7"> <em>Notes</em> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table4&quot;,&quot;secid&quot;:8,&quot;range&quot;:&quot;1701-2069&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;External (Division)&quot;,&quot;hid&quot;:&quot;external_division&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:5,&quot;range&quot;:&quot;854-2071&quot;} -->
+<h3 class="sectionedit9" id="internal_dnkk">Internal (DNKK)</h3>
+<div class="level3">
+<div class="table sectionedit10"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> From      </th><th class="col1 leftalign"> To        </th><th class="col2 leftalign"> Dest. ICAO    </th><th class="col3 leftalign"> Fix/Airway    </th><th class="col4 leftalign"> Agreement     </th><th class="col5 leftalign"> Conditions    </th><th class="col6"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0" colspan="7"> <strong>SECTOR INBOUND</strong> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> ICAO_CTR 	</td><td class="col1 leftalign"> ICAO_CTR  </td><td class="col2 leftalign"> ICAO          </td><td class="col3 leftalign"> -             </td><td class="col4 centeralign">     -          </td><td class="col5 leftalign"> -             </td><td class="col6"> - </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0" colspan="7"> <strong>SECTOR OUTBOUND</strong> </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign"> ICAO_CTR 	</td><td class="col1 leftalign"> ICAO_CTR  </td><td class="col2 leftalign"> ICAO          </td><td class="col3 leftalign"> -             </td><td class="col4 centeralign">   -            </td><td class="col5 leftalign"> -             </td><td class="col6"> - </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0" colspan="7"> <em>Notes</em> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table5&quot;,&quot;secid&quot;:10,&quot;range&quot;:&quot;2099-2467&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_start&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:11,&quot;range&quot;:&quot;0-&quot;} --><div class="plugin_include_content plugin_include__dn-footer">
+<div class="level3">
+<hr />
+
+<p>
+<a href="/dnkk" class="wikilink1" title="dnkk" data-wiki-id="dnkk">DNKK</a> Kano FIR | v0.1
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_editbtn&quot;,&quot;name&quot;:&quot;DNKK&quot;,&quot;hid&quot;:null,&quot;secid&quot;:13,&quot;range&quot;:&quot;0-&quot;} --><!-- EDIT{&quot;target&quot;:&quot;plugin_include_end&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:12,&quot;range&quot;:&quot;0-&quot;} --></div>
+<div class="level3">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Internal (DNKK)&quot;,&quot;hid&quot;:&quot;internal_dnkk&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:9,&quot;range&quot;:&quot;2072-&quot;} --><div class="dwpl-ti-permalink-footer"><a href="/dnkk-loa" >>> Go to this page.</a></div>
+</div></div>
+<div id="dwpl-ti-content" class="dwpl-ti-content"><div class="dwpl-ti-tab-embd hidden"><div class="dwpl-ti-permalink-header"><a href="/dnkk-fra" >>> Go to this page.</a></div>
+
+<h2 class="sectionedit1" id="dnkk_kano_free_route_airspace">DNKK Kano Free Route Airspace</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;DNKK Kano Free Route Airspace&quot;,&quot;hid&quot;:&quot;dnkk_kano_free_route_airspace&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;1-43&quot;} -->
+<h3 class="sectionedit2" id="fra_waypoints">FRA Waypoints</h3>
+<div class="level3">
+<ul>
+<li class="level1"><div class="li"> Controllers may redirect any flights from/to a FRA Entry/Exit Waypoint to a FRA Arrival/Departure Connecting Waypoint or from a FRA Entry Waypoint to a FRA Exit Waypoint.</div>
+</li>
+<li class="level1"><div class="li"> Controllers may never redirect any flight that may cross Restricted or Special User Airspace. In those circumstances, controllers may use the FRA Intermediate Waypoints to redirect the flights.</div>
+</li>
+</ul>
+<div class="table sectionedit3"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> Waypoint  </th><th class="col1 leftalign"> Type  </th><th class="col2"> Flight Levels </th><th class="col3 leftalign"> Level Availablty  </th><th class="col4"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 leftalign"> KELAK     </td><td class="col1 leftalign"> EXAD  </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> GATAG     </td><td class="col1 leftalign"> EXAD  </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign"> NANOS     </td><td class="col1 leftalign"> EXAD  </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign"> KORUT     </td><td class="col1 leftalign"> EXAD  </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0 leftalign"> ARDEX     </td><td class="col1 leftalign"> EXAD  </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0 leftalign"> MIMBA     </td><td class="col1 leftalign"> EXAD  </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0 leftalign"> OBUDU     </td><td class="col1 leftalign"> EXAD  </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0 leftalign"> POLTO     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0 leftalign"> DETAR     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row10">
+		<td class="col0 leftalign"> EDUKO     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row11">
+		<td class="col0 leftalign"> TAKUM     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row12">
+		<td class="col0 leftalign"> ENBUT     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row13">
+		<td class="col0 leftalign"> EBIMU     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row14">
+		<td class="col0 leftalign"> LIREX     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row15">
+		<td class="col0 leftalign"> TENTU     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row16">
+		<td class="col0 leftalign"> GULEN     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row17">
+		<td class="col0 leftalign"> ONSEV     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row18">
+		<td class="col0 leftalign"> BOVDA     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row19">
+		<td class="col0 leftalign"> ETRIS     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row20">
+		<td class="col0 leftalign"> GANDA     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row21">
+		<td class="col0 leftalign"> GADUV     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row22">
+		<td class="col0 leftalign"> IKROP     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row23">
+		<td class="col0 leftalign"> OPALA     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row24">
+		<td class="col0 leftalign"> BIPIV     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row25">
+		<td class="col0 leftalign"> KIPSA     </td><td class="col1 leftalign"> EX    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row26">
+		<td class="col0 leftalign"> LAG VOR   </td><td class="col1 leftalign"> AD    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row27">
+		<td class="col0 leftalign"> ABC VOR   </td><td class="col1 leftalign"> ADI   </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row28">
+		<td class="col0 leftalign"> BUDSI     </td><td class="col1 leftalign"> AI    </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row29">
+		<td class="col0 leftalign"> OGDIX     </td><td class="col1 leftalign"> I     </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row30">
+		<td class="col0 leftalign"> OXORU     </td><td class="col1 leftalign"> I     </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row31">
+		<td class="col0 leftalign"> POSIB     </td><td class="col1 leftalign"> I     </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row32">
+		<td class="col0 leftalign"> GURAP     </td><td class="col1 leftalign"> I     </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row33">
+		<td class="col0 leftalign"> IBA       </td><td class="col1 leftalign"> I     </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row34">
+		<td class="col0 leftalign"> APRUN     </td><td class="col1 leftalign"> I     </td><td class="col2 leftalign"> ODD / EVEN    </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row35">
+		<td class="col0 leftalign"> RALIN     </td><td class="col1 leftalign"> X     </td><td class="col2 leftalign"> ODD           </td><td class="col3 leftalign"> FL245 / UNLTD     </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row36">
+		<td class="col0" colspan="5"> </td>
+	</tr>
+	<tr class="row37">
+		<td class="col0" colspan="5"> <em>Notes</em> </td>
+	</tr>
+	<tr class="row38">
+		<td class="col0" colspan="5"> <em>Type E - Entry Waypoint</em> </td>
+	</tr>
+	<tr class="row39">
+		<td class="col0" colspan="5"> <em>Type X - Exit Waypoint</em> </td>
+	</tr>
+	<tr class="row40">
+		<td class="col0" colspan="5"> <em>Type A - Arrival Connecting Waypoint</em> </td>
+	</tr>
+	<tr class="row41">
+		<td class="col0" colspan="5"> <em>Type D - Departure Connecting Waypoint</em> </td>
+	</tr>
+	<tr class="row42">
+		<td class="col0" colspan="5"> <em>Type I - Intermediate Point</em> </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:3,&quot;range&quot;:&quot;443-2917&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;FRA Waypoints&quot;,&quot;hid&quot;:&quot;fra_waypoints&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;44-2918&quot;} -->
+<h3 class="sectionedit4" id="fra_for_dn_airports">FRA for DN Airports</h3>
+<div class="level3">
+<div class="table sectionedit5"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> Airport   </th><th class="col1 leftalign"> Type      </th><th class="col2 leftalign"> From/To   </th><th class="col3"> Start </th><th class="col4 leftalign"> Intermediate  </th><th class="col5 leftalign"> End       </th><th class="col6"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 leftalign" rowspan="5"> DNAA      </td><td class="col1 leftalign"> Both      </td><td class="col2 leftalign"> DRRR      </td><td class="col3"> NANOS </td><td class="col4 leftalign"> -             </td><td class="col5 leftalign"> ABC VOR   </td><td class="col6"> Bidirectional </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> Both      </td><td class="col1 leftalign"> DRRR      </td><td class="col2"> KORUT </td><td class="col3 leftalign"> -             </td><td class="col4 leftalign"> ABC VOR   </td><td class="col5"> Bidirectional </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign"> Both      </td><td class="col1 leftalign"> DRRR      </td><td class="col2"> MIMBA </td><td class="col3 leftalign"> OXORU         </td><td class="col4 leftalign"> ABC VOR   </td><td class="col5"> Bidirectional </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign"> Both      </td><td class="col1 leftalign"> FCCC      </td><td class="col2"> OBUDU </td><td class="col3 leftalign"> -             </td><td class="col4 leftalign"> ABC VOR   </td><td class="col5"> Bidirectional </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0 leftalign"> Both      </td><td class="col1 leftalign"> FTTT      </td><td class="col2"> KELAG </td><td class="col3"> POSIB - GURAP </td><td class="col4 leftalign"> ABC VOR   </td><td class="col5"></td>
+	</tr>
+	<tr class="row6">
+		<td class="col0 leftalign" rowspan="5"> DNMM      </td><td class="col1 leftalign"> Arrival   </td><td class="col2 leftalign"> DRRR      </td><td class="col3"> NANOS </td><td class="col4 leftalign"> BUDSI         </td><td class="col5 leftalign"> LAG VOR   </td><td class="col6"> Arrival Only, Even FL </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0"> Departure </td><td class="col1 leftalign"> DRRR      </td><td class="col2 leftalign"> LAG   </td><td class="col3 leftalign"> -             </td><td class="col4 leftalign"> NANOS     </td><td class="col5"> Departure Only, Odd FL </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0 leftalign"> Both      </td><td class="col1 leftalign"> FCCC      </td><td class="col2 leftalign"> LAG   </td><td class="col3 leftalign"> -             </td><td class="col4 leftalign"> ARDEX     </td><td class="col5"> Bidirectional </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0 leftalign"> Both      </td><td class="col1 leftalign"> FCCC      </td><td class="col2 leftalign"> LAG   </td><td class="col3 leftalign"> -             </td><td class="col4 leftalign"> GATAG     </td><td class="col5"> Bidirectional </td>
+	</tr>
+	<tr class="row10">
+		<td class="col0 leftalign"> Both      </td><td class="col1 leftalign"> FTTT      </td><td class="col2"> KELAG </td><td class="col3 leftalign"> OGDIX         </td><td class="col4 leftalign"> LAG VOR   </td><td class="col5"> Bidirectional </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:5,&quot;range&quot;:&quot;2950-3948&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;FRA for DN Airports&quot;,&quot;hid&quot;:&quot;fra_for_dn_airports&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:4,&quot;range&quot;:&quot;2919-3949&quot;} -->
+<h3 class="sectionedit6" id="fra_for_overflights">FRA for Overflights</h3>
+<div class="level3">
+<div class="table sectionedit7"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> From  </th><th class="col1 leftalign"> To    </th><th class="col2"> Entry </th><th class="col3 leftalign"> Via   </th><th class="col4 leftalign"> Exit  </th><th class="col5"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> DRRR  </td><td class="col2"> POLTO </td><td class="col3"> APRUN </td><td class="col4"> DETAR </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> DRRR  </td><td class="col2"> POLTO </td><td class="col3"> APRUN </td><td class="col4"> KORUT </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> EDUKO </td><td class="col3 leftalign"> -     </td><td class="col4"> ARDEX </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> GANDA </td><td class="col3 leftalign"> -     </td><td class="col4"> GADUV </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> KIPSA </td><td class="col3 leftalign"> -     </td><td class="col4"> BIPIV </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> LIREX </td><td class="col3 leftalign"> -     </td><td class="col4"> IKROP </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> TENTU </td><td class="col3 leftalign"> -     </td><td class="col4"> LIREX </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> OPALA </td><td class="col3 leftalign"> -     </td><td class="col4"> ARDEX </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> OPALA </td><td class="col3 leftalign"> -     </td><td class="col4"> RALIN </td><td class="col5"> Unidirectional Only </td>
+	</tr>
+	<tr class="row10">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> POLTO </td><td class="col3 leftalign"> -     </td><td class="col4"> IKROP </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row11">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> POLTO </td><td class="col3 leftalign"> -     </td><td class="col4"> RALIN </td><td class="col5"> Unidirectional Only </td>
+	</tr>
+	<tr class="row12">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> TENTU </td><td class="col3 leftalign"> -     </td><td class="col4"> ARDEX </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row13">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> TENTU </td><td class="col3 leftalign"> -     </td><td class="col4"> BIPIV </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row14">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> FTTT  </td><td class="col2"> GANDA </td><td class="col3 leftalign"> -     </td><td class="col4"> ETRIS </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row15">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> FTTT  </td><td class="col2"> POLTO </td><td class="col3"> OGDIX </td><td class="col4"> KELAK </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row16">
+		<td class="col0 leftalign"> DGAC  </td><td class="col1 leftalign"> FTTT  </td><td class="col2"> POLTO </td><td class="col3"> IBA - GURAP - POSIB </td><td class="col4"> KELAK </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row17">
+		<td class="col0 leftalign"> DRRR  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> BOVDA </td><td class="col3 leftalign"> -     </td><td class="col4"> GADUV </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row18">
+		<td class="col0 leftalign"> DRRR  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> BOVDA </td><td class="col3 leftalign"> -     </td><td class="col4"> OBUDU </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row19">
+		<td class="col0 leftalign"> DRRR  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> MIMBA </td><td class="col3 leftalign"> -     </td><td class="col4"> TAKUM </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row20">
+		<td class="col0 leftalign"> DRRR  </td><td class="col1 leftalign"> FCCC  </td><td class="col2"> NANOS </td><td class="col3 leftalign"> ABC   </td><td class="col4"> RALIN </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row21">
+		<td class="col0 leftalign"> DRRR  </td><td class="col1 leftalign"> FTTT  </td><td class="col2"> BOVDA </td><td class="col3 leftalign"> -     </td><td class="col4"> ONSEV </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row22">
+		<td class="col0 leftalign"> DRRR  </td><td class="col1 leftalign"> FTTT  </td><td class="col2"> GULEN </td><td class="col3 leftalign"> -     </td><td class="col4"> ONSEV </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row23">
+		<td class="col0 leftalign"> DRRR  </td><td class="col1 leftalign"> DGAC  </td><td class="col2"> DETAR </td><td class="col3"> APRUN </td><td class="col4"> POLTO </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row24">
+		<td class="col0 leftalign"> DRRR  </td><td class="col1 leftalign"> DGAC  </td><td class="col2"> KORUT </td><td class="col3"> APRUN </td><td class="col4"> POLTO </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row25">
+		<td class="col0 leftalign"> FCCC  </td><td class="col1 leftalign"> DGAC  </td><td class="col2"> ARDEX </td><td class="col3 leftalign"> -     </td><td class="col4"> EDUKO </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row26">
+		<td class="col0 leftalign"> FCCC  </td><td class="col1 leftalign"> DGAC  </td><td class="col2"> ARDEX </td><td class="col3 leftalign"> -     </td><td class="col4"> OPALA </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row27">
+		<td class="col0 leftalign"> FCCC  </td><td class="col1 leftalign"> DGAC  </td><td class="col2"> ARDEX </td><td class="col3 leftalign"> -     </td><td class="col4"> TENTU </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row28">
+		<td class="col0 leftalign"> FCCC  </td><td class="col1 leftalign"> DGAC  </td><td class="col2"> BIPIV </td><td class="col3 leftalign"> -     </td><td class="col4"> TENTU </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row29">
+		<td class="col0 leftalign"> FCCC  </td><td class="col1 leftalign"> DGAC  </td><td class="col2"> BIPIV </td><td class="col3 leftalign"> -     </td><td class="col4"> KIPSA </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row30">
+		<td class="col0 leftalign"> FCCC  </td><td class="col1 leftalign"> DGAC  </td><td class="col2"> GADUV </td><td class="col3 leftalign"> -     </td><td class="col4"> GANDA </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row31">
+		<td class="col0 leftalign"> FCCC  </td><td class="col1 leftalign"> DGAC  </td><td class="col2"> IKROP </td><td class="col3 leftalign"> -     </td><td class="col4"> LIREX </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row32">
+		<td class="col0 leftalign"> FCCC  </td><td class="col1 leftalign"> DGAC  </td><td class="col2"> IKROP </td><td class="col3 leftalign"> -     </td><td class="col4"> POLTO </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row33">
+		<td class="col0 leftalign"> FCCC  </td><td class="col1 leftalign"> DGAC  </td><td class="col2"> LIREX </td><td class="col3 leftalign"> -     </td><td class="col4"> TENTU </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row34">
+		<td class="col0 leftalign"> FCCC  </td><td class="col1 leftalign"> DRRR  </td><td class="col2"> GADUV </td><td class="col3 leftalign"> -     </td><td class="col4"> BOVDA </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row35">
+		<td class="col0 leftalign"> FCCC  </td><td class="col1 leftalign"> DRRR  </td><td class="col2"> RALIN </td><td class="col3 leftalign"> ABC   </td><td class="col4"> NANOS </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row36">
+		<td class="col0 leftalign"> FCCC  </td><td class="col1 leftalign"> DRRR  </td><td class="col2"> OBUDU </td><td class="col3 leftalign"> -     </td><td class="col4"> BOVDA </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row37">
+		<td class="col0 leftalign"> FCCC  </td><td class="col1 leftalign"> DRRR  </td><td class="col2"> TAKUM </td><td class="col3 leftalign"> -     </td><td class="col4"> MIMBA </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row38">
+		<td class="col0 leftalign"> FTTT  </td><td class="col1 leftalign"> DGAC  </td><td class="col2"> ETRIS </td><td class="col3 leftalign"> -     </td><td class="col4"> GANDA </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row39">
+		<td class="col0 leftalign"> FTTT  </td><td class="col1 leftalign"> DGAC  </td><td class="col2"> KELAK </td><td class="col3"> OGDIX </td><td class="col4"> POLTO </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row40">
+		<td class="col0 leftalign"> FTTT  </td><td class="col1 leftalign"> DGAC  </td><td class="col2"> KELAK </td><td class="col3"> POSIB - GURAP - IBA </td><td class="col4"> POLTO </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row41">
+		<td class="col0 leftalign"> FTTT  </td><td class="col1 leftalign"> DRRR  </td><td class="col2"> ONSEV </td><td class="col3 leftalign"> -     </td><td class="col4"> BOVDA </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row42">
+		<td class="col0 leftalign"> FTTT  </td><td class="col1 leftalign"> DRRR  </td><td class="col2"> ONSEV </td><td class="col3 leftalign"> -     </td><td class="col4"> GULEN </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row43">
+		<td class="col0 leftalign"> FTTT  </td><td class="col1 leftalign"> FTTT  </td><td class="col2"> EBIMU </td><td class="col3 leftalign"> -     </td><td class="col4"> ENBUT </td><td class="col5"> - </td>
+	</tr>
+	<tr class="row44">
+		<td class="col0 leftalign"> FTTT  </td><td class="col1 leftalign"> FTTT  </td><td class="col2"> ENBUT </td><td class="col3 leftalign"> -     </td><td class="col4"> EBIMU </td><td class="col5"> - </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table2&quot;,&quot;secid&quot;:7,&quot;range&quot;:&quot;3981-6120&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_start&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:8,&quot;range&quot;:&quot;0-&quot;} --><div class="plugin_include_content plugin_include__dn-footer">
+<div class="level3">
+<hr />
+
+<p>
+<a href="/dnkk" class="wikilink1" title="dnkk" data-wiki-id="dnkk">DNKK</a> Kano FIR | v0.1
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_editbtn&quot;,&quot;name&quot;:&quot;DNKK&quot;,&quot;hid&quot;:null,&quot;secid&quot;:10,&quot;range&quot;:&quot;0-&quot;} --><!-- EDIT{&quot;target&quot;:&quot;plugin_include_end&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:9,&quot;range&quot;:&quot;0-&quot;} --></div>
+<div class="level3">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;FRA for Overflights&quot;,&quot;hid&quot;:&quot;fra_for_overflights&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:6,&quot;range&quot;:&quot;3950-&quot;} --><div class="dwpl-ti-permalink-footer"><a href="/dnkk-fra" >>> Go to this page.</a></div>
+</div></div>
+<div id="dwpl-ti-content" class="dwpl-ti-content"><div class="dwpl-ti-tab-embd hidden"><div class="dwpl-ti-permalink-header"><a href="/dnkk-sectorfile" >>> Go to this page.</a></div>
+
+<h2 class="sectionedit1" id="dnkk_kano_sector_file">DNKK Kano Sector File</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;DNKK Kano Sector File&quot;,&quot;hid&quot;:&quot;dnkk_kano_sector_file&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;1-35&quot;} -->
+<h3 class="sectionedit2" id="ground_layouts">Ground Layouts</h3>
+<div class="level3">
+<div class="table sectionedit3"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> Aiport    </th><th class="col1"> Status </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 leftalign"> <a href="/dnaa" class="wikilink2" title="dnaa" rel="nofollow" data-wiki-id="dnaa">DNAA</a>  </td><td class="col1"> Available </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> <a href="/dnbc" class="wikilink2" title="dnbc" rel="nofollow" data-wiki-id="dnbc">DNBC</a>  </td><td class="col1"> Available </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign"> <a href="/dnca" class="wikilink2" title="dnca" rel="nofollow" data-wiki-id="dnca">DNCA</a>  </td><td class="col1"> Available </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign"> <a href="/dnek" class="wikilink2" title="dnek" rel="nofollow" data-wiki-id="dnek">DNEK</a>  </td><td class="col1"> Available </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0 leftalign"> <a href="/dnen" class="wikilink2" title="dnen" rel="nofollow" data-wiki-id="dnen">DNEN</a>  </td><td class="col1"> Available </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0 leftalign"> <a href="/dngo" class="wikilink2" title="dngo" rel="nofollow" data-wiki-id="dngo">DNGO</a>  </td><td class="col1"> Available </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0 leftalign"> <a href="/dnib" class="wikilink2" title="dnib" rel="nofollow" data-wiki-id="dnib">DNIB</a>  </td><td class="col1"> Available </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0 leftalign"> <a href="/dnjo" class="wikilink2" title="dnjo" rel="nofollow" data-wiki-id="dnjo">DNJO</a>  </td><td class="col1"> Available </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0 leftalign"> <a href="/dnka" class="wikilink2" title="dnka" rel="nofollow" data-wiki-id="dnka">DNKA</a>  </td><td class="col1"> Available </td>
+	</tr>
+	<tr class="row10">
+		<td class="col0 leftalign"> <a href="/dnkn" class="wikilink2" title="dnkn" rel="nofollow" data-wiki-id="dnkn">DNKN</a>  </td><td class="col1"> Available </td>
+	</tr>
+	<tr class="row11">
+		<td class="col0 leftalign"> <a href="/dnma" class="wikilink2" title="dnma" rel="nofollow" data-wiki-id="dnma">DNMA</a>  </td><td class="col1"> Available </td>
+	</tr>
+	<tr class="row12">
+		<td class="col0 leftalign"> <a href="/dnmm" class="wikilink1" title="dnmm" data-wiki-id="dnmm">DNMM</a>  </td><td class="col1"> Available </td>
+	</tr>
+	<tr class="row13">
+		<td class="col0 leftalign"> <a href="/dnpo" class="wikilink2" title="dnpo" rel="nofollow" data-wiki-id="dnpo">DNPO</a>  </td><td class="col1"> Available </td>
+	</tr>
+	<tr class="row14">
+		<td class="col0 leftalign"> <a href="/dnyo" class="wikilink2" title="dnyo" rel="nofollow" data-wiki-id="dnyo">DNYO</a>  </td><td class="col1"> Available </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:3,&quot;range&quot;:&quot;62-448&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Ground Layouts&quot;,&quot;hid&quot;:&quot;ground_layouts&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;36-449&quot;} -->
+<h3 class="sectionedit4" id="topsky">TopSky</h3>
+<div class="level3">
+<div class="table sectionedit5"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> Feature   </th><th class="col1 leftalign"> Status    </th><th class="col2"> Remarks </th><td class="col3"></td>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0"> CFL Initial Climbs </td><td class="col1"> Available <em>(1)</em> </td><td class="col2"> - </td><td class="col3"></td>
+	</tr>
+	<tr class="row2">
+		<td class="col0"> CFL Levels </td><td class="col1"> Available </td><td class="col2"> Available <em>(1)</em> </td><td class="col3"> - </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0"> Maps (Airspace) </td><td class="col1"> Available <em>(2)</em> </td><td class="col2"> - </td><td class="col3"></td>
+	</tr>
+	<tr class="row4">
+		<td class="col0"></td><td class="col1"></td><td class="col2"></td><td class="col3"></td>
+	</tr>
+	<tr class="row5">
+		<td class="col0"></td><td class="col1"></td><td class="col2"></td><td class="col3"></td>
+	</tr>
+	<tr class="row6">
+		<td class="col0"></td><td class="col1"></td><td class="col2"></td><td class="col3"></td>
+	</tr>
+	<tr class="row7">
+		<td class="col0"></td><td class="col1"></td><td class="col2"></td><td class="col3"></td>
+	</tr>
+	<tr class="row8">
+		<td class="col0"> Maps (MSAs) </td><td class="col1"> Available <em>(3)</em> </td><td class="col2"> - </td><td class="col3"></td>
+	</tr>
+	<tr class="row9">
+		<td class="col0"> MSA (AD MSA) </td><td class="col1"> Available <em>(1)</em> </td><td class="col2"> - </td><td class="col3"></td>
+	</tr>
+	<tr class="row10">
+		<td class="col0"> MSA (Approaches) </td><td class="col1"> Available <em>(1)</em> </td><td class="col2"> - </td><td class="col3"></td>
+	</tr>
+	<tr class="row11">
+		<td class="col0"> MSA (MORA) </td><td class="col1"> Available </td><td class="col2"> - </td><td class="col3"></td>
+	</tr>
+	<tr class="row12">
+		<td class="col0"> PRD Areas </td><td class="col1"> Available </td><td class="col2"> - </td><td class="col3"></td>
+	</tr>
+	<tr class="row13">
+		<td class="col0"> SSR Code Ranges </td><td class="col1"> Available </td><td class="col2"> - </td><td class="col3"></td>
+	</tr>
+	<tr class="row14">
+		<td class="col0"> Transition Levels </td><td class="col1"> Available </td><td class="col2"> - </td><td class="col3"></td>
+	</tr>
+	<tr class="row15">
+		<td class="col0"> Views </td><td class="col1"> Available </td><td class="col2"> - </td><td class="col3"></td>
+	</tr>
+	<tr class="row16">
+		<td class="col0" colspan="3"> </td><td class="col3"></td>
+	</tr>
+	<tr class="row17">
+		<td class="col0"></td><td class="col1"></td><td class="col2"></td><td class="col3"></td>
+	</tr>
+	<tr class="row18">
+		<td class="col0"></td><td class="col1"></td><td class="col2"></td><td class="col3"></td>
+	</tr>
+	<tr class="row19">
+		<td class="col0"></td><td class="col1"></td><td class="col2"></td><td class="col3"></td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table1&quot;,&quot;secid&quot;:5,&quot;range&quot;:&quot;468-1122&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;TopSky&quot;,&quot;hid&quot;:&quot;topsky&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:4,&quot;range&quot;:&quot;450-1123&quot;} -->
+<h3 class="sectionedit6" id="groundradar">GroundRadar</h3>
+<div class="level3">
+<div class="table sectionedit7"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> Airport   </th><th class="col1"> App Window </th><th class="col2"> ILS App Path </th><th class="col3"> Stands </th><th class="col4"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0"> DNAA </td><td class="col1"> Yes </td><td class="col2"> Yes </td><td class="col3"> Yes </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0"> DNJO </td><td class="col1"> Yes </td><td class="col2"> Yes </td><td class="col3"> No </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0"> DNMM </td><td class="col1"> Yes </td><td class="col2"> Yes </td><td class="col3"> Yes </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0"> DNKN </td><td class="col1"> Yes </td><td class="col2"> Yes </td><td class="col3"> No </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0"> DNPO </td><td class="col1"> Yes </td><td class="col2"> No </td><td class="col3"> No </td><td class="col4"> - </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0"> DNYO </td><td class="col1"> Yes </td><td class="col2"> No </td><td class="col3"> No </td><td class="col4"> - </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table2&quot;,&quot;secid&quot;:7,&quot;range&quot;:&quot;1147-1387&quot;} -->
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_start&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:8,&quot;range&quot;:&quot;0-&quot;} --><div class="plugin_include_content plugin_include__dn-footer">
+<div class="level3">
+<hr />
+
+<p>
+<a href="/dnkk" class="wikilink1" title="dnkk" data-wiki-id="dnkk">DNKK</a> Kano FIR | v0.1
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_editbtn&quot;,&quot;name&quot;:&quot;DNKK&quot;,&quot;hid&quot;:null,&quot;secid&quot;:10,&quot;range&quot;:&quot;0-&quot;} --><!-- EDIT{&quot;target&quot;:&quot;plugin_include_end&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:9,&quot;range&quot;:&quot;0-&quot;} --></div>
+<div class="level3">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;GroundRadar&quot;,&quot;hid&quot;:&quot;groundradar&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:6,&quot;range&quot;:&quot;1124-&quot;} --><div class="dwpl-ti-permalink-footer"><a href="/dnkk-sectorfile" >>> Go to this page.</a></div>
+</div></div>
+</div>
+</div>
+
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_start&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;0-&quot;} --><div class="plugin_include_content plugin_include__dn-footer">
+<a name="" /><div class="level2">
+<hr />
+
+<p>
+<a href="#dnkk__" class="wikilink1" title="dnkk" data-wiki-id="dnkk">DNKK</a> Kano FIR | v0.1
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;plugin_include_editbtn&quot;,&quot;name&quot;:&quot;DNKK&quot;,&quot;hid&quot;:null,&quot;secid&quot;:3,&quot;range&quot;:&quot;0-&quot;} --><!-- EDIT{&quot;target&quot;:&quot;plugin_include_end&quot;,&quot;name&quot;:&quot;dn-footer&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;0-&quot;} --></div>
+<div class="level2">
+
+</div>

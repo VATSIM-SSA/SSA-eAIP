@@ -1,0 +1,23 @@
+a:2:{s:7:"current";a:11:{s:4:"date";a:2:{s:7:"created";i:1669929904;s:8:"modified";i:1670257840;}s:7:"creator";s:13:"Miguel Albano";s:4:"user";s:6:"810471";s:11:"last_change";a:8:{s:4:"date";i:1670257840;s:2:"ip";s:14:"46.189.148.220";s:4:"type";s:1:"E";s:2:"id";s:22:"sector-files-airac2212";s:4:"user";s:6:"810471";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:104;}s:11:"contributor";a:1:{i:810471;s:13:"Miguel Albano";}s:8:"approval";a:1:{i:1669998598;a:1:{i:810471;a:4:{i:0;s:6:"810471";i:1;i:810471;i:2;s:22:"hello@vcaptainmike.com";i:3;i:1669998603;}}}s:16:"approval_version";i:2;s:5:"title";s:33:"Sector Files AIRAC 2212 Changelog";s:11:"description";a:2:{s:15:"tableofcontents";a:27:{i:0;a:4:{s:3:"hid";s:33:"sector_files_airac_2212_changelog";s:5:"title";s:33:"Sector Files AIRAC 2212 Changelog";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:4:"dgac";s:5:"title";s:4:"DGAC";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:4:"dnkk";s:5:"title";s:4:"DNKK";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:4:"fasa";s:5:"title";s:4:"FASA";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:4:"fbgr";s:5:"title";s:4:"FBGR";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:5;a:4:{s:3:"hid";s:4:"fccc";s:5:"title";s:4:"FCCC";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:6;a:4:{s:3:"hid";s:4:"fimm";s:5:"title";s:4:"FIMM";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:7;a:4:{s:3:"hid";s:4:"flfi";s:5:"title";s:4:"FLFI";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:8;a:4:{s:3:"hid";s:4:"fmmm";s:5:"title";s:4:"FMMM";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:9;a:4:{s:3:"hid";s:5:"fmmm1";s:5:"title";s:4:"FMMM";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:10;a:4:{s:3:"hid";s:4:"fnan";s:5:"title";s:4:"FNAN";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:11;a:4:{s:3:"hid";s:4:"fqbe";s:5:"title";s:4:"FQBE";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:12;a:4:{s:3:"hid";s:4:"fsss";s:5:"title";s:4:"FSSS";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:13;a:4:{s:3:"hid";s:4:"fvhf";s:5:"title";s:4:"FVHF";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:14;a:4:{s:3:"hid";s:4:"fwll";s:5:"title";s:4:"FWLL";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:15;a:4:{s:3:"hid";s:4:"fywf";s:5:"title";s:4:"FYWF";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:16;a:4:{s:3:"hid";s:4:"fzza";s:5:"title";s:4:"FZZA";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:17;a:4:{s:3:"hid";s:4:"gooo";s:5:"title";s:4:"GOOO";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:18;a:4:{s:3:"hid";s:4:"gvsc";s:5:"title";s:4:"GVSC";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:19;a:4:{s:3:"hid";s:4:"hkna";s:5:"title";s:4:"HKNA";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:20;a:4:{s:3:"hid";s:4:"htdc";s:5:"title";s:4:"HTDC";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:21;a:4:{s:3:"hid";s:4:"huec";s:5:"title";s:4:"HUEC";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:22;a:4:{s:3:"hid";s:4:"afrc";s:5:"title";s:4:"AFRC";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:23;a:4:{s:3:"hid";s:4:"afrs";s:5:"title";s:4:"AFRS";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:24;a:4:{s:3:"hid";s:4:"afrw";s:5:"title";s:4:"AFRW";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:25;a:4:{s:3:"hid";s:4:"afos";s:5:"title";s:4:"AFOS";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:26;a:4:{s:3:"hid";s:4:"afow";s:5:"title";s:4:"AFOW";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:249:"Sector Files AIRAC 2212 Changelog
+
+DGAC
+
+	*  NavData Updated to AIRAC 2212.
+
+DNKK
+
+	*  NavData Updated to AIRAC 2212.
+
+FASA
+
+	*  NavData Updated to AIRAC 2212.
+
+FBGR
+
+	*  NavData Updated to AIRAC 2212.
+
+FCCC
+
+	*  NavData Updated to AIRAC 2212.
+
+FIMM";}s:8:"relation";a:2:{s:10:"references";a:1:{s:4:"hkmo";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:7:{s:4:"date";a:2:{s:7:"created";i:1669929904;s:8:"modified";i:1670257840;}s:7:"creator";s:13:"Miguel Albano";s:4:"user";s:6:"810471";s:11:"last_change";a:8:{s:4:"date";i:1670257840;s:2:"ip";s:14:"46.189.148.220";s:4:"type";s:1:"E";s:2:"id";s:22:"sector-files-airac2212";s:4:"user";s:6:"810471";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:104;}s:11:"contributor";a:1:{i:810471;s:13:"Miguel Albano";}s:8:"approval";a:1:{i:1669998598;a:1:{i:810471;a:4:{i:0;s:6:"810471";i:1;i:810471;i:2;s:22:"hello@vcaptainmike.com";i:3;i:1669998603;}}}s:16:"approval_version";i:2;}}

@@ -1,0 +1,351 @@
+
+<h2 class="sectionedit1" id="alias_fss">Alias (FSS)</h2>
+<div class="level2">
+<div class="table sectionedit2"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0 leftalign"> Shortcut  </th><th class="col1"> Message </th><th class="col2"> Remarks </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0" colspan="3"> <strong>01 Before initial contact</strong> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> .cw       </td><td class="col1"> .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign"> .cp       </td><td class="col1"> .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing $uc($1). </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign"> .cpl      </td><td class="col1"> .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing $uc($1) at FL $2. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0 leftalign"> .ct       </td><td class="col1"> .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq at time $1 UTC. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0" colspan="3"> <strong>02 Initial contact</strong> </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0 leftalign"> .h        </td><td class="col1"> $radioname, hello. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0 leftalign"> .gd       </td><td class="col1"> $radioname, good day. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0 leftalign"> .gm       </td><td class="col1"> $radioname, good morning. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row10">
+		<td class="col0 leftalign"> .ga       </td><td class="col1"> $radioname, good afternoon. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row11">
+		<td class="col0 leftalign"> .ge       </td><td class="col1"> $radioname, good evening. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row12">
+		<td class="col0 leftalign"> .id       </td><td class="col1"> Identified. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row13">
+		<td class="col0 leftalign"> .ids      </td><td class="col1"> Standby for identification. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row14">
+		<td class="col0 leftalign"> .v?       </td><td class="col1"> Are you able to receive voice? </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row15">
+		<td class="col0 leftalign"> .pym      </td><td class="col1"> Pass your message. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row16">
+		<td class="col0" colspan="3"> <strong>03 Handoff</strong> </td>
+	</tr>
+	<tr class="row17">
+		<td class="col0 leftalign"> .co       </td><td class="col1"> Contact $radioname($1) $freq($1), good bye. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row18">
+		<td class="col0 leftalign"> .rst      </td><td class="col1"> Radar service terminated. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row19">
+		<td class="col0 leftalign"> .noatc    </td><td class="col1"> You are leaving my airspace, no further ATC service available, radar service terminated. Frequency change is approved, enjoy your flight, good bye. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row20">
+		<td class="col0 leftalign"> .noatcb   </td><td class="col1"> $radioname is closing, no further ATC service available, radar service terminated. Make blind transmissions on UNICOM 122.800 and have a good flight, good bye. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row21">
+		<td class="col0 leftalign"> .noatcc   </td><td class="col1"> $radioname is closing, for further ATC service contact $radioname($1) $freq($1), good bye. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row22">
+		<td class="col0 leftalign"> .noatco   </td><td class="col1"> You are outside of my airspace, continue own discretion and make blind transmissions on UNICOM 122.800, good bye. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row23">
+		<td class="col0 leftalign"> .blt      </td><td class="col1"> Please use UNICOM 122.800 for blind transmissions. Thank you. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row24">
+		<td class="col0" colspan="3"> <strong>04 Transponder</strong> </td>
+	</tr>
+	<tr class="row25">
+		<td class="col0 leftalign"> .sq       </td><td class="col1"> Set squawk $squawk. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row26">
+		<td class="col0 leftalign"> .sqs      </td><td class="col1"> Set squawk STANDBY. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row27">
+		<td class="col0 leftalign"> .sqc      </td><td class="col1"> Set squawk CHARLIE. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row28">
+		<td class="col0 leftalign"> .sqi      </td><td class="col1"> Squawk IDENT </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row29">
+		<td class="col0" colspan="3"> <strong>10 Lateral Navigation</strong> </td>
+	</tr>
+	<tr class="row30">
+		<td class="col0 leftalign"> .tl       </td><td class="col1"> Turn left heading $1. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row31">
+		<td class="col0 leftalign"> .tr       </td><td class="col1"> Turn right heading $1. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row32">
+		<td class="col0 leftalign"> .tld      </td><td class="col1"> Turn left direct $1. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row33">
+		<td class="col0 leftalign"> .trd      </td><td class="col1"> Turn right direct $1. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row34">
+		<td class="col0 leftalign"> .fh       </td><td class="col1"> Fly heading $1. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row35">
+		<td class="col0"> .lh </td><td class="col1"> Leave $1 heading $2 </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row36">
+		<td class="col0"> .rh </td><td class="col1"> Report heading. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row37">
+		<td class="col0"> .tlb </td><td class="col1"> Turn left by $1 degrees. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row38">
+		<td class="col0"> .trb </td><td class="col1"> Turn right by $1 degrees. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row39">
+		<td class="col0"> .rnh </td><td class="col1"> Report new heading. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row40">
+		<td class="col0"> .pd </td><td class="col1"> Proceed direct $1. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row41">
+		<td class="col0"> .cot </td><td class="col1"> Clear of traffic. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row42">
+		<td class="col0"> .rcw </td><td class="col1"> Report clear of weather. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row43">
+		<td class="col0"> .ron </td><td class="col1"> Resume own navigation direct $uc($1), magnetic track $bear($1) distance $dist($1) miles. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row44">
+		<td class="col0"> .cph </td><td class="col1"> Continue present heading. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row45">
+		<td class="col0"> .cphr </td><td class="col1"> Continue present heading and report. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row46">
+		<td class="col0"> .os </td><td class="col1"> Proceed offset $1 nm $2 of $3. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row47">
+		<td class="col0"> .oc </td><td class="col1"> Cancel offset. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row48">
+		<td class="col0" colspan="3"> <strong>11 Vertical Navigation</strong> </td>
+	</tr>
+	<tr class="row49">
+		<td class="col0"> .c </td><td class="col1"> Climb to FL $1. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row50">
+		<td class="col0"> .d </td><td class="col1"> Descend to FL $1. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row51">
+		<td class="col0"> .ml </td><td class="col1"> Maintain FL $1. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row52">
+		<td class="col0"> .rpa </td><td class="col1"> Report passing altitude. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row53">
+		<td class="col0"> .rrl </td><td class="col1"> Report requested level. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row54">
+		<td class="col0"> .rd </td><td class="col1"> Report ready for descend. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row55">
+		<td class="col0"> .tod </td><td class="col1"> Report top of descent. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row56">
+		<td class="col0"> .rl </td><td class="col1"> Report level. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row57">
+		<td class="col0"> .wrd </td><td class="col1"> When ready, descend to FL $1. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row58">
+		<td class="col0"> .wrdr </td><td class="col1"> When ready, descend to FL $1 to reach level at $2. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row59">
+		<td class="col0"> .cas </td><td class="col1"> Check altimeter setting and confirm level. You are indicating $calt. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row60">
+		<td class="col0"> .sas </td><td class="col1"> Set altimeter to standard pressure (1013 hPa or 2992 inHg). </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row61">
+		<td class="col0"> .rla </td><td class="col1"> Reach level at $1. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row62">
+		<td class="col0"> .xl </td><td class="col1"> Cross $1 at $2 </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row63">
+		<td class="col0"> .xa </td><td class="col1"> Cross $1 at $2 or above. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row64">
+		<td class="col0"> .xb </td><td class="col1"> Cross $1 at $2 or below. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row65">
+		<td class="col0"> .ob </td><td class="col1"> or before. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row66">
+		<td class="col0"> .ola </td><td class="col1"> or later. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row67">
+		<td class="col0"> .le </td><td class="col1"> Currently only EVEN levels available. Do you prefer FL $1 or FL $2? </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row68">
+		<td class="col0"> .lo </td><td class="col1"> Currently only ODD levels available. Do you prefer FL $1 or FL $2? </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row69">
+		<td class="col0"> .roc </td><td class="col1"> Climb at $1 feet per minute </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row70">
+		<td class="col0"> .rod </td><td class="col1"> Descend at $1 feet per minute </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row71">
+		<td class="col0"> .og </td><td class="col1"> or greater. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row72">
+		<td class="col0"> .om </td><td class="col1"> or greater. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row73">
+		<td class="col0"> .ol </td><td class="col1"> or less. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row74">
+		<td class="col0"> .rroc </td><td class="col1"> Report rate of Climb. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row75">
+		<td class="col0"> .rrod </td><td class="col1"> Report rate of descent. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row76">
+		<td class="col0" colspan="3"> <strong>15 Approach</strong> </td>
+	</tr>
+	<tr class="row77">
+		<td class="col0"> .arr? </td><td class="col1"> Confirm able $star arrival? </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row78">
+		<td class="col0"> .tra? </td><td class="col1"> Confirm able $star transition? </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row79">
+		<td class="col0"> .arr </td><td class="col1"> Cleared $star arrival. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row80">
+		<td class="col0"> .tra </td><td class="col1"> Cleared $star transition. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row81">
+		<td class="col0" colspan="3"> <strong>16 Speed Control</strong> </td>
+	</tr>
+	<tr class="row82">
+		<td class="col0"> .rs </td><td class="col1"> Report speed. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row83">
+		<td class="col0"> .s </td><td class="col1"> Maintain speed $1 knots </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row84">
+		<td class="col0"> .sr </td><td class="col1"> Reduce speed to $1 knots. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row85">
+		<td class="col0"> .si </td><td class="col1"> Increase speed to $1 knots. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row86">
+		<td class="col0"> .rm </td><td class="col1"> Report mach number. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row87">
+		<td class="col0"> .m </td><td class="col1"> Maintain mach number $1 </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row88">
+		<td class="col0"> .nsr </td><td class="col1"> No speed restrictions. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row89">
+		<td class="col0"> .rns </td><td class="col1"> Resume normal speed. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row90">
+		<td class="col0" colspan="3"> <strong>17 Holdings</strong> </td>
+	</tr>
+	<tr class="row91">
+		<td class="col0"> .pho </td><td class="col1"> Proceed to $1. Hold as published. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row92">
+		<td class="col0"> .ho </td><td class="col1"> Hold at $1. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row93">
+		<td class="col0"> .hor </td><td class="col1"> Hold at $1, inbound track $2°, right hand pattern. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row94">
+		<td class="col0"> .hol </td><td class="col1"> Hold at $1, inbound track $2°, left hand pattern. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row95">
+		<td class="col0" colspan="3"> <strong>24 Pilot infos</strong> </td>
+	</tr>
+	<tr class="row96">
+		<td class="col0"> .busy </td><td class="col1"> .msg $aircraft Hello. I am currently too busy to help you or to answer your question. Please refer to the manuals on vatsim.net/pilots or try to find another person who can help you. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row97">
+		<td class="col0"> .cr </td><td class="col1"> .msg $aircraft Please make a correct readback so that I see that you&#039;ve understood my instructions correctly. A readback is made by repeating the instructions of the controller. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row98">
+		<td class="col0"> .rte </td><td class="col1"> .msg $aircraft Hello. Your flight plan route is not valid. Please check for a valid route at grd.aero-nav.com or vroute.net. Thank you. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row99">
+		<td class="col0"> .xp </td><td class="col1"> .msg $aircraft It seems you are using XPlane with inappropriate graphic settings. Your computer is not able to render the requested number of frames in time thus slowing down your simulator. Please adjust your graphic settings to increase the frame rate. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row100">
+		<td class="col0"> .cs </td><td class="col1"> .msg $aircraft Your call sign looks different from our recommendation. Perhaps you are not yet familiar how to choose a call sign. For detailed information and guidance, please visit vatsim.net/pilot-resource-centre/general-lessons/choosing-callsign. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row101">
+		<td class="col0" colspan="3"> <strong>25 Others</strong> </td>
+	</tr>
+	<tr class="row102">
+		<td class="col0"> .dis </td><td class="col1"> Disregard last transmission. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row103">
+		<td class="col0"> .ru </td><td class="col1"> Report unable. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row104">
+		<td class="col0"> .rac </td><td class="col1"> Report aircraft type (and version). </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row105">
+		<td class="col0"> .ri </td><td class="col1"> Report intentions. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row106">
+		<td class="col0"> .wx </td><td class="col1"> Metreport $metar($1). </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row107">
+		<td class="col0"> .wxa </td><td class="col1"> Metreport $metar($arr). </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row108">
+		<td class="col0"> .qa </td><td class="col1"> QNH $altim($arr). </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row109">
+		<td class="col0"> .sb </td><td class="col1"> Standby, I&#039;ll call you back. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row110">
+		<td class="col0"> .r </td><td class="col1"> Roger. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row111">
+		<td class="col0" colspan="3"> <strong>27 AIRAC</strong> </td>
+	</tr>
+	<tr class="row112">
+		<td class="col0"> .csr </td><td class="col1"> .msg $aircraft At the moment, your call sign is not listed in our database. Please register your airline on gng.aero-nav.com/AERONAV/icao_request_airlines. If you continue to fly in our region, your call sign may be included in our controller files. </td><td class="col2"> - </td>
+	</tr>
+	<tr class="row113">
+		<td class="col0"> .csv </td><td class="col1"> .msg $aircraft At the moment, your call sign is not listed in our database. Please register your VA on gng.aero-nav.com/AERONAV/icao_request_vairlines. If you continue to fly in our region, your call sign may be included in our controller files. </td><td class="col2"> - </td>
+	</tr>
+</table></div>
+<!-- EDIT{&quot;target&quot;:&quot;table&quot;,&quot;name&quot;:&quot;&quot;,&quot;hid&quot;:&quot;table&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;26-6695&quot;} -->
+</div>

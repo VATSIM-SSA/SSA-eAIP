@@ -1,0 +1,3 @@
+===== Eswatini | FD | FAJA =====
+
+{{tabembed>eswatini-about|About,eswatini-airspace|Airspace,eswatini-airports|Airports}}

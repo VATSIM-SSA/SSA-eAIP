@@ -1,0 +1,54 @@
+===== DNKK Kano Sector File =====
+
+==== Ground Layouts ====
+
+^ Aiport    ^ Status ^
+| [[DNAA]]  | Available |
+| [[DNBC]]  | Available |
+| [[DNCA]]  | Available |
+| [[DNEK]]  | Available |
+| [[DNEN]]  | Available |
+| [[DNGO]]  | Available |
+| [[DNIB]]  | Available |
+| [[DNJO]]  | Available |
+| [[DNKA]]  | Available |
+| [[DNKN]]  | Available |
+| [[DNMA]]  | Available |
+| [[DNMM]]  | Available |
+| [[DNPO]]  | Available |
+| [[DNYO]]  | Available |
+
+==== TopSky ====
+
+^ Feature   ^ Status    ^ AD Complete ^ Remarks ^
+| CFL Initial Climbs | Available //(1)// | MM | - |
+| CFL Levels | Available | MM | - |
+| Maps (Airspace) | Available //(2)// | - | - |
+| Maps (Approaches) | MM | - | - |
+| Maps (Arrivals) | MM | - | - |
+| Maps (Departures) | MM | - | - |
+| Maps (FRA) | KK | - | - |
+| Maps (MSAs) | Available //(3)// | - | - |
+| MSA (AD MSA) | Available //(1)// | - | - |
+| MSA (Approaches) | Available //(1)// | - | - |
+| MSA (MORA) | Available | - | - |
+| PRD Areas | Available | - | - |
+| SSR Code Ranges | Available | KK | - |
+| Transition Levels | Available | MM | - |
+| Views | Available | KK | - |
+| ||||
+| //(1) Limited to Key Airports// ||||
+| //(2) Limited to Sectors and Key TMAS/CTRs// ||||
+| //(3) Not fully implemented// ||||
+
+==== GroundRadar ====
+
+^ Airport   ^ App Window ^ ILS App Path ^ Stands ^ Remarks ^
+| DNAA | Yes | Yes | Yes | - |
+| DNJO | Yes | Yes | No | - |
+| DNMM | Yes | Yes | Yes | - |
+| DNKN | Yes | Yes | No | - |
+| DNPO | Yes | No | No | - |
+| DNYO | Yes | No | No | - |
+
+{{page>dn-footer#DNKK}}

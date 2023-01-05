@@ -1,0 +1,7 @@
+===== HKMO Scenery =====
+
+^ Platform ^ Type       ^ Developer ^ Link ^ Remarks ^
+| XP11      | Freeware  | Deno-380  | [[https://forums.x-plane.org/index.php?/files/file/62519-hkmo-moi-international-airport-mombasa-mba/|Scenery]] | - |
+| P3D       | Freeware  | FSXcenery  | [[https://secure.simmarket.com/fsxcenery-hkmo-moi-international-airport-mombasa-fsx-p3d.phtml|Scenery]] | - |
+
+{{page>hk-footer#HKMO}}

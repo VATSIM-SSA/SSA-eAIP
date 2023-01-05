@@ -1,0 +1,6 @@
+===== DNKK | Kano | DNKK =====
+
+{{tabembed>dnkk-about|About,dnkk-classification|Classification,dnkk-sectors|Sectors,dnkk-rules|Rules,dnkk-transitions|TA/TL,dnkk-loa|Agreements,dnkk-fra|FRA,dnkk-sectorfile|Sector File,alias-std|Alias}}
+
+
+{{page>dn-footer#DNKK}}

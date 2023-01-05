@@ -1,1 +1,60 @@
-==== HKJK Ground ====
+===== HKJK Ground =====
+
+==== Push-back Procedures ====
+
+=== Phraseology ===
+
+<code>
+CALLSIGN, push-back approved, facing DIRECTION.
+</code>
+
+^ Apron     ^ Type              ^ Facing  ^ Remarks ^
+| Apron 1   | Main Terminal / Remote  | North or North-West or South or South-East       | If Medium-Haul, taxiways K and M may be used. |
+| Apron 2 | Cargo | North-East | - |
+| Apron 3  | General Aviation     | South-East        | Only start-up will be needed in most cases. |
+
+=== Apron 1 Stand Allocation ===
+  * Pilots may request to choose a different stand at their discretion.
+  * If preferred stand is occupied, then redirect aircraft to a stand in the same terminal or the J parking stands.
+
+^ Terminal ^ Stands ^
+| 1A | 15-21 |
+| 1B | 14-9 |
+| 1C | 8-4 |
+| 1D | 2A-C & 3A-C |
+| 2 | 22A-F |
+
+^ Terminal ^ ICAO ^ Airline ^ Preferred Stand ^ Remarks ^
+| 1A | ABY | Air Arabia | 19 | - |
+| ::: | AFR | Air France | 18 | - |
+| ::: | CSN | China Southern | ANY | - |
+| ::: | KQA | Kenya Airways | ANY | International Only / Can also use Terminals 1B to 1C. |
+| ::: | KLM | KLM Royal Dutch Airlines | ANY | - |
+| ::: | SVA | Saudia | 18 | - |
+| ::: | N/A | Other SkyTeam Airlines | ANY | - |
+| 1B | AIC | Air India | 11 | - |
+| ::: | ATC | Air Tanzania | ANY | - |
+| ::: | BAW | British Airways | 14 | - |
+| ::: | ETH | Ethopian Airlines | 12 | - |
+| ::: | QTR | Qatar Airways | 10 | - |
+| ::: | SAA | South African Airways | ANY | - |
+| ::: | SWR | Swiss International Air Lines | ANY | - |
+| ::: | UGD | Uganda Airlines | 11 | - |
+| ::: | N/A | Other Oneworld Airlines | ANY | - |
+| 1C | MSR | EgyptAir | 7 | - |
+| ::: | UAE | Emirates | 7 | - |
+| ::: | ETD | Etihad Airways | ANY | - |
+| ::: | DLH | Lufthansa | 5 | - |
+| ::: | MWI | Malawian Airlines | 4 | - |
+| ::: | RWD | RwandAir | ANY | - |
+| ::: | THY | Turkish Airlines | 8 | - |
+| ::: | N/A | Other Star Alliance Airlines | ANY | - |
+| 1D | JMA | Jambojet | ANY | - |
+| ::: | KQA | Kenya Airways | ANY | Domestic Only |
+| 2 | AXK | African Express Airways | ANY | - |
+| ::: | DAO | Daallo Airlines | ANY | - |
+| ::: | FFV | Fly540 | ANY | - |
+| ::: | JBW | Jubba Airways | ANY | - |
+| ::: | PRF | Precision Air | ANY | - |
+
+{{page>hk-footer#HKJK}}

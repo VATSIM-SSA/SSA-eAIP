@@ -1,0 +1,19 @@
+===== Online ATC =====
+
+==== FMMM ====
+
+=== FMMM CTR ===
+
+**Station:** Antananarivo Center (FMMM_CTR)\\
+**Area Coverage:** The ground and skies of Madagascar, Comoros and La Reunion.\\
+**Time of Logon:**  10:00z\\
+**Time of Logoff:** 12:00z
+
+==== FNAN ====
+
+=== FNAN CTR ===
+
+**Station:** Luanda Control (FNAN_CTR)\\
+**Area Coverage:** The ground and skies of Angola, including Luanda Oceanic and St. Helena (FHSH).\\
+**Time of Logon:**  10:00z\\
+**Time of Logoff:** 12:00z

@@ -1,0 +1,30 @@
+===== DNKK Kano Airspace Rules =====
+
+==== Separation ====
+
+  * Satellite based ADS-B coverage is available in the Kano sector and as such, the following separation standards are to be applied:
+
+=== Vertical Separation ===
+
+  * Separation of 1000 ft in RVSM airspace and below then 2000 ft above RVSM airspace
+
+=== Horizontal Separation ===
+
+  * Separation of 5 NM between position symbols but may be increased to 10 NM if required.
+  * Separation of 5 NM between position symbol between an aircraft in Climb or Descent configuration and another stable aircraft at a flight level provided that the climbing or descending aircraft crosses the level of stable traffic only behind said traffic. 
+
+
+==== SELCAL ====
+
+  * DNKK Kano does NOT offer SELCAL capabilities.
+
+==== SLOP ====
+
+  * The use of SLOP at DNKK Kano is in compliance with provisions in ICAO Doc. 4444, between flight level FL290 and FL410 on all enroute ATS routes.
+
+==== VFR Rules ====
+
+  * Flights over populous areas are not allowed below 1500 ft above the highest obstacle within a radius of 2000 ft from the aircraft.
+  * 
+
+{{page>dn-footer#DNKK}}

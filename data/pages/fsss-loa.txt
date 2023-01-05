@@ -1,0 +1,102 @@
+===== FSSS Seychelles Agreements =====
+
+  * Not yet reviewed.
+
+==== External (Neighours) ====
+
+=== DAAA Algiers ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             | -              | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |  -             | -             | - |
+| //Notes// |||||||
+
+=== DRRR Niamey ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== GCCC Canaries ===
+
+  * Aircraft southbound from Canarias FIR have to establish contact will Nouakchott ACC 10 mn before reaching the UTA.
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== GMMM Casablanca ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| GQQQ_CTR 	| GMMM_W_CTR  | ALL | ECHED/UR975 | FL ODD | - | - |
+| GQQQ_CTR 	| GMMM_W_CTR  | ALL | BULIS/UR722 | FL ODD | - | - |
+| //Notes// |||||||
+
+
+==== External (Division) ====
+
+=== DGAC Accra ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== GLRB Roberts ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== GOOO Dakar Oceanic ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== GVSC Cape Verde ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+==== Internal (GOOO) ====
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| //Notes// |||||||
+
+
+{{page>fs-footer#FSSS}}
+

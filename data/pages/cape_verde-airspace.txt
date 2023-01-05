@@ -1,16 +1,10 @@
 ==== Cape Verde Airspace ====
 
-=== Airspace ===
-
-^ Airspace ^ Class ^ Owner ^ Limits ^ Remarks ^
-
-
-
 === Oceanic ===
 
-^ Airspace ^ Class ^ Owner ^ Limits ^ Remarks ^
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| GVSC  | Sal   | [[GVSC]] | -       | - |
 
 
 
-
-{{page>gv-footer#Cape_Verde}}
+{{page>gv-footer#Cape Verde}}

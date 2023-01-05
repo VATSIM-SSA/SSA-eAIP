@@ -1,0 +1,5 @@
+===== AFRS | Africa South | FSS =====
+
+{{tabembed>afrs-about|About,afrs-sectors|Sectors,afrs-rules|Rules,aorra|AORRA,afrs-loa|Agreements,afrs-sectorfile|Sector File,alias-fss|Alias}}
+
+{{page>fss-footer#AFRS}}

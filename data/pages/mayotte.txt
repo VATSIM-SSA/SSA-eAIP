@@ -1,0 +1,3 @@
+===== Mayotte | FM | FMMI =====
+
+{{tabembed>mayotte-about|About,mayotte-airspace|Airspace,mayotte-airports|Airports}}

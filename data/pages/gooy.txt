@@ -1,6 +1,6 @@
 ===== GOOY |  Leopold Sedar Senghor | Dakar, Senegal =====
 
-{{tabembed>gooy-about|About,gooy-delivery|Delivery,gooy-ground|Ground,gooy-tower|Tower,gooy-departure|Departure,gooy-approach|Approach,gooy-events|Events,gooy-charts|Charts}}
+{{tabembed>gooy-about|About,gooy-delivery|Delivery,gooy-ground|Ground,gooy-tower|Tower,gooy-departure|Departure,gooy-approach|Approach,gooy-coordination|Coordination,gooy-charts|Charts,gooy-scenery|Scenery,gooy-briefing|Briefing}}
 
 
 ----

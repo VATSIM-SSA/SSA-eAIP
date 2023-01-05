@@ -1,27 +1,27 @@
-==== Senegal ====
+===== Senegal =====
 ----
 
 //This page is a subsection of the [[Senegal]] country page.//
 
-==== GOOOC ====
+===== GOOO =====
 
 ----
 
-[[GOOOC]] Dakar Continental | v0.1
+[[GOOO]] Dakar Continental | v0.1
 
-==== GOOOO ====
+===== GOOOO =====
 
 ----
 
 [[GOOOO]] Dakar Oceanic | v0.1
 
-==== GOBD ====
+===== GOBD =====
 
 ----
 
 [[GOBD]] Blaise Diagne Intl | v0.1
 
-==== GOOY ====
+===== GOOY =====
 
 ----
 

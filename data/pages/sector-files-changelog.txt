@@ -1,0 +1,5 @@
+==== Sector Files Changelog ====
+
+The following pages will contain all the Division updates to Sector Files for each of the AIRAC cycles.
+
+  *  [[sector-files-airac2212|AIRAC 2212]]

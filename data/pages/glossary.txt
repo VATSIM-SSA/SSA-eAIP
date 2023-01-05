@@ -16,7 +16,7 @@
 
 ^ Term ^ Definition ^ More Info ^ Remarks ^
 | MSA | Minimum Sector Altitude | [[https://skybrary.aero/articles/minimum-sector-altitude-msa|More Info]] | - |
-| - | - | - |
+| MRVA | Minimum Radar Vectoring Altitude | - |
 
 ==== T =====
 

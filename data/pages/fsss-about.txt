@@ -1,0 +1,15 @@
+===== Seychelles Information =====
+
+
+==== Airport Coverage ====
+
+Seychelles covers the following airports:
+
+=== Seychelles ===
+
+{{page>seychelles-airports#Seychelles Airports}}
+
+
+
+
+{{page>fs-footer#FSSS}}

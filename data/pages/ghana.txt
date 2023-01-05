@@ -1,0 +1,3 @@
+===== Ghana | DG | DGAC =====
+
+{{tabembed>ghana-about|About,ghana-airspace|Airspace,ghana-airports|Airports}}

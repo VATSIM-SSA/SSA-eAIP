@@ -1,0 +1,16 @@
+===== Seychelles =====
+----
+
+//This page is a subsection of the [[Seychelles]] country page.//
+
+===== FSSS =====
+
+----
+
+[[FSSS]] Seychelles | v0.1
+
+===== FSIA =====
+
+----
+
+[[ FSIA]] Seychelles Intl | v0.1

@@ -1,0 +1,116 @@
+===== DNKK Kano Free Route Airspace =====
+
+==== FRA Waypoints ====
+
+  * Controllers may redirect any flights from/to a FRA Entry/Exit Waypoint to a FRA Arrival/Departure Connecting Waypoint or from a FRA Entry Waypoint to a FRA Exit Waypoint.
+  * Controllers may never redirect any flight that may cross Restricted or Special User Airspace. In those circumstances, controllers may use the FRA Intermediate Waypoints to redirect the flights.
+
+^ Waypoint  ^ Type  ^ Flight Levels ^ Level Availablty  ^ Remarks ^
+| KELAK     | EXAD  | ODD / EVEN    | FL245 / UNLTD     | - |
+| GATAG     | EXAD  | ODD / EVEN    | FL245 / UNLTD     | - |
+| NANOS     | EXAD  | ODD / EVEN    | FL245 / UNLTD     | - |
+| KORUT     | EXAD  | ODD / EVEN    | FL245 / UNLTD     | - |
+| ARDEX     | EXAD  | ODD / EVEN    | FL245 / UNLTD     | - |
+| MIMBA     | EXAD  | ODD / EVEN    | FL245 / UNLTD     | - |
+| OBUDU     | EXAD  | ODD / EVEN    | FL245 / UNLTD     | - |
+| POLTO     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| DETAR     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| EDUKO     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| TAKUM     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| ENBUT     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| EBIMU     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| LIREX     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| TENTU     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| GULEN     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| ONSEV     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| BOVDA     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| ETRIS     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| GANDA     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| GADUV     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| IKROP     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| OPALA     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| BIPIV     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| KIPSA     | EX    | ODD / EVEN    | FL245 / UNLTD     | - |
+| LAG VOR   | AD    | ODD / EVEN    | FL245 / UNLTD     | - |
+| ABC VOR   | ADI   | ODD / EVEN    | FL245 / UNLTD     | - |
+| BUDSI     | AI    | ODD / EVEN    | FL245 / UNLTD     | - |
+| OGDIX     | I     | ODD / EVEN    | FL245 / UNLTD     | - |
+| OXORU     | I     | ODD / EVEN    | FL245 / UNLTD     | - |
+| POSIB     | I     | ODD / EVEN    | FL245 / UNLTD     | - |
+| GURAP     | I     | ODD / EVEN    | FL245 / UNLTD     | - |
+| IBA       | I     | ODD / EVEN    | FL245 / UNLTD     | - |
+| APRUN     | I     | ODD / EVEN    | FL245 / UNLTD     | - |
+| RALIN     | X     | ODD           | FL245 / UNLTD     | - |
+| |||||
+| //Notes// |||||
+| //Type E - Entry Waypoint// |||||
+| //Type X - Exit Waypoint// |||||
+| //Type A - Arrival Connecting Waypoint// |||||
+| //Type D - Departure Connecting Waypoint// |||||
+| //Type I - Intermediate Point// |||||
+
+==== FRA for DN Airports ====
+
+^ Airport   ^ Type      ^ From/To   ^ Start ^ Intermediate  ^ End       ^ Remarks ^
+| DNAA      | Both      | DRRR      | NANOS | -             | ABC VOR   | Bidirectional |
+| :::       | Both      | DRRR      | KORUT | -             | ABC VOR   | Bidirectional |
+| :::       | Both      | DRRR      | MIMBA | OXORU         | ABC VOR   | Bidirectional |
+| :::       | Both      | FCCC      | OBUDU | -             | ABC VOR   | Bidirectional |
+| :::       | Both      | FTTT      | KELAG | POSIB - GURAP | ABC VOR   | Bidirectional
+| DNMM      | Arrival   | DRRR      | NANOS | BUDSI         | LAG VOR   | Arrival Only, Even FL |
+| :::       | Departure | DRRR      | LAG   | -             | NANOS     | Departure Only, Odd FL |
+| :::       | Both      | FCCC      | LAG   | -             | ARDEX     | Bidirectional |
+| :::       | Both      | FCCC      | LAG   | -             | GATAG     | Bidirectional |
+| :::       | Both      | FTTT      | KELAG | OGDIX         | LAG VOR   | Bidirectional |
+
+==== FRA for Overflights ====
+
+^ From  ^ To    ^ Entry ^ Via   ^ Exit  ^ Remarks ^
+| DGAC  | DRRR  | POLTO | APRUN | DETAR | - |
+| DGAC  | DRRR  | POLTO | APRUN | KORUT | - |
+| DGAC  | FCCC  | EDUKO | -     | ARDEX | - |
+| DGAC  | FCCC  | GANDA | -     | GADUV | - |
+| DGAC  | FCCC  | KIPSA | -     | BIPIV | - |
+| DGAC  | FCCC  | LIREX | -     | IKROP | - |
+| DGAC  | FCCC  | TENTU | -     | LIREX | - |
+| DGAC  | FCCC  | OPALA | -     | ARDEX | - |
+| DGAC  | FCCC  | OPALA | -     | RALIN | Unidirectional Only |
+| DGAC  | FCCC  | POLTO | -     | IKROP | - |
+| DGAC  | FCCC  | POLTO | -     | RALIN | Unidirectional Only |
+| DGAC  | FCCC  | TENTU | -     | ARDEX | - |
+| DGAC  | FCCC  | TENTU | -     | BIPIV | - |
+| DGAC  | FTTT  | GANDA | -     | ETRIS | - |
+| DGAC  | FTTT  | POLTO | OGDIX | KELAK | - |
+| DGAC  | FTTT  | POLTO | IBA - GURAP - POSIB | KELAK | - |
+| DRRR  | FCCC  | BOVDA | -     | GADUV | - |
+| DRRR  | FCCC  | BOVDA | -     | OBUDU | - |
+| DRRR  | FCCC  | MIMBA | -     | TAKUM | - |
+| DRRR  | FCCC  | NANOS | ABC   | RALIN | - |
+| DRRR  | FTTT  | BOVDA | -     | ONSEV | - |
+| DRRR  | FTTT  | GULEN | -     | ONSEV | - |
+| DRRR  | DGAC  | DETAR | APRUN | POLTO | - |
+| DRRR  | DGAC  | KORUT | APRUN | POLTO | - |
+| FCCC  | DGAC  | ARDEX | -     | EDUKO | - |
+| FCCC  | DGAC  | ARDEX | -     | OPALA | - |
+| FCCC  | DGAC  | ARDEX | -     | TENTU | - |
+| FCCC  | DGAC  | BIPIV | -     | TENTU | - |
+| FCCC  | DGAC  | BIPIV | -     | KIPSA | - |
+| FCCC  | DGAC  | GADUV | -     | GANDA | - |
+| FCCC  | DGAC  | IKROP | -     | LIREX | - |
+| FCCC  | DGAC  | IKROP | -     | POLTO | - |
+| FCCC  | DGAC  | LIREX | -     | TENTU | - |
+| FCCC  | DRRR  | GADUV | -     | BOVDA | - |
+| FCCC  | DRRR  | RALIN | ABC   | NANOS | - |
+| FCCC  | DRRR  | OBUDU | -     | BOVDA | - |
+| FCCC  | DRRR  | TAKUM | -     | MIMBA | - |
+| FTTT  | DGAC  | ETRIS | -     | GANDA | - |
+| FTTT  | DGAC  | KELAK | OGDIX | POLTO | - |
+| FTTT  | DGAC  | KELAK | POSIB - GURAP - IBA | POLTO | - |
+| FTTT  | DRRR  | ONSEV | -     | BOVDA | - |
+| FTTT  | DRRR  | ONSEV | -     | GULEN | - |
+| FTTT  | FTTT  | EBIMU | -     | ENBUT | - |
+| FTTT  | FTTT  | ENBUT | -     | EBIMU | - |
+
+
+
+{{page>dn-footer#DNKK}}

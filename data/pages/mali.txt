@@ -1,0 +1,3 @@
+===== Mali | GA | GOOO =====
+
+{{tabembed>mali-about|About,mali-airspace|Airspace,mali-airports|Airports}}

@@ -1,0 +1,31 @@
+===== Flight Service Stations (FSS) =====
+
+  * Within VATSSA Airspace, there are three Designated FSS Airspaces, namely Africa Control West, Africa Control Central and Africa Control South.
+  * These FSS airspaces cover specific FIR regions above FL245, except if there is local ATC coverage.
+
+==== FSS Stations ====
+
+^ Station ^ FIR ^ Remarks ^
+| [[AFRC]] | [[FLFI]] | - |
+| :::  | [[FNAN]] | - |
+| :::  | [[FSSS]] | - |
+| :::  | [[FWLL]] | - |
+| :::  | [[FZZA]] | - |
+| :::  | [[HBBA]] | - |
+| :::  | [[HKNA]] | - |
+| :::  | [[HRYR]] | - |
+| :::  | [[HTDC]] | - |
+| :::  | [[HUEC]] | - |
+| [[AFRS]] | [[FASA]] | //does NOT includes FAJO// |
+| :::  | [[FBGR]] | - |
+| :::  | [[FIMM]] | - |
+| :::  | [[FMMM]] | - |
+| :::  | [[FQBE]] | - |
+| :::  | [[FVHF]] | - |
+| :::  | [[FYWH]] | - |
+| [[AFRW]] | [[DGAC]] | - |
+| :::  | [[DNKK]] | - |
+| :::  | [[FCCC]] | - |
+| :::  | [[GLRB]] | - |
+| :::  | [[GOOO]] | //includes GOOO Oceanic// |
+| :::  | [[GVSC]] | - |

@@ -1,0 +1,52 @@
+===== SSA eAIP Countries =====
+
+^ ICAO  ^ Country           ^ About ^ Airports ^ Airspace ^ Footer ^
+| DN    | [[:Nigeria]]      | [[:Nigeria-About]] | [[:Nigeria-Airports]] | [[:Nigeria-Airspace]] | [[:dn-footer|Footer]] |
+| FA    | [[:South Africa]] | [[:South Africa-About]] | [[:South Africa-Airports]] | [[:South Africa-Airspace]] | [[:fa-footer|Footer]] |
+| FN    | [[:Angola]]       | [[:Angola-About]] | [[:Angola-Airports]] | [[:Angola-Airspace]] | [[:fn-footer|Footer]] |
+| GO    | [[:Senegal]]      | [[:Senegal-About]] | [[:Senegal-Airports]] | [[:Senegal-Airspace]] | [[:go-footer|Footer]] |
+| HK    | [[:Kenya]]        | [[:Kenya-About]] | [[:Kenya-Airports]] | [[:Kenya-Airspace]] | [[:hk-footer|Footer]] |
+
+===== Official Links =====
+
+^ Country   ^ Aviation Authority ^ eAIP ^
+| Congo, DR | [[http://www.anaccongo.org|Site]] | - |
+| Congo, R  | - | - |
+
+===== Sector Files =====
+
+^ ICAO ^
+| - |
+
+===== FIRS =====
+
+^ ICAO      ^ Name          ^ Country(ies) ^
+| [[:DGAC]] | Accra         | [[:Benin]], [[:Ghana]] and [[:Togo]] |
+| [[:DNKK]] | Kano          | [[:Nigeria]] |
+| [[:FACA]] | Cape Town     | [[:South Africa]] |
+| [[:FAJA]] | Johannesburg  | [[:South Africa]] |
+| [[:FBGR]] | Gaborone      | [[:Botswana]] |
+| [[:FCCC]] | Brazzaville   | - |
+| [[:FIMM]] | Mauritius     | [[:Mauritius]] |
+| [[:FLFI]] | Lusaka        | - |
+| [[:FMMM]] | Antananarivo  | - |
+| [[:FNAN]] | Luanda        | [[:Angola]] |
+| [[:FQBE]] | Beira         | [[:Mozambique]] |
+| [[:FSSS]] | Seychelles    | [[:Seychelles]] |
+| [[:FVHF]] | Harare        | [[:Zimbabwe]] |
+| [[:FWLL]] | Lilongwe      | - |
+| [[:FYWF]] | Windhoek      | [[:Namibia]] |
+| [[:FZZA]] | Kinshasa      | - |
+| [[:GLRB]] | Roberts       | - |
+| [[:GOOOC|GOOO]]  | Dakar  | [[:Ivory Coast]], [[:Mali]], [[:Mauritania]], [[:Senegal]] |
+| [[:GVAC]] | Sal           | [[:Cape Verde]] |
+| [[:HBBA]] | Bujumbura     | [[:Burundi]] |
+| [[:HKNA]] | Nairobi       | [[:Kenya]] |
+| [[:HRYR]] | Kigali        | [[:Rwanda]] |
+| [[:HTDC]] | Dar es Salaam | [[:Tanzania]] |
+| [[:HUEC]] | Entebbe       | [[:Uganda]] |
+
+===== Airports =====
+
+^ ICAO ^
+| - |

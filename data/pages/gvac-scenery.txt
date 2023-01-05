@@ -1,0 +1,9 @@
+===== GVAC Scenery =====
+
+^ Platform ^ Type       ^ Developer ^ Link ^ Remarks ^
+| XP11      | Freeware  | axmiha     | [[https://forums.x-plane.org/index.php?/files/file/81494-gvac-amilcar-cabral-intl-airport/|Scenery]] | - |
+| MSFS 2020 | Freeware  | frangollo  | [[https://flightsim.to/file/3563/gvac-luces-v1-aeropuerto-internacional-amilcar-cabral-cabo-verde|Scenery]] | - |
+| P3D       | Freeware  | FSDG       | [[https://fsdg-online.com/Free/Cape-Verde-FREE::15.html?language=en|Scenery]] | - |
+
+
+{{page>hk-footer#GVAC}}

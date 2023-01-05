@@ -1,0 +1,3 @@
+===== Malawi | FW | FWLL =====
+
+{{tabembed>malawi-about|About,malawi-airspace|Airspace,malawi-airports|Airports}}

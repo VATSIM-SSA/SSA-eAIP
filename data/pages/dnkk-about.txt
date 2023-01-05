@@ -1,0 +1,5 @@
+===== DNKK Kano Flight Information Region =====
+
+  * The Kano FIR covers the entirety of [[Nigeria]]'s borders. It is neighbored by [[DGAC|Accra]] FIR in the West, the Niamey FIR in the North, the N'Djamena FIR, the Northeast and [[FCCC|Brazzaville]] in the East and Accra Oceanic in the South.
+
+{{page>dn-footer#DNKK}}

@@ -1,6 +1,0 @@
-===== GOOO | Dakar Continental | GOOOC =====
-
-{{tabembed>goooc-about|About}}
-
-
-{{page>go-footer#Senegal}}

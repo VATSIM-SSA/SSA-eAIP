@@ -1,0 +1,23 @@
+===== FSS =====
+----
+
+//This page is a subsection of the [[Senegal]] country page.//
+
+==== AFRC ====
+
+----
+
+[[AFRC]] Africa Central | v0.1
+
+==== AFRS ====
+
+----
+
+[[AFRS]] Africa South | v0.1
+
+==== AFRW ====
+
+----
+
+[[AFRW]] Africa West | v0.1
+

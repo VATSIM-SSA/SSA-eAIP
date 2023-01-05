@@ -1,6 +1,6 @@
-==== GOBD Approach ====
+===== GOBD Approach =====
 
-=== Arrivals Procedures ===
+==== Arrivals Procedures ====
 
 ^ Rwy   ^ Fix   ^ Arrival   ^ Type          ^ Track Miles   ^ Approach  ^ Remarks ^
 | 01    | AMROD | AMRO2D    | Conventional  | 47 nm         | ILS Z     | - |
@@ -51,14 +51,14 @@
 | :::   | VOR Y             | 115.40 DS     | 186º | 3.00º | 11 DME DS | 3000 ft | - |
 
 
-=== Holds ===
+==== Holds ====
 
 ^ Name  ^ STAR  ^ Altitude          ^ Speed (IAS)   ^ Inbound CRS ^ Turn ^ Leg Time ^ Remarks ^
 | DEPAL | -     | 3000 ft to FL090  | 230 KT        | 006º | Right | 1 min | Runway 01 |
 | KOSOM | -     | 3000 ft to FL090  | 230 KT        | 186º | Right | 1 min | Runway 19 |
 
 
-=== Missed Approach Procedures ===
+==== Missed Approach Procedures ====
 
 ^ Rwy   ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
 | 01    | ILS Z or LOC Z    | Climb on Runway Heading. At 2000 ft turn LEFT and climb to 3000 ft to join the DS VOR. Then join DEPAL via R-176 DS. | DEPAL | - |
@@ -70,14 +70,14 @@
 | :::   | VOR Z or VOR Y    | Climb on Runway Heading. At 2000 ft turn LEFT and climb to 3000 ft to join the DS VOR. Then join KOSOM via R-356 DS. | ::: | ::: |
 
 
-=== MSA and MRVA ===
+==== MSA and MRVA ====
 
 ^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
 | DS    | 0 nm  | 25 nm | 089º | 029º | 2000 ft | - |
 | :::   | :::   | :::   | 029º | 089º | 3000 ft | - |
 
 
-=== Diversions ===
+==== Diversions ====
 
 ^ ICAO ^ Name                                       ^ Distance  ^ Longest Rwy ^ Remarks ^ 
 | GOOY | Leopold Sedar Senghor (Dakar, Senegal)     | 30 nm     | 3490 m | - |

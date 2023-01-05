@@ -1,44 +1,16 @@
-==== GOBD Delivery ====
+===== GOBD Delivery =====
 
-=== IFR Clearance Rules ===
+==== IFR Clearance Rules ====
 
-* We have not implemented any specific IFR Clearance or Flight Plan Validation rules at this point.
+  * We have not implemented any specific IFR Clearance or Flight Plan Validation rules at this point.
 
-=== Cruise Level Rules ===
+  * Senegal Airspace operates with the following RVSM standard table of Cruising Levels.
 
-* Senegal Airspace operates with the following RVSM standard table of Cruising Levels.
+  * VFR flights are not allowed over and above the FL 150.
 
-^ Magnetic Track  ^ 000º to 179º  ^ ^ 180º to 359º  ^
-| Flight Rules    | IFR | VFR     | | IFR | VFR     |
-| Flight Level    | 010 | -       | | 020 | -       |
-| :::             | 030 | 035     | | 040 | 045     |
-| :::             | 050 | 055     | | 060 | 065     |
-| :::             | 070 | 075     | | 080 | 085     |
-| :::             | 090 | 095     | | 100 | 105     |
-| :::             | 110 | 115     | | 120 | 125     |
-| :::             | 130 | 135     | | 140 | 145     |
-| :::             | 150 | -       | | 160 | -       |
-| :::             | 170 | -       | | 180 | -       |
-| :::             | 190 | -       | | 200 | -       |
-| :::             | 210 | -       | | 220 | -       |
-| :::             | 230 | -       | | 240 | -       |
-| :::             | 250 | -       | | 260 | -       |
-| :::             | 270 | -       | | 280 | -       |
-| :::             | 290 | -       | | 310 | -       |
-| :::             | 330 | -       | | 350 | -       |
-| :::             | 370 | -       | | 390 | -       |
-| :::             | 410 | -       | | 430 | -       |
-| :::             | 450 | -       | | 470 | -       |
-| :::             | 490 | -       | | 510 | -       |
-| :::             | 530 | -       | | 550 | -       |
-| :::             | 570 | -       | | 590 | -       |
-| :::             | etc | -       | | etc | -       |
+{{page>icao-cruiselevels#RVSM Feet}}
 
-
-
-  * The VFR flights are not allowed over and above the flight level 150 (DOC 7030 ICAO).
-
-=== Departure Procedures & Initial Climbs ===
+==== Departure Procedures & Initial Climbs ====
 
   * GOBD does not have coded SID procedures, so, the runway heading rule will apply.
 
@@ -46,6 +18,10 @@
 | 01 | 006 | 3000 ft | - |
 | 19 | 186 | 3000 ft | - |
 | //Please alert the pilots to the [[gobd-departure#noise_abatement_procedures|Noise Abatement Procedures]]// ||||
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Delivery Clearance}}
 
 
 {{page>go-footer#GOBD}}

@@ -1,0 +1,51 @@
+===== Africa Central Information =====
+
+Lorem Ipsum
+
+
+
+
+==== Airport Coverage ====
+
+Africa Central covers the following key airports:
+
+=== FLFI Lusaka ===
+
+{{page>angola-airports#Angola Airports}}
+
+=== FNAN Luanda ===
+
+{{page>angola-airports#Angola Airports}}
+
+=== FSSS Seychelles ===
+
+{{page>seychelles-airports#Seychelles Airports}}
+
+=== FZZA Kinshasa ===
+
+{{page>angola-airports#Angola Airports}}
+
+=== HBBA Bujumbura ===
+
+{{page>angola-airports#Angola Airports}}
+
+=== HKNA Nairobi ===
+
+{{page>kenya-airports#Kenya Airports}}
+
+=== HRYR Kigali ===
+
+{{page>angola-airports#Angola Airports}}
+
+=== HTDC Dar es Salaam ===
+
+{{page>angola-airports#Angola Airports}}
+
+=== HUEC Entebbe ===
+
+{{page>angola-airports#Angola Airports}}
+
+
+
+
+{{page>fss-footer#AFRC}}

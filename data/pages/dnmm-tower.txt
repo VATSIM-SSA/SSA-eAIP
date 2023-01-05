@@ -1,22 +1,25 @@
-==== DNMM Tower ====
+===== DNMM Tower =====
 
   * Lorem ipsum verbis est
 
-=== Runway Selection ===
+==== Runway Selection ====
 
-  * Runway 01 is the preferred active runway, up to 10 kts of tailwind. 
+  * The preferred runways at DNMM are 18L and 18R as there are no Instrument Approaches for the 36s. 
+  * Runway 18R is the longer runway and the preferred arrival and departure runway for Heavy aircraft. 
+  * It is also the preferred arrival and departure runway for traffic headed to the Cargo and International Aprons. 
+  * Runway 18L is the preferred arrival and departure runway for traffic headed to the Domestic, GA and FBO Aprons.
 
 
-=== Runway Change Operations ===
+==== Runway Change Operations ====
 
   * Runway changes must be coordinate with existing DEL, GND, TWR, DEP and APP controllers.
   * If possible, hold aircraft on stand before a runway change operation.
-  * If an aircraft is already taxying on Twy C, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
-  * If an aicraft as already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
+  * If an aircraft is already taxying on Twy F, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
+  * If an aircraft as already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
 
-=== Wake Separation ===
+==== Wake Separation ====
 
-== Arrivals (nm) ==
+=== Arrivals (nm) ===
 
 ^ Lead ^ J ^ H ^ M ^ L ^
 | J | ||||
@@ -24,7 +27,7 @@
 | M | 7 | 5 | 5 | |
 | L | 8 | 6 | 5 | 5 |
 
-== Departures (min) ==
+=== Departures (min) ===
 
 ^ Lead ^ J ^ H ^ M ^ L ^
 | J | ||||
@@ -33,23 +36,29 @@
 | L | 3 | 2 | 2 | |
 
 
-=== Missed Approach Procedures ===
+==== Missed Approach Procedures ====
 
-=== HIRO ===
+==== HIRO ====
 
-=== VFR Operations ===
+==== VFR Operations ====
 
-== VFR Circuits ==
+  * VFR Squawk Codes should be assigned through ES/TopSky.
 
-== VFR Departures ==
+^ Rwy ^ Turn  ^ Altitude ^ Remarks ^ 
+| 18L | Left  | Up to 1500 AGL | - |
+| 36R | Right | Up to 1500 AGL | - |
 
-== VFR Arrivals ==
+=== VFR Circuits ===
 
-== VFR Transitions ==
+=== VFR Departures ===
 
-== Visual Reference Points ==
+=== VFR Arrivals ===
 
-=== Helicopter Operations ===
+=== VFR Transitions ===
+
+=== Visual Reference Points ===
+
+==== Helicopter Operations ====
 
 
 

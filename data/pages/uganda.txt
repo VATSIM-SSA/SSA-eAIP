@@ -1,0 +1,3 @@
+===== Uganda | HU | HUEC =====
+
+{{tabembed>uganda-about|About,uganda-airspace|Airspace,uganda-airports|Airports}}

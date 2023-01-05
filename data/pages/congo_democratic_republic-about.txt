@@ -1,0 +1,6 @@
+===== Congo, Democratic Republic Information =====
+
+The **Democratic Republic of the Congo**, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also colloquially Zaire, is a country in Central Africa. It is bordered to the northwest by the Republic of the Congo, to the north by the [[Central African Republic]], to the northeast by South Sudan, to the east by [[Uganda]], [[Rwanda]], and [[Burundi]], and by [[Tanzania]] (across Lake Tanganyika), to the south and southeast by [[Zambia]], to the southwest by [[Angola]], and to the west by the South Atlantic Ocean and the Cabinda exclave of Angola. By area, it is the second-largest country in Africa and the 11th-largest in the world. With a population of around 108 million, the Democratic Republic of the Congo is the most populous officially Francophone country in the world. The national capital and largest city is Kinshasa, which is also the nation's economic center. //For more information, visit [[https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo|Wikipedia]].//
+
+
+{{page>fz-footer#Congo, DR}}

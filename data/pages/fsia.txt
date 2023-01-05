@@ -1,0 +1,6 @@
+===== FSIA | Seychelles Intl | Seychelles, Seychelles =====
+
+{{tabembed>fsia-about|About,fsia-delivery|Delivery,fsia-ground|Ground,fsia-tower|Tower,fsia-departure|Departure,fsia-approach|Approach,fsia-coordination|Coordination,fsia-charts|Charts,fsia-scenery|Scenery,fsia-briefing|Briefing}}
+
+----
+[[Seychelles]] (FS) Airports | [[FSIA]]

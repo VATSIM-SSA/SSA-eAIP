@@ -1,0 +1,48 @@
+===== GVSC Sal Sector File =====
+
+  * //This page is yet to be updated.//
+
+==== Ground Layouts ====
+
+^ Aiport    ^ Status ^
+| [[GVAC]]  | Available |
+| [[GVBA]]  | Available |
+| [[GVMA]]  | Available |
+| [[GVNP]]  | Available |
+| [[GVSF]]  | Available |
+| [[GVSN]]  | Available |
+| [[GVSV]]  | Available |
+
+==== TopSky ====
+
+^ Feature   ^ Status    ^ AD Complete ^ Remarks ^
+| CFL Initial Climbs | Available //(1)// | AC | - |
+| CFL Levels | Available | AC | - |
+| Maps (Airspace) | Available //(2)// | - | - |
+| Maps (Approaches) | MM | - | - |
+| Maps (Arrivals) | MM | - | - |
+| Maps (Departures) | MM | - | - |
+| Maps (FRA) | KK | - | - |
+| Maps (MSAs) | Available //(3)// | - | - |
+| MSA (AD MSA) | Available //(1)// | - | - |
+| MSA (Approaches) | Available //(1)// | - | - |
+| MSA (MORA) | Available | - | - |
+| PRD Areas | Available | - | - |
+| SSR Code Ranges | Available | KK | - |
+| Transition Levels | Available | MM | - |
+| Views | Available | KK | - |
+| ||||
+| //(1) Limited to Key Airports// ||||
+| //(2) Limited to Sectors and Key TMAS/CTRs// ||||
+| //(3) Not fully implemented// ||||
+
+==== GroundRadar ====
+
+^ Airport   ^ App Window ^ ILS App Path ^ Stands ^ Remarks ^
+| GVAC | Yes | Yes | Yes | - |
+| GVBA | Yes | Yes | No | - |
+| GVNP | Yes | Yes | Yes | - |
+| GVSV | Yes | Yes | No | - |
+
+
+{{page>gv-footer#GVSC}}

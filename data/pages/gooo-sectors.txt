@@ -1,0 +1,54 @@
+===== Dakar Continental Sectors =====
+
+ * The Dakar Continental airspace is divided into the following sectors:
+
+
+==== Abidjan ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| DIII_CTR  | Abidjan Control   | 129.100   | DIII  | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Abidjan FIS   | G     | DIII_CTR  | GND - FL145   | - |
+| Abidjan FIS   | G     | DIII_CTR  | FL145 - FL195 | //Except for ATS Routes (Class A)// |
+| Abidjan FIS   | G     | DIII_CTR  | FL195 - FL245 | - |
+| Abidjan UTA   | A     | DIII_CTR  | FL245 - UNLTD | - |
+
+
+==== Bamako ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| GAAA_CTR  | Bamako Control    | 125.400   | GAAA  | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Bamako FIS    | G     | GAAA_CTR  | GND - FL145   | - |
+| Bamako FIS    | G     | GAAA_CTR  | FL145 - FL195 | //Except for ATS Routes (Class A)// |
+| Bamako FIS    | G     | GAAA_CTR  | FL195 - FL245 | - |
+| Bamako UTA    | A     | GAAA_CTR  | FL245 - UNLTD | - |
+
+
+==== Dakar ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| GOOO_CTR  | Dakar Control     | 129.500   | GOOO  | - |
+
+ ^ Airspace         ^ Class ^ Owner     ^ Limits    ^ Remarks ^
+| Dakar Continental | G     | GOOO_CTR  | GND - FL145 | - |
+| Dakar Continental | G     | GOOO_CTR  | FL145 - FL195 | //With the exception of ATS Routes// |
+| Dakar Continental | A     | GOOO_CTR  | FL195 - FL245 | - |
+| Dakar Continental UIR | A | GOOO_CTR  | FL245 - UNLTD | - |
+
+
+==== Nouakchott ====
+
+^ Position  ^ Callsign              ^ Frequency ^ CPDLC ^ Remarks ^
+| GQQQ_CTR  | Nouakchott Control    | 124.200   | GQQQ  | - |
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Nouakchott FIS    | G     | GQQQ_CTR  | GND - FL145   | - |
+| Nouakchott FIS    | G     | GQQQ_CTR  | FL145 - FL195 | //Except for ATS Routes (Class A)// |
+| Nouakchott FIS    | A     | GQQQ_CTR  | FL195 - FL245 | - |
+| Nouakchott UTA    | A     | GQQQ_CTR  | FL245 - UNLTD | //[[RNP10]] between FL245 and FL460// |
+ 
+
+{{page>go-footer#GOOO}}

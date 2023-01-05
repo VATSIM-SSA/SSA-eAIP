@@ -1,2 +1,5 @@
 ^ Event Name ^ Date ^ ICAO ^ Remarks ^
-| Cross the Sahara 2 | 03/12/22 | [[GOBD]] | - |
+| C1 Exam at DNKK_CTR | 08/12/22 | [[DNKK]] | - |
+| S2 CPT at HKJK_TWR | 17/12/22 | [[HKJK]] | - |
+| Nairobi Nights | 05/01/23 | [[HKJK]] | - |
+| Light Twin Hops | 07/01/23 | [[FSIA]] | - |

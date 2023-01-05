@@ -1,9 +1,9 @@
-==== GOBD Information ====
+===== GOBD Information =====
 
 **Blaise Diagne International Airport** (French: Aéroport International Blaise Diagne) is an international airport near the town of Diass in Thiès Region, [[Senegal]], 43 kilometres (27 mi) east of downtown Dakar. It serves as the main airport for Dakar, replacing Léopold Sédar Senghor International Airport ([[GOOY]]), which had become too small. It is named after Blaise Diagne, the first black African elected to France's parliament in 1914. //More information available at [[https://en.wikipedia.org/wiki/Blaise_Diagne_International_Airport|Wikipedia]].//
 
 
-=== Aerodrome Data ===
+==== Aerodrome Data ====
 
 | ICAO                  | GOBD |
 | IATA                  | DSS |
@@ -15,14 +15,14 @@
 | Site | [[https://dakaraeroport.com/|dakaraeroport.com]] |
 
 
-=== Runways ===
+==== Runways ====
 
 ^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
 | 01 | 006º | 3500 | 3700 | 3620 | 3500 | - |
 | 19 | 186º | 3500 | 3600 | 3620 | 3500 | - |
 
 
-=== Aprons ===
+==== Aprons ====
 
 ^ Apron     ^ Type              ^ Entry / Exit  ^ Remarks ^
 | Apron G   | General Aviation  | Twy G         | - |
@@ -34,7 +34,7 @@
 | Apron VIP | VIP               | Twy P         | - |
 
 
-=== Positions & Frequencies ===
+==== Positions & Frequencies ====
 
 ^ Position  ^ Callsign          ^ Frequency ^ Remarks ^
 | GOBD_ATIS | Diass ATIS        | 120.500   | - |
@@ -45,7 +45,7 @@
 | GOOO_CTR  | Dakar Control     | 129.500   | - |
 
 
-=== Airspace ===
+==== Airspace ====
 
 ^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
 | Dakar-Diass CTR   | D     | GOBD_TWR | GND - FL045    | - |

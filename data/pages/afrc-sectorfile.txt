@@ -1,0 +1,7 @@
+===== Africa Central Sector File =====
+
+  * Lorem
+
+
+
+{{page>fss-footer#AFRC}}

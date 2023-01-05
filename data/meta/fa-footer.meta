@@ -1,0 +1,17 @@
+a:2:{s:7:"current";a:11:{s:4:"date";a:2:{s:7:"created";i:1669897646;s:8:"modified";i:1670608847;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:8:{s:4:"date";i:1670608847;s:2:"ip";s:14:"46.189.148.220";s:4:"type";s:1:"E";s:2:"id";s:9:"fa-footer";s:4:"user";s:6:"810471";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:57;}s:11:"contributor";a:1:{i:810471;s:13:"Miguel Albano";}s:8:"approval";a:1:{i:1670608847;a:1:{i:810471;a:4:{i:0;s:6:"810471";i:1;i:810471;i:2;s:22:"hello@vcaptainmike.com";i:3;i:1670608849;}}}s:5:"title";s:12:"South Africa";s:11:"description";a:2:{s:15:"tableofcontents";a:3:{i:0;a:4:{s:3:"hid";s:12:"south_africa";s:5:"title";s:12:"South Africa";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:1;a:4:{s:3:"hid";s:4:"fact";s:5:"title";s:4:"FACT";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:4:"fawb";s:5:"title";s:4:"FAWB";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:173:"South Africa
+
+----------
+
+This page is a subsection of the South Africa country page.
+
+FACT
+
+----------
+
+FACT Cape Town Intl | v0.1
+
+FAWB
+
+----------
+
+FAWB Wonderboom | v0.1";}s:8:"relation";a:2:{s:10:"references";a:3:{s:12:"south_africa";b:1;s:4:"fact";b:1;s:4:"fawb";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:16:"approval_version";i:2;}s:10:"persistent";a:7:{s:4:"date";a:2:{s:7:"created";i:1669897646;s:8:"modified";i:1670608847;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:8:{s:4:"date";i:1670608847;s:2:"ip";s:14:"46.189.148.220";s:4:"type";s:1:"E";s:2:"id";s:9:"fa-footer";s:4:"user";s:6:"810471";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:57;}s:11:"contributor";a:1:{i:810471;s:13:"Miguel Albano";}s:8:"approval";a:1:{i:1670608847;a:1:{i:810471;a:4:{i:0;s:6:"810471";i:1;i:810471;i:2;s:22:"hello@vcaptainmike.com";i:3;i:1670608849;}}}s:16:"approval_version";i:2;}}

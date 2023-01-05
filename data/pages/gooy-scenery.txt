@@ -1,10 +1,12 @@
-==== GOBD Scenery ====
-
-  * This section is under development and has not yet been validated or published. If you're seeing this online, please disregard the information below.
+===== GOOY Scenery =====
 
 
-^ Platform ^ Type ^ Developer ^ Link ^ Remarks ^
-| - | - | - | [[|Scenery]] | - |
+^ Platform ^ Type       ^ Developer ^ Link ^ Remarks ^
+| XP11      | Freeware  | Risuali   | [[https://forums.x-plane.org/index.php?/files/file/42122-gooy-l%C3%A9opold-s%C3%A9dar-senghor-international-airportdakarsenegal/|Scenery]] | - |
+
+
+
+
 
 
 {{page>go-footer#GOOY}}

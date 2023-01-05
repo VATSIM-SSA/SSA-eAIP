@@ -1,0 +1,36 @@
+===== FZZA Kinshasa Sector File =====
+
+==== Ground Layouts ====
+
+^ Aiport    ^ Status ^
+| [[FZAA]]  | Available |
+
+==== TopSky ====
+
+^ Feature   ^ Status    ^ Remarks ^
+| CFL Initial Climbs | Available //(1)// | - |
+| CFL Levels | Available //(1)// | - |
+| Maps (Airspace) | Available //(3)// | - |
+| Maps (Approaches) | Available //(1)// | - |
+| Maps (Arrivals) | - | - |
+| Maps (Departures) | - | - |
+| Maps (MSAs) | Available //(3)// | - |
+| MSA (AD MSA) | Available //(1)// | - |
+| MSA (Approaches) | Available //(1)// | - |
+| MSA (MORA) | Available | - |
+| PRD Areas | Available //(3)// | - |
+| SSR Code Ranges | Available | - |
+| Transition Levels | Available | - |
+| Views | Available | - |
+| |||
+| //(1) Limited to Key Airports// |||
+| //(2) Limited to Sectors and Key TMAS/CTRs// |||
+| //(3) Not fully implemented// |||
+
+==== GroundRadar ====
+
+^ Airport   ^ App Window ^ ILS App Path ^ Stands ^ Remarks ^
+| FZAA | Yes | Yes | No | - |
+
+
+{{page>fz-footer#FZZA}}

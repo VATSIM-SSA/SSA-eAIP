@@ -2,14 +2,8 @@
 
 === Airspace ===
 
-^ Airspace ^ Class ^ Owner ^ Limits ^ Remarks ^
-
-
-
-=== Oceanic ===
-
-^ Airspace ^ Class ^ Owner ^ Limits ^ Remarks ^
-
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| DNKK  | Kano | [[DNKK]] | -       | - |
 
 
 

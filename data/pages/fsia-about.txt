@@ -1,0 +1,56 @@
+===== FSIA Information =====
+
+**Seychelles International Airport**, or Aéroport de la Pointe Larue in French, is the international airport of the Seychelles located on the island of Mahé near the capital city of Victoria. The airport is the home base and the head office of Air Seychelles and features several regional and long-haul routes due to its importance as the gateway to a major international leisure destination.
+
+The airport is 11 kilometres (6.8 mi) southeast of the capital and is accessible by the Victoria-Providence Highway. It forms part of the administrative districts of La Pointe Larue (terminal area), Cascade/Providence (in the North), and Anse aux Pins (in the south and military base). 
+
+
+==== Aerodrome Data ====
+
+| ICAO                  | FSIA |
+| IATA                  | SEZ |
+| Elevation             | 12 ft |
+| Transition Altitude   | 4500 ft |
+| Transition Level      | FL60 |
+| Mag Variation         | 5.37º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Seychelles_International_Airport&params=04_40_28_S_55_31_19_E_type:airport|04°40′28″S 55°31′19″E]] |
+| Site | [[https://seychellesairports.sc/]] |
+
+
+==== Runways ====
+
+^ Runway    ^ Heading   ^ TORA (m)  ^ TODA (m)  ^ ASDA (m)  ^ LDA (m)   ^ Remarks ^
+| 13       | 125º      | 2987      | 4480      | 2987      | 2682      | - |
+| 31       | 305º      | 2987      | 3597      | 2987      | 2682      | - |
+
+
+==== Aprons ====
+
+^ Apron Type            ^ Code  ^ Stands    ^ Entry / Exit  ^ Remarks ^
+| Main Apron       | -     | 1-6   | A-B   | - |
+| Light Acft       | -     | 1-3  | A-B            | - |
+| Parking            | -     | -       | A            | - |
+| |||||
+| //Be aware of the similar stand numbers for Main Apron and Light Acft Parking.// |||||
+
+
+
+==== Positions & Frequencies ====
+
+^ Position      ^ Callsign          ^ Frequency ^ Remarks ^
+| FSIA_GND      | Seychelles Ground      | 121.900   | - |
+| FSIA_TWR      | Seychelles Tower       | 118.300   | - |
+| FSIA_APP      | Seychelles Approach    | 119.700   | - |
+| FSSS_CTR      | Seychelles Control     | 120.200   | - |
+
+
+==== Airspace ====
+
+^ Airspace      ^ Class ^ Owner ^ Limits        ^ Remarks ^
+| Seychelles CTR     | D | FSIA_TWR | GND - A020     | - |
+| Seychelles TMA     | D | FSIA_APP | A020 - FL105   | //includes TMA-A, TMA-B and TMA-C// |
+| Seychelles CTA     | A & D | FSIA_APP | FL105 - FL145   | - |
+| Seychelles FIR  | A | FSSS_CTR | FL145 - UNLTD  | //up to 200 NM of the PRA VOR// |
+| Seychelles FIR  | A | FSSS_FSS | FL145 - UNLTD  | //beyond 200 NM of the PRA VOR// |
+
+{{page>fs-footer#FSIA}}

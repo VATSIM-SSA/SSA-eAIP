@@ -1,1 +1,52 @@
-==== HKJK About ====
+===== HKJK About =====
+
+**Jomo Kenyatta International Airport** is an international airport in Nairobi, the capital of and largest city in [[Kenya]]. The other three important international airports in [[Kenya]] include the [[Kisumu International Airport]], [[Moi International Airport]] and [[Eldoret International Airport]]. JKIA is located in the Embakasi suburb 18 kilometres (11 miles) southeast of Nairobi's central business district, the airport has scheduled flights to destinations in over 50 countries. Originally named Embakasi Airport, the airport's name was changed in 1978 to honour Jomo Kenyatta, Kenya's first president and prime minister.
+
+==== Aerodrome Data ====
+
+| ICAO                  | HKJK |
+| IATA                  | NBO |
+| Elevation             | 5330ft |
+| Transition Altitude   | 9000 ft |
+| Transition Level      | FL100 |
+| Mag Variation         | 0.56º E |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Jomo_Kenyatta_International_Airport&params=01_19_07_S_36_55_33_E_region:KE_type:airport|01°19′07″S 36°55′33″E]] |
+| Site | [[http://kaa.go.ke/]] |
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 06 | 054º | 4117 | 4178 | 3620 | 4117 | - |
+| 24 | 234º | 4117 | 4178 | 3620 | 4117 | - |
+
+
+==== Aprons ====
+
+^ Apron     ^ Type              ^ Entry / Exit  ^ Remarks ^
+| Apron 1   | Main Terminal / Remote  | Twys H, J, K, M         | - |
+| Apron 2 | Cargo | Twy G | - |
+| Apron 3  | General Aviation     | Twys A, B, C        | - |
+
+
+==== Positions & Frequencies ====
+
+^ Position  ^ Callsign          ^ Frequency ^ Remarks ^
+| HKJK_ATIS | Nairobi ATIS        | 126.200   | - |
+| HKJK_GND  | Nairobi Apron      | 121.600   | - |
+| HKJK_TWR  | Nairobi Tower       | 118.700   | - |
+| HKJK_APP  | Nairobi Radar | 122.300 | - |
+| HKNA_CTR  | Nairobi Control     | 121.300 | - |
+
+==== Airspace ====
+
+  * //This section might require further review due to the proximity of HKNW and HKRE.//
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Nairobi CTR   | C     | HKJK_TWR | GND - FL90 | - |
+| Nairobi CTRA Area III | C | HKJK_TWR | GND - FL090 | - |
+| Nairobi TMA   | E     | - | A015 - FL195  | - |
+| Nairobi TMA   | A     | HKJK_APP | FL145 - FL195  | - |
+| Nairobi FIR/UIR     | A     | HKNA_CTR | FL145 - UNL    | - |
+
+
+{{page>hk-footer#HKJK}}

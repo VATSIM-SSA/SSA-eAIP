@@ -1,0 +1,22 @@
+===== Oceanic =====
+
+  * Within VATSSA Airspace, there are five designated Oceanic Airspaces, namely Sal Oceanic, Dakar Oceanic, Accra Oceanic, Luanda Oceanic and Johannesburg Oceanic.
+  * Two additional FIRs, namely Mauritius and Seychelles, incorporate vast oceanic airspaces, but operating as FIR Flight Service Stations.
+
+==== Oceanic Stations ====
+
+^ Station   ^ FIR       ^ Name                  ^ Remarks ^
+| Atlantic  | [[GVSC]]  | Sal Oceanic           | (1) |
+| :::       | [[GOOOO]] | Dakar Oceanic         | (2) |
+| :::       | [[DGAO]]  | Accra Oceanic         | (2) |
+| :::       | [[FNAN]]  | Luanda Oceanic        | (3) |
+| :::       | [[FAJO]]  | Johannesburg Oceanic  | (2) |
+| Indian    | :::       | :::                   | ::: |
+| :::       | [[FIMM]]  | Mauritius             | (4) |
+| :::       | [[FSSS]]  | Seychelles            | (5) |
+| ||||
+| (1) The Oceanic airspace covers the whole of the FIR with the exception of the Sal Approach TMA airspace. ||||
+| (2) Fully Oceanic Airspace. ||||
+| (3) The whole Luanda FNAN FIR Oceanic airspace with the exception of the St Helena TMA airspace. ||||
+| (4) Mauritius does not contain a recognized Oceanic portion with its Upper airspace designated as a Flight Service Station. ||||
+| (5) Seychelles does not contain a recognized Oceanic portion with its Upper airspace designated as a Flight Service Station. ||||

@@ -1,0 +1,3 @@
+===== Namibia | FY | FYQF =====
+
+{{tabembed>namibia-about|About,namibia-airspace|Airspace,namibia-airports|Airports}}

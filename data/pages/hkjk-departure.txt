@@ -1,1 +1,15 @@
-==== HKJK Departure ====
+===== HKJK Departure =====
+
+  * HKJK doesn't have a dedicated Departure Position, with Nairobi Radar (HKJK_APP) assuming the role of Departure.
+
+==== Departure Procedures ====
+
+  * All aircraft are required to fly the assigned SID given by ATC. Controllers may issue continuous climb instructions to FL145.
+
+==== Coordinating HKNW & HKRE Departures ====
+
+  * As HKNW and HKJK are under 10nm apart, and HKRE and HKJK are roughly 6nm apart, when operating as Nairobi Radar (HKJK_APP), the controller should have full awareness of the surrounding area, and must be careful to keep any outbound HKNW flights away from inbound HKJK traffic, which could cause a potential conflict. 
+  * If the HKNW traffic is departing to the south, it may be necessary to delay the flight in order to prioritise incoming traffic bound for HKJK.
+  * The APP controller should always coordinate with Wilson Tower or Ground (if online) in regards to coordination for flights departing, in order to prevent major conflicts.
+
+{{page>hk-footer#HKJK}}

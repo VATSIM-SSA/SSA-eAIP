@@ -1,0 +1,35 @@
+===== DNKK Kano Sectors =====
+
+  * Kano East covers Kano West if offline.
+  * Kano East covers Lagos West if offline.
+
+==== Kano Sector East ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| DNKK_CTR  | Kano East   | 124.100   | DNKC | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Kano Sector East   | D     | DNKK_CTR  | A035 - FL145   | - |
+| Kano Sector East   | A     | DNKK_CTR  | FL145 - UNLTD | - |
+
+==== Kano Sector West ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| DNKK_W_CTR  | Kano West   | 128.500   | DNKW | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Kano Sector West   | D     | DNKK_W_CTR  | A035 - FL145   | - |
+| Kano Sector West   | A     | DNKK_W_CTR  | FL145 - UNLTD | - |
+
+
+==== Lagos ACC ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| DNMM_CTR  | Lagos West   | 120.900   | DNKW | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Lagos ACC   | B     | DNMM_CTR  | FL045 - FL145   | - |
+| Lagos ACC   | A     | DNMM_CTR  | FL145 - UNLTD | - |
+
+
+{{page>dn-footer#DNKK}}

@@ -1,0 +1,29 @@
+===== Africa Central Airspace Rules =====
+
+==== CPDLC ====
+
+  * CPDLC should be made available through TopSky with Logon Code AFRC.
+
+==== Separation ====
+
+  * Lorem
+
+=== Vertical Separation ===
+
+  * Lorem
+
+=== Horizontal Separation ===
+
+  * Lorem
+
+
+==== SELCAL ====
+
+  * Lorem
+
+==== SLOP ====
+
+  * Lorem
+
+
+{{page>fss-footer#AFRC}}

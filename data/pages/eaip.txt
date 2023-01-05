@@ -1,3 +1,7 @@
 This eAIP is VATSSA's platform to share a custom Aeronautical Information Publication for Controllers and Pilots.
 
 It will contain relevant information on regional airspace and airports within the VATSSA airspace.
+
+This platform does not replace the official up to date information contained in each of the countries AIPs and other official documentation.
+
+This platform is for aviation simulation enthusiasts only and should be used as a source for any real world operations.

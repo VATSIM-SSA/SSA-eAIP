@@ -1,0 +1,114 @@
+===== Sector Files AIRAC 2213 Changelog =====
+
+==== DGAC ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== DNKK ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== FASA ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== FBGR ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== FCCC ====
+
+  * NavData Updated to AIRAC 2213.
+  * Visibility Settings Updated for FCCC CTR.
+  * TopSkyMaps Updated with Airways Maps (available on demand).
+
+==== FIMM ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== FLFI ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== FMMM ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== FMMM ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== FNAN ====
+
+  * NavData Updated to AIRAC 2213.
+  * TopSkyMaps Updated with Key High Airways (AIRWAYS > FNAN AIRWAYS)
+  * TopSkyMaps Updated with AORRA Entry/Exit Points (FIR > AORRA ENTRY/EXIT POINTS)
+  * TopSkyMaps Updated with Mandatory Reporting Points (FIR > REPORTING POINTS)
+
+==== FQBE ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== FSSS ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== FVHF ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== FWLL ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== FYWF ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== FZZA ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== GOOO ====
+
+  * NavData Updated to AIRAC 2213.
+  * TopSkyAreas Updated with PRD (Prohibited, Restricted and Danger Areas) according to the latest AIP data for Ivory Coast, Mali, Mauritania.
+
+==== GVSC ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== HKNA ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== HTDC ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== HUEC ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== AFRC ====
+
+  * NavData Updated to AIRAC 2213.
+  * Custom FSS Alias File Created and Published.
+  * Covered Sector Positions included in the Sector File (FSS, CTR and TMA)
+  * Neighbouring Positions included in the Sector File (FSS and CTR)
+
+==== AFRS ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== AFRW ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== AFOS ====
+
+  * NavData Updated to AIRAC 2213.
+
+==== AFOW ====
+
+  * NavData Updated to AIRAC 2213.

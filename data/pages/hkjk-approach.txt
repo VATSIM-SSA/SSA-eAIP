@@ -1,1 +1,121 @@
-==== HKJK Approach ====
+===== HKJK Approach =====
+
+==== Arrivals Procedures ====
+
+^ Rwy   ^ Fix   ^ Arrival   ^ Type          ^ Track Miles   ^ Approach ^ ILS Transition ^ Remarks ^
+| 06    | APLOG | APLOG1A    | Conventional  | 98 nm         | ILS / RNAV via GEREB | JOMOK2B | - |
+| ::: | ::: | APLOG1P | ::: | 106nm | ILS / RNAV via IBRAT | ::: | - |
+| ::: | EVATO | EVATO2P | ::: | 53nm | ::: | ::: | - |
+| ::: | EVOGO | EVOGO1A | ::: | 181nm | RNAV via TEVOX | - | - |
+| ::: | ::: | EVOGO1P | ::: | 179nm | ILS / RNAV via APNOM | JOMOK2C | - |
+| ::: | GABSO | GABSO2P | ::: | 92nm | ::: | ::: | - |
+| ::: | ::: | GABSO3A | ::: | 80nm | RNAV via TEVOX | - |
+| ::: | IBKAS | IKBAS1A | ::: | 44nm | RNAV via IBRAT | - | - |
+| ::: | IBROM | IBROM1A | ::: | 199nm | RNAV via APNOM | - | - |
+| ::: | IBROM | IBROM1P | ::: | 198nm | ILS / RNAV via APNOM | JOMOK2C | - |
+| ::: | KAMAS | KAMAS1A | ::: | 180nm | RNAV via TIBET | - | - |
+| ::: | ::: | KAMAS1P | ::: | 186nm | ILS / ILS W / RNAV via NGONG (GV) | JOMOK2A | 115.9 GV |
+| ::: | KIMET | KIMET1A | ::: | 157nm | RNAV via TIBET | - | - |
+| ::: | ::: | KIMET1P | ::: | 165nm | ILS / ILS W / RNAV via NGONG (GV) | JOMOK2A | 115.9 GV |
+| ::: | NAK | LANET1A | ::: | 64nm | RNAV via TIBET | - | 115.1 NAK |
+| ::: | LOSIN | LOSIN3A | ::: | 96nm | RNAV via GEREB | - | - |
+| ::: | LOTAS | LOTAS2P | ::: | 144nm | ILS / ILS W / RNAV via NGONG (GV) | JOMOK2A | 115.9 GV |
+| ::: | ::: | LOTAS3A | ::: | 141nm | RNAV via TIBET | - | - |
+| ::: | MAGAD | MAGAD1A | ::: | 42nm | RNAV via GEREB | - | - |
+| ::: | NAK | NAK2P | ::: | 72nm | ILS / ILS W / RNAV via NGONG (GV) | JOMOK2A | 115.1 NAK / 115.9 GV |
+| ::: | NAKAT | NAKAT2P | ::: | 83nm | ::: | ::: | ::: |
+| ::: | ::: | NAKAT4A | ::: | 68nm | RNAV via TIBET | - | - |
+| ::: | NORVU | NORVU1A | ::: | 176nm | RNAV via TEBOX | - | - |
+| ::: | ::: | NORVU1P | ::: | 180nm | ILS / RNAV via APNOM | JOMOK2C | - |
+| ::: | PARIN | PARIN2P | ::: | 81nm | ILS / RNAV via IBRAT | JOMOK2B | - |
+| ::: | ::: | PARIN3A | ::: | 72nm | RNAV via GEREB | - | - |
+| ::: | UTATA | UTATA2P | ::: | 72nm | ILS / RNAV via APNOM | JOMOK2C | - |
+| ::: | ::: | UTATA3A | ::: | 57nm | RNAV via TEVOX | - | - |
+| ::: | UTEPI | UTEPI1A | ::: | 38nm | ::: | - | - | 
+| ::: | WAV | WAJIR1A | ::: | 276nm | RNAV via APNOM | - | - |
+| ::: | ::: | WAJIR1P | ::: | 276nm | ILS / RNAV via APNOM | JOMOK2C | - |
+| ::: | XAGIT | XAGIT1A | ::: | 37nm | RNAV via IBRAT | - | - |
+| 24 | APLOG | APLOG1R | ::: | 135nm | RNAV via AVENA | - | - |
+| ::: | ::: | APLOG4C | ::: | 140nm | ::: | - | - |
+| ::: | EVATO | EVATO2R | ::: | 77nm | RNAV via ATUDU | ::: | - |
+| ::: | ::: | EVATO4B | ::: | 76nm | ::: | - | - |
+| ::: | EVOGO | EVOGO1R | ::: | 162nm | RNAV via APDUS | - | - |
+| ::: | ::: | EVOGO2C | ::: | 162nm | RNAV via ATUDU | - | - |
+| ::: | GABSO | GABSO2R | ::: | 97nm | ::: | - | - |
+| ::: | ::: | GABSO4C | ::: | 98nm | ::: | - | - |
+| ::: | IKBAS | IKBAS1B | ::: | 60nm | RNAV via AVENA | - | - |
+| ::: | IBROM | IBROM1R | ::: | 171nm | RNAV via APDUS | - | - |
+| ::: | ::: | IBROM2C | ::: | 163nm | ::: | - | - |
+| ::: | KAMAS | KAMAS1R | ::: | 156nm | RNAV via AVENA | - | - |
+| ::: | ::: | KAMAS2D | ::: | 180nm | ::: | - | - |
+| ::: | KIMET | KIMET1R | ::: | 164nm | ::: | - | - |
+| ::: | ::: | KIMET2D | ::: | 167nm | ::: | - | - |
+| ::: | NAK | LANET2C | ::: | 78nm | ::: | - | 115.1 NAK |
+| ::: | LOTAS | LOTAS2R | ::: | 131nm | ::: | - | - |
+| ::: | ::: | LOTAS4D | ::: | 132nm | ::: | - | - |
+| ::: | MAGAD | MAGAD2C | ::: | 82nm | RNAV via ATUDU | - | - |
+| ::: | NAK | NAK2R | ::: | 53nm | RNAV via AVENA | - | - |
+| ::: | NAKAT | NAKAT2R | ::: | 85nm | ::: | - | - |
+| ::: | ::: | NAKAT3C | ::: | 105nm | ::: | - | - |
+| ::: | NORVU | NORVU1R | ::: | 174nm | RNAV via APDUS | - | - |
+| ::: | ::: | NORVU2C | ::: | 170nm | RNAV via ATUDU | - | - |
+| ::: | OKRIT | OKRIT1C | ::: | 25nm | RNAV via APDUS | - | - |
+| ::: | PARIN | PARIN2B | ::: | 117nm | RNAV via ATUDU | - | 115.5 TV |
+| ::: | ::: | PARIN4C | ::: | 115nm | ::: | - | ::: |
+| ::: | UTATA | UTATA2R | ::: | 84nm | ::: | - | - |
+| ::: | ::: | UTATA4C | ::: | 86nm | ::: | - | 115.5 TV |
+| ::: | UTEPI | UTEPI2C | ::: | 47nm | ::: | - | - |
+| ::: | WAV | WAJIR1R | ::: | 245nm | RNAV via APDUS | - | 112.5 WAV |
+| ::: | XAGIT | XAGIT1B | ::: | 70nm | RNAV via AVENA | - | - |
+
+==== Approach Procedures ====
+
+^ Rwy  ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
+| 06 | ILS | 110.30 NL | 053º | 3.00º | 5.4 DME NL | 7100 ft | - |
+| ::: | ILS W | 110.30 NL | 053º | 3.00º | 11.9 DME NL | 9100ft | - |
+| ::: | ILS Y | 110.30 NL | 053º | 3.00º | 9.4 DME NL | 8300ft | - |
+| ::: | ILS Z | 110.30 NL | 053º | 3.00º | 6.9 DME NL | 7500ft | - |
+| ::: | RNP | - | 053º | 3.00º | APNOM, IBRAT or NESOD | 7900ft | - |
+| ::: | VOR DME | 113.10 NV | 053º | 3.00º | 12 DME NV | 8300ft | - |
+| 24 | RNP | - | 233º | 3.00º | APDUS, ATUDU, AVENA | 8100ft | - |
+| ::: | VOR DME | 113.10 NV | 233º | 3.00º | 8 DME NV | 8080ft | - |
+
+==== Holds ====
+
+^ Name  ^ ILS Approach ^ Altitude ^ Speed (IAS)   ^ Inbound CRS ^ Turn ^ Remarks ^
+| NV | ILS / RNP | FL100 | 230 KT | 106º | Right | RWY06 |
+| ::: | ILS W | ::: | ::: | 129º | ::: | ::: |
+| STONY | - | 9000ft | 230 KT | 287º | Left | - |
+
+==== Missed Approach Procedures ====
+
+^ Rwy   ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 06    | ILS | Climb on Runway Heading to 6000ft or NV VOR, then turn right climbing to 9000ft to the TV VOR and hold, or as directed. | STONY | - |
+| ::: | ILS W | ::: | ::: | - |
+| ::: | ILS Y | ::: | ::: | - |
+| ::: | ILS Z | ::: | ::: | - |
+| ::: | RNP | Proceed direct APDUS climbing to FL100. Passing 8100ft or APDUS, turn right direct to TV VOR and hold, or as directed. | ::: | - |
+| ::: | VOR DME | Climb on Runway Heading to 6000ft or NV VOR, then turn right climbing to 9000ft to the TV VOR and hold, or as directed. | ::: | - |
+| 24 | RNP | Proceed direct IBRAT climbing to FL100. Passing 9100ft or IBRAT, turn left direct to TV VOR and hold, or as directed. | ::: | - |
+| ::: | VOR DME | Climb on R-233 NV to 6000ft or D3.4, then turn left climbing to 9000ft to TV VOR and hold, or as directed. | ::: | - |
+
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| NV | 0 nm  | 25 nm | 090º | 180º | 9600 ft | - |
+| ::: | 0 nm  | 25 nm | 180º | 270º | 8100 ft | - |
+| ::: | 0 nm  | 25 nm | 270º | 360º | 8000 ft | - |
+| ::: | 0 nm  | 25 nm | 360º | 090º | 9100 ft | - |
+
+
+==== Diversions ====
+
+^ ICAO ^ Name ^ Distance  ^ Longest Rwy ^ Remarks ^ 
+| HKNW | Wilson Airport | 8 nm | 1560m | - |
+| HKMO | Moi International Airport | 262nm | 3350m | - |
+| HKKI | Kisumu International Airport | 174nm | 3300m | - |
+| HKEL | Eldoret International Airport | 167nm | 3475m | - |
+| HTKJ | Kilimanjaro International Airport | 145nm | 3600m | - |
+
+{{page>hk-footer#HKJK}}

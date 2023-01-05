@@ -1,0 +1,9 @@
+===== GVSC Sal Airspace Classification =====
+
+Work in Progress
+
+^ Class ^ Type of flights   ^ Separation provided   ^ Service provided  ^ Speed limitation      ^ Radio communication requirement       ^ Subject to an ATC clearance ^ Remarks ^
+| A     | IFR only          | All aircraft          | ATC service       | Not applicable        | Continuous two-way                    | Yes | - |
+
+
+{{page>gv-footer#GVSC}}

@@ -1,0 +1,3 @@
+===== Madagascar | FM | FMMI =====
+
+{{tabembed>madagascar-about|About,madagascar-airspace|Airspace,madagascar-airports|Airports}}

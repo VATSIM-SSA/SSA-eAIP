@@ -1,1 +1,55 @@
 ==== HKJK Tower ====
+
+==== Runway Selection ====
+
+  * Runway 06 is the preferred active runway, up to 10 kts of tailwind. 
+
+==== Runway Change Operations ====
+
+  * Runway changes must be coordinate with existing DEL, GND, TWR, DEP and APP controllers.
+  * If possible, hold aircraft on stand before a runway change operation.
+  * If an aircraft is already taxying on Twy G, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
+  * If an aircraft as already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
+
+==== Wake Separation ====
+
+=== Arrivals (nm) ===
+
+^ Lead  ^ J ^ H ^ M ^ L ^
+| J     | ||||
+| H     | 6 | 4 | ||
+| M     | 7 | 5 | 5 | |
+| L     | 8 | 6 | 5 | 5 |
+
+
+=== Departures (min) ===
+
+^ Lead  ^ J ^ H ^ M ^ L ^
+| J     | ||||
+| H     | 2 | |||
+| M     | 3 | 2 | ||
+| L     | 3 | 2 | 2 | |
+
+==== Missed Approach Procedures ====
+
+==== HIRO ====
+
+  * When HIRO Ops are in effect, Tower Controllers will only handover traffic to Ground Controllers after issuing initial taxi instructions to pilots to avoid runway exit congestion.
+  * If possible, Tower Controllers should advise pilots on which exit they should expect to vacate.
+
+^ Rwy ^ Exit ^ Taxi Instructions ^ Remarks ^
+| 06  | B | <code>Taxi Right on ALPHA</code> | GA Aircraft Only |
+| ::: | C | <code>Taxi Left on ALPHA</code> | ::: |
+| ::: | D (High Speed) | <code>Hold Short of RWY06 until advised to cross onto L</code> | - |
+| ::: | E | <code>Taxi Right on GOLF</code> | - |
+| ::: | F | ::: | - |
+| ::: | L | ::: | - |
+| 24 | A | <code>Taxi Right on ALPHA</code> | GA Aircraft Only |
+| ::: | B | ::: | ::: |
+| ::: | C | <code>Taxi Left on ALPHA</code> | ::: |
+| ::: | E | <code>Taxi Right on GOLF</code> | - |
+| ::: | F | ::: | - |
+| ::: | K | <code>Taxi Left/Right on GOLF</code> | - |
+
+
+{{page>hk-footer#HKJK}}

@@ -1,0 +1,72 @@
+===== FZAA Tower =====
+
+==== Runway Selection ====
+
+  * Lorew 
+
+
+==== Runway Change Operations ====
+
+  * Runway changes must be coordinate with existing DEL, GND, TWR, DEP and APP controllers.
+  * If possible, hold aircraft on stand before a runway change operation.
+  * If an aircraft is already taxying on Twy C, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
+  * If an aicraft as already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
+
+==== Wake Separation ====
+
+=== Arrivals (nm) ===
+
+^ Lead  ^ J ^ H ^ M ^ L ^
+| J     | ||||
+| H     | 6 | 4 | ||
+| M     | 7 | 5 | 5 | |
+| L     | 8 | 6 | 5 | 5 |
+
+
+=== Departures (min) ===
+
+^ Lead  ^ J ^ H ^ M ^ L ^
+| J     | ||||
+| H     | 2 | |||
+| M     | 3 | 2 | ||
+| L     | 3 | 2 | 2 | |
+
+
+==== Missed Approach Procedures ====
+
+==== HIRO ====
+
+  * Lorem
+
+
+
+==== VFR Operations ====
+
+  * Pilots must have the latest [[fzaa-charts|Visual Approach Charts]].
+
+
+=== VFR Circuits ===
+
+^ Rwy ^ Turn  ^ Altitude ^ Remarks ^ 
+| 06 | Left   | Up to 2500 AGL | - |
+| 24 | Right  | Up to 2500 AGL | - |
+
+
+  * Advise Traffic of High Terrain (2356 ft) SE of the field.
+
+=== VFR Departures ===
+
+=== VFR Arrivals ===
+
+=== VFR Transitions ===
+
+=== Visual Reference Points ===
+
+
+==== Helicopter Operations ====
+
+  * No [[glossary#t|TLOF]] available, advise pilots to use runway.
+
+
+
+{{page>fz-footer#FZAA}}

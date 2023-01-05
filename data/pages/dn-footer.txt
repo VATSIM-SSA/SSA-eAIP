@@ -3,8 +3,14 @@
 
 //This page is a subsection of the [[Nigeria]] country page.//
 
+==== DNKK ====
+
+----
+
+[[DNKK]] Kano FIR | v0.1
+
 ==== DNMM ====
 
 ----
 
-[[DNMM]] (Murtala Muhammed Intl) | v0.1
+[[DNMM]] Murtala Muhammed Intl | v0.1 | [[DNKK]] Kano FIR

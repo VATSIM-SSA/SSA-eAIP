@@ -1,0 +1,3 @@
+===== São Tomé e Príncipe | FP | FCCC =====
+
+{{tabembed>sao_tome_principe-about|About,sao_tome_principe-airspace|Airspace,sao_tome_principe-airports|Airports}}

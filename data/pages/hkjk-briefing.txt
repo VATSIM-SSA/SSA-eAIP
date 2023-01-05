@@ -1,1 +1,40 @@
-==== HKJK Pilot Briefing ====
+===== HKJK Pilot Briefing =====
+
+//Pilots taking part in events that depart from or arrive to HKJK should make themselves familiar with this briefing page as well as with all existing charts.//
+
+==== Overview ====
+
+  * HKJK Nairobi Jomo-Kenyatta International Airport is Nairobi's most busiest international airport, capable of supporting a higher volume of traffic movements and aircraft types. It is a single runway (06/24) airport with RNAV and ILS (06 only) approaches and multiple airport parking positions.
+
+==== Departure Briefing ====
+
+=== Clearance Delivery ===
+
+  * HKJK does not have a real world Delivery position or in VATSIM. All delivery clearances will typically be handled by the GND controller, or whoever is online.
+  * When requesting IFR clearance, please provide your Aircraft Type, Stand Number and ATIS letter.
+  * When reading back the clearance, make sure to readback the transition with the SID (if provided).
+
+=== Departure Procedures ===
+  * Pilots should report to the controller once airborne before being handed off, or being given further instructions to climb or vectors.
+  * HKJK has many varying SIDS with different transitions. Please double check before filing, and the initial flight climb will be provided when requesting IFR clearance for departure.
+
+==== Arrival Briefing ====
+
+=== Arrivals and Approaches ===
+
+ * As your flight is approaching HKJK, you should make yourself familiar with the existing Arrivals (STARs), Holding Points and Approaches.
+
+ * Be aware that HKJK has 4 distinct sets of ILS Approaches (ILS RWY 06, X, Y and Z) and that they have distinct approach procedures. Controllers will inform you what Approach to expect based on an assigned Arrival.
+
+ * HKJK is a single runway airport, so during Arrival Events, you should expect to Hold.
+
+ * In case of Missed Approach, climb 9000ft ft and follow the missed approach procedure for your specific approach. You'll receive further instructions by the Controllers.
+
+ * During busy events, when vacating the runway, it is recommended to taxi straight right onto G in order to prevent a backlog of traffic exiting the runway, however if traffic is taxiing in front, give way to the traffic unless advised by ATC.
+
+=== Parking and Ground Operations ===
+
+  * HKJK has plenty of parking positions across multiple aprons. Aircraft will be initially assigned to a specific terminal and stand according to their airline. However, during busier events, aircraft may be redirected to a "J" parking position, or another terminal in order to ease congestion. If there is no available parking on the south side of the airport, aircraft may be redirected to park in the General Aviation side of the airport, guaranteed that there is suitable room to fit any more aircraft. 
+
+
+{{page>hk-footer#HKJK}}

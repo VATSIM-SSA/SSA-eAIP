@@ -1,0 +1,3 @@
+===== Comoros | FM | FMMI =====
+
+{{tabembed>comoros-about|About,comoros-airspace|Airspace,comoros-airports|Airports}}

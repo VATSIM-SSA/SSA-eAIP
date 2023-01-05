@@ -1,0 +1,26 @@
+===== GVSC Sal Sectors =====
+
+  * GVSC represents Sal Oceanic and covers the Oceanic Airspace as well as performing Enroute / CTR functions.
+  * GVSA represents Sal Approach and covers the four international airports at Cape Verde.
+
+==== Sal Oceanic ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| GVSC_CTR  | Sal Oceanic   | 128.300   | GVSC | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Sal Oceanic FIR   | ?     | GVSC_CTR  | GND - FL245   | - |
+| Sal Oceanic UIR   | A     | GVSC_CTR  | FL245 - UNLTD | - |
+
+==== Sal Approach ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| GVSC_APP  | Sal Approach   | 126.400   | GVSA | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Sal TMA   | C     | GVSC_APP  | A007 - FL195   | - |
+| Sal TMA   | A     | GVSC_APP  | FL195 - FL245 | - |
+
+
+
+{{page>gv-footer#GVSC}}

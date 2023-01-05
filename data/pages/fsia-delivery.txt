@@ -1,0 +1,39 @@
+===== FSIA Delivery =====
+
+==== IFR Clearance Rules ====
+
+  * We have not implemented any specific IFR Clearance or Flight Plan Validation rules at this point.
+
+  * Seychelles Airspace operates with the following RVSM standard table of Cruising Levels.
+
+  * VFR flights are not allowed over and above the FL145.
+
+{{page>icao-cruiselevels#RVSM Feet}}
+
+==== Departure Procedures & Initial Climbs ====
+
+^ RWY   ^ Fix   ^ Departure ^ Type          ^ Initial Climb ^ Remarks^
+| 13    | LINDY | LINDY1C   | Low Level Ops | A015          | - |
+| :::   | PAOLO | PAOLO1C   | Low Level Ops | A015          | - |
+| :::   | NESID | NESID1B   | RNP 1         | FL060         | (1) |
+| :::   | NEVIN | NEVIN1B   | :::           | FL060         | (1) |
+| :::   | OKLIM | OKLIM1B   | :::           | FL060         | (1) |
+| :::   | TILOM | TILOM1B   | :::           | FL060         | (1) |
+| :::   | UTALI | UTALI1B   | :::           | FL060         | (1) |
+| 31    | PAOLO | PAOLO1B   | Low Level Ops | A015          | - |
+| :::   | SAVVY | SAVVY1B   | :::           | A015          | - |
+| :::   | IMPOX | IMPOX1A   | RNP 1         | FL060         | (1) |
+| :::   | ROUTY | ROUTY1A   | :::           | FL060         | (1) |
+| :::   | UNBED | UNBED1A   | :::           | FL060         | (1) |
+| :::   | UTALI | UTALI1A   | :::           | FL060         | (1) |
+| ||||||
+| (1) Departure Procedures with a Minimum Climb Gradient of 8%. |||||
+
+
+=== Phraseology ===
+
+{{page>phraseology-icao#Delivery Clearance}}
+
+
+
+{{page>fs-footer#FSIA}}

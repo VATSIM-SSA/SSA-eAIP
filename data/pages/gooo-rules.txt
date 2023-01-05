@@ -1,0 +1,27 @@
+===== GOOO Dakar Airspace Rules =====
+
+==== Separation ====
+
+  * Satellite based ADS-B coverage is available in the Abidjan, Bamako, Dakar and Nouakchott sectors and as such, the following separation standards are to be applied:
+
+=== Vertical Separation ===
+
+  * Separation of 1000 ft in RVSM airspace and below then 2000 ft above RVSM airspace
+
+=== Horizontal Separation ===
+
+  * Separation of 10 NM between position symbols.
+  * Separation of 5 NM between position symbol between an aircraft in Climb or Descent configuration and another stable aircraft at a flight level provided that the climbing or descending aircraft crosses the level of stable traffic only behind said traffic. 
+
+
+==== SELCAL ====
+
+  * Dakar Continental offers SELCAL capabilities.
+
+==== SLOP ====
+
+  * The use of SLOP in Dakar Continental is in compliance with provisions in ICAO Doc. 4444, between flight level FL280 and FL460.
+  * Pilots are advised to coordinate offset on UNICOM (122.800).
+
+
+{{page>go-footer#GOOO}}

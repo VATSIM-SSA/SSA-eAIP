@@ -1,0 +1,31 @@
+===== Seychelles Sectors =====
+
+  * The Seychelles airspace is divided into the following sectors:
+
+
+==== Seychelles FSS ====
+
+  * centered on PRA VOR, 200 NM and beyond
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| FSSS_FSS  | Seychelles Control   | 132.900   | FSSF  | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Seychelles FIR   | G     | FSSS_FSS  | GND - FL75 | - |
+| Seychelles FIR   | E     | FSSS_FSS  | FL75 - FL145 | - |
+| Seychelles FIR   | A     | FSSS_FSS  | FL145 - UNLTD | - |
+
+==== Seychelles FIR ====
+
+  * centered on PRA VOR, up to 200 NM
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| FSSS_CTR  | Seychelles Control   | 120.200   | FSSSS | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Seychelles FIR   | A     | FSSS_CTR  | FL145 - UNLTD | - |
+
+
+ 
+
+{{page>fs-footer#FSSS}}

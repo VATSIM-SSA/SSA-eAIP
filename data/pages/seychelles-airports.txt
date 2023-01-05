@@ -1,0 +1,8 @@
+===== Seychelles Airports =====
+
+^ ICAO      ^ Name                      ^ City          ^ Status            ^ Remarks ^
+| [[FSIA]]  | Seychelles Intl        | Seychelles   | In Development                 | - |
+| [[FSPP]]  | Praslin        | Seychelles   | In Development                 | - |
+
+
+{{page>fs-footer#Seychelles}}

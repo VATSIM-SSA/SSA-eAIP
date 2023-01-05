@@ -1,0 +1,7 @@
+===== Congo, DR Airports =====
+
+^ ICAO      ^ Name                      ^ City          ^ Status            ^ Remarks ^
+| [[FZAAA]]  | N'Djili Intl        | Kinshasa   | In Development                 | - |
+
+
+{{page>fz-footer#Congo, DR}}

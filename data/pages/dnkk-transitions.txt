@@ -1,0 +1,9 @@
+===== DNKK Kano Transition Table =====
+
+{{page>ssa-transition-table#Dynamic Transition}}
+
+
+{{page>ssa-transition-table#DNKK}}
+
+
+{{page>dn-footer#DNKK}}

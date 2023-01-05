@@ -1,7 +1,13 @@
 ==== Cape Verde Airports ====
 
 ^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
-| [[ICAO]]  | Name          | City          | -             | - |
+| [[GVAC]]  | Name          | City          | -             | - |
+| [[GVBA]]  | Name          | City          | -             | - |
+| [[GVMA]]  | Name          | City          | -             | - |
+| [[GVNP]]  | Name          | City          | -             | - |
+| [[GVSF]]  | Name          | City          | -             | - |
+| [[GVSN]]  | Name          | City          | -             | - |
+| [[GVSV]]  | Name          | City          | -             | - |
 
 
 

@@ -1,0 +1,6 @@
+===== GOOO | Dakar Continental =====
+
+{{tabembed>gooo-about|About,gooo-sectors|Sectors,gooo-rules|Rules,gooo-transitions|TA/TL,gooo-loa|Agreements}}
+
+
+{{page>go-footer#Senegal}}

@@ -1,0 +1,49 @@
+===== Africa West Airspace Rules =====
+
+==== CPDLC ====
+
+  * CPDLC should be made available through TopSky with Logon Code AFRW.
+
+==== Separation ====
+
+
+^ FIR ^ Airspace ^ Separation ^ Rule ^ Remarks ^
+| GOOO | - | Lateral | 10 NM | - |
+| :::  | - | Longitudinal | 20 NM | - |
+| :::  | - | Vertical | RVSM | - |
+| :::  | Outside of UTA/TMA | Lateral | 15 NM | - |
+| :::  | - | Longitudinal | 15 MIN | - |
+| :::  | - | Vertical | ICAO Cruise Levels | - |
+| :::  | Oceanic | Lateral | 15 NM | - |
+| :::  | - | Longitudinal | 15 MIN | //except [[EUR-SAM]] and [[AORRA]]// |
+| :::  | - | Vertical | ICAO Cruise Levels | - |
+| GQNN | - | Lateral | 10 NM | - |
+| :::  | - | Longitudinal | 20 NM | - |
+| :::  | - | Vertical | RVSVM | - |
+
+
+==== SELCAL ====
+
+^ FIR ^ SELCAL ^ Remarks ^
+| DIII | Yes | - |
+| DGAC | Yes | - |
+| DNKK | No | - |
+| FCCC | No | - |
+| GLRB | No | - |
+| GQNN | No | - |
+| GOOO | Yes | //includes Oceanic// |
+| GVSC | Yes | - |
+
+
+==== SLOP ====
+
+^ FIR ^ SLOP ^ Remarks ^
+| DGAC | Yes | SLOP applied in AORRA airspace and Ghana airspace between FL290 and FL410 |
+| DNKK | Yes | FL290-FL410 on all enroute ATS routes |
+| FCCC | Yes | - |
+| GLRB | Yes | FL290-FL410 |
+| GOOO | Yes| //includes Oceanic// |
+| GVSC | Yes | - |
+
+
+{{page>fss-footer#AFRW}}

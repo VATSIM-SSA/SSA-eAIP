@@ -1,0 +1,3 @@
+===== Zambia | FL | FLFI =====
+
+{{tabembed>zambia-about|About,zambia-airspace|Airspace,zambia-airports|Airports}}

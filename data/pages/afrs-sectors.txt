@@ -1,0 +1,107 @@
+===== Africa South Sectors =====
+
+ * The Africa South airspace is divided into the following sectors:
+
+==== FLFI Lusaka ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| DIII_CTR  | Abidjan Control   | 129.100   | DIII  | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Abidjan FIS   | G     | DIII_CTR  | GND - FL145   | - |
+| Abidjan FIS   | G     | DIII_CTR  | FL145 - FL195 | //Except for ATS Routes (Class A)// |
+| Abidjan FIS   | G     | DIII_CTR  | FL195 - FL245 | - |
+| Abidjan UTA   | A     | DIII_CTR  | FL245 - UNLTD | - |
+
+==== FNAN Luanda ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| DIII_CTR  | Abidjan Control   | 129.100   | DIII  | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Abidjan FIS   | G     | DIII_CTR  | GND - FL145   | - |
+| Abidjan FIS   | G     | DIII_CTR  | FL145 - FL195 | //Except for ATS Routes (Class A)// |
+| Abidjan FIS   | G     | DIII_CTR  | FL195 - FL245 | - |
+| Abidjan UTA   | A     | DIII_CTR  | FL245 - UNLTD | - |
+
+==== FSSS Seychelles ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| DIII_CTR  | Abidjan Control   | 129.100   | DIII  | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Abidjan FIS   | G     | DIII_CTR  | GND - FL145   | - |
+| Abidjan FIS   | G     | DIII_CTR  | FL145 - FL195 | //Except for ATS Routes (Class A)// |
+| Abidjan FIS   | G     | DIII_CTR  | FL195 - FL245 | - |
+| Abidjan UTA   | A     | DIII_CTR  | FL245 - UNLTD | - |
+
+==== FZZA Kinshasa ====
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| DIII_CTR  | Abidjan Control   | 129.100   | DIII  | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Abidjan FIS   | G     | DIII_CTR  | GND - FL145   | - |
+| Abidjan FIS   | G     | DIII_CTR  | FL145 - FL195 | //Except for ATS Routes (Class A)// |
+| Abidjan FIS   | G     | DIII_CTR  | FL195 - FL245 | - |
+| Abidjan UTA   | A     | DIII_CTR  | FL245 - UNLTD | - |
+
+==== FWLL Lilongwe ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| DIII_CTR  | Abidjan Control   | 129.100   | DIII  | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Abidjan FIS   | G     | DIII_CTR  | GND - FL145   | - |
+| Abidjan FIS   | G     | DIII_CTR  | FL145 - FL195 | //Except for ATS Routes (Class A)// |
+| Abidjan FIS   | G     | DIII_CTR  | FL195 - FL245 | - |
+| Abidjan UTA   | A     | DIII_CTR  | FL245 - UNLTD | - |
+
+==== HBBA Bujumbura ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| DIII_CTR  | Abidjan Control   | 129.100   | DIII  | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Abidjan FIS   | G     | DIII_CTR  | GND - FL145   | - |
+| Abidjan FIS   | G     | DIII_CTR  | FL145 - FL195 | //Except for ATS Routes (Class A)// |
+| Abidjan FIS   | G     | DIII_CTR  | FL195 - FL245 | - |
+| Abidjan UTA   | A     | DIII_CTR  | FL245 - UNLTD | - |
+
+==== HKNA Nairobi ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| DIII_CTR  | Abidjan Control   | 129.100   | DIII  | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Abidjan FIS   | G     | DIII_CTR  | GND - FL145   | - |
+| Abidjan FIS   | G     | DIII_CTR  | FL145 - FL195 | //Except for ATS Routes (Class A)// |
+| Abidjan FIS   | G     | DIII_CTR  | FL195 - FL245 | - |
+| Abidjan UTA   | A     | DIII_CTR  | FL245 - UNLTD | - |
+
+==== HRYR Kigali ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| DIII_CTR  | Abidjan Control   | 129.100   | DIII  | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Abidjan FIS   | G     | DIII_CTR  | GND - FL145   | - |
+| Abidjan FIS   | G     | DIII_CTR  | FL145 - FL195 | //Except for ATS Routes (Class A)// |
+| Abidjan FIS   | G     | DIII_CTR  | FL195 - FL245 | - |
+| Abidjan UTA   | A     | DIII_CTR  | FL245 - UNLTD | - |
+
+==== HTDC Dar es Salaam====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| DIII_CTR  | Abidjan Control   | 129.100   | DIII  | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Abidjan FIS   | G     | DIII_CTR  | GND - FL145   | - |
+| Abidjan FIS   | G     | DIII_CTR  | FL145 - FL195 | //Except for ATS Routes (Class A)// |
+| Abidjan FIS   | G     | DIII_CTR  | FL195 - FL245 | - |
+| Abidjan UTA   | A     | DIII_CTR  | FL245 - UNLTD | - |
+
+
+
+ 
+
+{{page>fss-footer#AFRS}}

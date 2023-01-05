@@ -1,0 +1,5 @@
+===== Frequently Asked Questions (FAQs) =====
+
+**Q:** Why can't I find any information regarding Airport XYZ or Airspace ABC?
+
+**A:** This is a collaborative platform developed by volunteers at VATSSA and although our goal is to have as much in-depth information as possible, it's going to take some time. If you wish to contribute, follow this [[contribute|link]].

@@ -1,0 +1,76 @@
+===== GVSC Sal Agreements =====
+
+==== External (Neighours) ====
+
+=== GCCC Canaries ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== LPPO Santa Maria ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+=== SBAO Atlantico ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+=== TTZO Piarco ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+==== External (Division) ====
+
+=== GOOO Dakar ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== GOOO Dakar Oceanic ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+==== Internal (GVSC) ====
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| //Notes// |||||||
+
+
+{{page>gv-footer#GVSC}}
+

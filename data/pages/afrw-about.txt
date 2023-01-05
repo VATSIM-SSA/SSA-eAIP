@@ -1,0 +1,44 @@
+===== Africa West Information =====
+
+Lorem Ipsum
+
+
+
+
+==== Airport Coverage ====
+
+Africa West covers the following key airports:
+
+=== DIII Abidjan ===
+
+{{page>angola-airports#Angola Airports}}
+
+=== DGAC Accra ===
+
+{{page>angola-airports#Angola Airports}}
+
+=== DNKK Kano ===
+
+{{page>seychelles-airports#Seychelles Airports}}
+
+=== FCCC Brazzaville ===
+
+{{page>angola-airports#Angola Airports}}
+
+=== GLRB Roberts ===
+
+{{page>angola-airports#Angola Airports}}
+
+=== GOOO Dakar ===
+
+{{page>kenya-airports#Kenya Airports}}
+
+=== GVSC Sal ===
+
+{{page>angola-airports#Angola Airports}}
+
+
+
+
+
+{{page>fss-footer#AFRW}}

@@ -1,0 +1,6 @@
+===== Congo, Democratic Republic Airspace =====
+
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| FZZA | Kinshasa | [[FZZA]] | -       | - |
+
+{{page>fz-footer#Congo, DR}}
