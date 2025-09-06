@@ -1,7 +1,7 @@
 # HKNW Nairobi Wilson
 
 
-**Wilson Airport** is an airport in Nairobi, Kenya. It has flights to many regional airports in Kenya while Nairobi's main airport, [Jomo Kenyatta International Airport](airport:hkjk:home), serves domestic and many international destinations.
+**Wilson Airport** is an airport in Nairobi, Kenya. It has flights to many regional airports in Kenya while Nairobi's main airport, [Jomo Kenyatta International Airport](hkjk.md), serves domestic and many international destinations.
 
 #### Aerodrome Data
 
@@ -249,7 +249,7 @@ masts
 
 
 #### HKJK & HKNW
-* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](HKNW). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
+* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](hknw.md). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
 * In the event of HKNW traffic, releases from HKJK should be coordinated with Approach, if online, however in most circumstances, HKJK traffic will be given priority.
 
 
