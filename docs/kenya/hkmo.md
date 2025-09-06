@@ -368,7 +368,7 @@ Pilots taking part in events that depart from or arrive to HKMO should make them
 	* Runway 21 is our preferred departing and arrival runway, up to a tailwind component of 10-15 knots.
 
 === "Departure"
-	##### Departure Briefing
+	### Departure Briefing
 	* Mombasa has 2 terminals, Terminals: 1 and 2. If you want to know which Terminal (and stand) to spawn at for your specific airline, please refer to the Ground page: [Ground](hkmo.md#ground)
 	* If you don't know which stand to use, our best recommendation is to spawn on stands 1-5.
 	* We ask any planes operating as Freighters use Apron 1 stands.
@@ -391,7 +391,7 @@ Pilots taking part in events that depart from or arrive to HKMO should make them
 	* **If Radar issues the words "climb now", all SID restrictions may be disregarded. Otherwise, all climb instructions must be treated with regard to the SID restrictions.**
 
 === "Arrival"
-	##### Arrival Briefing
+	### Arrival Briefing
 	### Arrivals and Approaches
 	* As your flight is approaching HKMO, please make yourself familiar with the arrival and approach procedures for Mombasa.
 	* On initial contact with Mombasa or Dar-es-Salaam, you will be told the landing runway and the arrival.
