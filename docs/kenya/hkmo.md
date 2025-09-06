@@ -61,6 +61,11 @@ More information available at [Wikipedia](https://en.wikipedia.org/wiki/Moi_Inte
 
 
 
+!!! warning ""
+
+    The information contained in this platform is for flight simulation purposes only and shall not be used, under any circumstances, for real world aviation.
+
+
 ## Delivery
 
 * HKMO doesn't have a dedicated Delivery Position, with Mombasa Apron (HKMO_GND) assuming the role of Delivery.
@@ -358,6 +363,8 @@ The complete set of HKMO Official Charts can be found [here](https://eaip.kcaa.o
 ## Briefing
 
 
+!!! note ""
+Pilots taking part in events that depart from or arrive to FNLU should make themselves familiar with this briefing page as well as with all existing charts.
 *Pilots taking part in events that depart from or arrive to HKMO should make themselves familiar with this briefing page as well as with all existing charts.*
 
 ### General Notes

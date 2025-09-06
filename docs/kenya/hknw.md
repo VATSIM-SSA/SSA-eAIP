@@ -63,6 +63,11 @@
 
 
 
+!!! warning ""
+
+    The information contained in this platform is for flight simulation purposes only and shall not be used, under any circumstances, for real world aviation.
+
+
 ## Delivery
 
 * HKNW doesn't have a dedicated Delivery Position, with Wilson Ground (HKNW_GND) assuming the role of Delivery.

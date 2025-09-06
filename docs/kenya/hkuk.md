@@ -53,6 +53,11 @@ More information available at [Wikipedia](https://en.wikipedia.org/wiki/Ukunda_A
 
 
 
+!!! warning ""
+
+    The information contained in this platform is for flight simulation purposes only and shall not be used, under any circumstances, for real world aviation.
+
+
 ## Delivery
 
 * HKUK doesn't have a dedicated Delivery Position, with Diani Tower (HKUK_TWR) assuming the role of Delivery.

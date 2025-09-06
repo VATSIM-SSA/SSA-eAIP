@@ -58,6 +58,11 @@ JKIA is located in the Embakasi suburb 18 kilometres (11 miles) southeast of Nai
 
 
 
+!!! warning ""
+
+    The information contained in this platform is for flight simulation purposes only and shall not be used, under any circumstances, for real world aviation.
+
+
 ## Delivery
 
 * HKJK doesn't have a dedicated Delivery Position, with Nairobi Apron (HKJK_GND) assuming the role of Delivery.
@@ -467,6 +472,8 @@ The complete set of HKJK Official Charts can be found [here](https://eaip.kcaa.o
 ## Briefing
 
 
+!!! note ""
+Pilots taking part in events that depart from or arrive to FNLU should make themselves familiar with this briefing page as well as with all existing charts.
 *Pilots taking part in events that depart from or arrive to HKJK should make themselves familiar with this briefing page as well as with all existing charts.*
 
 ### General Notes
