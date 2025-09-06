@@ -28,13 +28,13 @@ For more information, please visit [Wikipedia](https://en.wikipedia.org/wiki/Ken
 
 | ICAO | Name | City | Status | Remarks |
 | --- | --- | --- | --- | --- |
-| [HKJK](airport:hkjk:home) | Jomo Kenyatta | Nairobi | In Development |  |
-| [HKMO](airport:hkmo:home) | Moi International | Mombasa | N/A |  |
-| [HKEL](airport:hkel:home) | Eldoret International | Eldoret | N/A |  |
-| [HKKI](airport:hkki:home) | Kisumu International | Kisumu | N/A |  |
-| [HKNW](airport:hknw:home) | Wilson Airport | Nairobi | N/A |  |
-| [HKWJ](airport:hkwj:home) | Wajir Airport | Wajir | N/A |  |
-| [HKUK](airport:hkuk:home) | Ukunda Airport | Diani | N/A |  |
+| [HKJK](hkjk.md) | Jomo Kenyatta | Nairobi | In Development |  |
+| [HKMO](hkmo.md) | Moi International | Mombasa | N/A |  |
+| [HKEL](hkel.md) | Eldoret International | Eldoret | N/A |  |
+| [HKKI](hkki.md) | Kisumu International | Kisumu | N/A |  |
+| [HKNW](hknw.md) | Wilson Airport | Nairobi | N/A |  |
+| [HKWJ](hkwj.md) | Wajir Airport | Wajir | N/A |  |
+| [HKUK](hkuk.md) | Ukunda Airport | Diani | N/A |  |
 
 
 
