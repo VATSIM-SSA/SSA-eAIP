@@ -6,6 +6,10 @@
 
 More information available at [Wikipedia](https://en.wikipedia.org/wiki/Ukunda_Airport).
 
+!!! warning ""
+
+    The information contained in this platform is for flight simulation purposes only and shall not be used, under any circumstances, for real world aviation.
+
 #### Aerodrome Data
 
 | ICAO | HKUK |
@@ -50,14 +54,6 @@ More information available at [Wikipedia](https://en.wikipedia.org/wiki/Ukunda_A
 | Mombasa TMA | E | HKMO_APP | 1500 - FL145 |  |
 | Nairobi FIR/UIR | A | HKNA_CTR | FL145 - UNL |  |
 
-
-
-
-!!! warning ""
-
-    The information contained in this platform is for flight simulation purposes only and shall not be used, under any circumstances, for real world aviation.
-
-
 ## Delivery
 
 * HKUK doesn't have a dedicated Delivery Position, with Diani Tower (HKUK_TWR) assuming the role of Delivery.
@@ -91,7 +87,10 @@ At this point the aircraft must be handed to tower so that the tower controller 
 ### Cruise Level Rules
 * Kenyan Airspace operates with the following RVSM standard table of Cruising Levels.
 
-![](page>icao-cruiselevels#RVSM Feet)
+{%
+	include-markdown "common/cruise-levels.md"
+	heading-offset=2
+%
 
 #### SID Selection
 As there are no IFR operations at Diani, no SIDs are avialable, check the VFR departure procedures below
@@ -266,7 +265,7 @@ The assumed MSA is 2600ft
 * HKMO Approach is to release aircraft to HKUK Tower for sequencing onto straight-in or patterns
 
 #### HKJK & HKNW
-* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](HKNW). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
+* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](hknw.md). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
 * In the event of HKNW traffic, releases from HKJK should be coordinated with Approach, if online, however in most circumstances, HKJK traffic will be given priority.
 
 
