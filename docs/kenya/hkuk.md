@@ -93,7 +93,7 @@ At this point the aircraft must be handed to tower so that the tower controller 
 %
 
 #### SID Selection
-As there are no IFR operations at Diani, no SIDs are avialable, check the VFR departure procedures below
+As there are no IFR operations at Diani, no SIDs are available, check the VFR departure procedures below
 
 #### VFR Markers
 * TIWI marker - A school, Bongwe Primary to the north east of Mwakola Dam approximately 4NM to the airport.(Wide right base RWY19)
