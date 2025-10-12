@@ -12,7 +12,7 @@ The responsibility of Tower at Lanseria falls to the dedicated Tower ATS unit, "
 
 
 !!! info "Circuit Clearance"
-    ZSABC, hold position, after departure Runway 07, left hand circuits, not above 5600ft, report left downwind Runway 08.
+    ZSABC, hold position, after departure Runway 07, left hand circuits, not above 5600ft, report left downwind Runway 07.
 
 
 ## Wake Seperation
