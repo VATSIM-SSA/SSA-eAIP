@@ -4,7 +4,7 @@ Sal Control/Oceanic have 3 main sectors of airspace
 * Sal Control (TMA)
 * Sal Oceanic (Airways) [^1]
 
-Each individual sector is shown bellow and should be followed acordingly.
+Each individual sector is shown below and should be followed accordingly.
 
 ![alt text](Sal-Airspace-Class.png)
 
