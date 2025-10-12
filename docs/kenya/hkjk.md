@@ -484,7 +484,7 @@ Pilots taking part in events that depart from or arrive to HKJK should make them
 	* We ask any planes operating as Freighters use Apron 2 "F" stands.
 	* **If for any reason, there is a lack of room on these stands, we ask pilots use Apron 3, however this is unlikely to occur.**
 	* On initial contact to Nairobi Apron (HKJK_GND), pilots are to report callsign and stand number.
-	* **Please note, there are many different SIDs, some which lead to the same place. We only use some of these SIDs however. For your own planning reference, please refer to our Delivery Page for what SID to expect. This will also include your initial climbs (at the very bottom). [Delivery Page](hkjk.md#briefing)**
+	* **Please note, there are many different SIDs, some which lead to the same place. We only use some of these SIDs however. For your own planning reference, please refer to our Delivery Page for what SID to expect. This will also include your initial climbs (at the very bottom). [Delivery Page](hkjk.md#delivery)**
 	* **Initial Climb is not assigned on a per SID basis. This will depend on your direction and type of flight. You can also find what initial climb to expect at the very bottom of the Delivery Page.**
 	* **During clearance, please make sure to readback your SID and transition (if applicable), initial climb and the squawk.**
 	* Once you have clearance, wait until 10-15 minutes before your CTOT, before calling for push and start.
