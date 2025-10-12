@@ -8,7 +8,7 @@ The responsibility of Tower at Lanseria falls to the dedicated Tower ATS unit, "
 
   * There are no published VFR departure or arrival routings in and out of the Lanseria CTR. Traffic should instead be asked to report either leaving or entering the CTR, or via of the VRPs.
   * Circuit altitude is 5600ft, with circuits conducted towards the north-west of the field. Runway 07 (Left Hand), Runway 25 (Right Hand).
-  * Inbound Aircraft to come in at 6000ft or 56000ft.
+  * Inbound Aircraft to come in at 6000ft or 5600ft.
 
 
 !!! info "Circuit Clearance"
