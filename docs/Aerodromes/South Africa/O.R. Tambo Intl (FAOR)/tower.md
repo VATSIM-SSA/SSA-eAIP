@@ -13,7 +13,7 @@ The Tower East controller is responsible for the operations of Runway 03R/21L, i
 
   * There are no published VFR departure or arrival routings in and out of the Johannesburg CTR. Traffic should instead be asked to report either leaving or entering the CTR, or via of the VRPs.
   * Circuit altitude is 6500ft, with circuits conducted away from the runways, Runway 03L (left), Runway 03R (right), Runway 21R (right), Runway 21L (left).
-  * Controllers should avoid extending downwinds signicifantly to avoid conflicts with traffic at Johannesburg-Rand or Waterkloof.
+  * Controllers should avoid extending downwinds significantly to avoid conflicts with traffic at Johannesburg-Rand or Waterkloof.
 
 !!! info "Circuit Clearance"
     ZSABC, hold position, after departure Runway 03L, left hand circuits, not above 6500ft, report left downwind Runway 03L.
