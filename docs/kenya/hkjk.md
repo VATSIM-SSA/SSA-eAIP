@@ -512,7 +512,7 @@ Pilots taking part in events that depart from or arrive to HKJK should make them
 	* **For 24, these are either the "Romeo", e.g. KIMET1R, or the "Delta", e.g. KIMET2D, or the "Charlie", e.g. EVOGO2C. For planning purposes, all pilots are expected to program in the "Romeo" arrival where applicable, with the correct RNP transition, unless otherwise instructed by ATC.**
 	* Due to the high volume of traffic expected, and Nairobi being a single runway airport, pilots should expect to hold. For more information regarding published holds, please refer to here: [Nairobi Holdings (Approach Page)](hkjk.md#approach)
 	* **When close to the ILS 06, pilots will be cleared via the specific JOMOK2x transition. At this point, descend to the platform altitude (via the transition, 7100ft) to establish. However, please note ATC may deviate from the transition via radar vectors, so comply with the vectors and descent altitudes at all times!**
-	* During a go around, TWR will issue pilots the instruction on what to do, either "follow missed approach procedure", or "maintain runway heading". Listen out carefully!**
+	* During a go around, TWR will issue pilots the instruction on what to do, either "follow missed approach procedure", or "maintain runway heading". **Listen out carefully!**
 
 	### Landing
 	* When landings, pilots are advised to vacate as quickly as possible to allow for smooth operation. For 06, if a medium aircraft, plan to vacate via E or L. If a heavy aircraft, plan to vacate via L.
