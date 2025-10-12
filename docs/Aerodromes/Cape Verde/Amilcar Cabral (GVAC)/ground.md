@@ -61,7 +61,7 @@ Pushback is very self explanitory however some outliers exist, examples of which
 
 
 !!! Tip "Phraseology for pushback"
-    "TOM1VY, Push and start approaved Face North/South/Into taxiway X, QNH XXXX"
+    "TOM1VY, Push and start approved Face North/South/Into taxiway X, QNH XXXX"
 
 
 
