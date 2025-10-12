@@ -10,7 +10,7 @@
 ## Departure Procedures
 
 !!! Warning
-    KESIK 2B, NCL 2B, PUSPA2B, PINPO 2B, POLMO 2B, SVT 2B Length of dead reckoning segment are not regested with ICAO
+    KESIK 2B, NCL 2B, PUSPA2B, PINPO 2B, POLMO 2B, SVT 2B Length of dead reckoning segment are not registered with ICAO
 
 Runway 01
 
