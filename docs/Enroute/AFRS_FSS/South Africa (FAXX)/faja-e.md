@@ -57,7 +57,7 @@ Should an aircraft be on the climb out of King Shaka or otherwise:
 !!! info "STAR Clearance Phraseology (climbing)"
     "(callsign), climb to FL(flight level), (STAR) arrival landing (runway), check ATIS (code) in range."
 
-SAA609, cimb to FL340, after EPSAK direct UNPOM, cleared UNPOM1A landing 03, check ATIS E in range.
+SAA609, climb to FL340, after EPSAK direct UNPOM, cleared UNPOM1A landing 03, check ATIS E in range.
 
 ## Handoff Agreement
 
