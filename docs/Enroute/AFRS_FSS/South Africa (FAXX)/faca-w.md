@@ -1,0 +1,121 @@
+# 2. Cape Town Area (West)
+
+![alt text](image-1.png)
+
+## Inbound / Arrival Clearances
+
+On contact with the first FACA unit (FACA_W) or (FACA_E), the controller will be the one to issue the arrival clearance into Cape Town. Controllers are to check the latest NOTAMs, aswell as the Cape Town TMA page to keep up to date with the latest STARs in use.
+
+!!! note 
+    These STARs are also applicable for aircraft flying into Ysterplaat (FAYP)
+
+When giving the arrival clearance, the aircraft should first be cleared inbound into the sector at their current level, before being passed a STAR, landing runway, and ATIS code in range.
+
+!!! info "STAR Clearance Phraseology"
+    "(callsign), cleared inbound FL(flight level), (STAR) arrival landing (runway), check ATIS (code) in range."
+
+e.g.
+
+SAA369, cleared inbound FL340, ERDAS1C arrival landing Runway 01, check ATIS B in range.
+
+Should the aircraft either:
+* Already have received its STAR clearance for FACT/FAYP from another ATS unit
+* Overflying FACA or your sector in general
+* Flying to FAGG, FAPE, FAEL where the aircraft route terminates at the destination VOR.
+
+then the controller should only clear the aircraft at their level.
+
+!!! info "Inbound Phraseology"
+    "(callsign), cleared inbound FL(flight level)."
+
+e.g.
+
+SAA369, cleared inbound FL340.
+
+The pilot should read back their cleared level as confirmation.
+
+## Activation of R45A and R147
+
+During approved vSOA activites, areas R45A and R147 may become activated. For these areas to be activated, a dedicated FALW_APP should be online.
+
+FACA-W is to take extreme caution, and in the event overflights occur over these areas, is not to descend aircraft below FL200.
+
+## Handoff Agreement
+
+The agreed level for handoff from ACC to a civil APP unit is FL160.
+The agreed level for handoff from ACC to a military APP unit is FL200.
+
+!!! note
+    At first, when a pilot requests descent, they should only be cleared to descend as low as the lower limit of the FIR/UIR (FL195), but in our case, FL200.
+
+    Only once the controller is satisfied that the pilot will not leave controlled airspace whilst descending, should the aircraft then be given further descent to FL160 and a handoff.
+
+## Letters of Agreement
+
+**FYWF, FAJA and FACA agree that:**
+
+* UN186 - Odd Levels
+* UN185 - Even Levels
+* UQ43/Q43 - Odd Levels
+
+Handoffs to FAJA_W, FAJA_WE or FAJO: **10 Minutes Longitudinal Separation Required**
+
+!!! warning
+    FACA_W should ensure that aircraft travelling northbound into FAJA-W are on odd levels before handoff. Aircraft entering on even levels require prior coordination.
+
+![alt text](loa.png)
+
+## Use of Radar Separation
+
+* Separation assurance using ATS surveillance as a primary aid in the area control environment is implemented within the FAJA and FACA FIR above FL195 (19500FT). 
+* All transponder equipped aircraft operating in all routes within South Africa above FL195 (19500FT) are tracked by at least 2 different ATS surveillance sensors.
+* Consequently the following ATM elements need to be considered. ATS Surveillance Control Service will be automatically transferred from Approach or from adjacent Area Control Sectors, which will mean that the frequency change will not include a termination of ATS Surveillance control Service. 
+* Pilots are to take note that the En-route separation of 10 minutes at same level may be reduced to 10NM, demanding appropriate vigilance, R/T discipline and accuracy.
+
+## Noticable Conflict Points
+
+At busy hours, traffic from UN185/UQ23 and UQ10/Q10 merging into CSV may create a bottleneck for aircraft flying into ERDAS.
+
+In this case, FACA_W should plan ahead to ensure sufficient separation of approximately 15-20 miles in trail to the APP controller.
+
+Aircraft routing on UQ10/Q10 may be diverted to GETEN to join an arrival from there.
+
+Aircraft routing on UN185 to UQ23 may be routed over R45A, over Langebaanweg and into the sea to join an arrival from ASPIK to reduce load.
+
+
+## Enroute CPDLC / SELCAL
+
+The Cape Town Flight Information Region (FACA) is equipped and is able to operate enroute CPDLC coverage for aircraft operating above FL195, which is built into the sector files through TopSky, and requires an active Hoppie's Code to use.
+
+The following instructions can be transmitted via CPDLC.
+
+* Altitude Change (Climb/Descent)
+* Heading Instructions
+* Direct To (Fix)
+
+As well as this, TopSky offers the following free text options to be transmitted for FACA-W.
+
+* SERVICE TERMINATED. MONITOR UNICOM 122.800
+* SERVICE TERMINATED. SQUAWK 2000. MONITOR UNICOM 122.800
+* CERTAIN INSTRUCTIONS UNAVAILABLE VIA DATALINK. PLEASE MONITOR * VOICE AT ALL TIMES
+* CPDLC SERVICE TERMINATED. REVERT TO VOICE
+* CPDLC SERVICE TERMINATE PASSING FL195. REVERT TO VOICE.
+* RADAR SERVICE TERMINATED.
+* ALL ATS TERMINATED.
+* RADAR CONTACT LOST.
+* NO DELAY EXPECTED.
+* DELAY NOT DETERMINED.
+* REPORT APPROACHING TOP OF DESCENT ON VOICE.
+* REPORT APPROACHING TOP OF DESCENT.
+* CHECK STUCK MICROPHONE
+* CONTINUE PRESENT HEADING
+* RESUME NORMAL SPEED
+* REPORT YOUR MACH NUMBER.
+* REPORT YOUR IAS.
+* REQUEST NOT SUPPORTED VIA DATALINK. REVERT TO VOICE.
+
+There is no SELCAL capabilities within the Cape Town FIR.
+
+!!! info
+    All arrival clearances are to be transmitted through voice on initial contact. CPDLC may not be used for this function to issue arrival clearances.
+
