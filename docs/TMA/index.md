@@ -5,7 +5,7 @@
 ## Purpose
 The following documentation provided is outline for Aerodrome Operations, split by Country. This section covers only the relevant Aerodrome Data, as well as procedures outlining Delivery, Ground and Tower for the relevant positions. 
 
-The procedures outlined in this documentation should take priority should discrepancies arise regarding the outliining of procedures.
+The procedures outlined in this documentation should take priority should discrepancies arise regarding the outlining of procedures.
 
 
 ## Exclusion of Liability
