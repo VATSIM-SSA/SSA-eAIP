@@ -50,7 +50,7 @@ The Sal FIR use standard ICAO phraseology with a few added segments, an example 
 *Cleared to [Destination], [Departure] Flightplaned route, Climb FL [INIT CLIMB], Squawk [Squawk] (If not already Provided ("Confirm SELCAL code"))*
 
 !!! Note 
-    The Controller working the DEL controller position may provide a SELCAL check to pilots after their clearence has been obtained. They may do this by doing '.selcal XX-XX' followed by their SELCAL code, to which this would check the pilots SELCAL works.
+    The Controller working the DEL controller position may provide a SELCAL check to pilots after their clearance has been obtained. They may do this by doing '.selcal XX-XX' followed by their SELCAL code, to which this would check the pilots SELCAL works.
 
 
 
