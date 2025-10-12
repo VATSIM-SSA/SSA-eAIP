@@ -55,7 +55,7 @@ The minimum lateral separation required between aircraft is 10 minutes, with ver
 
 Whilst some radar coverage exists mainly in the FAJA_WE sector, this should not be used to provide separation or traffic information between aircraft, and is solely for the situational awareness of the controller.
 
-West of Upington, limited radar coverage is available, in this case, the controller is to ensure full compliance of separation standards and apply any means neccesary to separate aircraft, including ensuring aircraft stick to their agreed levels as documented in the LOA between FYWF, FAJA and FACA to reduce the likelihood of a conflict with aircraft travelling west to ABV.
+West of Upington, limited radar coverage is available, in this case, the controller is to ensure full compliance of separation standards and apply any means necessary to separate aircraft, including ensuring aircraft stick to their agreed levels as documented in the LOA between FYWF, FAJA and FACA to reduce the likelihood of a conflict with aircraft travelling west to ABV.
 
 ## Enroute CPDLC / SELCAL
 
