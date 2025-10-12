@@ -39,7 +39,7 @@ Should an aircraft be on the climb out of Port Elizabeth, George or East London 
 !!! info "STAR Clearance Phraseology (climbing)"
     "(callsign), climb to FL(flight level), (STAR) arrival landing (runway), check ATIS (code) in range."
 
-SAA609, cimb to FL340, cleared ERDAS1A arrival, landing runway 01, check ATIS F in range.
+SAA609, climb to FL340, cleared ERDAS1A arrival, landing runway 01, check ATIS F in range.
 
 ## Handoff Agreement
 
