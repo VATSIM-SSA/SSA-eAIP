@@ -8,7 +8,7 @@ The responsibility of Tower at King Shaka falls to the dedicated Tower ATS unit,
 
   * There are no published VFR departure or arrival routings in and out of the Durban CTR. Traffic should instead be asked to report either leaving or entering the CTR, or via of the VRPs.
   * Circuit altitude is 800ft, with circuits conducted towards the sea. Runway 06 (Right Hand), Runway 24 (Left Hand).
-  * Controllers should avoid extending downwinds signicifantly to avoid conflicts with traffic at Durban Virginia.
+  * Controllers should avoid extending downwinds significantly to avoid conflicts with traffic at Durban Virginia.
 
 !!! info "Circuit Clearance"
     ZSABC, hold position, after departure Runway 06, right hand circuits, not above 800ft, report right downwind Runway 06.
