@@ -240,7 +240,7 @@ The complete set of HKWJ Official Charts can be found [here](https://eaip.kcaa.o
 
 
 !!! note ""
-Pilots taking part in events that depart from or arrive to FNLU should make themselves familiar with this briefing page as well as with all existing charts.
+Pilots taking part in events that depart from or arrive to HKWJ should make themselves familiar with this briefing page as well as with all existing charts.
 ##### HKWJ Pilot Briefing
 
 *Pilots taking part in events that depart from or arrive to HKJK should make themselves familiar with this briefing page as well as with all existing charts.*
