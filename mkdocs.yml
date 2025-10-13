@@ -3,10 +3,10 @@ site_url: https://eaip2.vatssa.com
 theme:
   name: material
   features:
-    - navigation.instant
-    - navigation.path
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
     - navigation.top
-    - toc.follow
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -16,31 +16,32 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
       primary: teal
-      accent: purple
-    - scheme: slate
+      accent: purple 
+    - scheme: slate 
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: Switch to light mode    
       primary: teal
       accent: lime
 markdown_extensions:
   - admonition
   - footnotes
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - tables
 
 plugins:
   - search:
       lang: en
+  - awesome-pages:
+        strict: false
+        order: asc
+        sort_type: natural
+        order_by: title
   - git-revision-date-localized:
       type: date
       strict: false
+  - external-markdown: {}
   - glightbox:
       touchNavigation: true
       effect: zoom
@@ -48,10 +49,3 @@ plugins:
       height: auto
       zoomable: true
       draggable: false
-  - include-markdown:
-      preserve_includer_indent: false
-      dedent: false
-      trailing_newlines: true
-      comments: true
-      rewrite_relative_urls: true
-      recursive: true
