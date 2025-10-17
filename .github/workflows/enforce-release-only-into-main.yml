@@ -1,4 +1,4 @@
-name: Enforce release-only into main
+name: Enforce release/fix only into main
 on:
   pull_request:
     types: [opened, synchronize, reopened]
@@ -8,9 +8,9 @@ jobs:
   enforce:
     runs-on: ubuntu-latest
     steps:
-      - name: Fail unless head is a release/* branch
+      - name: Fail unless head is a release/* or fix/* branch
         run: |
-          if [[ "${{ github.head_ref }}" != release/* ]]; then
-            echo "Only release/* branches may be merged into main."
+          if [[ "${{ github.head_ref }}" != release/* && "${{ github.head_ref }}" != fix/* ]]; then
+            echo "Only release/* or fix/* branches may be merged into main."
             exit 1
           fi
