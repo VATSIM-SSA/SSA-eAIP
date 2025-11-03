@@ -14,8 +14,11 @@ Once this data has been received by the SMC controller, the controller shall the
 At Johannesburg, filing a flight plan as VFR is not mandatory unlike Cape Town, so you do not need to ask for a pilot to file a flight plan.
 
 !!! info "VFR Phraseology"
-    "ZSDUR, thank you, start up approved, expect Runway 03L, QNH 1015, report ready for taxi."
+    "ZSJNB, thank you, start up approved, expect Runway 03L, QNH 1015, report ready for taxi."
 
+## AORs
+
+The following AORs
 
 ## Restrictions
 
