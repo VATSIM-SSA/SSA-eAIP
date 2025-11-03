@@ -72,3 +72,6 @@ All aircraft are to comply with the standard missed approaches to avoid conflict
     SAA294, comply standard missed approach.
 
 Only once the pilot has been observed to be following the missed approach, should you then handoff to Johannesburg Radar for further.
+
+## Helicopters
+No idea
