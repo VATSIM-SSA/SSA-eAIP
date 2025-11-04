@@ -1,4 +1,4 @@
-order_by: title
+order_by: natural
 nav:
     - Home: index.md
     - general.md
