@@ -55,3 +55,8 @@ plugins:
       comments: true
       rewrite_relative_urls: true
       recursive: true
+  - awesome-pages:
+        strict: false
+        order: asc
+        sort_type: natural
+        order_by: title

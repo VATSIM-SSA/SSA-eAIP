@@ -22,7 +22,7 @@ jobs:
 
       # Install all deps from requirements.txt
       - run: pip install -r requirements.txt
-
+      - run: pip install mkdocs-awesome-pages-plugin
       - run: mkdocs build
 
       - uses: actions/upload-pages-artifact@v3
