@@ -2,11 +2,16 @@ site_name: VATSSA eAIP
 site_url: https://eaip2.vatssa.com
 theme:
   name: material
+theme:
+  name: material
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky        
+    - navigation.sections    
+    - toc.integrate          
+    - navigation.tracking
     - navigation.instant
-    - navigation.path
-    - navigation.top
-    - toc.follow
+    - navigation.instant.progress
     - search.suggest
     - search.highlight
     - content.tabs.link
