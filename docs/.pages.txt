@@ -1,7 +1,0 @@
-order_by: title
-nav:
-    - Home: index.md
-    - General
-    - Aerodromes
-    - TMA
-    - Enroute
