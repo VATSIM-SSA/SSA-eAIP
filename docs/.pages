@@ -1,7 +1,7 @@
-order_by: title
+order_by: natural
 nav:
     - Home: index.md
-    - General
-    - Aerodromes
-    - TMA
-    - Enroute
+    - general.md
+    - aerodromes.md    
+    - TMA.md
+    - enroute.md
