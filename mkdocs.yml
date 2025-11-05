@@ -62,4 +62,4 @@ plugins:
         order_by: title
 
 extra_css:
-  - stylesheets/extra.css
+  - styles/extra.css
