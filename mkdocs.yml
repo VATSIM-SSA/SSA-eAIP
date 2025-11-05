@@ -1,7 +1,7 @@
 site_name: VATSSA eAIP
 site_url: https://eaip2.vatssa.com
 theme:
-  logo: assets/logo.png
+  logo: assets/Logo1.png
   name: material
   features:
     - navigation.tabs
@@ -22,14 +22,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: teal
-      accent: purple
+      primary: green
+      accent: lime
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
       primary: teal
-      accent: lime
+      accent: light green
 markdown_extensions:
   - admonition
   - footnotes
