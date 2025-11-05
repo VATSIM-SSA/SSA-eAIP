@@ -1,5 +1,5 @@
 ---
-  title: New Controllers
+  title: New Controllers Page
 ---
 
 # Overview
