@@ -22,7 +22,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-    - scheme: light
+    - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
