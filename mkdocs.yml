@@ -1,7 +1,7 @@
 site_name: VATSSA eAIP
 site_url: https://eaip2.vatssa.com
 theme:
-  logo: assets/logo.png
+  logo: assets/Logo1.png
   name: material
   features:
     - navigation.tabs
