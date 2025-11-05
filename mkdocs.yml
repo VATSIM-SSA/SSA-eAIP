@@ -60,3 +60,6 @@ plugins:
         order: asc
         sort_type: natural
         order_by: title
+
+extra_css:
+  - stylesheets/extra.css
