@@ -1,7 +1,7 @@
 order_by: title
 nav:
     - Home: index.md
-    - New Controllers: New Controllers
+    - New-Controllers
     - General
     - Aerodromes
     - TMA
