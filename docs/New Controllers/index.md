@@ -1,7 +1,3 @@
----
-  title: New Controllers Page
----
-
 # Overview
 
 ![alt text](image.png)
