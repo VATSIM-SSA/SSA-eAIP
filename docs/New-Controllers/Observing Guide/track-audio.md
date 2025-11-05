@@ -1,6 +1,6 @@
 # TrackAudio
 
-![TrackAudio](trackaudio.png)
+![TrackAudio](TrackAudio.png)
 
 ## What is TrackAudio?
 TrackAudio is a next generation Audio-For-VATSIM ATC Client for macOS, Linux and Windows.
@@ -16,10 +16,10 @@ Our resources page, where you can find the TrackAudio download link can be found
 ## Setting up TrackAudio
 
 - Input your VATSIM Details
-  - Your VATSIM CID
-  - Your VATSIM Password
+  * Your VATSIM CID
+  * Your VATSIM Password
 - Configure audio devices
-  - Select a Headset, Speaker and Input device
+  * Select a Headset, Speaker and Input device
 - Set a Push-To-Talk (PTT) bind
 - Save your changes by pressing 'Close' on the bottom right
 
