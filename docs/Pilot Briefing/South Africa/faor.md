@@ -4,17 +4,19 @@
 O. R. Tambo International Airport is an international airport serving the twin cities of Johannesburg and the main capital of South Africa, Pretoria. It is situated in Kempton Park, Gauteng. It serves as the primary airport for domestic and international travel for South Africa and since 2020, it is Africa's second busiest airport, with a capacity to handle up to 28 million passengers annually. The airport serves as the hub for South African Airways. The airport handled over 21 million passengers in 2017. 
 
 
-## Charts
+### Charts
 
 Charts for Johannesburg O.R. Tambo (FAOR), and across South Africa can be publicly accessed by ChartFox, or directly through the South African CAA website, which will also include VFR charts for use around Johannesburg. All links can be found below:
 
-ChartFox: [FAOR charts | ChartFox](https://chartfox.org/FAOR)
-South African [CAA: Aeronautical-Charts – SACAA](https://www.caa.co.za/aeronautical-charts/)
-South African [VFR Charts: Aeronautical Information VFR Charts – SACAA](https://www.caa.co.za/industry-information/aeronautical-information-vfr-charts/)
+- ChartFox: [FAOR charts | ChartFox](https://chartfox.org/FAOR)
+
+- South African [CAA: Aeronautical-Charts – SACAA](https://www.caa.co.za/aeronautical-charts/)
+
+- South African [VFR Charts: Aeronautical Information VFR Charts – SACAA](https://www.caa.co.za/industry-information/aeronautical-information-vfr-charts/)
 
 Alternatively, users of MSFS2024 are more than welcome to use the inbuilt flight planner for charts: [Flight Planner](https://planner.flightsimulator.com/)
 
-## Sceneries
+### Sceneries
 
 The following table should only be to determine the Transition Level for O.R. Tambo (FAOR).
 
@@ -30,7 +32,7 @@ The following table should only be to determine the Transition Level for O.R. Ta
 | P3D | Gaffer Simulations | Payware | [simMarket: OR TAMBO INTERNATIONAL AIRPORT P3D4 - JOHANNESBURG](https://secure.simmarket.com/gaffer-simulations-or-tambo-international-airport-p3d4-johannesburg.phtml)
 
 
-## ATS Frequencies
+### ATS Frequencies
 
 | Position    | Callsign              | Frequency | Remarks             |
 | :---------: | :---------: | :---------: | :---------: |
@@ -48,14 +50,15 @@ The following table should only be to determine the Transition Level for O.R. Ta
 | FAJA_SE_CTR    | Johannesburg Area     | 132.150   | -                   |
 
 
-# Aerodrome
+## Aerodrome
 
-## Stands
+### Stands
 O.R. Tambo has many different parking stands, each for their own use, either for domestic or international flights, or based on aircraft type (i.e. Airbus A380, Boeing 737, etc). Below, you can find a list of all available stands for use, and whether you should be spawning at it, based on your aircraft type.
 
-### Aprons A and B
+#### Aprons A and B
 
 ![alt text](image.png)
+
 Aprons A and B are used for a mix of both international and domestic traffic:
 
 - Stands A1R, A1-A7: International
@@ -70,7 +73,7 @@ B1, B3 and B6 can be used for Code E. The remainder of the Apron B stands can on
 If B3 is occupied, B2 and B4 can not be used. If B6 is occupied, B5 and B7 can not be used.
 
 
-### Apron C
+#### Apron C
 
 ![alt text](image-1.png)
 
@@ -85,7 +88,7 @@ Aircraft on C18-C24 should expect to push onto Taxiway I, but can also be asked 
 
 Aircraft may also be asked to sidestep onto the opposite taxiway, usually bypass another aircraft which may have pushed back. Ensure you have enough wingtip clearance to do this. If you do not, advise ATC
 
-### Aprons E and F
+#### Aprons E and F
 
 ![alt text](image-2.png)
 
@@ -99,7 +102,7 @@ Some stands may not be used if the central stand is occupied:
 
 For example, E8 and E10 can not be used if E9 is used. And vice versa.
 
-### Apron D
+#### Apron D
 
 ![alt text](image-3.png)
 
@@ -112,7 +115,7 @@ D1, D3A, D4A.
 
 For most stands, if the central stand is occupied (i.e. D6), you may not spawn on any of the adjacent stands (D5 or D7) for example.
 
-## Code F Restrictions
+### Code F Restrictions
 
 ![alt text](image-4.png)
 
@@ -124,9 +127,9 @@ This should be complied at all times.
 
 **For specific Code F stands, please refer to the pages for Apron E & F, and Apron D.**
 
-## Runway Lengths
+### Runway Lengths
 
-### Runway 03L
+#### Runway 03L
 
 - Full Length (from J-West and J-East) - 4217m (13836ft)
 
@@ -136,11 +139,11 @@ This should be complied at all times.
 
 - Intersection E - 2784m (9136ft)
 
-### Runway 03R
+#### Runway 03R
 
 - Full Length - 3405m (11171ft)
 
-### Runway 21R
+#### Runway 21R
 
 - Full Length (from A or Q or C) - 4421m (14505ft)
 
@@ -148,14 +151,14 @@ This should be complied at all times.
 
 - Intersection H - 2368m (7771ft)
 
-### Runway 21L
+#### Runway 21L
 
 - Full Length - 3405m (11171ft)
 
 
-# Departures
+## Departures
 
-## CDM (CAMU)
+### CDM (CAMU)
 During busy events, pilots may be asked to fill in their TOBT. 
 
 The link to do can be found: [**here**](https://vats.im/vdgs)
@@ -170,7 +173,7 @@ CTOT is your Calculated Take Off Time. You should aim to be wheels up between -5
 So, for a CTOT of 1204z, you should aim to be wheels up between 1159z and 1219z. If you miss your slot, you will be issued a new one automatically by the system.
 
 
-## Route Validation
+### Route Validation
 
 ![alt text](image-5.png)
 
@@ -185,7 +188,7 @@ If there are multiple purple routings for selection, consider the following:
 - Q9 - FL200 - FL245
 
 
-### Outbound FIR via ETMIT, TAVLA or GWV
+#### Outbound FIR via ETMIT, TAVLA or GWV
 
 Flights exiting the FIR to the north via ETMIT, TAVLA or GWV should comply with the following restrictions:
 
@@ -205,7 +208,7 @@ Flights exiting the FIR to the north via ETMIT, TAVLA or GWV should comply with 
 
 - VASUR UZ23 IMKUP UQ1 TAVLA
 
-### Outbound via HGV or OVALA (excluding FABL)
+#### Outbound via HGV or OVALA (excluding FABL)
 
 **This should never be used for King Shaka.**
 
@@ -221,7 +224,7 @@ The following routes are as published for Runway 21:
 
 - HGV UZ16 NEVEN
 
-### Flights to Bloemfontein (FABL)
+#### Flights to Bloemfontein (FABL)
 
 There is a dedicated jet and turboprop routing for 03, whereas all aircraft will then also use a separate routing for 21s.
 
@@ -237,7 +240,7 @@ The following routes are as published for Runway 21:
 
 **Aircraft which do not comply with the CAA Route Matrix or as listed above by specific restrictions must expect a reroute.**
 
-## Clearance
+### Clearance
 
 At Johannesburg, pilots should first take into consideration the following NOTAMs regarding Clearance Delivery at Johannesburg:
 
@@ -281,7 +284,7 @@ You should expect the following clearance:
     "Radar Frequency 123.7", as part of your chart signifies an auto handoff. You are to automaticlaly switch once airborne.
 
 
-## Taxi Out
+### Taxi Out
 
 !!! warning Notes
     - Code F aircraft are restricted to a MAXIMUM of 10 knots on Taxiway A between Taxiways E and L.
@@ -300,7 +303,7 @@ Aircraft who wish to take an intersection departure should immediately advise th
     During Low Visibility Procedures, aircraft are to not exceed 10 knots until they are on a demarcated taxiway, and clear of any apron.
 
 
-# Arrivals
+## Arrivals
 
 Pilots should expect the following STAR assignments for **03s**.
 
@@ -341,7 +344,7 @@ You only need to acknowledge the arrival and runway direction. **Do not be alarm
 !!! warning
     **Please note, all of these SIDs will end up with you on a vector when on the downwind leg. DO NOT TURN BASE OR FINAL UNLESS INSTRUCTED BY RADAR.**
 
-## Approach
+### Approach
 
 All aircraft flying into Johannesburg expecting an ILS approach should plan for the ILS Z approach, which will also be stated in the ATIS.
 
@@ -357,7 +360,7 @@ All aircraft flying into Johannesburg expecting an ILS approach should plan for 
     - GA Traffic may be operating below the extended centreline. Any traffic below the TMA up to 7500ft is considered separated from traffic operation in the TMA.
 
 
-## Landing and Taxi to Stand
+### Landing and Taxi to Stand
 
 Aircraft should reduce the amount of time they are on a runway as quick as possible, as during some busy instances, HIRO (High Intensity Runway Operations) will be in force.
 
