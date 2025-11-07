@@ -7,7 +7,8 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky        
     - navigation.sections    
-    - toc.integrate          
+    - toc.integrate       
+    - toc.follow   
     - navigation.tracking
     - navigation.instant
     - navigation.instant.progress
