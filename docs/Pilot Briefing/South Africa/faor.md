@@ -1,4 +1,4 @@
-# Overview
+# O.R. Tambo (FAOR)
 
 ## General
 O. R. Tambo International Airport is an international airport serving the twin cities of Johannesburg and the main capital of South Africa, Pretoria. It is situated in Kempton Park, Gauteng. It serves as the primary airport for domestic and international travel for South Africa and since 2020, it is Africa's second busiest airport, with a capacity to handle up to 28 million passengers annually. The airport serves as the hub for South African Airways. The airport handled over 21 million passengers in 2017. 
