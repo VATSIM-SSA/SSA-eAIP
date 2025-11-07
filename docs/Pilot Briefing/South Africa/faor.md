@@ -271,10 +271,10 @@ If your SID is not listed above for your specific runway, you are to expect runw
 
 You should expect the following clearance:
 
-!!! info SID
+!!! info "SID"
     “SAA322, O.R. Tambo Delivery, cleared to Cape Town, FL380 on request, after departure Runway 03L, comply with the RAGUL3A departure, radar frequency 123.7, squawk 7300.”
 
-!!! info RWY TRK
+!!! info "RWY TRK"
     “SAA322, O.R. Tambo Delivery, cleared to Cape Town, FL380 on request, after departure Runway 03L, maintain non standard runway track, climb to 8000ft, radar frequency 123.7, squawk 7300.”
 
 
@@ -286,7 +286,7 @@ You should expect the following clearance:
 
 ### Taxi Out
 
-!!! warning Notes
+!!! warning "Notes"
     - Code F aircraft are restricted to a MAXIMUM of 10 knots on Taxiway A between Taxiways E and L.
 
     - Code F aircraft operating out of Bay D1 to enter or exit via Taxiway G8.
@@ -335,20 +335,20 @@ Pilots should expect the following STAR assignments for **21s**.
 
 On initial contact with any FAJA unit, you will be issued the arrival clearance:
 
-!!! info Arrival Clearance on Initial Call
+!!! info "Arrival Clearance on Initial Call"
 
     “GBB122K, cleared inbound FL370, cleared NIBEX1B, **landing 03s**, ATIS A in range.”
 
 You only need to acknowledge the arrival and runway direction. **Do not be alarmed if you haven’t been given 03L or 03R. This is normal.** FAJA will not issue the landing runway. This is Johannesburg Radar’s responsibility. If Johannesburg Radar is offline, expect runway assignment from FAJA when descending. If you are to read back L or R, you will be corrected, so simply read back 03 or 21 only!
 
 !!! warning
-    **Please note, all of these SIDs will end up with you on a vector when on the downwind leg. DO NOT TURN BASE OR FINAL UNLESS INSTRUCTED BY RADAR.**
+    **Please note, all of these STARs will end up with you on a vector when on the downwind leg. DO NOT TURN BASE OR FINAL UNLESS INSTRUCTED BY RADAR.**
 
 ### Approach
 
 All aircraft flying into Johannesburg expecting an ILS approach should plan for the ILS Z approach, which will also be stated in the ATIS.
 
-!!! failure Approach NOTAMs
+!!! failure "Approach NOTAMs"
     - Do not request 03L/21R for landing. This is the main departure runway.
     
     - The RNAV GNSS Approaches are currently suspended on both runways.
@@ -370,7 +370,7 @@ If landing 03R, aircraft should attempt to vacate at RE or RS.
 
 - If you vacate onto RS, continue onto Y and H, as your new clearance limit is holding point H for 03L.
 
-!!! failure Vacating Aircraft
+!!! failure "Vacating Aircraft"
     **Do not stop before the stopbar when vacating under any circumstances. Keep it rolling off the runway until told otherwise.**
 
 If landing 21s, aircraft should keep rolling onto Y once vacated.
