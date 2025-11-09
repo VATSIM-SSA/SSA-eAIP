@@ -3,14 +3,17 @@ Jomo Kenyatta International Airport is an international airport in Nairobi, the 
 
 ## Aerodrome Details
 
-|  Durban King Shaka    |                           |
+|  Nairobi Jomo Kenyatta    |                           |
 | :---------: | :----------------------------------: |
 | ICAO | HKJK |
 | IATA | NBO |
 | Elevation | 5330ft |
-| Transition Altitude | 9000ft |
+| Transition Altitude | 9000 ft |
 | Transition Level | FL100 |
-| Mag Variation | 01º E |
+| Mag Variation | 0.56º E |
+| Coordinate | [01°19′07″S 36°55′33″E](https://geohack.toolforge.org/geohack.php?pagename# Jomo_Kenyatta_International_Airport&params01_19_07_S_36_55_33_E_region:KE_type:airport) |
+| Site | [http://kaa.go.ke/](http://kaa.go.ke/) |
+
 
 ## Declared Distances
 

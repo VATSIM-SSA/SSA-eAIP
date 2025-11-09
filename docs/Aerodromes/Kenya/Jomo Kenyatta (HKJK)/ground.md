@@ -1,7 +1,7 @@
 # Ground
-The responsibility of SMC at King Shaka falls to the dedicated Ground ATS unit, "King Shaka Ground" (FALE_GND) on 121.650 MHz. SMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. SMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway.
+The responsibility of SMC at Nairobi falls to the dedicated Ground ATS unit, "Nairobi Apron" (HKJK_GND) on 121.600 MHz. SMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. SMC will also be responsible for the initial call of VFR aircraft looking for start-up and taxi to the runway.
 
-## Visual Flight Rules (VFR) Aircraft.
+## Visual Flight Rules (VFR) Aircraft
 On initial call with SMC, the VFR aircraft is expected to provide:
 
 * Aircraft Registration, if the callsign used is not the aircraft registration
@@ -10,95 +10,165 @@ On initial call with SMC, the VFR aircraft is expected to provide:
 * Fuel Endurance
 * Intentions
 
-Once this data has been received by the SMC controller, the controller shall then issue the QNH, Active, and if operating on a FPL, a squawk.
-At Durban, filing a flight plan as VFR is not mandatory unlike Cape Town, so you do not need to ask for a pilot to file a flight plan.
+Once this data has been received by the SMC controller, the controller shall then issue the QNH, Active Runway and squawk
+
+!!! info "VFR Flight Plans"
+    At Nairobi, a VFR flight plan needs to be filed, with any intentions in the remarks of the FPL
 
 !!! info "VFR Phraseology"
-    "ZSDUR, thank you, start up approved, expect Runway 06, QNH 1015, report ready for taxi."
+    "5YNBO, thank you, start up approved, expect Runway 06, QNH 1018, report ready for taxi."
 
 
 ## Restrictions
 
-Whilst Durban King Shaka is able to accomodate Code F aircraft (Airbus A380-800, Boeing 747-800s or any aircraft with a wingspan between 65 and 80 metres), these aircraft are fairly restricted in where they are able to operate.
+At Nairobi, stands 2A, 2B, 2C and 3A, 3B, and 3C are limited to domestic operations and is able to support up to Code C aircraft, up to the wingspan of 34m.
+
+### Standard Configurations
+
+**737-800**
+
+The 737-800 is the largest aircraft that can be accommodated by these stands. In this configuration, the 737-800 blocks the neighbouring stand. For example, if the 737-800 is parked on stand 2A, no aircraft will be able to be accommodated on stand 2B, however a 737-800 will be able to be accommodated at stand 2C, or any other smaller aircraft.
+
+Therefore in this configuration, it is ideal to never use either stand 2B or 3B as you will end up restricting 2 stands on either side.
+
+**E190 and smaller aircraft**
+
+On the E190 and smaller code C and below aircraft, the wingspan clearance is enough to allow use of all 3 stands.
+
 
 ### Stand Restrictions
 
 | Stands | Restricted To |
 | :---------: | :---------: |
-| A1 - A16 | Code C (max 36m wingspan) |
-| B1 - B9 | Code C (max 36m wingspan) |
-| C1, C3, C4, and C6 | Code C (max 36m wingspan) in MARS configuration. |
-| C2 and C5 | Code F (max 80m wingspan) |
-| D1, D3, D4, and D6 | Code C (max 36m wingspan) in MARS configuration. |
-| D2 and D5 | Code F (max 80m wingspan) | 
+| 2A, 2B, 2C, 3A, 3B, 3C (E190 or smaller configuration)  | Restricted to Code C, [_see note above_](ground.md#standard-configurations) |
+| 2A, 2C, 3A, 3C (737-800 configuration)  | Restricted to Code C,  [_see note above_](ground.md#standard-configurations) |
 
-**MARS**
+### Prefferential Stand Allocation
+* Pilots may request to choose a different stand at their discretion.
+* If preferred stand is occupied, then redirect aircraft to a stand in the same terminal or the J parking stands.
 
-MARS — Multiple Aircraft Ramp System — is an airport gate design that allows a single aircraft parking stand to accommodate more than one type or size of aircraft.
+**Apron 1**
 
-At Durban, the following stands can be used in conjuction with each other, up to a maximum of Code C (max 36m wingspan) aircraft on them.
+| Terminal | Stands |
+| :---: | :---: |
+| 1A | 15-21 |
+| 1B | 14-9 |
+| 1C | 8-4 |
+| 1D | 2A-C & 3A-C |
+| 2 | 22A-F |
 
-| Stands | Blocks off Stand |
-| :---------: | :---------: |
-| C1 and C3 | C2 |
-| C4 and C6 | C5 |
-| D1 and D3 | D2 |
-| D4 and D6 | D5 |
+| Terminal | ICAO | Airline | Preferred Stand | Remarks |
+| :---: | :---: | :---: | :---: | :---: |
+| 1A | ABY | Air Arabia | 19 |  |
+| 1A | AFR | Air France | 18 |  |
+| 1A | CSN | China Southern | ANY |  |
+| 1A | KQA | Kenya Airways | ANY | International Only / Can also use Terminals 1B to 1C. |
+| 1A | KLM | KLM Royal Dutch Airlines | ANY |  |
+| 1A | SVA | Saudia | 18 |  |
+| 1A | N/A | Other SkyTeam Airlines | ANY |  |
+| 1B | AIC | Air India | 11 |  |
+| 1B | ATC | Air Tanzania | ANY |  |
+| 1B | BAW | British Airways | 14 |  |
+| 1B | ETH | Ethopian Airlines | 12 |  |
+| 1B | QTR | Qatar Airways | 10 |  |
+| 1B | SAA | South African Airways | ANY |  |
+| 1B | SWR | Swiss International Air Lines | ANY |  |
+| 1B | UGD | Uganda Airlines | 11 |  |
+| 1B | N/A | Other Oneworld Airlines | ANY |  |
+| 1C | MSR | EgyptAir | 7 |  |
+| 1C | UAE | Emirates | 7 |  |
+| 1C | ETD | Etihad Airways | ANY |  |
+| 1C | DLH | Lufthansa | 5 |  |
+| 1C | MWI | Malawian Airlines | 4 |  |
+| 1C | RWD | RwandAir | ANY |  |
+| 1C | THY | Turkish Airlines | 8 |  |
+| 1C | N/A | Other Star Alliance Airlines | ANY |  |
+| 1D | JMA | Jambojet | ANY |  |
+| 1D | KQA | Kenya Airways | ANY | Domestic Only |
+| 2 | AXK | African Express Airways | ANY |  |
+| 2 | DAO | Daallo Airlines | ANY |  |
+| 2 | FFV | Fly540 | ANY |  |
+| 2 | JBW | Jubba Airways | ANY |  |
+| 2 | PRF | Precision Air | ANY |  |
 
-![alt text](mars.png)
-
-### Taxiway and Apron Restrictions
-
-!!! warning 
-    The Airbus A380s should not be taxiied onto either the Alpha, Bravo or Echo Aprons at any time, as these are not suitable for them. They may only enter Aprons Charlie and Delta.
-
-| Aprons | Restricted to |
-| :---------: | :---------: |
-| Alpha Apron | Code C (max 36m wingspan)
-| Bravo Apron | Code C (max 36m wingspan)
-| Echo Apron | Code B (max 24m wingspan)
-
-![alt text](restrictionmap.png)
 
 
 ## Pushback Procedures
 
 !!! note "Notes"
-    Aircraft pushing off Stand C2 will require to be pushed and then pulled back onto the Apron in order to line up with the centreline due to a lack of space with the terminal.
-
-    Some stands, such as those on the Charlie and Delta Aprons do not require a direction to be given, as there is only one real way to get out the apron.
-
-    Aircraft pushing off Stand A1 should be instructed to face West (06) or North (24), but never to the East, as there is insufficient room for them to do so.
+    Some stands, such as Stands 18-21 and Apron 2 do not require a direction to be given, as there is only one real way to get out the apron.
 
 **An aircraft must be squawking their assigned ASSR code provided in the clearance before pushback clearance is issued. If this is not the case, the SMC controller must instruct the pilot to do so BEFORE any push clearance is issued.**
 
+**Aircraft Push directions**
+
+| Apron | Type | Facing | Remarks |
+| :----: | :---: | :---: | :---: |
+| Apron 1 | Main Terminal / Remote | North or North-West or South or South-East | If Medium-Haul, taxiways K and M may be used. |
+| Apron 2 | Cargo | North-East |  |
+| Apron 3 | General Aviation | South-East | Only start-up will be needed in most cases. |
+
 !!! info "Pushback Phraseology"
-    "(callsign), push and start approved, QNH (QNH)."
+    "(callsign), push and start approved, facing (direction), QNH (QNH)."
 
 ## Taxi Procedures
 
 By default, all aircraft should be taxiied to the full length holding point unless otherwise requested by a pilot.
 
-During Runway 06 operations, only C and G may be used as departure points, and during Runway 24, only H and M may be used as departure points.
+During Runway 06 operations, only K may be used as a departure point, and during Runway 24, a full backtrack is required
 
-!!! info "Taxi Phraseology"
-    "(callsign), taxi to holding point C Runway 06 via F and A."
+!!! note "Taxi Phraseology"
+    "(callsign), taxi via J, G, K, hold short runway 06."
 
-### Runway 24 Hotspots
+### Entry and Exit Routing
+
+Nairobi operates with a single direction in-out system.
+
+!!! note "Apron 2"
+    Apron 2 uses a single taxiway in and out, coordinate entry and exit carefully.
+
+**Runway 06**
+
+| Apron | Taxiway In | Taxiway Out |
+| :---: | :---: | :---: |
+| Apron 1 | H and M(_by TWR_) | G and K |
+| Apron 2 | G | G |
+| Apron 3 | B and C | A |
+
+**Runway 24**
+
+| Apron | Taxiway In | Taxiway Out |
+| :---: | :---: | :---: |
+| Apron 1 | G and K | H and M(_by TWR_) |
+| Apron 2 | G | G |
+| Apron 3 | A | B and C |
+
+
+### Runway 06 Hotspots
 
 !!! warning
-    During Runway 24 operations, there is an increased chance of conflict with vacating aircraft at G, and taxiing aircraft to the holding point Runway 24.
-    In this case, it may be recommended for aircraft outbound to taxi via B to hold short of N in busy situations. 
+    During runway 06, operations, a hotspot exists at the intersection of taxiways G and K, in which ground conflicts may occur with aircraft from opposite directions approaching taxiway K. In this case, it is recommended that you should clear one aircraft at a time into K and give the other aircraft a hold short clearance and make use of conditional clearances.
+
+    In times of high traffic volume or in events, it is recommended that you handoff aircraft to Tower for sequencing at the intersection of G and K.
+
 
 ### Arriving Aircraft
-Upon arrival into King Shaka, inbound aircraft are to provide their aircraft registration (tail number) and their parking bay (stand number) that they desire. You must check that their requested stand is in compliance with the restrictions listed above. If so, then the aircraft can be instructed to taxi to the bay. If not, ask the pilot for a different stand, or feel free to assign one yourself.
+Upon arrival into Nairobi, inbound aircraft are to provide their parking bay (stand number) that they desire. You must check that their requested stand is in compliance with the restrictions listed above. If so, then the aircraft can be instructed to taxi to the bay. If not, ask the pilot for a different stand, or feel free to assign one yourself.
 
 !!! info "Pilot Reporting Bay Number"
-    SAA233: "SAA233, we are ZS-SZF looking for Bay A4."
+    KQA601: "KQA601, we are looking for Stand 9."
 
 !!! info "Taxiing to the Bay"
-    FALE_GND: "SAA233, thank you, taxi via A and F to the bay."
+    HKJK_GND: "KQA601, thank you, taxi via G and H to the Apron."
 
-## Other Rules
+### Other Rules
 
-No intersection take-offs between 2000 to 0400 LT.
+**Areas of Responsibility**
+
+Nairobi Apron (HKJK_GND), has differing areas of responsibility during runway 06 and runway 24 operations.
+
+During Runway 06 operations, Ground is responsible for surface movement on Apron 1, 2 and 3 in addition to taxiways A, B, C, G, H, J, K
+
+During Runway 24 operations, the area of responsibility of Nairobi Ground is restricted to the Aprons, together with a limited portion of their entry and exit taxiways.
+
+[//]: # Add AOR maps later
