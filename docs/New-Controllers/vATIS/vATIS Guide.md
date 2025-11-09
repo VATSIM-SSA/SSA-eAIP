@@ -33,7 +33,7 @@ Our resources page, where you can find the vATIS profiles for all of the South A
 
 - Open vATIS, press the 'Import' button then select the vATIS profile you have downloaded.
 - Once imported, double click on the profile to open it.
-![vATIS 1 - Importing a Profile](../img/vATIS-1.png)
+![vATIS 1 - Importing a Profile](../img/vATIS-1.png){ align=left }
 - Once in the profile, select on the airport you are controlling.
 - Open the presets dropdown, and select the optimal runway configuration.
 ![vATIS 5 - Selecting an Airport and Configuration](../img/vATIS-5.png)
@@ -47,7 +47,7 @@ Our resources page, where you can find the vATIS profiles for all of the South A
 ![vATIS 7 - Airport Conditions and NOTAMs](../img/vATIS-7.png)
 
 
-???+ info "Airport Conditions"
+??? info "Airport Conditions"
 
     Airport Conditions should be chosen on the current state of the airport. This can be dependent on Pilot Reports (PIREPS) or the METAR
     ![vATIS 10 - Airport Conditions](../img/vATIS-10.png)
@@ -55,20 +55,23 @@ Our resources page, where you can find the vATIS profiles for all of the South A
     ??? tip "VMC"
 
         **Text:** `EXP ZONE VMC.`
+
         **Voice:** `EXPECT ZONE V M C`
 
     ??? tip "IMC"
 
         **Text:** `EXP ZONE IMC.`
+
         **Voice:** `EXPECT ZONE EYE EM CEE`
 
     ??? tip "WINDSHEAR REPORTED"
 
         **Text:** `WINDSHEAR REPORTED`
+        
         **Voice:** `WINDSHEAR REPORTED`
 
 
-???+ info "NOTAMS"
+??? info "NOTAMS"
 
 
     ![vATIS 8 - NOTAMS Page 1](../img/vATIS-8.png)
@@ -77,81 +80,97 @@ Our resources page, where you can find the vATIS profiles for all of the South A
     ??? tip "@FAOR_DEL"
 
         **Text:** `CLEARANCE DELIVERY FREQUENCY 121 DECIMAL 7`
+
         **Voice:** `CLEARANCE DELIVERY FREQUENCY WUN TOO WUN DAY SEE MAL SEVEN`
 
     ??? tip "@FAOR_GND"
 
-        **Text:** `CLEARANCE DELIVERY FREQUENCY 121 DECIMAL 9`  
+        **Text:** `CLEARANCE DELIVERY FREQUENCY 121 DECIMAL 9`
+
         **Voice:** `CLEARANCE DELIVERY FREQUENCY WUN TOO WUN DAY SEE MAL NINER`
 
     ??? tip "@FAOR_TWR"
 
         **Text:** `CLEARANCE DELIVERY FREQUENCY 118 DECIMAL 1`
+
         **Voice:** `CLEARANCE DELIVERY FREQUENCY WUN WUN AIT DAY SEE MAL WUN`
 
     ??? tip "@FAOR_APP"
 
         **Text:** `CLEARANCE DELIVERY FREQUENCY 124 DECIMAL 5`
+
         **Voice:** `CLEARANCE DELIVERY FREQUENCY WUN TOO TREE DAY SEE MAL FIFE`
 
     ??? tip "@FAJA_CTR"
 
         **Text:** `CLEARANCE DELIVERY FREQUENCY 134 DECIMAL 4`
+
         **Voice:** `CLEARANCE DELIVERY FREQUENCY WUN TREE FOWER DAY SEE MAL FOWER`
 
     ??? tip "@FAJA_NW_CTR"
 
         **Text:** `CLEARANCE DELIVERY FREQUENCY 126 DECIMAL 7`
+
         **Voice:** `CLEARANCE DELIVERY FREQUENCY WUN TOO SIX DAY SEE MAL SEVEN`
 
     ??? tip "@FAJA_SW_CTR"
 
         **Text:** `CLEARANCE DELIVERY FREQUENCY 128 DECIMAL 3`
+
         **Voice:** `CLEARANCE DELIVERY FREQUENCY WUN TOO AIT DAY SEE MAL TREE`
 
     ??? tip "@FAJA_SE_CTR"
 
         **Text:** `CLEARANCE DELIVERY FREQUENCY 132 DECIMAL 150`
+
         **Voice:** `CLEARANCE DELIVERY FREQUENCY WUN TREE TOO DAY SEE MAL WUN FIFE ZERO`
 
     ??? tip "@FASA_CTR"
 
         **Text:** `CLEARANCE DELIVERY FREQUENCY 128.325`
+
         **Voice:** `CLEARANCE DELIVERY FREQUENCY WUN TOO AIT DAY SEE MAL TREE TOO FIFE`
 
     ??? tip "@666"
 
         **Text:** `RCR 6/6/6`
+
         **Voice:** `RUNWAY CONDITION REPORT SIX, SIX, SIX`
 
     ??? tip "@555"
 
         **Text:** `RCR 5/5/5`
+
         **Voice:** `RUNWAY CONDITION REPORT. FIVE, FIVE, FIVE`
 
     ??? tip "@444"
 
         **Text:** `RCR 4/4/4`
+
         **Voice:** `RUNWAY CONDITION REPORT. FOUR, FOUR, FOUR`
 
     ??? tip "@333"
 
         **Text:** `RCR 3/3/3`
+
         **Voice:** `RUNWAY CONDITION REPORT. THREE, THREE, THREE`
 
     ??? tip "@222"
 
         **Text:** `RCR 2/2/2`
+
         **Voice:** `RUNWAY CONDITION REPORT. TOO, TOO, TOO`
 
     ??? tip "@111"
 
         **Text:** `RCR 1/1/1`
+
         **Voice:** `RUNWAY CONDITION REPORT. FIVE, FIVE, FIVE`
 
     ??? tip "@000"
 
         **Text:** `RCR 0/0/0`
+
         **Voice:** `RUNWAY CONDITION REPORT. ZERO, ZERO, ZERO`
 
 Still having issues with vATIS? Feel free to ask for help in one of our channels in the VATSSA Discord server which can be found in the [VATSIM Community Server's](https://community.vatsim.net/)
