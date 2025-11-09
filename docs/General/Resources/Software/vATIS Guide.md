@@ -1,6 +1,6 @@
 # vATIS Guide
 
-![vATIS](../img/vATIS.png)
+![vATIS](img/vATIS.png)
 
 ## What is vATIS?
 vATIS is an easy-to-use ATIS solution designed specifically for the VATSIM Network. It offers a simple and intuitive interface that allows users to create and broadcast ATIS messages quickly and easily.
@@ -27,30 +27,31 @@ Our resources page, where you can find the vATIS profiles for all of the South A
   * Your VATSIM Password
   * Your Network Rating
 
-![vATIS Settings](../img/vATISSettings.png)
+![vATIS Settings](img/vATISSettings.png)
 
 ## Importing and Connecting an ATIS
 
 - Open vATIS, press the 'Import' button then select the vATIS profile you have downloaded.
 - Once imported, double click on the profile to open it.
-![vATIS 1 - Importing a Profile](../img/vATIS-1.png){ align=left }
+![vATIS 1 - Importing a Profile](img/vATIS-1.png)
+
 - Once in the profile, select on the airport you are controlling.
 - Open the presets dropdown, and select the optimal runway configuration.
-![vATIS 5 - Selecting an Airport and Configuration](../img/vATIS-5.png)
+![vATIS 5 - Selecting an Airport and Configuration](img/vATIS-5.png)
 - Once you have selected a preset, press the connect button the connect the ATIS to the VATISM network.
-![vATIS 6 - Connecting ATIS](../img/vATIS-6.png)
+![vATIS 6 - Connecting ATIS](img/vATIS-6.png)
 
 
 ## Airport Conditions and NOTAMS
 
 - Within VATSSA we utilise the vATIS Airport Conditions and NOTAMs features in our ATIS's. To select and choose any conditions that you may want, click on the AIRPORT CONDITION or NOTAMS text.
-![vATIS 7 - Airport Conditions and NOTAMs](../img/vATIS-7.png)
+![vATIS 7 - Airport Conditions and NOTAMs](img/vATIS-7.png)
 
 
 ??? info "Airport Conditions"
 
     Airport Conditions should be chosen on the current state of the airport. This can be dependent on Pilot Reports (PIREPS) or the METAR
-    ![vATIS 10 - Airport Conditions](../img/vATIS-10.png)
+    ![vATIS 10 - Airport Conditions](img/vATIS-10.png)
 
     ??? tip "VMC"
 
@@ -67,15 +68,15 @@ Our resources page, where you can find the vATIS profiles for all of the South A
     ??? tip "WINDSHEAR REPORTED"
 
         **Text:** `WINDSHEAR REPORTED`
-        
+
         **Voice:** `WINDSHEAR REPORTED`
 
 
 ??? info "NOTAMS"
 
 
-    ![vATIS 8 - NOTAMS Page 1](../img/vATIS-8.png)
-    ![vATIS 8 - NOTAMS Page 2](../img/vATIS-9.png)
+    ![vATIS 8 - NOTAMS Page 1](img/vATIS-8.png)
+    ![vATIS 8 - NOTAMS Page 2](img/vATIS-9.png)
 
     ??? tip "@FAOR_DEL"
 
