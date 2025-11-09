@@ -1,6 +1,6 @@
 # TrackAudio - Controller Guide
 
-![TrackAudio](TrackAudio.png)
+![TrackAudio](img/TrackAudio.png)
 
 ## What is TrackAudio?
 TrackAudio is a next generation Audio-For-VATSIM ATC Client for macOS, Linux and Windows.
@@ -23,23 +23,23 @@ Our resources page, where you can find the TrackAudio download link can be found
 - Set a Push-To-Talk (PTT) bind
 - Save your changes by pressing 'Close' on the bottom right
 
-![TrackAudio Settings](TrackAudioSettings.png)
+![TrackAudio Settings](img/TrackAudioSettings.png)
 
 
 ## Connecting and Transmitting on Frequency
 
 - Open TrackAudio, if setup correctly and connected to VATSIM you will see a green 'CONNECT' button.
-![Track Audio Controlling 4 - Connecting](TrackAudioControlling-4.png)
+![TrackAudio Controlling 4 - Connecting](img/TrackAudioControlling-4.png)
 - Once connected, you will see the position you have logged on as at the top. If your callsign is correct, then the frequencies will populate automatically.
 - Click 'TX' (transmit) to both recieve and transmit on the selected frequency.
 - Use your selected PTT button to transmit on the frequency.
-![Track Audio Controlling 5 - TX a Frequency](TrackAudioControlling-5.png)
+![TrackAudio Controlling 5 - TX a Frequency](img/TrackAudioControlling-5.png)
 
 
 ## Cross-Coupling Frequencies
 
 - To Cross-Couple (XC) a frequency, click on the XCA button of the frequencies you want to cross-couple.
-![TrackAudio Controlling 6 - Cross-Coupling Frequency](TrackAudioControlling-6.png)
+![TrackAudio Controlling 6 - Cross-Coupling Frequency](img/TrackAudioControlling-6.png)
 
 
 Still having issues with TrackAudio? Feel free to ask for help in one of our channels in the VATSSA Discord server which can be found in the [VATSIM Community Server's](https://community.vatsim.net/)

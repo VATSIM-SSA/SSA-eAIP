@@ -1,6 +1,6 @@
 # Overview
 
-![alt text](image.png)
+![New Controllers](img/New-Controllers.png)
 
 ## Purpose
 Welcome to the **New Controllers** section of the eAIP. This section is designed to help you get started with becoming a certified controller in the VATSSA region.

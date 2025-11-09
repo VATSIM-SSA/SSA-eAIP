@@ -1,6 +1,6 @@
 # Getting Started
 
-![alt text](starting.png)
+![Getting Started](img/Getting-Started.png)
 
 ## Signing Up
 Before signing up, members must first be a "home member" of the VATSSA Division. 
@@ -8,7 +8,7 @@ To check if you are a home member, head to https://my.vatsim.net/profile - and c
 
 **It must look like the image below.**
 
-![alt text](image-3.png)
+![my.vatsim Division Selection](img/Region-Division-Subdivision.png)
 
 Should it not match the image as above, this will mean you are not part of the VATSSA Division, and would need to transfer as a result should you wish to pursue training.
 
@@ -27,15 +27,15 @@ Now, you've navigated the first hurdle, you've joined VATSSA, and are now a Home
 
 To begin, head to the [VATSSA Website](https://vatssa.com/hq/welcome.php) - and then Navigate under Controllers -> Register for ATC Training
 
-![alt text](image-1.png)
+![Register for ATC Training](img/Controllers-Dropdown.png)
 
 Thereafter, select a Training Centre that you wish to train at. **Do not select Overland FSS, this is for C1+ controllers only.**
 
-![alt text](image-2.png)
+![Select Training Centre](img/Select-Training-Centre.png)
 
 Thereafter, for position, select Delivery / Ground.
 
-![alt text](image-4.png)
+![Selecting Position](img/Select-Position.png)
 
 Once that is all done, submit your request with the button! And now you have signed up. 
 If you haven't done so already, one crucial step is to join our Discord. This can be done via the [VATSIM Community Server](https://community.vatsim.net/)

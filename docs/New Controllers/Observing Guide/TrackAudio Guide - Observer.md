@@ -1,6 +1,6 @@
 # TrackAudio - Observer Guide
 
-![TrackAudio](TrackAudio.png)
+![TrackAudio](../img/TrackAudio.png)
 
 ## What is TrackAudio?
 TrackAudio is a next generation Audio-For-VATSIM ATC Client for macOS, Linux and Windows.
@@ -23,18 +23,16 @@ Our resources page, where you can find the TrackAudio download link can be found
 - Set a Push-To-Talk (PTT) bind
 - Save your changes by pressing 'Close' on the bottom right
 
-![TrackAudio Settings](TrackAudioSettings.png)
-
+![TrackAudio Settings](../img/TrackAudioSettings.png)
 
 ## Connecting and Listening to ATC
 
 - Open TrackAudio, if setup correctly and connected to VATSIM you will see a green 'CONNECT' button.
 - Once connected, press the `+` button to Add a Station.
-![TrackAudio Observing 2 - Adding a Station](TrackAudioObserving-2.png)
+![TrackAudio Observing 2 - Adding a Station](../img/TrackAudioObserving-2.png)
 - Type in the station you want to observe, in this case we have `FACT_GND`.
-![TrackAudio Observing 3 - Adding a Station](TrackAudioObserving-3.png)
+![TrackAudio Observing 3 - Adding a Station](../img/TrackAudioObserving-3.png)
 - Click 'RX' (receive) to listen in the frequency.
-![TrackAudio Observing 5 - RX a Frequency](TrackAudioObserving-5.png)
-
+![TrackAudio Observing 5 - RX a Frequency](../img/TrackAudioObserving-5.png)
 
 Still having issues with TrackAudio? Feel free to ask for help in one of our channels in the VATSSA Discord server which can be found in the [VATSIM Community Server's](https://community.vatsim.net/)
