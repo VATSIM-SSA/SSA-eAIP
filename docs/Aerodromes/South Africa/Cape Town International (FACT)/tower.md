@@ -84,7 +84,7 @@ For all VFR departures and arrivals, aircraft are to **climb to and maintain 150
     ZSABC, Runway 19 at Intersection E1, wind 180 degrees at 9 knots, cleared for takeoff, bye bye.
 
 ## HIRO
-If deemed necessary, HIRO will be in effect for landings into Runway 03R/21L. The aim is to expedite the flow of traffic to maximise efficiency and ensure the best arrival flow possible.
+If deemed necessary, HIRO will be in effect for landings into Runway 19/01. The aim is to expedite the flow of traffic to maximise efficiency and ensure the best arrival flow possible.
 
 An aircraft may be cleared to land provided that:
 
@@ -99,5 +99,6 @@ All aircraft are to comply with the standard missed approaches to avoid conflict
 
 !!! info "Missed Approach"
     EDW85, comply standard missed approach.
+
 
 Only once the pilot has been observed to be following the missed approach, should you then handoff to Cape Town Approach for further.
