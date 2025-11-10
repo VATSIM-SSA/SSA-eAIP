@@ -41,7 +41,8 @@ For all VFR departures and arrivals, aircraft are to **climb to and maintain 150
 | 19 | East | Bottleray 19 Departure | South of Bottleray Road (M23) | Exiting CTR |
 | 19 | West | Kenilworth 19 Departure | South of Guguletu Vlei | Exiting CTR |
 
-
+!!! info "Departure Clearence"
+    ZSABC, cleared to East london, comply with the standard Bottleray 19 Departure, squawk 7044.
 
 ### VFR Arrivals
 
@@ -51,6 +52,9 @@ For all VFR departures and arrivals, aircraft are to **climb to and maintain 150
 | 01 | West | Kenilworth 01 Arrival | South of Guguletu Vlei | Left Downwind |
 | 19 | East | Bottleray 19 Arrival | North of Bottleray Road (M23) | Left Downwind |
 | 19 | West | Kenilworth 19 Arrival | North of Guguletu Vlei | Right Downwind |
+
+!!! info "Arrival Clearence"
+    ZSABC, Information A, cleared inbound on the standard Kenilworth 19 Arrival, squawk 7044.
 
 ## Wake Seperation
 
@@ -102,3 +106,4 @@ All aircraft are to comply with the standard missed approaches to avoid conflict
 
 
 Only once the pilot has been observed to be following the missed approach, should you then handoff to Cape Town Approach for further.
+
