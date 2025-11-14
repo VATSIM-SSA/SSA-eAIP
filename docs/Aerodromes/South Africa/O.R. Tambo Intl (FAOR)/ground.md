@@ -108,7 +108,7 @@ At Johannesburg , the following stands can be used in conjuction with each other
      
 To help expedite the flow of traffic out of Johannesburg during busy operations, the SMC controller may ask the pilot if they are able for an intersection. For 03L, this will typically be I or L, for 21R this will typically be N. This should first be coordinated with TWR to avoid conflict.
 
-For Runway 03L, the SMC controller should only taxi aircraft as far as the CAT 2/3 Holding Points, before being handed off to TWR. The TWR West controller will be primary responsible for sequencing for departures. 
+**For Runway 03L, the SMC controller should only taxi aircraft as far as the CAT 2/3 Holding Points, before being handed off to TWR. The TWR West controller will be primary responsible for sequencing for departures. Aircraft are NOT to be taxiied to HP J.** 
 
 !!! warning "CAT 2 Hold 03L"
     The SMC controller should not send any aircraft to holding point J (west) without the prior approval of the TWR controller.

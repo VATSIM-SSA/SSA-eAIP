@@ -24,9 +24,43 @@ Cape Town does not have the required apron size nor taxiway surface to accommoda
 
 !!! info "VFR Phraseology"
     "BAW09P, Confirm you are able to keep clear of the Bonair A350 ahead of you?"
+
 ### Stand Restrictions
 
-### Taxiway and Apron Restrictions
+The best suited Code F stands are:
+
+- B17
+
+- B20
+
+- B23
+
+- B26
+
+- B29
+
+Controllers should issue these stands rather than any terminal ones.
+
+**MARS**
+
+MARS — Multiple Aircraft Ramp System — is an airport gate design that allows a single aircraft parking stand to accommodate more than one type or size of aircraft.
+
+At Cape Town, the following stands can be used in conjuction with each other, up to a maximum of Code C (max 36m wingspan) aircraft on them.
+| Stands | Blocks off Stand |
+| :---------: | :---------: |
+| B1 and B3 | B2 | 
+| B4 and B6 | B5 | 
+| B7 and B9 | B8 | 
+| B10 and B12 | B11 | 
+| B13 and B15 | B14 | 
+| B16 and B18 | B17 | 
+| B19 and B21 | B20 | 
+| B22 and B24 | B23 |
+| B25 and B27 | B26 |
+| B28 and B30 | B29 |
+
+![alt text](mars.png)
+
 
 ## Pushback Procedures
 
@@ -64,19 +98,18 @@ By default, all aircraft should be taxied to the full length holding point unles
 
 Code F aircraft may only use the main apron to access their assigned stand and not as a thoroughfare due to reduced wing-tip clearance. Code F aircraft will need to exit the apron by the shortest possible route and taxi along the runway, exit via runway 34 or M to access the departure end of the runway. 
 
-*Insert image of Code F taxi route*
 
 ### Non-movement Areas
 
 The H, T and Z apron are non-movement areas. No movement instructions may be issued to aircraft within these areas. Aircraft should be instructed to taxi at their discretion and hold short of the movement area. 
 
-*Insert Image highlighting non-movement areas*
+![alt text](image.png)
 
 ### Hotspots
 
 Precision approach holding points are established at A2, G2 D4 and B3. During low visibility procedures (LVP) aircraft are to be instructed to hold short of these holding points. If the aircraft does not read these back clearly or the controller is unsure, the controller should confirm with the aircraft.
 
-*Insert Image highlighting CAT2 holding points*
+![alt text](image-1.png)
 
 ### Arriving Aircraft
 Upon arrival into Cape Town, inbound aircraft are to provide their aircraft registration (tail number) and their parking bay (stand number) that they desire. You must check that their requested stand is in compliance with the restrictions listed above. If so, then the aircraft can be instructed to taxi to the bay. If not, ask the pilot for a different stand, or feel free to assign one yourself.
@@ -86,5 +119,3 @@ Upon arrival into Cape Town, inbound aircraft are to provide their aircraft regi
 
 !!! info "Taxiing to the Bay"
     FACT_GND: "SAA233, taxi via A and F to the bay.
-
-## Other Rules
