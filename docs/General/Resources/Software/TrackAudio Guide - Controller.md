@@ -12,7 +12,7 @@ Our resources page, where you can find the TrackAudio download link can be found
 
 !!! info "Observer Guide"
 
-    A guide for TrackAudio when observing on the network can be found [here](insertlink)
+    A guide for TrackAudio when observing on the network can be found [here](https://eaip2.vatssa.com/New-Controllers/Observing%20Guide/TrackAudio%20Guide%20-%20Observer/)
 
 ## Setting up TrackAudio
 

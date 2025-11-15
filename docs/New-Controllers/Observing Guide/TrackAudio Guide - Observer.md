@@ -11,7 +11,7 @@ Our resources page, where you can find the TrackAudio download link can be found
 
 !!! info "Controller Guide"
 
-    A guide for TrackAudio when controlling on the live network can be found [here](insertlink)
+    A guide for TrackAudio when controlling on the live network can be found [here](https://eaip2.vatssa.com/General/Resources/Software/TrackAudio%20Guide%20-%20Controller/)
 
 ## Setting up TrackAudio
 
