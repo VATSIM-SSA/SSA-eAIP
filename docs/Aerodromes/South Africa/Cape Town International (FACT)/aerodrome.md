@@ -67,3 +67,13 @@ The following table should only be to determine the Transition Level for Cape To
 | FACT_APP   | Cape Town Approach| 119.700   | - |
 | FACA_CTR   | Cape Town Area| 125.100   | - |
 
+## Operation of the ATIS
+Cape Town is one of three airports in South Africa which include RCAM (Runway Condition Assessment Matrix), displayed as RCR (VALUE) broadcasted in the ATIS. To set an RCAM value, in vATIS, click on the **NOTAMS** button to select an RCR value.
+
+FACT ATIS A 1300Z. EXP ZONE VMC. ARR RWY19 DEP RWY19. **RCR 5/5/5** . FACT STARS SUSPENDED, AIRCRAFT TO ROUTE TO CTV AFTER GETEN, ERDAS OR ASPIK. TRL FL085. WIND 180/28 GUST 39KTS. CAVOK . T22. DP14. QNH 1014HPA. NOSIG. CONFIRM ATIS A
+
+RCR should only be displayed in the ATIS once the RCR drops to a value of 5 or lower.
+
+If the RCAM value is 6, then this should not be displayed in the ATIS.
+
+![alt text](rcam.png)

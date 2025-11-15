@@ -42,3 +42,7 @@ The responsibility of Tower at Lanseria falls to the dedicated Tower ATS unit, "
 
 !!! info "Takeoff (Intersection)"
     ZSABC, Runway 07 at Intersection A3, wind 080 degrees at 9 knots, cleared for takeoff, bye bye.
+
+## Release
+!!! warning "Release"
+    All aircraft are subject to release from an overlying unit. If an overlying unit is online, Lanseria Tower is to obtain a release before issuing clearance for takeoff for any IFR departures.
