@@ -36,7 +36,7 @@ A map of all frequencies within the Sal FIR/UIR are as follows:
 ![alt text](Sal-Frequency-map.png)
 
 !!! Warning "GVSV_TWR Operations"
-    When "GVSV_TWR" is online they assume the APP Responsibilities within the CTR up to FL 105, within this airspace it is Class C and their callsign is "Soa Vicente Tower" and **NOT** "Sal Approach" even while working approach traffic [^1].
+    When "GVSV_TWR" is online they assume the APP Responsibilities within the CTR up to FL 105, within this airspace it is Class C and their callsign is "San Vicente Tower" and **NOT** "Sal Approach" even while working approach traffic [^1].
 
 [^1]:
     All information is found within publicly available resources, the information provided in this document should not be used outside of the "VATSIM" network, all the information in this document was found within the Sal AIP found [here.](https://eaip.asa.cv/2024-04-18-AIRAC/pdf/GV-aip-en-GB.pdf)

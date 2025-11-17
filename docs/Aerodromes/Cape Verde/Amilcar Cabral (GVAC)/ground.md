@@ -29,7 +29,7 @@ On all taxiways the largest aircraft that operate at GVAC IRL is the 787-800 ope
 ### Taxiway and Apron Restrictions
 
 !!! Warning 
-    All taxiways in the airport have a Width of 23 M, as a result any larger aircraft must be reminded of this and that it is taxi at their own risk and must maintain a good amount of spacial awairness
+    All taxiways in the airport have a Width of 23 M, as a result any larger aircraft must be reminded of this and that it is taxi at their own risk and must maintain a good amount of spatial awairness
 
     !!! Tip "Phraseology for A/C with a wingspan > 23 M"
         "TOM1VY, Runway 01 Taxi via E, B, A1, Caution Taxiway width"
