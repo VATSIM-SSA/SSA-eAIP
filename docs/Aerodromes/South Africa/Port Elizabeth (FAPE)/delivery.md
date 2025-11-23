@@ -3,16 +3,17 @@
 ## Route Validation
 
 !!! warning
-    All flights departing out of FAOR must have their route checked and be in compliance with the latest Route Matrix set out by the ATNS. The Route Matrix below has been provided for easy cross checking of flights.
+    All flights departing out of FAPE must have their route checked and be in compliance with the latest Route Matrix set out by the ATNS. The Route Matrix below has been provided for easy cross checking of flights.
 
-| Destination / FIR Exit | Routing                                 | Restrictions   | Remarks                                  |
+| Destination / FIR Exit| Routing                                 | Restrictions   | Remarks                                  |
 |-----------------------|-----------------------------------------|----------------|------------------------------------------|
+| FACT/FAYP             | OKRAV UQ49 ESRUK UQ51 GETEN             | *              | Q49 - FL200 TO FL245                     |
 | FAEL                  | PEV ETKON ELV                           | *              |                                          |
 | FAGG                  | OKRAV UQ49 GRV                          | *              |                                          |
 | FALA                  | PEV ITKIT UZ5 STV LIV                   | *              |                                          |
-| FALE                  | PEV ITKIT UQ30 IMLID UQ12 DUNSA         | *        | Q30 -FL200 TO FL245                           |
-| FAOR                  | ITKIT UZ5 AVILO                         | *          | Z5 - FL200 TO FL245 |
-| GAUTENG           | ITKIT UZ5 STV                           |                | FAGC / FAGM / FAWB / FAWK / FASK         |
+| FALE                  | PEV ITKIT UQ30 IMLID UQ12 DUNSA         | *              | Q30 - FL200 TO FL245                     |
+| FAOR                  | ITKIT UZ5 AVILO                         | *              | Z5 - FL200 TO FL245                      |
+| GAUTENG               | ITKIT UZ5 STV                           |                | FAGC / FAGM / FAWB / FAWK / FASK         |
 
 
 ## Departure Procedures
