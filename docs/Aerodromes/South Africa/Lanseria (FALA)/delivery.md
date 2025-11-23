@@ -11,7 +11,7 @@
 | Destination / FIR Exit | Routing                                       | Restrictions          | Remarks |
 |-------------------------|-----------------------------------------------|-----------------------|---------|
 | FABL              | GAV (U)W95 BLV                                   | *                     |         |
-| FACT/FAYP       | XAGEN UZ31 XALVA UQ23 CSV UZ26 ERDAS               | * / Z31               | FL200 TO FL245 |
+| FACT/FAYP       | XAGEN UZ31 XALVA UQ23 CSV UZ26 ERDAS               | *                     | Z31 - FL200 TO FL245 |
 | FAEL              | JSV GEROX UQ7 AXOXI ELV                          | *                     |         |
 | FAGG              | JSV HGV UZ16 NEVEN UQ9 XALIN GRV                 | *                     |         |
 | FAKM            | XAGEN UZ31 IMSIR KYV                               | *                     |         |
@@ -28,7 +28,7 @@
 
 Runway 08/26
 
-| Fix | SID | Initial Climb | Remarks |
+| Fix | SID/FIX | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
 | 07  | -         | RUNWAY HEADING                      | -  | 8000 ft     | - |
 | 07  | XAGEN     | LEFT TURN XAGEN                     | -  | 8000 ft     | - |
