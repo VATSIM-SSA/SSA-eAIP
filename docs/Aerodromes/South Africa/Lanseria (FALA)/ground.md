@@ -26,7 +26,12 @@ At Lanseria, filing a flight plan as VFR is not mandatory unlike Cape Town, so y
 ## Taxi Procedures
 
 !!! info "Taxi Phraseology"
-    "(callsign), taxi to holding point A4, via R and A".
+    "(callsign), taxi to holding point A4, via R and A"
+
+Note that there are two run-up bays for Runway 07 and 25.
+
+!!! info "Run up bay phraseology"
+    "(callsign), taxi to holding bay runway 25, via R and A, report ready in the bay"
 
 ## Arriving Aircraft
 Upon arrival into Lanseria, inbound aircraft are to provide their aircraft registration (tail number) and their parking bay (stand number) that they desire. The aircraft can be instructed to taxi to the bay.
