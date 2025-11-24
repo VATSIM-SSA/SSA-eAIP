@@ -7,16 +7,16 @@
 
 | Destination / FIR Exit | Routing                                              | Restrictions         | Remarks                  |
 | ---------------------- | ---------------------------------------------------- | -------------------- | ------------------------ |
-| EPSEK                  | TETAN UZ2 NIBEX EGMEN UQ2 EPSEK                      | OMDB                 |                          |
-| GWV                    | KODES UQ42 OKLOK UQ52 EGPOP VASUR UZ23 IMKUP UQ6 GWV | OMDB                 |                          |
-| GBV                    | KODES APKEK UQ61 SSV UQ59 ESPUV GBV                  | FBSK / OMDB / OMAA   |                          |
-| TEVAP                  | TETAN UZ39 BLV UZ36 TEVAP                            | FQVL / OMDB          |                          |
-| NEVAR                  | KODES UN186 NEVAR                                    | FYWH / FNLU / Europe |                          |
-| FQMA                   | TETAN UZ39 BLV UZ36 WRV UT949 TONKA VMA              | FQMA                 |                          |
-| UDLUM                  | KODES UZ30 UPV UT916 UDLUM                           | FVRG / FLHN          |                          |
-| UVGOD (AORRA)          | UVIKU UQ14 UVGOD                                     | Europe               | Q14 FL200 TO FL245       |
-| XUDAN / ABV            | IMSOM UVIKU UN188 XUDAN                              | FYWB / FAAB / Europe |                          |
-| XUDAN / ABV            | KODES UQ43 ABV UN188 XUDAN                           | FYWB / FAAB / Europe | Q43 FL200 TO FL245       |
+| EPSEK                  | TETAN UZ2 NIBEX EGMEN UQ2 EPSEK                      |                      | OMDB                     |
+| GWV                    | KODES UQ42 OKLOK UQ52 EGPOP VASUR UZ23 IMKUP UQ6 GWV |                      | OMDB                     |
+| GBV                    | KODES APKEK UQ61 SSV UQ59 ESPUV GBV                  |                      | FBSK / OMDB / OMAA       |
+| TEVAP                  | TETAN UZ39 BLV UZ36 TEVAP                            |                      | FQVL / OMDB              |
+| NEVAR                  | KODES UN186 NEVAR                                    |                      | FYWH / FNLU / Europe     |
+| FQMA                   | TETAN UZ39 BLV UZ36 WRV UT949 TONKA VMA              |                      | FQMA                     |
+| UDLUM                  | KODES UZ30 UPV UT916 UDLUM                           |                      | FVRG / FLHN              |
+| UVGOD (AORRA)          | UVIKU UQ14 UVGOD                                     |                      | Europe, Q14 FL200 TO FL245|
+| XUDAN / ABV            | IMSOM UVIKU UN188 XUDAN                              |                      | FYWB / FAAB / Europe     |
+| XUDAN / ABV            | KODES UQ43 ABV UN188 XUDAN                           |                      | FYWB / FAAB / Europe, Q43 FL200 TO FL245|
 | FABL                   | TETAN UZ39 BLV                                       |                      |                          |
 | FAEL                   | OKTED UQ12 XUGOL UZ13 ETKON ELV                      |                      | Q12 / Z13 FL200 TO FL245 |
 | FAGC                   | KODES UQ42 OKLOK UQ52 EGPOP LIV DCT                  | LIV (H)              |                          |
