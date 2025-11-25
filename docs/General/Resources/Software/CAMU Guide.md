@@ -120,7 +120,7 @@ If the aircraft calls prior to the ±5 minute window, shown in a ![Light Green](
 
 !!! info "Phraseology"
 
-    SAA304, TSAT 1155, hold position
+    SAA304, CTOT 1203, hold position
 
 !!! warning
 
