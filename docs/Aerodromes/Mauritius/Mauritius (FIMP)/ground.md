@@ -28,12 +28,12 @@ Whilst Mauritius is able to accomodate Code F aircraft (Airbus A380-800, Boeing 
 
 | Stands | Restricted To |
 | :---------: | :---------: |
-| A1 - A16 | Code C (max 36m wingspan) |
-| B1 - B9 | Code C (max 36m wingspan) |
-| C1, C3, C4, and C6 | Code C (max 36m wingspan) in MARS configuration. |
-| C2 and C5 | Code F (max 80m wingspan) |
-| D1, D3, D4, and D6 | Code C (max 36m wingspan) in MARS configuration. |
-| D2 and D5 | Code F (max 80m wingspan) | 
+| 1, 4, 5 | Code C (max 36m wingspan) |
+| 2, 3, 7-11, 13, 14 | Code E (max 65m wingspan) |
+| 12, 15, 16 | Code F (max 80m wingspan) |
+| 41, 42, 47, 48 | Code A (max 15m wingspan) |
+| 43, 46 | Code B (max 24m wingspan) | 
+| 44, 45 | Code C (max 36m wingspan) | 
 
 ### Taxiway and Apron Restrictions
 

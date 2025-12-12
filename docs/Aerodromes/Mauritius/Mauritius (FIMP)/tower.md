@@ -37,6 +37,16 @@ The responsibility of Tower at Mauritius falls to the dedicated Tower ATS unit, 
 | M     | 3 | 2 | ||
 | L     | 3 | 2 | 2 | |
 
+## Backtracking and Turning Pads
+
+Traffic departing on Runway 14 may require a backtrack to make use of the full runway length. The airport has two turning pads at the threshold of Runway 14, 
+  * Turning Pad No. 1 ("Starter Extension"), situated at the furthest end of the runway (TORA 3370m).
+  * Turning Pad No. 2, siuated at the threshold of Runway 14 (TORA 3040m)
+The runway has a displaced threshold between Turning Pad No. 1 and Turning Pad No. 2. Departures from both turning pads are considered to be full-length departures. 
+
+!!! info "Info"
+    Turning Pad No. 2 is not approved for use with Code F aircraft. Larger Code E aircraft (such as the Boeing 777-300/777-300ER series) are also encouraged to make use of the Starter Extension.  
+
 ## Takeoff Phraseology
 
 !!! info "Takeoff (Full Length)"
