@@ -6,7 +6,7 @@ The responsibility of Tower at Mauritius falls to the dedicated Tower ATS unit, 
 
 ## Visual Flight Rules (VFR) Aircraft
 
-  * There are no published VFR departure or arrival routings in and out of the Mauritius CTR. Traffic should instead be asked to report either leaving or entering the CTR, or via of the VRPs.
+  * There are no published VFR departure or arrival routings in and out of the Mauritius CTR. Traffic should instead be asked to report either leaving or entering the CTR.
   * Circuit altitude is 2000ft, with circuits away from the terminal building. Runway 14 (Left Hand), Runway 32 (Right Hand).
   * Controllers should avoid extending downwinds signicifantly to avoid terrain north-west of the field.
   * VFR traffic is not permitted if the cloud ceiling is below 1500ft or if the visibility is less than 5000m.
