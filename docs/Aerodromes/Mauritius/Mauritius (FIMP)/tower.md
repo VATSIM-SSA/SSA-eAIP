@@ -42,6 +42,7 @@ The responsibility of Tower at Mauritius falls to the dedicated Tower ATS unit, 
 Traffic departing on Runway 14 may require a backtrack to make use of the full runway length. The airport has two turning pads at the threshold of Runway 14, 
   * Turning Pad No. 1 ("Starter Extension"), situated at the furthest end of the runway (TORA 3370m).
   * Turning Pad No. 2, siuated at the threshold of Runway 14 (TORA 3040m)
+
 The runway has a displaced threshold between Turning Pad No. 1 and Turning Pad No. 2. Departures from both turning pads are considered to be full-length departures. 
 
 !!! info "Info"
