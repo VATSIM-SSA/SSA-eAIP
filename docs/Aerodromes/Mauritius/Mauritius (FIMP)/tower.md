@@ -2,7 +2,7 @@
 The responsibility of Tower at Mauritius falls to the dedicated Tower ATS unit, "Mauritius Tower" (FIMP_TWR) on 119.100. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Mauritius CTR from GND - 3500ft MSL.
 
 !!! note
-    Departure handoffs go directly to Mauritius Centre (FIMP_CTR) or (FIMP_FSS) but not Mauritius Approach even when online.
+    Departure handoffs go to Mauritius Approach (FIMP_APP) on frequency 119.100
 
 ## Visual Flight Rules (VFR) Aircraft
 
