@@ -65,8 +65,7 @@ Runway 21R
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
 | RAGUL | RAGUL1D | FL90 | - |
-| GEROX | GEROX1C | 8000ft | - |
-| APDAK, EGMEN, EXOBI, GAV, HGV, LIV, OVALA, VASUR | RWY TRK | 8000ft | - |
+| APDAK, EGMEN, EXOBI, GAV, HGV, LIV, OVALA, VASUR, GEROX | RWY TRK | 8000ft | - |
 
 Runway 21L
 
