@@ -6,7 +6,7 @@
   
     |   RUNWAY 01   |   RUNWAY 19   |   RUNWAY 16   |   RUNWAY 34   |
     | :-----------: | :-----------: | :-----------: | :-----------: |
-    |IMSOM1A        |IMSOM1B        |---            |---            |
+    |~IMSOM1A~      |IMSOM1B        |---            |---            |
     |KODES1A        |OKTED1B        |               |               |
     |---            |OKTED1C        |               |               |
     |               |TETAN1A        |               |               |
