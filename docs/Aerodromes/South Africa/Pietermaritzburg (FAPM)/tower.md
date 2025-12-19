@@ -1,5 +1,5 @@
 # Tower
-The responsibility of Tower at Pietermaritzburg falls to the dedicated Tower ATS unit, "Pietermaritzburg Tower" (FAPE_TWR) on 122.000. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Pietermaritzburg CTR from GND - 6500ft MSL.
+The responsibility of Tower at Pietermaritzburg falls to the dedicated Tower ATS unit, "Pietermaritzburg Tower" (FAPM_TWR) on 122.000. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Pietermaritzburg CTR from GND - 6500ft MSL.
 
 !!! note
     As the frequency for departure is already handed in the IFR clearance, handoffs to the next ATS unit (Durban Approach) is not required with departing aircraft.
