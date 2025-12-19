@@ -32,10 +32,10 @@ At Kimberley, filing a flight plan as VFR is not mandatory unlike Cape Town, so 
     "(callsign), taxi to holding point A4, via R and A".
 
 ## Arriving Aircraft
-Upon arrival into Lanseria, inbound aircraft are to provide their aircraft registration (tail number) and their parking bay (stand number) that they desire. The aircraft can be instructed to taxi to the bay.
+Upon arrival into Kimberley, inbound aircraft are to provide their aircraft registration (tail number) and their parking bay (stand number) that they desire. The aircraft can be instructed to taxi to the bay.
 
 !!! info "Pilot Reporting Bay Number"
     SAA233: "SAA233, we are ZS-SZF looking for Bay B7."
 
 !!! info "Taxiing to the Bay"
-    FALA_GND: "SAA233, thank you, taxi via to the bay."
+    FAKM_TWR: "SAA233, thank you, taxi via to the bay."
