@@ -34,17 +34,13 @@ Runway 06
 
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| GYV | ~~GYV1A~~ | FL70 | "GYV" said as Greytown. |
-| ITMIL | ~~ITMIL1C~~ | FL70 | - |
-| TUBIN | ~~TUBIN1A~~ | FL70 | - |
+| GYV, ITMIL, TUBIN | RW TRACK | FL70 | |
 
 Runway 24
 
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| GYV | ~~GYV2B~~ | FL70 | "GYV" said as Greytown.~~|
-| ITMIL | ~~OKTAN1A~~ | FL70 | - |
-| TUBIN | ~~TUBIN1B~~ | FL70 | - |
+| GYV, ITMIL, TUBIN | RW TRACK | FL70 | |
 
 ## Phraseology
 

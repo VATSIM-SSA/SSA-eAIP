@@ -8,8 +8,6 @@ Arrival clearances for FAJA airports are issued by the first FAJA ATS unit that 
 
 For flights flying to O.R. Tambo Intl (FAOR), either flying from an airport in the Durban Region, from Maseru or otherwise, then FAJA_E will be the unit to issue the arrival clearance into O.R. Tambo.
 
-As of 25/08/2025, the STV arrivals are no longer in effect for FAOR. However, as STV still remains a waypoint on the UZ29 airway, aircraft will instead need to be taken off the airway to be routed to "UNPOM" to join the arrival.
-
 In some cases, most commonly during Runway 21 operations at FAOR, aircraft terminating at AVILO may be routed thereafter to UNPOM to join the arrival from UNPOM instead.
 
 When giving the arrival clearance, the aircraft should first be cleared inbound into the sector at their current level, before being passed a STAR, landing runway, and ATIS code in range.
