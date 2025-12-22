@@ -46,11 +46,11 @@ The information presented reflects procedures in common operational use and is p
     |~~APDAK3A~~        |               |~~APDAK2B~~        |               |
     |~~EGMEN1C~~        |               |~~EGMEN1D~~        |               |
     |~~EGMEN2A~~        |               |~~EGMEN2B~~        |               |
-    |~~EXOBI1A~~        |~~EXOBI1A~~        |~~EXOBI3B~~        |~~EXOBI3B~~        |
+    |EXOBI1A        |EXOBI1A        |~~EXOBI3B~~        |~~EXOBI3B~~        |
     |~~GAV5B~~          |~~GAV5B~~          |~~GAV6C~~          |               |
     |~~NESAN1A~~        |~~NESAN1A~~        |~~GEROX1C~~        |               |
-    |~~RAGUL3A~~        |~~RAGUL3A~~        |~~HGV5D~~          |~~HGV5D~~          |
-    |~~VASUR3A~~        |~~VASUR3A~~        |~~LIV1C~~          |               |
+    |RAGUL3A        |RAGUL3A        |~~HGV5D~~          |~~HGV5D~~          |
+    |VASUR3A        |VASUR3A        |~~LIV1C~~          |               |
     |---            |---            |~~OVALA1B~~        |~~OVALA1B~~        |
     |               |               |~~RAGUL1D~~        |               |
     |               |               |~~VASUR3B~~        |~~VASUR3B~~        |
@@ -60,8 +60,8 @@ The information presented reflects procedures in common operational use and is p
     | RUNWAY 03L/R  | RUNWAY 21L/R  |
     | :-----------: | :-----------: |
     |AVAGO1C        |AVAGO1D        |
-    |~~AVILO1A~~       |NIBEX1D        |
-    |~~AVILO1B~~        |OKPIT1D        |
+    |AVILO1A       |NIBEX1D        |
+    |AVILO1B        |OKPIT1D        |
     |NIBEX1B        |UNPOM1B        |
     |OKPIT1C        |---            |
     |UNPOM1A        |               |
