@@ -57,7 +57,7 @@ The initial climb at Saint-Denis Roland Garros is 3000ft for RNP SIDs and 11000f
 **Similar to Mauritius, the Réunion TMA is operated procedurally. This means that no squawks are issued with the IFR clearance. Pilots are expected to squawk 2000 when departing from Saint-Denis Roland Garros.**
 
 !!! info 
-    "Pilots often expect to hear a squawk with the IFR clearance. Pilots shall therefore be notified that the Réunion TMA is operated procedurally and that they are expected to squawk 2000."
+    Pilots often expect to hear a squawk with the IFR clearance. Pilots shall therefore be notified that the Réunion TMA is operated procedurally and that they are expected to squawk 2000.
 
 - "REU276, Roland Garros Ground, cleared to Dzaoudzi, departure UNKIK2J, runway 14, initial climb 3000ft."
 - "MRU239, Roland Garros Ground, cleared to Mauritius, departure UNKIK2M, runway 32, initial climb 3000ft."
