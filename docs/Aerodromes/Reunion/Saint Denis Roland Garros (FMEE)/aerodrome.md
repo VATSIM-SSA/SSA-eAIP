@@ -1,5 +1,5 @@
 # Aerodrome Data
-The Saint Denis Roland Garros International Airport is the primary International airport serving the island of Réunion, a part of the French Overseas Territory.
+The Saint Denis Roland Garros International Airport is the primary International airport serving the island of Réunion, a part of the French Overseas Territory. The airport is named after famed French aviator Roland Garros, born on the island of Réunion. 
 
 ## Aerodrome Details
 
