@@ -36,11 +36,12 @@ The Saint-Denis CTR is controlled by the dedicated ATS unit, "Roland Garros Towe
 
 ![alt text](vrp.png)
 
+
 !!! info "Circuit Clearance"
-    FOREU, hold position, after departure Runway 14, left hand circuits, not above 900ft, report left downwind Runway 12.
+    FOREU, hold position, after departure Runway 12, left hand circuits, not above 900ft, report left downwind Runway 12.
 
 !!! info "Exit Clearance"
-    FOREU, hold position, after departure Runway 14, cleared to leave the control zone to the south, not above 2000ft report overhead reporting point S1.
+    FOREU, hold position, after departure Runway 12, cleared to leave the control zone to the south, not above 2000ft report overhead reporting point S1.
 
 ## Wake Seperation
 
