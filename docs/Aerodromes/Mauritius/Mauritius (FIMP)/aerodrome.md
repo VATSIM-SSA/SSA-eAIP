@@ -3,7 +3,7 @@ Sir Seewoosagur Ramgoolam International Airport is the primary international air
 
 ## Aerodrome Details
 
-|  Durban King Shaka    |                           |
+|  Sir Sewoosagur Ramgoolam    |                           |
 | :---------: | :----------------------------------: |
 | ICAO | FIMP |
 | IATA | MRU |
