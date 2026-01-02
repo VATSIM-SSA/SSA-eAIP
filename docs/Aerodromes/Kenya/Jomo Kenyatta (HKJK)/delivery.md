@@ -41,59 +41,65 @@ Due to the many procedures at HKJK, only the following SIDs should be used durin
 (M) = Medium
 (H) = Heavy
 
-Runway 06
-  * APKUB - APKUB1A
-  * APLOG - APLOG2B
-  * EVATO - EVATO1X
-  * EVOGO - ATUDU1DxEVOGO
-  * GABSO - GABSO1Y (H) or GABSO1Z (M)
-  * IBROM - ATUDU1DxIBROM
-  * KAMAS - KAMAS1Y (M) or ETORU1AxKAMAS (H)
-  * KIMET - ETORU1AxKIMET
-  * LOSIN - ATUDU1DxLOSIN
-  * LOTAS - ETORU1AxLOTAS or LOTAS1Z (but not both)
-  * MAGAD - RWY HDG
-  * NAK - LANET2B
-  * NAKAT - NAKAT4B
-  * NORVU - ATUDU1DxNORVU
-  * PARIN - PARIN4B
-  * UTATA - ATUDU1DxUTATA
-  * UTERA - UTERA1A
-  * UVOVA - ATUDU1DxUVOVA
-  * WAV - ATUDU1DxWAV
+### Runway 06
 
-Runway 24
-  * APKUB - IBRAT3ExAPKUB
-  * APLOG - IBRAT3ExAPLOG
-  * EVATO - EVATO1U
-  * EVOGO - APNOM2ExEVOGO
-  * GABSO - APNOM2ExGABSO
-  * IBROM - APNOM2ExIBROM
-  * KAMAS - IBRAT3ExKAMAS
-  * KIMET - IBRAT3ExKIMET
-  * LOTAS - IBRAT3ExLOTAS
-  * LOSIN - APNOM2ExLOSIN
-  * MAGAD - IBRAT3ExMAGAD
-  * NAK - IBRAT3ExNAK
-  * NAKAT - IBRAT3ExNAKAT
-  * NORVU - APNOM2ExNORVU
-  * PARIN - IBRAT3ExPARIN
-  * TEVIN - APNOM2ExTEVIN
-  * UTATA - APNOM2ExUTATA
-  * UTERA - IBRAT3ExUTERA
-  * UVOVA - APNOM2ExUVOVA
+| Waypoint  | Procedure(s) |
+|-----------|--------------|
+| **APKUB** | `APKUB1A` |
+| **APLOG** | `APLOG2B` |
+| **EVATO** | `EVATO1X` |
+| **EVOGO** | `ATUDU1D X EVOGO` |
+| **GABSO** | `GABSO1Y (H)` or `GABSO1Z (M)` |
+| **IBROM** | `ATUDU1D X IBROM` |
+| **KAMAS** | `KAMAS1Y (M)` or `ETORU1A X KAMAS (H)` |
+| **KIMET** | `ETORU1A X KIMET` |
+| **LOSIN** | `ATUDU1D X LOSIN` |
+| **LOTAS** | `ETORU1A X LOTAS` or `LOTAS1Z` _(but not both)_ |
+| **MAGAD** | _RWY HDG_ |
+| **NAK**   | `LANET2B` |
+| **NAKAT** | `NAKAT4B` |
+| **NORVU** | `ATUDU1D X NORVU` |
+| **PARIN** | `PARIN4B` |
+| **UTATA** | `ATUDU1D X UTATA` |
+| **UTERA** | `UTERA1A` |
+| **UVOVA** | `ATUDU1D X UVOVA` |
+| **WAV**   | `ATUDU1D X WAV` |
+
+
+### Runway 24
+
+| Waypoint | Procedure(s) |
+|-----------|--------------|
+| **APKUB** | `IBRAT3E X APKUB` |
+| **APLOG** | `IBRAT3E X APLOG` |
+| **EVATO** | `EVATO1U` |
+| **EVOGO** | `APNOM2E X EVOGO` |
+| **GABSO** | `APNOM2E X GABSO` |
+| **IBROM** | `APNOM2E X IBROM` |
+| **KAMAS** | `IBRAT3E X KAMAS` |
+| **KIMET** | `IBRAT3E X KIMET` |
+| **LOTAS** | `IBRAT3E X LOTAS` |
+| **LOSIN** | `APNOM2E X LOSIN` |
+| **MAGAD** | `IBRAT3E X MAGAD` |
+| **NAK** | `IBRAT3E X NAK` |
+| **NAKAT** | `IBRAT3E X NAKAT` |
+| **NORVU** | `APNOM2E X NORVU` |
+| **PARIN** | `IBRAT3E X PARIN` |
+| **TEVIN** | `APNOM2E X TEVIN` |
+| **UTATA** | `APNOM2E X UTATA` |
+| **UTERA** | `IBRAT3E X UTERA` |
+| **UVOVA** | `APNOM2E X UVOVA` |
+
 
 ## Phraseology
 
-**The passing altitude to be issued in clearances is 2500ft.**
-
 SID + Transition
 !!! info "Delivery Phraseology"
-    "(callsign), cleared to (destination), (SID) departure via the(transition) transition, climb initially (FL), request level change enroute, squawk (squawk)."
+    "(callsign), cleared to (destination), via the (SID) (transition) transition, climb initially (FL), squawk (squawk)."
 
 SID
 !!! info "Delivery Phraseology"
-    "(callsign), cleared to (destination), (SID) departure, climb initially (FL), request level change enroute, squawk (squawk)."
+    "(callsign), cleared to (destination), via the (SID), climb initially (FL), squawk (squawk)."
 
 RWY Heading
 
