@@ -79,15 +79,13 @@ x = Transition
 
 ## Phraseology
 
-**The passing altitude to be issued in clearances is 2500ft.**
-
 SID + Transition
 !!! info "Delivery Phraseology"
-    "(callsign), cleared to (destination), (SID) departure via the(transition) transition, climb initially (FL), request level change enroute, squawk (squawk)."
+    "(callsign), cleared to (destination), (SID) departure via the(transition) transition, climb initially (FL), squawk (squawk)."
 
 SID
 !!! info "Delivery Phraseology"
-    "(callsign), cleared to (destination), (SID) departure, climb initially (FL), request level change enroute, squawk (squawk)."
+    "(callsign), cleared to (destination), (SID) departure, climb initially (FL), squawk (squawk)."
 
 RWY Heading
 
