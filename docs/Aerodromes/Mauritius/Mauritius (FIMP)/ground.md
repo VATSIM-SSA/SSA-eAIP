@@ -118,7 +118,7 @@ TWY N, F and A
 
 - Landing aircraft on RWY 14 shall exit via TWY C or D or E as specified by ATC and follow ATC instructions to their respective parking.
 
-- Aircraft should avoid J due to real world operations. FIMP Airport uses J primarily for Category A aircraft.
+- Taxiway J is primarily used for Category A aircraft, other aircraft should avoid Taxiway J
 
 **Stands 7, 8, 9, 10, 11**
 
