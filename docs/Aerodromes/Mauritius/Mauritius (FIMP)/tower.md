@@ -71,10 +71,15 @@ The runway has a displaced threshold between Turning Pad No. 1 and Turning Pad N
 ## Takeoff Phraseology
 
 !!! info "Takeoff (Full Length)"
-    3BMRU, Runway 14, wind 080 degrees at 9 knots, cleared for takeoff.
+    3BMRU, Runway 14, wind 080 degrees at 9 knots, cleared for takeoff report airborne.
 
 !!! info "Takeoff (Intersection)"
-    3BMRU, Intersection A Runway 14, wind 080 degrees at 9 knots, cleared for takeoff.
+    3BMRU, Intersection A Runway 14, wind 080 degrees at 9 knots, cleared for takeoff, report airborne.
+    
+!!! info "Handoff"
+    3BMRU, Contact Mauritius Approach 119.100.
+    
+    
 
 ## Landing Phraseology
 
