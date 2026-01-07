@@ -70,13 +70,25 @@ The runway has a displaced threshold between Turning Pad No. 1 and Turning Pad N
 
 ## Takeoff Phraseology
 
+!!! note
+    Once airborne all aircraft leaving the CTR need to be handed off to Mauritius Approach 119.100. There is no auto handoff at Mauritius.
+    
 !!! info "Takeoff (Full Length)"
     3BMRU, Runway 14, wind 080 degrees at 9 knots, cleared for takeoff.
 
 !!! info "Takeoff (Intersection)"
     3BMRU, Intersection A Runway 14, wind 080 degrees at 9 knots, cleared for takeoff.
 
+!!! info "Handoff"
+    3BMRU, Contact Mauritius Approach 119.100.
+ 
 ## Landing Phraseology
+
+!!! note 
+    All aircraft will be handed off by Mauritius Approach at BIGAR
+
+!!! info "Approach"
+    3BMRU, QNHXXX, report 4 miles runway 14
 
 !!! info "Landing"
     3BMRU, Runway 14, wind 080 degrees 9 knots, cleared to land.
