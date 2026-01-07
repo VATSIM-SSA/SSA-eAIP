@@ -34,6 +34,7 @@ Whilst Mauritius is able to accomodate Code F aircraft (Airbus A380-800, Boeing 
 | 41, 42, 47, 48 | Code A (max 15m wingspan) |
 | 43, 46 | Code B (max 24m wingspan) | 
 | 44, 45 | Code C (max 36m wingspan) | 
+| Taxiways H, Y, F and P | Code F (max 80m wingspan) |
 
 ### Taxiway and Apron Restrictions
 
@@ -113,7 +114,34 @@ TWY N, G, Y, F and A
 **or**
 TWY N, F and A
 
+**GA Apron**
+
+- The GA Apron is located East of the Terminal
+
+  Taxi via K, Y , F and A
+  
 ### Arrivals
 
 - Landing aircraft on RWY 14 shall exit via TWY C or D or E as specified by ATC and follow ATC instructions to their respective parking.
 
+- Landing aircraft on RWY 14 shall exit via TWY C or D or E as specified by ATC and follow ATC instructions to their respective parking.
+
+- Aircraft should avoid J due to real world operations. FIMP Airport uses J primarily for Category A aircraft.
+
+**Stands 7, 8, 9, 10, 11**
+
+- Proceed via Y, H or G and N
+
+**Stand 12, 15, or 16 (Code F)**
+
+- Procced via Y, H and P
+
+**Stand 12, 13, 14, 15, 16 (Code E and Below)**
+
+- Procced via Y, H and P
+
+**GA Apron**
+
+- The GA Apron is located East of the Terminal
+
+  Taxi via Y and K
