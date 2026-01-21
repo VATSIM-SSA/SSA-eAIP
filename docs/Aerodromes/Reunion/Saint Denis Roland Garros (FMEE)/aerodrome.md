@@ -6,7 +6,7 @@ The Saint Denis Roland Garros International Airport is the primary International
 |  Saint Denis Roland Garros   | |
 | :---------: | :----------------------------------: |
 | ICAO | FMEE |
-| IATA | REU |
+| IATA | RUN |
 | Elevation | 66ft |
 | Transition Altitude | 12000ft |
 | Transition Level | by ATC (see TL table) |
