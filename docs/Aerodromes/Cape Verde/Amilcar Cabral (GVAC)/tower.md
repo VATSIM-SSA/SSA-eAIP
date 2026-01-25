@@ -2,7 +2,7 @@
 Amilcabral Tower is the main position that should be used at GVAC when online they operate of the frequency of 119.700, when online they assume the responsibilities of GND and DEL when offline (Prior permission required), they control a 5NM airspace around the GVAC airport.
 
 !!! Warning
-    S1 controllers are permitted to connect to TWR after they have completed S2 theory exam.
+    S1 controllers are permitted to connect to TWR after they have completed S2 theory exam and received the relevant approvals.
 
 ## Visual Flight Rules (VFR) Aircraft
 
