@@ -2,7 +2,7 @@
 Amilcabral Tower is the main position that should be used at GVNP when online they operate of the frequency of 119.700, when online they assume the responsibilities of DEL when offline (Prior permission required), they control The entire GVNP CTR up to 3500 feet, there after APP covers traffic so coordination will be required.
 
 !!! Warning
-    S1 controllers are permitted to connect to TWR after they have completed S2 theory exam.
+    S1 controllers are permitted to connect to TWR after they have completed S2 theory exam and received the relevant approvals. 
 
 ## Visual Flight Rules (VFR) Aircraft
 
