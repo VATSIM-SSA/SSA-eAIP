@@ -27,12 +27,12 @@ The responsibility of Tower at Cape Town falls to the dedicated Tower ATS unit, 
 ### VFR Runway 01 Departures / Arrivals
 
 | Departure | Report Point |
-| --------- | | --------- |
+| --------- |  --------- |
 | Kenilworth 01 | North of Kenilworth Race Course |
 | Bottlehary 01 | Abeam the Bottlehary Hills |
 
 | Arrival | Report Point |
-| --------- | | --------- |
+| --------- |  --------- |
 | Kenilworth 01 | Left Downwind Runway 01 |
 | Bottlehary 01 | Non Standard Right Downwind Runway 01 |
 
@@ -43,12 +43,12 @@ The responsibility of Tower at Cape Town falls to the dedicated Tower ATS unit, 
 ![alt text](image-4.png)
 
 | Departure | Report Point |
-| --------- | | --------- |
+| --------- |  --------- |
 | Kenilworth 19 | South of Kenilworth Race Course |
 | Bottlehary 19 | Abeam the Bottlehary Hills |
 
 | Arrival | Report Point |
-| --------- | | --------- |
+| --------- |  --------- |
 | Kenilworth 01 | Non Standard Right Downwind Runway 01 |
 | Bottlehary 01 | Left Downwind Runway 01 |
 
