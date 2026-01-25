@@ -13,7 +13,7 @@
 | FABL (All)               | HGV UZ16 NEVEN UQ9 NIDIG UZ36 BLV          | Runway 21             |                                  |
 | FABL (Jet)               | APDAK NEVEN UQ9 NIDIG UZ36 BLV             | Runway 03             |                                  |
 | FABL (Turboprop)         | GAV U/W95 BLV                              | Runway 03             |                                  |
-| FACT                     | RAGUL (GAV UTEBA) UQ10 DUMDO DCT ERDAS      | Turboprop      | Q10 - FL200 TO FL245                   |
+| FACT                     | RAGUL (GAV UTEBA) UQ10 CSV UZ26 ERDAS      | Turboprop      | Q10 - FL200 TO FL245                   |
 | FAEL                     | APDAK (GEROX) UQ7 AXOXI ELV                | Runway 21        | Q7 - FL200 TO FL245                   |
 | FAGG                     | OVALA UZ18 (HGV UZ16) NEVEN UQ9 XALIN GRV  | Runway 21      | Q9 - FL200 TO FL245                   |
 | FAHS                     | EGMEN ANVIT HSV                            | *                     |                                  |
