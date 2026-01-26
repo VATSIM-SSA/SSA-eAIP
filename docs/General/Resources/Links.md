@@ -28,4 +28,4 @@
 ## Letters of Agreement
 
 - [:link: HKJK-HTDA [Internal: ACCRAC]](https://vatssa.com/hq/policies/LOA_Int_HKJK_HTDA_202201.pdf)
-- [:link: Saint Helena (FHSH) [External: VATSSA-VATSIM UK]](https://vatssa.com/hq/policies/LOA_Int_HKJK_HTDA_202201.pdf)
+- [:link: Saint Helena (FHSH) [External: VATSSA-VATSIM UK]](https://vatssa.com/hq/policies/LOA_Ext_FHSH_202201.pdf)
