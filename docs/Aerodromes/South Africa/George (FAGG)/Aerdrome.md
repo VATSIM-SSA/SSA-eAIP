@@ -58,8 +58,8 @@ The following table should only be to determine the Transition Level for George 
 | :---------: | :---------: | :---------: | :---------: |
 | FAGG_ATIS   | George ATIS     | 126.225   | -                   |
 | FAGG_GND    | George Apron    | 122.650   | -                   |
-| FAOR_TWR    | Port Elizabeth Tower    | 118.100   | -                   |
-| FAOR_APP    | Port Elizabeth Approach  | 120.400   | -                   |
-| FACA_E_CTR    | Cape Town Area     | 124.700   | - |
+| FAGG_TWR    | George Tower    | 118.900   | -                   |
+| FAGG_APP    | George Approach  | 122.650  | -                   |
+| FACA_E_CTR  | Cape Town Area     | 124.700   | - |
 | FACA_CTR    | Cape Town Area     | 125.100   | - |
 
