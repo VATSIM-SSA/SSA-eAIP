@@ -2,6 +2,8 @@
 
 The responsibility of Tower at Accra Kotoka falls to the dedicated Tower ATS unit, "Accra Tower" (DGAA_TWR) on 118.600. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Accra CTR from GND - 3000ft MSL.
 
+!!! note The Accra CTR airspace is designated as Class D, which means that separation services cannot not provided to VFR traffic.
+
 ## Runway Selection
 * Since Runway 21 is the only runway with a published precision approach procedure (ILS LOC), it is preferred for operations at the Accra Kotoka airport.
 * Runway 03 should only be used if the usage of Runway 21 is with a significant tailwind component (more than 5kts).
