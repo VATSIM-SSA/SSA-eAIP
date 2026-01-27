@@ -9,10 +9,10 @@ The responsibility of Tower at George falls to the dedicated Tower ATS unit, "Ge
   * There is no set direction for circuits. The Tower controller may select either left hand or right hand circuits.
 
 !!! info "Circuit Clearance"
-    "ZSABC, hold position, after departure Runway 11, left hand circuits, not above altitude 1500ft, report left downwind Runway 11."
+    "ZSABC, hold position, after departure Runway 11, cleared left hand circuits, not above altitude 1500ft, report left downwind Runway 11."
     
 !!! info "Circuit Clearance"
-    "ZSABC, hold position, after departure Runway 29, right hand circuits, not above altitude 1500ft, report right downwind Runway 29."
+    "ZSABC, hold position, after departure Runway 29, cleared right hand circuits, not above altitude 1500ft, report right downwind Runway 29."
 
 ### VRP Map
 
