@@ -1,5 +1,4 @@
 # Ground
-
 The responsibility of SMC at George falls to the dedicated Ground ATS unit, "George Apron" (FAGG_GND) on 122.650 MHz. SMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. SMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway.
 
 ## Visual Flight Rules (VFR) Aircraft.
