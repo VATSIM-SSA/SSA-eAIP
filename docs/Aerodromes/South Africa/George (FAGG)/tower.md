@@ -61,7 +61,7 @@ The responsibility of Tower at George falls to the dedicated Tower ATS unit, "Ge
 | Fancourt 11 / 29 | Fancourt | 1700 ft |
 
 !!! info "Entry Clearance"
-    "ZSABC, Cleared to enter the George CTR, standard (Arrival) routing, not above altitude XXXX ft, report overhead (Report Point)."
+    "ZSABC, Cleared to enter the George CTR, standard Wilderness XX routing, not above altitude 1500 ft, report overhead Herolds Bay."
 
 !!! info "Circuit Entry Clearance"
     "ZSABC, Report XXXX downwind, runway XX."
