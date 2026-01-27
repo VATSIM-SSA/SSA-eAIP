@@ -42,17 +42,17 @@ George is only able to accommodate up to Code C aircraft.
 **An aircraft must be squawking their assigned ASSR code provided in the clearance before pushback clearance is issued. If this is not the case, the SMC controller must instruct the pilot to do so BEFORE any push clearance is issued.**
 
 !!! info "Pushback Phraseology"
-    "(callsign), push and start approved face South, QNH (QNH)."
+    "SAA211, push and start approved face South, QNH (QNH)."
 
 ## Taxi Procedures
 
 By default, all aircraft should be taxied to the full length holding point unless otherwise requested by a pilot.
 
 !!! info "Taxi Phraseology"
-    "(callsign), taxi to holding point A3 Runway 29 via A."
+    "SAA211, taxi to holding point A3 Runway 29 via A."
 
 !!! info "Taxi Phraseology"
-    "(callsign), taxi to holding point A1 Runway 11 via A."
+    "SAA211, taxi to holding point A1 Runway 11 via A."
 
 ### Arriving Aircraft
 
