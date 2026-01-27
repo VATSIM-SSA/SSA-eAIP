@@ -3,17 +3,17 @@
 ## Route Validation
 
 !!! warning
-    All flights departing out of FAPE must have their route checked and be in compliance with the latest Route Matrix set out by the ATNS. The Route Matrix below has been provided for easy cross checking of flights.
+    All flights departing out of FAGG must have their route checked and be in compliance with the latest Route Matrix set out by the ATNS. The Route Matrix below has been provided for easy cross checking of flights.
 
 | Destination / FIR Exit| Routing                                 | Restrictions   | Remarks                                  |
 |-----------------------|-----------------------------------------|----------------|------------------------------------------|
-| FACT/FAYP             | OKRAV UQ49 ESRUK UQ51 GETEN             | *              | Q49 - FL200 TO FL245                     |
-| FAEL                  | PEV ETKON ELV                           | *              |                                          |
-| FAGG                  | OKRAV UQ49 GRV                          | *              |                                          |
-| FALA                  | PEV ITKIT UZ5 STV LIV                   | *              |                                          |
-| FALE                  | PEV ITKIT UQ30 IMLID UQ12 DUNSA         | *              | Q30 - FL200 TO FL245                     |
-| FAOR                  | ITKIT UZ5 AVILO                         | *              | Z5 - FL200 TO FL245                      |
-| GAUTENG               | ITKIT UZ5 STV                           |                | FAGC / FAGM / FAWB / FAWK / FASK         |
+| FACT/FAYP             | APGUP-ETBUL-UQ49-ESRUK-UQ51-GETEN       | *              |                                          |
+| FAOR                  | KATOR-UZ4-TEVAR-UZ2-NIBEX               | *              | Z4 - FL200 TO FL245                      |
+| FALE                  | APGUP-GABGO-UQ58-IMLID-UQ12-DUNSA       | *              | Q58 - FL200 TO FL245                     | 
+| FAPE                  | APGUP OKSET PEV                         | *              |                                          |
+| FABL                  | APGUP-KATOR-UZ4-NIDOX-BLV               | *              |                                          |
+| FALA                  | APGUP-KATOR-UZ4-TEVAR-UZ2-NIBEX-LIV     | *              |                                          |
+| FAHS                  | KATOR XANDA AVEXA NIDOX BLV OKTIG EGSAN HGV WIV ANVIT HSV ANVIT     | *                     |        |
 
 
 ## Departure Procedures
@@ -21,13 +21,12 @@
 Runway 11/29
 
 !!! info "Standard Instrument Departures"
-    There are no Standard Instrument Departures out of FAGG. All aircraft to be given runway track with an initial climb of FL70
+    There are no Standard Instrument Departures out of FAGG. All aircraft are to be given runway track with an initial climb of FL70.
     
-
 ## Phraseology
 
 **The passing altitude to be issued in clearances is 2000ft.**
 
 Runway Track
 !!! info "Delivery Phraseology"
-    "(callsign), cleared to (destination), FLxxx on request, after departure runway XX, non standard, maintain runway track, climb to FL70, aftef passing altiude 2000ft, contact George Approach on 128.200, squawk (squawk)"
+    "(callsign), cleared to (destination), FLxxx on request, after departure runway XX, non standard, maintain runway track, climb to FL70, after passing altiude 2000ft, contact George Approach on 128.200, squawk (squawk)"
