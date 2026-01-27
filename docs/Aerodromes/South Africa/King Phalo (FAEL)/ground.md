@@ -42,24 +42,24 @@ East London is only able to accommodate up to Code C aircraft.
 **An aircraft must be squawking their assigned ASSR code provided in the clearance before pushback clearance is issued. If this is not the case, the SMC controller must instruct the pilot to do so BEFORE any push clearance is issued.**
 
 !!! info "Pushback Phraseology"
-    "SAA843, push and start approved face West / East, QNH XXXX."
+    "MAU104, push and start approved face West / East, QNH XXXX."
 
 ## Taxi Procedures
 
 By default, all aircraft should be taxied to the full length holding point unless otherwise requested by a pilot.
 
 !!! info "Taxi Phraseology"
-    "SAA211, taxi to holding point A4 Runway 29 via A."
+    "SAA45, taxi to holding point A4 Runway 29 via A."
 
 !!! info "Taxi Phraseology"
-    "SAA211, taxi to holding point A1 Runway 11 via A cross runway 16."
+    "SAA45, taxi to holding point A1 Runway 11 via A cross runway 16."
 
 ### Arriving Aircraft
 
 Upon arrival into King Phalo, inbound aircraft are to provide their aircraft registration (tail number) and their parking bay (stand number) that they desire. You must check that their requested stand is in compliance with the restrictions listed above. If so, then the aircraft can be instructed to taxi to the bay. If not, ask the pilot for a different stand, or feel free to assign one yourself.
 
 !!! info "Pilot Reporting Bay Number"
-    SAA233: "SAA233, we are ZS-SZF looking for Bay A1."
+    SAA233: "SFR712, we are ZS-SZF looking for Bay A1."
 
 !!! info "Taxiing to the Bay"
-    FAEL_TWR: "SAA233, thank you, taxi via A to the bay."
+    FAEL_TWR: "SFR712, thank you, taxi via A to the bay."
