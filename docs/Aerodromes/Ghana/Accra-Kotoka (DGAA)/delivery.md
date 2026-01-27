@@ -4,7 +4,7 @@
 ## Cruise Level Rules
 
   * Ghana Airspace operates with the following RVSM standard table of Cruising Levels
-  * Traffic departing eastbound are to be assigned even cruising levels, while traffic departing westbound are to be assigned odd cruising levels.
+  * Traffic departing westbound are to be assigned even cruising levels, while traffic departing eastbound are to be assigned odd cruising levels.
 
 ## Flight Plan Validation
 
