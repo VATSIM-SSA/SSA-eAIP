@@ -29,3 +29,14 @@
 | EREKA | EREKA1C | RNAV | FL070 | - |
 | KEMOK | KEMOK1C | RNAV | FL070 | - |
 | MIMTI | MIMTI1C | RNAV | FL090 | - |
+
+## Phraseology 
+
+### IFR Clearance with assigned SID.
+!!! info "Delivery Phraseology"
+    "(callsign), cleared to (destination), (SID) departure, climb initially (FL), squawk (squawk)."
+
+If necessary, non standard departures can be issued at the discretion of the TMA controller. (DGAA_APP)
+
+!!! info "Delivery Phraseology"
+    "(callsign), cleared to (destination), non standard (Departure instruction), climb initially (FL), squawk (squawk)."
