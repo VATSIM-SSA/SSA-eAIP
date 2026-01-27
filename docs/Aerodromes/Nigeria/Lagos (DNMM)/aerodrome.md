@@ -4,7 +4,7 @@ Murtala Muhammed International Airport is an international airport located in Ik
 
 ## Aerodrome Details
 
-| Murtaka Muhammed |                           |
+| Murtaka Muhammed |  |
 | :---------: | :----------------------------------: |
 | ICAO | DNMM |
 | IATA | LOS |
@@ -17,7 +17,7 @@ Murtala Muhammed International Airport is an international airport located in Ik
 
 | Runway | Course | TORA | TODA | ASDA | LDA | Remarks |
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
-| 18L   | 181º     | 2745     | 2745     | 2805     | 2745    | - |
+| 18L    | 181º    | 2745     | 2745     | 2805     | 2745    | - |
 | 36R    | 001º    | 2745     | 2745     | 2788     | 2745    | - |
 | 18R    | 181º    | 3900     | 3900     | 4020     | 3900    | - |
 | 36L    | 001º    | 3900     | 3900     | 4020     | 3900    | - |
@@ -54,4 +54,3 @@ Murtala Muhammed International Airport is an international airport located in Ik
 | DNKK_APP    | Lagos Approach | 124.700 | - |
 | DNMM_CTR    | Lagos Control  | 120.900 | - |
 | DNKK_CTR    | Kano East      | 124.100 | Bandbox |
-| DNKK_CTR    | Kano East | 125.100 | - |
