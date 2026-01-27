@@ -20,13 +20,10 @@ The following table should only be to determine the Transition Level for George 
 
 | QNH Range | TL |
 | :---------: | :---------: |
-| 946 - 962 | 85 |
-| 963 - 979 | 80 |
-| 980 - 996 | 75 |
-| 997 - 1013 | 70 |
-| 1014 - 1029 | 65 |
-| 1030 - 1046 | 60 |
-| 1047 - 1099 | 55 |
+| 995 - 1013 | 80 |
+| 1014 - 1031 | 85 |
+| 1032 - 1049 | 90 |
+| 1050 - 1060 | 95 |
 
 ## Declared Distances
 
