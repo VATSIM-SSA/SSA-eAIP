@@ -6,13 +6,13 @@ The responsibility of Tower at George falls to the dedicated Tower ATS unit, "Ge
 
 ## Visual Flight Rules (VFR) Aircraft
   * Circuit altitude is 1500ft.
-  * There is no set direction for circuits. The Tower controller may select either left hand or right hand circuits.
+  * All circuits are conducted left hand normally, but may be conducted right hand at the discretion of the Tower controller.
 
 !!! info "Circuit Clearance"
     "ZSABC, hold position, after departure Runway 11, cleared left hand circuits, not above altitude 1500ft, report left downwind Runway 11."
     
-!!! info "Circuit Clearance"
-    "ZSABC, hold position, after departure Runway 29, cleared right hand circuits, not above altitude 1500ft, report right downwind Runway 29."
+!!! info "Circuit Clearance (Non STD)"
+    "ZSABC, hold position, after departure Runway 11, non standard right hand circuits, not above 1500ft, report non standard right downwind Runway 19."
 
 ### VRP Map
 
