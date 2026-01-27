@@ -28,8 +28,8 @@ Runway 11/29
     
 ## Phraseology
 
-**The passing altitude to be issued in clearances is 2000ft.**
+**The passing altitude to be issued in clearances is 4500ft.**
 
 Runway Track
 !!! info "Delivery Phraseology"
-    "SFR872, cleared to (destination), FLXXX on request, after departure runway XX, non standard, maintain runway track, climb to FL70, after passing altiude 2000ft, contact George Approach on 128.200, squawk XXXX."
+    "SFR872, cleared to (destination), FLXXX on request, after departure runway XX, non standard, maintain runway track, climb to FL70, after passing altiude 4500ft, contact George Approach on 128.200, squawk XXXX."
