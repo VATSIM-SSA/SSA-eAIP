@@ -61,7 +61,7 @@ If requested by pilots, aircraft are permitted to backtrack to depart Runway 21 
   * Controllers should avoid extending downwinds signicifantly to keep VFR traffic close to the airfield.
 
 !!! info "Circuit Clearance"
-    9GOWU, hold position, after departure Runway 21, left hand circuits, not above 1000ft, report right downwind Runway 06.
+    9GOWU, hold position, after departure Runway 21, left hand circuits, not above 1000ft, report left downwind Runway 21.
 
 !!! info "Exit Clearance"
     9GOWU, hold position, after departure Runway 03, cleared to leave the control zone to the east, not above 1000ft, report zone outbound."
