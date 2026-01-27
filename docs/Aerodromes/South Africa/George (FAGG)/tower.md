@@ -9,10 +9,10 @@ The responsibility of Tower at George falls to the dedicated Tower ATS unit, "Ge
   * There is no set direction for circuits. The Tower controller may select either left hand or right hand circuits.
 
 !!! info "Circuit Clearance"
-    ZSABC, hold position, after departure Runway 11, left hand circuits, not above altitude 1500ft, report left downwind Runway 11.
+    "ZSABC, hold position, after departure Runway 11, left hand circuits, not above altitude 1500ft, report left downwind Runway 11."
     
 !!! info "Circuit Clearance"
-    ZSABC, hold position, after departure Runway 29, right hand circuits, not above altitude 1500ft, report right downwind Runway 29.
+    "ZSABC, hold position, after departure Runway 29, right hand circuits, not above altitude 1500ft, report right downwind Runway 29."
 
 ### VRP Map
 
@@ -30,7 +30,7 @@ The responsibility of Tower at George falls to the dedicated Tower ATS unit, "Ge
 | Fancourt 11 | Garden Route Dam | 1700 ft |
 
 !!! info "Exit Clearance via STD VFR Routing"
-    ZSABC, hold position, after departure Runway 11, comply with the Gletana 11 departure, not above altitude 1500ft, report overhead Great Brak River.
+    "ZSABC, hold position, after departure Runway 11, comply with the Gletana 11 departure, not above altitude 1500ft, report overhead Great Brak River."
     
 ### VFR Runway 29 Departures 
 
@@ -44,7 +44,7 @@ The responsibility of Tower at George falls to the dedicated Tower ATS unit, "Ge
 | Fancourt 29 | Garden Route Dam | 1700 ft |
 
 !!! info "Exit Clearance via STD VFR Routing"
-    ZSABC, hold position, after departure Runway 29, comply with the Gletana 29 departure, not above altitude 1500ft, report overhead Great Brak River.
+    "ZSABC, hold position, after departure Runway 29, comply with the Gletana 29 departure, not above altitude 1500ft, report overhead Great Brak River."
     
 ### VFR Arrivals 
 
@@ -61,10 +61,10 @@ The responsibility of Tower at George falls to the dedicated Tower ATS unit, "Ge
 | Fancourt 11 / 29 | Fancourt | 1700 ft |
 
 !!! info "Entry Clearance"
-    ZSABC, Cleared to enter the George CTR, standard (Arrival) routing, not above altitude XXXX ft, report overhead (Report Point). 
+    "ZSABC, Cleared to enter the George CTR, standard (Arrival) routing, not above altitude XXXX ft, report overhead (Report Point)."
 
 !!! info "Circuit Entry Clearance"
-    ZSABC, Report XXXX downwind, runway XX
+    "ZSABC, Report XXXX downwind, runway XX."
     
 ## Wake Seperation
 
@@ -89,7 +89,7 @@ The responsibility of Tower at George falls to the dedicated Tower ATS unit, "Ge
 ## Takeoff Phraseology
 
 !!! info "Takeoff (Full Length)"
-    ZSABC, Runway 11 full length, wind 160 degrees at 4 knots, cleared for takeoff, bye bye.
+    "ZSABC, Runway 11 full length, wind 160 degrees at 4 knots, cleared for takeoff, bye bye."
 
 !!! warning "Intersection Takeoffs"
     Intersection takeoffs are not available at FAGG.
