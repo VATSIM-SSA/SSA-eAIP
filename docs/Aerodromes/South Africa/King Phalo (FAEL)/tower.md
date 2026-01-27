@@ -33,7 +33,7 @@ The responsibility of Tower at King Phalo falls to the dedicated Tower ATS unit,
 | Gonubie 11 | Gonubie | 1000 ft |
 | Nahoon Dam 11 | Nahoon Dam | 1500 ft |
 | Goodsheds 11 | Abeam Gonubie | 1500 ft |
-| Seaward Transit | Keysers Beach / Gonubie | 1000 ft |
+| Seawards Transit | Keysers Beach / Gonubie | 1000 ft |
 
 !!! info "Exit Clearance via STD VFR Routing"
     "ZSABC, hold position, after departure Runway 11, comply with the Keysers Beach 11 departure, not above altitude 1000ft, report overhead Keyser Beach."
@@ -51,7 +51,7 @@ The responsibility of Tower at King Phalo falls to the dedicated Tower ATS unit,
 | Gonubie 29 | Gonubie | 1000 ft |
 | Nahoon Dam 29 | Nahoon Dam | 1500 ft |
 | Goodsheds 29 | Abeam Gonubie | 1500 ft |
-| Seaward Transit | Keysers Beach / Gonubie | 1000 ft |
+| Seawards Transit | Keysers Beach / Gonubie | 1000 ft |
 
 !!! info "Exit Clearance via STD VFR Routing"
     "ZSABC, hold position, after departure Runway 29, comply with the Keysers Beach 29 departure, not above altitude 1000ft, report overhead Keyser Beach."
@@ -71,7 +71,7 @@ The responsibility of Tower at King Phalo falls to the dedicated Tower ATS unit,
 | Hamburg 11 / 29 | Keysers Beach | 1000 ft |
 | Nahoon Dam 11 / 29 | Nahoon Dam | 1500 ft |
 | Gonubie 11 / 29 | Gonubie | 1500 ft |
-| Seaward Transit | Keysers Beach / Gonubie | 1000 ft |
+| Seawards Transit | Keysers Beach / Gonubie | 1000 ft |
 
 !!! info "Entry Clearance"
     "ZSABC, Cleared to enter the King Phalo CTR, standard Hamburg XX routing, not above altitude 1000 ft, report overhead Keysers Beach."
