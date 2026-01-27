@@ -38,5 +38,5 @@ On initial call with SMC, the VFR aircraft is expected to provide:
 Once this data has been received by the SMC controller, the controller shall then issue the QNH, Active runway, and if operating on a FPL, a squawk.
 
 !!! info "VFR Phraseology"
-    "9GOWU, thank you, start up approved, expect Runway 06, QNH 1019, report ready for taxi."
+    "9GOWU, thank you, start up approved, Runway 21 in use, QNH 1021, report ready for taxi."
     
