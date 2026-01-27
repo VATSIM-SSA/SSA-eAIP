@@ -1,5 +1,8 @@
 # Delivery
 
+!!! info
+    George does not have a dedicated Delivery frequency, as such all Delivery responsibilities are assumed by George Apron (FAGG_GND). Under no circumstances should a FAGG_DEL position ever be opened without prior approval from staff.
+    
 ## Route Validation
 
 !!! warning
