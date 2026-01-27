@@ -36,6 +36,8 @@
 !!! info "Delivery Phraseology"
     "(callsign), cleared to (destination), (SID) departure, climb initially (FL), squawk (squawk)."
 
+### IFR clearance with non standard departure.
+
 If necessary, non standard departures can be issued at the discretion of the TMA controller. (DGAA_APP)
 
 !!! info "Delivery Phraseology"
