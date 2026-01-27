@@ -16,7 +16,7 @@ The responsibility of Tower at George falls to the dedicated Tower ATS unit, "Ge
 
 ### VRP Map
 
-// insert VRP map whenever one is made.
+![alt text](VRPs.png)
 
 ### VFR Runway 11 Departures 
 
