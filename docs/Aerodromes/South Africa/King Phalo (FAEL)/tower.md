@@ -21,7 +21,7 @@ The responsibility of Tower at King Phalo falls to the dedicated Tower ATS unit,
 
 ### VRP Map
 
-![alt text](VRPs-FAEL.png)
+![alt text](FAEL-VRPs.png)
 
 ### VFR Runway 11 Departures 
 
@@ -61,7 +61,7 @@ The responsibility of Tower at King Phalo falls to the dedicated Tower ATS unit,
     
 ### VFR Arrivals 
 
-![alt text](FAEL-11-29-Arrivals.png)
+![alt text](FAEL-11-29-Arr.png)
 
 !!! Warning "VFR Arrivals"
     All VFR arrivals will be required to report over the relevant point. They will then require further instructions to enter the circuit.
