@@ -42,6 +42,13 @@ The Kotoka International Airport is an international airport located in Accra, t
 | DGAC_N_CTR    | Accra North Control | 126.700   | - |
 | DGAO_CTR      | Accra Radio         | 136.650   | - |
 
+## Radio Navigation & Landing Aids
+
+| Type | ID | Frequency |
+| :---------: | :---------: | :---------: |
+| VOR DME | ACC | 113.1 MHz |
+| ILS LOC 03 | IACA | 109.9 MHz |
+
 ## Airspace
 
 | Airspace    | Class              | Owner | Limits             | Remarks |
