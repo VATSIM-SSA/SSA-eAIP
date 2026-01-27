@@ -47,7 +47,7 @@ The Kotoka International Airport is an international airport located in Accra, t
 | Type | ID | Frequency |
 | :---------: | :---------: | :---------: |
 | VOR DME | ACC | 113.1 MHz |
-| ILS LOC 03 | IACA | 109.9 MHz |
+| ILS LOC 21 | IACA | 109.9 MHz |
 
 ## Airspace
 
