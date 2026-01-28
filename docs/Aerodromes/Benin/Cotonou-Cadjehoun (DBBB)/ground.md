@@ -18,7 +18,7 @@ The following table details the Parking stand wingspan restrictions for the Coto
 | 03 | Facing West | 
 
 !!! info "Pushback Phraseology"
-    "(callsign), push and start approved, facing north, QNH (QNH)."
+    "(callsign), push and start approved, facing west, QNH (QNH)."
 
 ## Taxi Procedures
 
