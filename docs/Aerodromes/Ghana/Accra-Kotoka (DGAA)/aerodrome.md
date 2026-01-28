@@ -54,8 +54,8 @@ The Kotoka International Airport is an international airport located in Accra, t
 | Airspace    | Class              | Owner | Limits             | Remarks |
 | :---------: | :---------: | :---------: | :---------: | :---------: |
 | Accra CTR     | D | DGAA_TWR | GND - A030     | Military and Civil aerodrome |
-| Accra TMA     | B | DGAA_APP | A015 - FL160   | - |
+| Accra TMA     | B | DGAA_APP | A014 - FL160   | - |
 | Accra TMA     | A | DGAA_APP | FL155 - UNLTD  | - |
-| Accra ACC     | B | DGAA_CTR | FL045 - FL145  | - |
-| Accra ACC     | A | DGAA_CTR | FL145 - FL460  | FIR Split |
+| Accra ACC     | B | DGAC_CTR | A010 - FL155  | - |
+| Accra ACC     | A | DGAC_CTR | FL155 - FL460  | FIR Split |
 | Kano FIR/UIR  | A | DNKN_CTR | FL145 - UNLTD  | - |
