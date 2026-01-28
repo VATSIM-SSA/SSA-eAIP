@@ -60,3 +60,12 @@ The following table should only be to determine the Transition Level for the Cot
 | DBBB_TWR    | Cotonou Tower        | 118.700  | - |
 | DBBB_APP    | Cotonou Approach     | 125.900  | - |
 | DGAC_CTR  | Accra Control | 130.900  | - |
+
+## Airspace
+
+| Airspace    | Class              | Owner | Limits             | Remarks |
+| :---------: | :---------: | :---------: | :---------: | :---------: |
+| Cotonou CTR     | C | DBBB_TWR | GND - A010     | Military and Civil aerodrome |
+| Cotonou TMA     | C | DBBB_APP | GND - FL160   | - |
+| Accra ACC     | B | DGAC_CTR | A010 - FL145  | - |
+| Accra ACC     | A | DGAC_CTR | FL145 - FL460  | - |
