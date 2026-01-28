@@ -42,15 +42,15 @@ The responsibility of Tower at Cotonou falls to the dedicated Tower ATS unit, "C
 If requested by pilots, aircraft are permitted to backtrack onto  Runway 06 or 24 at full length. 
 
 !! info "Backtracking Clearance"
-    TYOWU, cleared to enter and backtrack Runway 24, report fully ready."
+    "TYOWU, cleared to enter and backtrack Runway 24, report fully ready."
 
 ## Takeoff Phraseology
 
 !!! info "Takeoff (Full Length)"
-    TYOWU, Runway 24 full length, wind 220 degrees at 9 knots, cleared for takeoff.
+    "TYOWU, Runway 24 full length, wind 220 degrees at 9 knots, cleared for takeoff."
 
 !!! info "Takeoff (Intersection)"
-    TYOWU, Runway 06 at Intersection B, wind 020 degrees at 9 knots, cleared for takeoff.
+    "TYOWU, Runway 06 at Intersection B, wind 020 degrees at 9 knots, cleared for takeoff."
 
 !!! note
     Tower controllers may give the hand off instruction to Cotonou Approach with the take off clearance.
@@ -62,10 +62,10 @@ If requested by pilots, aircraft are permitted to backtrack onto  Runway 06 or 2
   * Controllers should avoid extending downwinds signicifantly to keep VFR traffic close to the airfield.
 
 !!! info "Circuit Clearance"
-    TYOWU, hold position, after departure Runway 24, right hand circuits, not above 1000ft, report left downwind Runway 24.
+    "TYOWU, hold position, after departure Runway 24, right hand circuits, not above 1000ft, report left downwind Runway 24."
 
 !!! info "Exit Clearance"
-    TYOWU, hold position, after departure Runway 06, cleared to leave the control zone to the east, not above 1000ft, report zone outbound."
+    "TYOWU, hold position, after departure Runway 06, cleared to leave the control zone to the east, not above 1000ft, report zone outbound."
 
 | Rwy | Turn  | Altitude | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
