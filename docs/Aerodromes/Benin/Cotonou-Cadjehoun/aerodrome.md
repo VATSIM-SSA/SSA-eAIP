@@ -67,5 +67,5 @@ The following table should only be to determine the Transition Level for the Cot
 | :---------: | :---------: | :---------: | :---------: | :---------: |
 | Cotonou CTR     | C | DBBB_TWR | GND - A010     | Military and Civil aerodrome |
 | Cotonou TMA     | C | DBBB_APP | GND - FL160   | - |
-| Accra ACC     | B | DGAC_CTR | A010 - FL145  | - |
-| Accra ACC     | A | DGAC_CTR | FL145 - FL460  | - |
+| Accra ACC     | B | DGAC_CTR | A010 - FL155  | - |
+| Accra ACC     | A | DGAC_CTR | FL155 - FL460  | - |
