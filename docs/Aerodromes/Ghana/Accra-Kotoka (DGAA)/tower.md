@@ -43,15 +43,15 @@ The responsibility of Tower at Accra Kotoka falls to the dedicated Tower ATS uni
 If requested by pilots, aircraft are permitted to backtrack to depart Runway 21 at full length. 
 
 !! info "Backtracking Clearance"
-    9GOWU, cleared to enter and backtrack Runway 21, report fully ready."
+    "9GOWU, cleared to enter and backtrack Runway 21, report fully ready."
 
 ## Takeoff Phraseology
 
 !!! info "Takeoff (Full Length)"
-    9GOWU, Runway 21 full length, wind 220 degrees at 9 knots, cleared for takeoff.
+    "9GOWU, Runway 21 full length, wind 220 degrees at 9 knots, cleared for takeoff."
 
 !!! info "Takeoff (Intersection)"
-    9GOWU, Runway 21 at Intersection A2, wind 220 degrees at 9 knots, cleared for takeoff.
+    "9GOWU, Runway 21 at Intersection A2, wind 220 degrees at 9 knots, cleared for takeoff."
 
 !!! note
     Tower controllers may give the hand off instruction to Accra Approach with the take off clearance.
@@ -63,10 +63,10 @@ If requested by pilots, aircraft are permitted to backtrack to depart Runway 21 
   * Controllers should avoid extending downwinds signicifantly to keep VFR traffic close to the airfield.
 
 !!! info "Circuit Clearance"
-    9GOWU, hold position, after departure Runway 21, left hand circuits, not above 1000ft, report left downwind Runway 21.
+    "9GOWU, hold position, after departure Runway 21, left hand circuits, not above 1000ft, report left downwind Runway 21."
 
 !!! info "Exit Clearance"
-    9GOWU, hold position, after departure Runway 03, cleared to leave the control zone to the east, not above 1000ft, report zone outbound."
+    "9GOWU, hold position, after departure Runway 03, cleared to leave the control zone to the east, not above 1000ft, report zone outbound."
 
 | Rwy | Turn  | Altitude | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
