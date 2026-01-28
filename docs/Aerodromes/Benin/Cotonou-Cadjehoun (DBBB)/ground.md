@@ -46,5 +46,5 @@ On initial call with Tower, the VFR aircraft is expected to provide:
 Once this data has been received by the Tower controller, the controller shall then issue the QNH, Active runway, and if operating on a FPL, a squawk.
 
 !!! info "VFR Phraseology"
-    "TYOWU, thank you, start up approved, Runway 21 in use, QNH 1021, report ready for taxi."
+    "TYOWU, thank you, start up approved, Runway 24 in use, QNH 1021, report ready for taxi."
     
