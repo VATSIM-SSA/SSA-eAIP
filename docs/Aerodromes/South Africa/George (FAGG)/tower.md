@@ -48,7 +48,7 @@ The responsibility of Tower at George falls to the dedicated Tower ATS unit, "Ge
     
 ### VFR Arrivals 
 
-![alt text](11-29-Arrivals.png)
+![alt text](11-and-29-Arrivals.png)
 
 !!! Warning "VFR Arrivals"
     All VFR arrivals will be required to report over the relevant point. They will then require further instructions to enter the circuit.
