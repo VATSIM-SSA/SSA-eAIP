@@ -1,1 +1,61 @@
+# Aerodrome Data
 
+George Airport (IATA: GRJ, ICAO: FAGG) (George Lughawe) is an airport located in George, Western Cape, South Africa. In 2024, the airport served 833,455 passengers.
+
+
+## Aerodrome Details
+
+|  George Airport  |                           |
+| :---------: | :----------------------------------: |
+| ICAO | FAGG |
+| IATA | GRJ |
+| Elevation | 648ft |
+| Transition Altitude | 8000ft |
+| Transition Level | by ATC (see TL table) |
+| Mag Variation | 28º W |
+
+## Transition Levels
+
+The following table should only be to determine the Transition Level for George (FAGG).
+
+| QNH Range | TL |
+| :---------: | :---------: |
+| 995 - 1013 | 95 |
+| 1014 - 1031 | 90 |
+| 1032 - 1049 | 85 |
+| 1050 - 1060 | 80 |
+
+## Declared Distances
+
+| Runway | Course | TORA | TODA | ASDA | LDA | Remarks |
+| :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
+| 11    | 116º    | 2000     | 2300     | 2060     | 2000    | - |
+| 29    | 296º    | 2120     | 2500     | 2120     | 2000    | - |
+
+## Radio Navigation & Landing Aids
+
+| Type | ID | Frequency | 
+| :---------: | :---------: | :---------: |
+| VOR DME | GRV | 116.6 MHz |
+| UHF DME | GEI | 109.5 MHz |
+| UHF DME | GGI | 110.1 MHz |
+| ILS LOC 11 | GEI | 109.5 MHz |
+| ILS LOC 29 | GGI | 110.1 MHz |
+
+## Aprons 
+
+| Apron | Stands | Entry/Exit Point | Remarks |
+| :---------: | :---------: | :---------: | :---------: |
+| Apron | A1 - A5 | Twy A    | - |
+| GA Apron | - | Twy A    | - |
+
+## ATS Frequencies
+
+| Position    | Callsign              | Frequency | Remarks             |
+| :---------: | :---------: | :---------: | :---------: |
+| FAGG_ATIS   | George ATIS     | 126.225   | -                   |
+| FAGG_GND    | George Apron    | 122.650   | -                   |
+| FAGG_TWR    | George Tower    | 118.900   | -                   |
+| FAGG_APP    | George Approach  | 122.650  | -                   |
+| FACA_E_CTR  | Cape Town Area     | 124.700   | - |
+| FACA_CTR    | Cape Town Area     | 125.100   | - |
