@@ -15,7 +15,7 @@ The Cotonou Cardinal Bernadin Gantin International Airport (IATA: COO, ICAO: DBB
 
 ## Transition Levels
 
-The following table should only be to determine the Transition Level for the Cotonou Airport (DBBB).
+The following table should be used to determine the Transition Level for the Cotonou Airport (DBBB).
 
 | QNH Range | TL |
 | :---------: | :---------: |
