@@ -4,7 +4,7 @@ The responsibility of Tower at Cotonou falls to the dedicated Tower ATS unit, "C
 
 
 ## Runway Selection
-* Since Runway 24 is the only runway with a published precision approach procedure (ILS LOC), it is preferred for operations at the Accra Kotoka airport.
+* Since Runway 24 is the only runway with a published precision approach procedure (ILS LOC), it is preferred for operations at Cotonou.
 * Runway 06 should only be used if the usage of Runway 24 is with a significant tailwind component (more than 5kts).
 
 ## Runway Change Operations
