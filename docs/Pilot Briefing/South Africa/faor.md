@@ -18,8 +18,6 @@ Alternatively, users of MSFS2024 are more than welcome to use the inbuilt flight
 
 ### Sceneries
 
-The following table should only be to determine the Transition Level for O.R. Tambo (FAOR).
-
 (C) - We can not guarantee that this scenery is compatible with MSFS 2024.
 
 
