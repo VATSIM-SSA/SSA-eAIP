@@ -17,7 +17,7 @@
 | FABL                  | APGUP-KATOR-UZ4-NIDOX-BLV               | *              |                                          |
 | FALA                  | APGUP-KATOR-UZ4-TEVAR-UZ2-NIBEX-LIV     | *              |                                          |
 | FAHS                  | KATOR XANDA AVEXA NIDOX BLV OKTIG EGSAN HGV WIV ANVIT HSV ANVIT     | *                     |        |
-
+| Gauteng               | KATOR-UZ4-TEVAR-UZ2-NIBEX               | *              | FAGC/FAGM/FAWB/FAWK/FASK                 |
 
 ## Departure Procedures
 
