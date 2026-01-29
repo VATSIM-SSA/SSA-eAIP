@@ -21,7 +21,9 @@ The Tower East controller is responsible for the operations of Runway 03R/21L, i
 !!! info "Exit Clearance"
     ZSABC, hold position, after departure Runway 06, cleared to leave the control zone to the west, not above 6500ft report overhead the Sandton City Tower."
 
-// insert VRP map whenever the hell I make one
+### VRP Map
+
+![alt text](FAOR-VRPs.png)
 
 ## Wake Seperation
 
