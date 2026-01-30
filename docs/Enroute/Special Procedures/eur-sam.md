@@ -9,9 +9,9 @@
 | ATS Route | Traffic Direction | Flight Levels | Remarks |
 |-------------|---------------------|----------------|---------|
 | UN873, UN857 | Southbound | 300, 320, 340, 360, 380, 400 | - |
-| ::: | Northbound | 290, 310, 330, 350, 370, 390, 410 | - |
+| - | Northbound | 290, 310, 330, 350, 370, 390, 410 | - |
 | UN741 | Southbound Unidirectional | EVEN and ODD to be indistinctly used | - |
-| UN866 | Southbound Unidirectional | ::: | - |
+| UN866 | Southbound Unidirectional | - | - |
 
 ## Separation
 
@@ -22,7 +22,7 @@
 | Separation | Rule | Remarks |
 |--------------|-------|---------|
 | Lateral | RNP10 / 50 NM | - |
-| Longitudinal | 10 MIN under MNT | *soon to be 5 MIN* ([Report of the 22nd Meeting on the Improvement of Air Traffic Services over the South Atlantic](http://www.satmasat.com/files/reports/SAT/Final_Report_of_SAT_22.pdf)) |
+| Longitudinal | 5 MIN under MNT | |
 | Horizontal | RVSM | - |
 
 ## SLOP
