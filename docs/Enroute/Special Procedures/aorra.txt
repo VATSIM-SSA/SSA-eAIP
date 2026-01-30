@@ -1,0 +1,141 @@
+# AORRA
+
+## About
+
+The Atlantic Ocean Random Routing RNAV Area (AORRA) is the volume of airspace between FL290 and FL410 inclusive within the Atlantico, Accra, Comodoro Rivadavia, Dakar, Dakar Oceanic, Ezeiza, Johannesburg Oceanic, Luanda, and Montevideo FIRs as depicted on the map below:
+
+![AORRA Airspace Map](media:aorra_airspace.jpg)
+
+## Operating Rules
+
+- Flight plans shall contain entry and exit points to/from AORRA airspace and the estimated time for every 5° of longitude.
+- Whilst operating within the defined area of the AORRA, flight levels will comply with the ICAO standard table of cruising levels.
+- RVSM transition procedures should be taken into consideration from/to RVSM airspace in the FIRs where RVSM transition areas are defined.
+- Position reporting is required at entry/exit gate as well as any other position required by ATC - 10°E, 0°E/W, 10°W, 20°W, 30°W, 40°W, 50°W.
+
+## Separation
+
+| Separation     | Rule                 | Remarks |
+|----------------|----------------------|---------|
+| Lateral        | RNP10 / 50 NM       | -       |
+| Longitudinal   | 20 Mins under MNT   | -       |
+| Horizontal     | ICAO Cruise Levels  | -       |
+
+## Entry / Exit Points
+
+| UIR/FIR | Waypoint | Remarks |
+|---------|----------|---------|
+| DGAC Accra | AMPAN | - |
+| ::: | ARKOS | - |
+| ::: | ARMAR | - |
+| ::: | BUGRI | - |
+| ::: | EREGO | - |
+| ::: | GANBI | - |
+| ::: | GAPEL | - |
+| ::: | GARLA | - |
+| ::: | KIDNI | - |
+| ::: | KINBU | - |
+| ::: | KISMI | - |
+| ::: | LOVLI | - |
+| ::: | MERID | - |
+| ::: | NAKUT | - |
+| ::: | OPEMU | - |
+| ::: | PINTI | - |
+| ::: | SABSO | - |
+| ::: | TAMOK | - |
+| ::: | TENTA | - |
+| ::: | TOBAT | - |
+| FAJO Johannesburg Oceanic | ALDOV | - |
+| ::: | ANTOM | - |
+| ::: | AVANA | - |
+| ::: | BUXIR | - |
+| ::: | EGVOL | - |
+| ::: | EPNET | - |
+| ::: | ETBOR | - |
+| ::: | GEPAB | - |
+| ::: | GEPEV | - |
+| ::: | IBLOK | - |
+| ::: | IMKAM | - |
+| ::: | ITLIK | - |
+| ::: | ITMEK | - |
+| ::: | NEPUM | - |
+| ::: | NERAX | - |
+| ::: | NIBEK | - |
+| ::: | NIGAM | - |
+| ::: | OKDOG | - |
+| ::: | OKTEL | - |
+| ::: | UVGOD | - |
+| FCCC Brazzaville | XURUT | - |
+| FNAN Luanda | URAPI | - |
+| ::: | OSUKU | - |
+| ::: | GAPEL | - |
+| ::: | TERBA | - |
+| ::: | OPAPO | - |
+| ::: | ONTAR | - |
+| ::: | EKBOB | - |
+| ::: | NERUP | - |
+| ::: | TIMAK | - |
+| ::: | TETUX | - |
+| ::: | NIDUS | - |
+| FYWF Windhoek | ANTEP | - |
+| ::: | DULGO | - |
+| ::: | ETUDU | - |
+| ::: | IBLOK | - |
+| ::: | NEVEP | - |
+| ::: | NIBEK | - |
+| ::: | NIGAM | - |
+| GLRB Roberts | BIMEN | - |
+| ::: | MIRKO | - |
+| ::: | UNEMA | - |
+| ::: | VONAS | - |
+| GOOO Dakar Oceanic | BOTBU | - |
+| ::: | BUVUK | - |
+| ::: | DIKBA | - |
+| ::: | ENASA | - |
+| ::: | EPEMI | - |
+| ::: | ERKUS | - |
+| ::: | GAKSA | - |
+| ::: | GANDO | - |
+| ::: | GANKO | - |
+| ::: | GARKI | - |
+| ::: | GUTAS | - |
+| ::: | INATO | - |
+| ::: | UDEBO | - |
+| ::: | KOGUS | - |
+| ::: | LUMKA | - |
+| ::: | NUKEN | - |
+| ::: | OXOVA | - |
+| ::: | PISKA | - |
+| ::: | RAKIM | - |
+| ::: | RANOV | - |
+| ::: | RIRAK | - |
+| ::: | SETOX | - |
+| ::: | SEVAM | - |
+| ::: | SOLTU | - |
+| ::: | TAROT | - |
+| ::: | TINIS | - |
+| ::: | TUROT | - |
+| ::: | UNIKI | - |
+| ::: | URAPI | - |
+| ::: | VORUT | - |
+| SAEU Ezeiza | BISUL | - |
+| ::: | GUXOR | - |
+| SAVU Comodoro Rivadavia | EGLAS | - |
+| ::: | IRIRO | - |
+| SBAO Atlantico | CIDER | - |
+| ::: | EDVEL | - |
+| ::: | EKALO | - |
+| ::: | GARUP | - |
+| ::: | GELAM | - |
+| ::: | IRONA | - |
+| ::: | MIGEX | - |
+| ::: | MUKEK | - |
+| ::: | OBKOL | - |
+| ::: | PALOR | - |
+| ::: | POLVO | - |
+| ::: | PORGA | - |
+| ::: | SORSA | - |
+| ::: | VURIL | - |
+| ::: | VURTO | - |
+| SBRE Recife | REGIS | - |
+| SUEO Montevideo | BIVEN | - |
