@@ -1,4 +1,4 @@
-# Cheat Sheet for TopSky
+# CheatSheet for TopSky
 
 | Shortcut | Function | Remarks |
 |----------|----------|---------|
