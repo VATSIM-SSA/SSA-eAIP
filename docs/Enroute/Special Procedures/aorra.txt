@@ -4,7 +4,7 @@
 
 The Atlantic Ocean Random Routing RNAV Area (AORRA) is the volume of airspace between FL290 and FL410 inclusive within the Atlantico, Accra, Comodoro Rivadavia, Dakar, Dakar Oceanic, Ezeiza, Johannesburg Oceanic, Luanda, and Montevideo FIRs as depicted on the map below:
 
-![AORRA Airspace Map](media:aorra_airspace.jpg)
+[AORRA Airspace Map](aorra-airspace.png)
 
 ## Operating Rules
 
