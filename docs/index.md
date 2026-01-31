@@ -11,9 +11,9 @@ The eAIP is intended to support both pilots and controllers throughout VATSSA by
 
 ## Contributing
 
-- VATSSA's eAIP is open source and therefore contributing is strongly encouraged.
+- VATSSA's eAIP is open source, and therefore contributing is strongly encouraged.
 
-- Should you wish to contribute to the eAIP please contact VATSSA1 via Discord or email at vatssa1@Vatssa.com.
+- Should you wish to contribute to the eAIP, please contact VATSSA1 via Discord or email at vatssa1@Vatssa.com.
 
 - Contributors can find more documentation [here](https://eaip2.vatssa.com/Contributing/eAIP/).
 
