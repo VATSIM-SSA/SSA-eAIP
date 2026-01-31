@@ -1,4 +1,4 @@
-## Euroscope Alias 
+## Euroscope Alias (Standard)
 
 ### Custom
 
