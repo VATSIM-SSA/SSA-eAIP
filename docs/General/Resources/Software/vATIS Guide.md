@@ -174,4 +174,8 @@ Our resources page, where you can find the vATIS profiles for all of the South A
 
         **Voice:** `RUNWAY CONDITION REPORT. ZERO, ZERO, ZERO`
 
+## Disconnecting an ATIS
+
+Doing a controller change? Make sure to press the blue 'DISCONNECT' before quitting vATIS!
+
 Still having issues with vATIS? Feel free to ask for help in one of our channels in the VATSSA Discord server which can be found in the [VATSIM Community Server's](https://community.vatsim.net/)
