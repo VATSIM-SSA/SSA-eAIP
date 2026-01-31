@@ -4,7 +4,7 @@
 
 The Atlantic Ocean Random Routing RNAV Area (AORRA) is the volume of airspace between FL290 and FL410 inclusive within the Atlantico, Accra, Comodoro Rivadavia, Dakar, Dakar Oceanic, Ezeiza, Johannesburg Oceanic, Luanda, and Montevideo FIRs as depicted on the map below:
 
-[AORRA Airspace Map](aorra-airspace.png)
+![alt text](aorra-airspace.png)
 
 ## Operating Rules
 
@@ -23,119 +23,176 @@ The Atlantic Ocean Random Routing RNAV Area (AORRA) is the volume of airspace be
 
 ## Entry / Exit Points
 
-| UIR/FIR | Waypoint | Remarks |
-|---------|----------|---------|
-| DGAC Accra | AMPAN | - |
-| ::: | ARKOS | - |
-| ::: | ARMAR | - |
-| ::: | BUGRI | - |
-| ::: | EREGO | - |
-| ::: | GANBI | - |
-| ::: | GAPEL | - |
-| ::: | GARLA | - |
-| ::: | KIDNI | - |
-| ::: | KINBU | - |
-| ::: | KISMI | - |
-| ::: | LOVLI | - |
-| ::: | MERID | - |
-| ::: | NAKUT | - |
-| ::: | OPEMU | - |
-| ::: | PINTI | - |
-| ::: | SABSO | - |
-| ::: | TAMOK | - |
-| ::: | TENTA | - |
-| ::: | TOBAT | - |
-| FAJO Johannesburg Oceanic | ALDOV | - |
-| ::: | ANTOM | - |
-| ::: | AVANA | - |
-| ::: | BUXIR | - |
-| ::: | EGVOL | - |
-| ::: | EPNET | - |
-| ::: | ETBOR | - |
-| ::: | GEPAB | - |
-| ::: | GEPEV | - |
-| ::: | IBLOK | - |
-| ::: | IMKAM | - |
-| ::: | ITLIK | - |
-| ::: | ITMEK | - |
-| ::: | NEPUM | - |
-| ::: | NERAX | - |
-| ::: | NIBEK | - |
-| ::: | NIGAM | - |
-| ::: | OKDOG | - |
-| ::: | OKTEL | - |
-| ::: | UVGOD | - |
-| FCCC Brazzaville | XURUT | - |
-| FNAN Luanda | URAPI | - |
-| ::: | OSUKU | - |
-| ::: | GAPEL | - |
-| ::: | TERBA | - |
-| ::: | OPAPO | - |
-| ::: | ONTAR | - |
-| ::: | EKBOB | - |
-| ::: | NERUP | - |
-| ::: | TIMAK | - |
-| ::: | TETUX | - |
-| ::: | NIDUS | - |
-| FYWF Windhoek | ANTEP | - |
-| ::: | DULGO | - |
-| ::: | ETUDU | - |
-| ::: | IBLOK | - |
-| ::: | NEVEP | - |
-| ::: | NIBEK | - |
-| ::: | NIGAM | - |
-| GLRB Roberts | BIMEN | - |
-| ::: | MIRKO | - |
-| ::: | UNEMA | - |
-| ::: | VONAS | - |
-| GOOO Dakar Oceanic | BOTBU | - |
-| ::: | BUVUK | - |
-| ::: | DIKBA | - |
-| ::: | ENASA | - |
-| ::: | EPEMI | - |
-| ::: | ERKUS | - |
-| ::: | GAKSA | - |
-| ::: | GANDO | - |
-| ::: | GANKO | - |
-| ::: | GARKI | - |
-| ::: | GUTAS | - |
-| ::: | INATO | - |
-| ::: | UDEBO | - |
-| ::: | KOGUS | - |
-| ::: | LUMKA | - |
-| ::: | NUKEN | - |
-| ::: | OXOVA | - |
-| ::: | PISKA | - |
-| ::: | RAKIM | - |
-| ::: | RANOV | - |
-| ::: | RIRAK | - |
-| ::: | SETOX | - |
-| ::: | SEVAM | - |
-| ::: | SOLTU | - |
-| ::: | TAROT | - |
-| ::: | TINIS | - |
-| ::: | TUROT | - |
-| ::: | UNIKI | - |
-| ::: | URAPI | - |
-| ::: | VORUT | - |
-| SAEU Ezeiza | BISUL | - |
-| ::: | GUXOR | - |
-| SAVU Comodoro Rivadavia | EGLAS | - |
-| ::: | IRIRO | - |
-| SBAO Atlantico | CIDER | - |
-| ::: | EDVEL | - |
-| ::: | EKALO | - |
-| ::: | GARUP | - |
-| ::: | GELAM | - |
-| ::: | IRONA | - |
-| ::: | MIGEX | - |
-| ::: | MUKEK | - |
-| ::: | OBKOL | - |
-| ::: | PALOR | - |
-| ::: | POLVO | - |
-| ::: | PORGA | - |
-| ::: | SORSA | - |
-| ::: | VURIL | - |
-| ::: | VURTO | - |
-| SBRE Recife | REGIS | - |
-| SUEO Montevideo | BIVEN | - |
+### DGAC Accra
+
+| Waypoint | Remarks |
+|----------|---------|
+| AMPAN | - |
+| ARKOS | - |
+| ARMAR | - |
+| BUGRI | - |
+| EREGO | - |
+| GANBI | - |
+| GAPEL | - |
+| GARLA | - |
+| KIDNI | - |
+| KINBU | - |
+| KISMI | - |
+| LOVLI | - |
+| MERID | - |
+| NAKUT | - |
+| OPEMU | - |
+| PINTI | - |
+| SABSO | - |
+| TAMOK | - |
+| TENTA | - |
+| TOBAT | - |
+
+### FAJO Johannesburg Oceanic 
+
+| Waypoint | Remarks |
+|----------|---------|
+| ALDOV | - |
+| ANTOM | - |
+| AVANA | - |
+| BUXIR | - |
+| EGVOL | - |
+| EPNET | - |
+| ETBOR | - |
+| GEPAB | - |
+| GEPEV | - |
+| IBLOK | - |
+| IMKAM | - |
+| ITLIK | - |
+| ITMEK | - |
+| NEPUM | - |
+| NERAX | - |
+| NIBEK | - |
+| NIGAM | - |
+| OKDOG | - |
+| OKTEL | - |
+| UVGOD | - |
+
+### FCCC Brazzaville 
+
+| Waypoint | Remarks |
+|----------|---------|
+| XURUT | - |
+
+### FNAN Luanda 
+
+| Waypoint | Remarks |
+|----------|---------|
+| URAPI | - |
+| OSUKU | - |
+| GAPEL | - |
+| TERBA | - |
+| OPAPO | - |
+| ONTAR | - |
+| EKBOB | - |
+| NERUP | - |
+| TIMAK | - |
+| TETUX | - |
+| NIDUS | - |
+
+### FYWF Windhoek 
+
+| Waypoint | Remarks |
+|----------|---------|
+| ANTEP | - |
+| DULGO | - |
+| ETUDU | - |
+| IBLOK | - |
+| NEVEP | - |
+| NIBEK | - |
+| NIGAM | - |
+
+### GLRB Roberts 
+
+| Waypoint | Remarks |
+|----------|---------|
+| BIMEN | - |
+| MIRKO | - |
+| UNEMA | - |
+| VONAS | - |
+
+### GOOO Dakar Oceanic
+
+| Waypoint | Remarks |
+|----------|---------|
+| BOTBU | - |
+| BUVUK | - |
+| DIKBA | - |
+| ENASA | - |
+| EPEMI | - |
+| ERKUS | - |
+| GAKSA | - |
+| GANDO | - |
+| GANKO | - |
+| GARKI | - |
+| GUTAS | - |
+| INATO | - |
+| UDEBO | - |
+| KOGUS | - |
+| LUMKA | - |
+| NUKEN | - |
+| OXOVA | - |
+| PISKA | - |
+| RAKIM | - |
+| RANOV | - |
+| RIRAK | - |
+| SETOX | - |
+| SEVAM | - |
+| SOLTU | - |
+| TAROT | - |
+| TINIS | - |
+| TUROT | - |
+| UNIKI | - |
+| URAPI | - |
+| VORUT | - |
+
+### SAEU Ezeiza 
+
+| Waypoint | Remarks |
+|----------|---------|
+| BISUL | - |
+| GUXOR | - |
+
+### SAVU Comodoro Rivadavia 
+
+| Waypoint | Remarks |
+|----------|---------|
+| EGLAS | - |
+| IRIRO | - |
+
+### SBAO Atlantico 
+
+| Waypoint | Remarks |
+|----------|---------|
+| CIDER | - |
+| EDVEL | - |
+| EKALO | - |
+| GARUP | - |
+| GELAM | - |
+| IRONA | - |
+| MIGEX | - |
+| MUKEK | - |
+| OBKOL | - |
+| PALOR | - |
+| POLVO | - |
+| PORGA | - |
+| SORSA | - |
+| VURIL | - |
+| VURTO | - |
+
+### SBRE Recife 
+
+| Waypoint | Remarks |
+|----------|---------|
+| REGIS | - |
+
+### SUEO Montevideo 
+
+| Waypoint | Remarks |
+|----------|---------|
+| BIVEN | - |
