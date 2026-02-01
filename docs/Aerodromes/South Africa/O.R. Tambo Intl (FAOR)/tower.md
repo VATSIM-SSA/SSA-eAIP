@@ -20,8 +20,10 @@ The Tower East controller is responsible for the operations of Runway 03R/21L, i
 
 !!! info "Exit Clearance"
     ZSABC, hold position, after departure Runway 06, cleared to leave the control zone to the west, not above 6500ft report overhead the Sandton City Tower."
+    
+### VRP Map
 
-// insert VRP map whenever the hell I make one
+![alt text](FAOR-VRPs.png)
 
 ## Wake Seperation
 
@@ -72,6 +74,3 @@ All aircraft are to comply with the standard missed approaches to avoid conflict
     SAA294, comply standard missed approach.
 
 Only once the pilot has been observed to be following the missed approach, should you then handoff to Johannesburg Radar for further.
-
-## Helicopters
-No idea

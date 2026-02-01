@@ -1,29 +1,28 @@
 # Home
 
-Welcome to the official **VATSIM Sub-Saharan Africa Division (VATSSA) Policy Hub**.  
-This site provides a single source of truth for all approved VATSSA policies.
+Welcome to the official **VATSIM Sub-Saharan Africa Division (VATSSA) eAIP**.  
 
-## Available Policies
+This platform has been developed to consolidate the existing controller and pilot documentation that exists within VATSSA. It allows for collaborative development of airspace and aerodrome information and knowledge that will be of service to both controllers and pilots. All of our pilot and controller resources are reference aligned with real-world procedures where applicable.
 
-**Membership**
+The eAIP is intended to support both pilots and controllers throughout VATSSA by proivding accurate, structured and up-to-date information pertaining to operations throughout VATSSA.
 
 ---
+
 
 ## Contributing
 
-VATSSA welcomes contributions from members of the community.
+- VATSSA's eAIP is open source, and therefore contributing is strongly encouraged.
 
-- **Feedback & Suggestions**: Please use [GitHub Issues](https://github.com/VATSIM-SSA/SSA-Policy/issues) to suggest improvements or raise questions.
-- **Pull Requests**: Members comfortable with Git can submit changes directly through a PR.
+- Should you wish to contribute to the eAIP, please contact VATSSA1 via Discord or email at vatssa1@Vatssa.com.
 
-All proposals will be reviewed by Division staff, with final approval handled via the established governance process.
+- Contributors can find more documentation [here](https://eaip2.vatssa.com/Contributing/eAIP/).
 
----
+## PR Review
 
-## Policy Review & Release Cycle
+- Pull Requests will be reviewed on a regular basis by the eAIP maintainers.
 
-VATSSA policies are reviewed on a **regular cycle**. Approved changes will be published as part of a tagged **GitHub Release**, ensuring clear version history and accountability.
+- Members are encouraged to provide as much detail as possible within their PR. 
 
----
 
 _VATSSA | VATSIM Sub-Saharan Africa Division_
+
