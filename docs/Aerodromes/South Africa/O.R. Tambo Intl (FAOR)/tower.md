@@ -23,7 +23,19 @@ The Tower East controller is responsible for the operations of Runway 03R/21L, i
     
 ### VRP Map
 
-![alt text](FAOR-VRPs.png)
+- Nigos
+- Corobrick Factory
+- Pinedene Station
+- SA Mint
+- N14 / R55 Interchange
+- Kyalahi Race Track
+- Sandton City Tower
+- Eastgate
+- PPC
+- Silver Ball
+- Old Plascon
+- Makro
+- Mario Viljoen High School
 
 ## Wake Seperation
 
