@@ -17,13 +17,14 @@
 - [FSS Operations](https://vatssa.com/hq/vmats/VATSSA_FSS_Document.pdf) 
 - [Transition Altitude / Level Guide](https://vatssa.com/hq/cribsheets/TA_Guide.pdf)
 
-- **Airspace Diagrams**
-    * [FAJA ACC Sector Splits](https://vatssa.com/hq/images/FAJA_SPLIT.png)
-    * [HBBA Airspace Diagram](https://vatssa.com/hq/images/HBBA.png)
-    * [HKNA Airspace Diagram](https://vatssa.com/hq/images/HKNA_Sector.png)
-    * [HRYR Airspace Diagram](https://vatssa.com/hq/images/HRYR.png)
-    * [HTDC Airspace Diagram](https://vatssa.com/hq/images/HTDC.png)
-    * [HTDC Agreed Levels Diagram](https://vatssa.com/hq/images/HTDC_Agreed-Levels.png)
+
+## Airspace Diagrams
+- [FAJA ACC Sector Splits](https://vatssa.com/hq/images/FAJA_SPLIT.png)
+- [HBBA Airspace Diagram](https://vatssa.com/hq/images/HBBA.png)
+- [HKNA Airspace Diagram](https://vatssa.com/hq/images/HKNA_Sector.png)
+- [HRYR Airspace Diagram](https://vatssa.com/hq/images/HRYR.png)
+- [HTDC Airspace Diagram](https://vatssa.com/hq/images/HTDC.png)
+- [HTDC Agreed Levels Diagram](https://vatssa.com/hq/images/HTDC_Agreed-Levels.png)
 
 
 ## Letters of Agreement
