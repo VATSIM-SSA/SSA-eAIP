@@ -1,4 +1,4 @@
-# Euroscope Alias (FSS)
+# Euoscope Alias (FSS)
 
 
 ## Before initial contact

@@ -280,6 +280,7 @@
 | .mrt | Make right turns. | - |
 | .lta | Right turn approved. | - |
 | .jld | Join left downwind runway $arrrwy. | - |
+| .jld | Join left downind runway $arrrwy. | - |
 | .jrd | Join RIGHT downwind runway $arrrwy. | - |
 | .jlb | Join left base runway $arrrwy. | - |
 | .jrb | Join RIGHT base runway $arrrwy. | - |

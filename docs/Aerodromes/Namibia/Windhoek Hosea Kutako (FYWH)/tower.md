@@ -60,7 +60,3 @@ Traffic departing on Runway 08/26 may require a backtrack to make use of the ful
 ## Missed Approach
 
 All aircraft are to comply with standard missed approach. Once the aircraft has been observed climbing out again, you may hand off to Windhoek Approach for further.
-
-
-
-

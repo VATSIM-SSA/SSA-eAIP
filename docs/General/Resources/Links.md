@@ -12,6 +12,7 @@
 ## Useful Information
 
 - [VATSSA Airspace](https://vatssa.com/hq/images/airspace.png)
+- [VATSSA Airsapce](https://vatssa.com/hq/images/airspace.png)
 - [FSS Map](https://vatssa.com/hq/images/fss.jpg)
 - [FSS Operations](https://vatssa.com/hq/vmats/VATSSA_FSS_Document.pdf) 
 - [Transition Altitude / Level Guide](https://vatssa.com/hq/cribsheets/TA_Guide.pdf)
