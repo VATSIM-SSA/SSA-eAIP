@@ -59,7 +59,8 @@ The following table should be used to determine the Transition Level for the Cot
 | :---------: | :---------: | :---------: | :---------: |
 | DBBB_TWR    | Cotonou Tower        | 118.700  | - |
 | DBBB_APP    | Cotonou Approach     | 125.900  | - |
-| DGAC_CTR  | Accra Control | 130.900  | - |
+| DXXX_CTR    | Lomé Control | 124.600 | Covers Bénin and Togo |
+| DGAC_CTR  | Accra Control | 130.900  | Bandboxes over Lomé Control |
 
 ## Airspace
 
@@ -67,5 +68,5 @@ The following table should be used to determine the Transition Level for the Cot
 | :---------: | :---------: | :---------: | :---------: | :---------: |
 | Cotonou CTR     | C | DBBB_TWR | GND - A010     | Military and Civil aerodrome |
 | Cotonou TMA     | C | DBBB_APP | GND - FL160   | - |
-| Accra ACC     | B | DGAC_CTR | A010 - FL155  | - |
-| Accra ACC     | A | DGAC_CTR | FL155 - FL460  | - |
+| Lomé ACC     | B | DXXX_CTR | A010 - FL155  | - |
+| Lomé ACC     | A | DXXX_CTR | FL155 - FL460  | - |
