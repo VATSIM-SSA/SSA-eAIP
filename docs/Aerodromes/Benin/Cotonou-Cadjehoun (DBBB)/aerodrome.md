@@ -59,7 +59,8 @@ The following table should be used to determine the Transition Level for the Cot
 | :---------: | :---------: | :---------: | :---------: |
 | DBBB_TWR    | Cotonou Tower        | 118.700  | - |
 | DBBB_APP    | Cotonou Approach     | 125.900  | - |
-| DGAC_CTR  | Accra Control | 130.900  | - |
+| DXXX_CTR  | Lomé Control | 124.600  | - |
+| DGAC_CTR  | Accra Control | 130.900  | Bandboxes over Lomé Control |
 
 ## Airspace
 
