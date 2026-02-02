@@ -131,7 +131,7 @@
 | .hor | Hold at $1, inbound track $2°, right hand pattern. | - |
 | .hol | Hold at $1, inbound track $2°, left hand pattern. | - |
 
-## Pilot infos
+## Pilot Info
 
 | Shortcut | Message | Remarks |
 |----------|---------|---------|
