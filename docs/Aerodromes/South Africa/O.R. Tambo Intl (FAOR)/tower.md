@@ -23,7 +23,7 @@ The Tower East controller is responsible for the operations of Runway 03R/21L, i
     
 ### VRP Map
 
-![alt text](FAOR-VRPs.png)
+![alt text](FAOR-VRP.png)
 
 ## Wake Seperation
 
