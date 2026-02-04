@@ -26,19 +26,33 @@ Once this data has been received by the SMC controller, the controller shall the
 
 ### Stand Restrictions
 
+| Stands | Restricted To |
+| :---------: | :---------: |
+| XX | Code A (max 15m wingspan) |
+| XX | Code B (max 24m wingspan) | 
+| XX | Code C (max 36m wingspan) | 
+| XX | Code E (max 65m wingspan) |
+| XX, XX, XX | Code F (max 80m wingspan) |
+
 The best suited Code F stands are: **Only use this section if the airport is CODE F compliant**
 
-- B17
+- 
 
-- B20
+- 
 
-- B23
-
-- B26
-
-- B29
+- 
 
 Controllers should issue these stands rather than any terminal ones.
+
+### Taxiway and Apron Restrictions
+
+| Taxiways | Restricted to |
+| :---------: | :---------: |
+| Taxiway X | Code A (max 15m wingspan) |
+| Taxiway X | Code B (max 24m wingspan) |
+| Taxiway X | Code C (max 36m wingspan) |
+| Taxiways X, X, X and X | Code E (max 65m wingspan) |
+| Taxiways X and X | Code F (max 80m wingspan) |
 
 **MARS**
 
