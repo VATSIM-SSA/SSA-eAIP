@@ -40,7 +40,7 @@ Traffic may taxi out of stand S10 without the requirement of pushback.
   * When Runway 22 is active, departing traffic shall be instructed to taxi to holding point A.
   * When Runway 04 is active, departing traffic shall be instructed to taxi to holding point D.
   * Intersection departures may be assigned using holding points B and M.
-  * Aircraft larger than the Boeing 737 are not permitted to make use of holding point M 
+  * Aircraft larger than the Boeing 737 are not permitted to make use of holding point M.
   * It can be assumed that all medium and heavy category aircraft require backtrack. 
 
 ### Taxi in
