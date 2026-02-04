@@ -1,6 +1,6 @@
-## Euroscope Alias (Standard)
+# Euroscope Alias (Standard)
 
-### Custom
+## Custom
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -8,7 +8,7 @@
 | .pdc1 | .msg $aircraft PDC for $aircraft ($type) / Cleared to $arr via $SID RWY $deprwy / Initial Climb $alt / Squawk $asquawk / Expect $cruise after departure. | - |
 | .pdc2 | .msg $aircraft This message is your departure clearance. No need to reply. 15 minutes before slot time, contact DEL for release. | - |
 
-### Before initial contact
+## Before initial contact
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -19,7 +19,7 @@
 | .cwr | .msg $aircraft Hello. $radioname is providing top-down service for $dep. Please contact me on $freq when you are ready. | - |
 | .ci | .msg $aircraft NO MOVEMENT without permission, please! $radioname is providing top-down service for $dep. HOLD POSITION and contact me IMMEDIATELY on $freq! | - |
 
-### Initial contact
+## Initial contact
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -33,7 +33,7 @@
 | .v? | Are you able to receive voice? | - |
 | .pym | Pass your message. | - |
 
-### Handoff
+## Handoff
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -46,7 +46,7 @@
 | .noatco | You are outside of my airspace, continue own discretion and make blind transmissions on UNICOM 122.800, good bye. | - |
 | .blt | Please use UNICOM 122.800 for blind transmissions. Thank you. | - |
 
-### Transponder
+## Transponder
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -55,7 +55,7 @@
 | .sqc | Set squawk CHARLIE. | - |
 | .sqi | Squawk IDENT | - |
 
-### Clearance
+## Clearance
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -68,7 +68,7 @@
 | .clv | Runway $deprwy, cleared to $arr via vectored departure. After departure climb to $1 ft and maintain runway heading, squawk $squawk. | - |
 | .sid? | Are you able to fly the $sid departure? | - |
 
-### Startup / Pushback
+## Startup / Pushback
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -88,7 +88,7 @@
 | .pw | Pushback approved, facing west. | - |
 | .pnw | Pushback approved, facing north-west. | - |
 
-### Taxi
+## Taxi
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -108,7 +108,7 @@
 | .gw | Give way to $1. | - |
 | .wcc | When clear of $1 continue taxi. | - |
 
-### Line up and departure
+## Line up and departure
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -126,7 +126,7 @@
 | .toc | Hold position, CANCEL take-off, I say again, CANCEL take-off. | - |
 | .stop | STOP immediately, $aircraft, STOP immediately. | - |
 
-### Lateral Navigation
+## Lateral Navigation
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -150,7 +150,7 @@
 | .os | Proceed offset $1 nm $2 of $3. | - |
 | .oc | Cancel offset. | - |
 
-### Vertical Navigation
+## Vertical Navigation
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -193,7 +193,7 @@
 | .rroc | Report rate of Climb. | - |
 | .rrod | Report rate of descent. | - |
 
-### Approach 
+## Approach 
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -218,7 +218,7 @@
 | .ris | Report runway in sight. | - |
 | .wc | wind $winds($arr) | - |
 
-### Speed Control
+## Speed Control
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -237,7 +237,7 @@
 | .autonospeed | No speed restrictions. | - |
 | .rns | Resume normal speed. | - |
 
-### Holdings
+## Holdings
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -246,7 +246,7 @@
 | .hor | Hold at $1, inbound track $2°, right hand pattern. | - |
 | .hol | Hold at $1, inbound track $2°, left hand pattern. | - |
 
-### Landing
+## Landing
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -259,7 +259,7 @@
 | .rt | Runway $1 is available for taxi. | - |
 | .so | Swing over runway $1. | - |
 
-### After Landing
+## After Landing
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -269,7 +269,7 @@
 | .wel | Welcome to $arr. | - |
 | .bye | Thanks for coming to $arr, good bye and see you next time. | - |
 
-### VFR
+## VFR
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -294,7 +294,7 @@
 | .ra | Routing approved. | - |
 | .hov | Hold over $1. | - |
 
-### Pilot Info
+## Pilot Info
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -309,7 +309,7 @@
 | .xp | It seems you are using XPlane with inappropriate graphic settings. Your computer is not able to render the requested number of frames in time thus slowing down your simulator. Please adjust your graphic settings to increase the frame rate. | - |
 | .cs | Your call sign looks different from our recommendation. Perhaps you are not yet familiar how to choose a call sign. For detailed information and guidance, please visit vatsim.net/pilot-resource-centre/general-lessons/choosing-callsign. | - |
 
-### Others
+## Others
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |
@@ -325,7 +325,7 @@
 | .sb | Standby, I'll call you back. | - |
 | .r | Roger. | - |
 
-### Airac
+## Airac
 
 | Shortcut | Message | Remarks |
 | -------- | ------- | ------- |

@@ -10,7 +10,7 @@ eAIP stands for **electronic Aeronautical Information Publication**. VATSSA mode
 
 ## Our eAIP
 
-The VATSSA eAIP is an easy to use website hosted on Github. All files are formatted as MKDocs. MKDocs formatting can be tricky to learn at first. The best way to learn it by using our Aerodrome Formats page, which can be found [here](https://eaip2.vatssa.com/Contributing/eAIP/Aerodrome-Formats/).
+The VATSSA eAIP is an easy to use website hosted on Github. All files are formatted as MKDocs. MKDocs formatting can be tricky to learn at first. The best way to learn it by using our Aerodrome Formats page, which can be found [here](https://eaip2.vatssa.com/Contributing/eAIP/Aerodrome%20Formats/aerodrome/).
 
 You can also view the MKDocs Admonitions [here](https://squidfunk.github.io/mkdocs-material/reference/admonitions/).
 
@@ -59,16 +59,16 @@ You can also view the MKDocs Admonitions [here](https://squidfunk.github.io/mkdo
 
 - Let's start by heading over to our repository.
 
-![alt text](repository-2.png)
+![alt text](Repository-2.png)
 
 - We will do a simple edit to the FACT eAIP.
 
-!!!warning 
-   Make sure you have changed your branch to the correct one. In this scenario we would name it something along the lines of FACT-eAIP.
+!!! warning 
+    Make sure you have changed your branch to the correct one. In this scenario we would name it something along the lines of FACT-eAIP.
 
 - To navigate to FACT, we will go through docs, Aerodromes, South Africa, and Cape Town International (FACT).
 
-- ![alt text](FACT-eAIP.png)
+![alt text](FACT-eAIP.png)
 
 - We will edit the "aerodrome.md."
 
