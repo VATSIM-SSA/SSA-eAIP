@@ -28,13 +28,11 @@ Whilst Mauritius is able to accomodate Code F aircraft (Airbus A380-800, Boeing 
 
 | Stands | Restricted To |
 | :---------: | :---------: |
-| 1, 4, 5 | Code C (max 36m wingspan) |
-| 2, 3, 7-11, 13, 14 | Code E (max 65m wingspan) |
-| 12, 15, 16 | Code F (max 80m wingspan) |
 | 41, 42, 47, 48 | Code A (max 15m wingspan) |
 | 43, 46 | Code B (max 24m wingspan) | 
-| 44, 45 | Code C (max 36m wingspan) | 
-| Taxiways H, Y, F and P | Code F (max 80m wingspan) |
+| 1, 4, 5, 44, 45 | Code C (max 36m wingspan) | 
+| 2, 3, 7-11, 13, 14 | Code E (max 65m wingspan) |
+| 12, 15, 16 | Code F (max 80m wingspan) |
 
 ### Taxiway and Apron Restrictions
 
@@ -43,6 +41,7 @@ Whilst Mauritius is able to accomodate Code F aircraft (Airbus A380-800, Boeing 
 | Taxiway L | Code B (max 24m wingspan) |
 | Taxiway K | Code C (max 36m wingspan) |
 | Taxiways J, N, Q and R | Code E (max 65m wingspan) |
+| Taxiways H, Y, F and P | Code F (max 80m wingspan) |
 
 ### Parallel Operation
 
