@@ -1,6 +1,6 @@
 # Tower
 
-The responsibility of Tower at Cotonou falls to the dedicated Tower ATS unit, "Lomé Tower" (DXXX_TWR) on 121.700. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Lomé CTR from GND - 1000ft MSL.
+The responsibility of Tower at Lomé falls to the dedicated Tower ATS unit, "Lomé Tower" (DXXX_TWR) on 121.700. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Lomé CTR from GND - 1000ft MSL.
 
 
 ## Runway Selection
@@ -94,6 +94,10 @@ The responsibility of Tower at Cotonou falls to the dedicated Tower ATS unit, "L
 
 !!! note 
     Pilots are expected to be familiar with the standard arrival and departure routings. To simplify the entry and exit clearances, pilots should only be instructed to report overhead the applicable VRPs. 
+
+### Map of Visual Reporting points
+
+![alt text](DXXXvrp.png)
 
 ### Phraseology
 !!! info "Circuit Clearance"
