@@ -16,16 +16,13 @@
 
 The following table should only be to determine the Transition Level for "Airport Name" ("ICAO").
 
-**TL reference table can be found [here](https://eaip2.vatssa.com/General/common/ssa-transition-table/).
+**TL reference table can be found [here](https://eaip2.vatssa.com/General/common/ssa-transition-table/). - Remove when done**
 | QNH Range | TL |
 | :---------: | :---------: |
-| 946 - 962   | XX |
-| 963 - 979   | XX |
-| 980 - 996   | XX |
-| 997 - 1013  | XX |
-| 1014 - 1029 | XX |
-| 1030 - 1046 | XX |
-| 1047 - 1099 | XX |
+| 995 - 1013 | XX |
+| 1014 - 1031 | XX |
+| 1032 - 1049 | XX |
+| 1050 - 1060 | XX |
 
 ## Declared Distances
 
