@@ -5,95 +5,87 @@
 
 ## Route Validation
 
+| Airport | Routing | Restrictions |
+| -------------|:-------------:|:-------------:|
+| HKEL         | (ANTUK) UTERA DUPSO | (06) MIN FL160 |
+| HKKI         | (ANTUK) APKUB NEVON | (06) MIN FL160 |
+| HKWJ         | TEVIN P312 NETOV | MIN FL110 - MAX FL230 |
+| HTDA/HTZA    | -                | MIN FL210 |
 
-**Flights to/from Wajir (HKWJ) are to comply with the following:**
-
-Routing:
-TEVIN P312 NETOV
-
-  * Minimum FL: FL110
-  * Maximum FL: FL230
-
-**Flights to/from Dar-es-Salaam (HTDA) or Zanzibar are to comply with the following:**
-
-  * Minimum FL: FL210 - due terrain enroute.
+**For flights to/from Dar-es-Salaam (HTDA) or Zanzibar (HTZA):**
 
 If FL is too low on initial contact, and pilot is unable to climb any higher, the amended route should be given:
-UVOVA UQ135 NEREV DCT MOV UL431 UVUKO - HTDA
-UVOVA UQ135 NEREV DCT MOV UL431 UVUKO OKPOL - HTZA
 
-**Flights to/from Eldoret (HKEL) are to comply with the following:**
-
-Routing: UTERA DUPSO
-
-  * Minimum FL: FL160 - due terrain enroute
-
-**Flights to/from Kisumu (HKKI) are to comply with the following:**
-
-Routing: APKUB NEVON
-
-  * Minimum FL: FL160 - due terrain enroute
+| Airport | Routing | Restrictions |
+| -------------|:-------------:|:-------------:|
+| HTDA         | UVOVA UQ135 NEREV DCT MOV UL431 UVUKO | - |
+| HTZA         | UVOVA UQ135 NEREV DCT MOV UL431 UVUKO OKPOL| - |
 
 ## Departure Procedures
 
-Due to the many procedures at HKJK, only the following SIDs should be used during normal operation unless stated otherwise.
+Due to the many procedures at HKJK, only the following SIDs should be used during normal operation unless stated or requested otherwise.
 
-(M) = Medium
-(H) = Heavy
+(M) = Medium 
+(H) = Heavy 
+x = Transition
 
-Runway 06
-  * APKUB - APKUB1A
-  * APLOG - APLOG2B
-  * EVATO - EVATO1X
-  * EVOGO - ATUDU1DxEVOGO
-  * GABSO - GABSO1Y (H) or GABSO1Z (M)
-  * IBROM - ATUDU1DxIBROM
-  * KAMAS - KAMAS1Y (M) or ETORU1AxKAMAS (H)
-  * KIMET - ETORU1AxKIMET
-  * LOSIN - ATUDU1DxLOSIN
-  * LOTAS - ETORU1AxLOTAS or LOTAS1Z (but not both)
-  * MAGAD - RWY HDG
-  * NAK - LANET2B
-  * NAKAT - NAKAT4B
-  * NORVU - ATUDU1DxNORVU
-  * PARIN - PARIN4B
-  * UTATA - ATUDU1DxUTATA
-  * UTERA - UTERA1A
-  * UVOVA - ATUDU1DxUVOVA
-  * WAV - ATUDU1DxWAV
+### Runway 06
 
-Runway 24
-  * APKUB - IBRAT3ExAPKUB
-  * APLOG - IBRAT3ExAPLOG
-  * EVATO - EVATO1U
-  * EVOGO - APNOM2ExEVOGO
-  * GABSO - APNOM2ExGABSO
-  * IBROM - APNOM2ExIBROM
-  * KAMAS - IBRAT3ExKAMAS
-  * KIMET - IBRAT3ExKIMET
-  * LOTAS - IBRAT3ExLOTAS
-  * LOSIN - APNOM2ExLOSIN
-  * MAGAD - IBRAT3ExMAGAD
-  * NAK - IBRAT3ExNAK
-  * NAKAT - IBRAT3ExNAKAT
-  * NORVU - APNOM2ExNORVU
-  * PARIN - IBRAT3ExPARIN
-  * TEVIN - APNOM2ExTEVIN
-  * UTATA - APNOM2ExUTATA
-  * UTERA - IBRAT3ExUTERA
-  * UVOVA - APNOM2ExUVOVA
+| Fix | SID | Remarks |
+| :---------: | :---------: | :---------: |
+| APKUB | APKUB1A | - |
+| APLOG | APLOG2B | - |
+| EVATO | EVATO1X | - |
+| EVOGO | ATUDU1DxEVOGO | - |
+| GABSO | GABSO1Y (H), GABSO1Z (M) | - |
+| IBROM | ATUDU1DxIBROM | - |
+| KAMAS | ETORU1AxKAMAS (H), KAMAS1Y (M) | - |
+| KIMET | ETORU1AxKIMET | - |
+| LOSIN | ATUDU1DxLOSIN | - |
+| LOTAS | ETORU1AxLOTAS, LOTAS1Z | Do not use both simultaneously |
+| MAGAD | RWY HDG | - |
+| NAK   | LANET2B | - |
+| NAKAT | NAKAT4B | - |
+| NORVU | ATUDU1DxNORVU | - |
+| PARIN | PARIN4B | - |
+| UTATA | ATUDU1DxUTATA | - |
+| UTERA | UTERA1A | - |
+| UVOVA | ATUDU1DxUVOVA | - |
+| WAV   | ATUDU1DxWAV | - |
+
+### Runway 24
+
+| Fix | SID | Remarks |
+| :---------: | :---------: | :---------: |
+| APKUB | IBRAT3ExAPKUB | - |
+| APLOG | IBRAT3ExAPLOG | - |
+| EVATO | EVATO1U | - |
+| EVOGO | APNOM2ExEVOGO | - |
+| GABSO | APNOM2ExGABSO | - |
+| IBROM | APNOM2ExIBROM | - |
+| KAMAS | IBRAT3ExKAMAS | - |
+| KIMET | IBRAT3ExKIMET | - |
+| LOSIN | APNOM2ExLOSIN | - |
+| LOTAS | IBRAT3ExLOTAS | - |
+| MAGAD | IBRAT3ExMAGAD | - |
+| NAK   | IBRAT3ExNAK | - |
+| NAKAT | IBRAT3ExNAKAT | - |
+| NORVU | APNOM2ExNORVU | - |
+| PARIN | IBRAT3ExPARIN | - |
+| TEVIN | APNOM2ExTEVIN | - |
+| UTATA | APNOM2ExUTATA | - |
+| UTERA | IBRAT3ExUTERA | - |
+| UVOVA | APNOM2ExUVOVA | - |
 
 ## Phraseology
 
-**The passing altitude to be issued in clearances is 2500ft.**
-
 SID + Transition
 !!! info "Delivery Phraseology"
-    "(callsign), cleared to (destination), (SID) departure via the(transition) transition, climb initially (FL), request level change enroute, squawk (squawk)."
+    "(callsign), cleared to (destination), (SID) departure via the(transition) transition, climb initially (FL), squawk (squawk)."
 
 SID
 !!! info "Delivery Phraseology"
-    "(callsign), cleared to (destination), (SID) departure, climb initially (FL), request level change enroute, squawk (squawk)."
+    "(callsign), cleared to (destination), (SID) departure, climb initially (FL), squawk (squawk)."
 
 RWY Heading
 
@@ -108,7 +100,7 @@ RWY Heading
 Initial Climbs at Nairobi aren't based off the SID themselves, but rather the direction and type of flight. See the table below for the criteria.
 
 
-| Type | Direction | Initial Climb To |
+| Type | Direction | Initial Climb |
 | :---------: | :---------: | :---------: |
 | Domestic | Westbound | FL100 |
 | Domestic | Eastbound | FL110 |
