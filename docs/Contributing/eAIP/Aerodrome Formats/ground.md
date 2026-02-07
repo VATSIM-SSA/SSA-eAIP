@@ -4,7 +4,7 @@ The responsibility of SMC at "Airport Name" falls to the dedicated Ground ATS un
 
 "Airport name" does not have a dedicated Ground frequency, as such all Ground responsibilities are assumed by "ATS Callsign" (XXXX_TWR). Under no circumstances should XXXX_GND ever be opened without prior approval from staff.
 
-**Remove the unsuitable one".
+**Remove the unsuitable one**".
 
 ## Visual Flight Rules (VFR) Aircraft.
 
