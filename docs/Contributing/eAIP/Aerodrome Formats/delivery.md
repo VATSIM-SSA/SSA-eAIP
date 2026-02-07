@@ -1,5 +1,8 @@
 # Delivery
 
+!!! info
+    "Airport Name" does not have a dedicated Delivery frequency, as such all Delivery responsibilities are assumed by "Next ATS Callsign" ("ICAO"_GND). Under no circumstances should a "ICAO"_DEL position ever be opened without prior approval from staff.   **Only include if there is no dedicated Delivery frequency**
+    
 ## Route Validation
 
 !!! warning

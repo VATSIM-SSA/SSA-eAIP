@@ -2,6 +2,10 @@
 
 The responsibility of SMC at "Airport Name" falls to the dedicated Ground ATS unit, "ATS Callsign" (XXXX_GND) on XXX.XXX MHz. SMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. SMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway. 
 
+"Airport name" does not have a dedicated Ground frequency, as such all Ground responsibilities are assumed by "ATS Callsign" (XXXX_TWR). Under no circumstances should XXXX_GND ever be opened without prior approval from staff.
+
+**Remove the unsuitable one**".
+
 ## Visual Flight Rules (VFR) Aircraft.
 
 On initial call with SMC, the VFR aircraft is expected to provide:
@@ -26,19 +30,33 @@ Once this data has been received by the SMC controller, the controller shall the
 
 ### Stand Restrictions
 
+| Stands | Restricted To |
+| :---------: | :---------: |
+| XX | Code A (max 15m wingspan) |
+| XX | Code B (max 24m wingspan) | 
+| XX | Code C (max 36m wingspan) | 
+| XX | Code E (max 65m wingspan) |
+| XX, XX, XX | Code F (max 80m wingspan) |
+
 The best suited Code F stands are: **Only use this section if the airport is CODE F compliant**
 
-- B17
+- 
 
-- B20
+- 
 
-- B23
-
-- B26
-
-- B29
+- 
 
 Controllers should issue these stands rather than any terminal ones.
+
+### Taxiway and Apron Restrictions
+
+| Taxiways | Restricted to |
+| :---------: | :---------: |
+| Taxiway X | Code A (max 15m wingspan) |
+| Taxiway X | Code B (max 24m wingspan) |
+| Taxiway X | Code C (max 36m wingspan) |
+| Taxiways X, X, X and X | Code E (max 65m wingspan) |
+| Taxiways X and X | Code F (max 80m wingspan) |
 
 **MARS**
 
@@ -85,10 +103,14 @@ By default, all aircraft should be taxied to the full length holding point unles
 | XX | XX | XXXX |
 | XX | XX | XXXX |
 
-### Taxi Restrictions 
+### Taxiway and Apron Restrictions
 
-**Please speak about what Code Aircraft the airport can accomodate**
+!!! warning 
+    Aircraft above Code X should be advised that there is no guranteed wingtip clearance provided / CODE F aircraft should be instructed to taxi via taxiway X and X
 
+| Aprons | Restricted to |
+| :---------: | :---------: |
+| - | - |
 
 ### Non-movement Areas
 
