@@ -2,6 +2,10 @@
 
 The responsibility of Tower at "Airport Name" falls to the dedicated Tower ATS unit, "Airport Name Tower" (XXXX_TWR) on XXX.XXX. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the "Airport Name" CTR from GND - XXXXft MSL.
 
+"Airport name" does not have a dedicated Tower frequency, as such all Tower responsibilities are assumed by "ATS Callsign" (XXXX_APP). Under no circumstances should XXXX_TWR ever be opened without prior approval from staff.
+
+**Remove the unsuitable one**.
+
 !!! note
     As the frequency for departure is already handed in the IFR clearance, handoffs to the next ATS unit ("Call Sign" Approach / Radar ) is not required with departing aircraft.
 
