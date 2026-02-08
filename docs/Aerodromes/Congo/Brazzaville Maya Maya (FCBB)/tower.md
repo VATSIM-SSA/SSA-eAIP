@@ -13,10 +13,10 @@ The responsibility of Tower at Brazzaville falls to the dedicated Tower ATS unit
  - All circuits are conducted left hand normally, but may be conducted right hand at the discretion of the Tower controller.   
 
 !!! info "Circuit Clearance"
-    ZSABC, hold position, after departure Runway XX, L / R hand circuits, not above XXXXft, report L / R downwind Runway XX.
+    ZSABC, hold position, after departure Runway XX, Left hand circuits, not above altitude 3000ft, report L / R downwind Runway XX.
 
 !!! info "Circuit Clearance (Non STD)"
-    ZSABC, hold position, after departure Runway XX, non standard L / R hand circuits, not above XXXXft, report non standard L / R downwind Runway XX.
+    ZSABC, hold position, after departure Runway XX, non standard Right hand circuits, not above altitude 3000ft, report non standard L / R downwind Runway XX.
 
 ### VRP Map
 
