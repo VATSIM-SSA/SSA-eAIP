@@ -7,7 +7,7 @@
 #### Delivery Clearance
 
 ```
-CALLSIGN, cleared to DESTINATION as filed, via DEPARTURE_PROCEDURE runway NUMBER, initial climb ALTITUDE, squawk NUMBER.
+CALLSIGN, cleared to DESTINATION as filed, via DEPARTURE_PROCEDURE runway NUMBER, initial climb ALTITUDE, squawk code XXXX.
 ```
 
 ### Pushback Procedures
