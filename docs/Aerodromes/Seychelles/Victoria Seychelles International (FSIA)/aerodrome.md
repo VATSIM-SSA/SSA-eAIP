@@ -1,4 +1,4 @@
-# Aerodrome Data
+h# Aerodrome Data
 
 Victoria Seychelles International Airport (IATA: SEZ, ICAO: FSIA) 
 
@@ -50,6 +50,7 @@ The following table should only be to determine the Transition Level for Victori
 
 | Position    | Callsign | Frequency | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
+| FSIA_ATIS | Seychelles ATIS | 131.900 | - |
 | FSIA_TWR   | Seychelles Tower| 118.300   | - |
 | FSIA_APP   | Seychelles Approach | 119.700   | - |
 | FSSS_CTR   | Seychelles Flight | 120.200   | - |
