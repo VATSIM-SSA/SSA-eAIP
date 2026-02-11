@@ -1,4 +1,4 @@
-h# Aerodrome Data
+# Aerodrome Data
 
 Victoria Seychelles International Airport (IATA: SEZ, ICAO: FSIA) 
 
