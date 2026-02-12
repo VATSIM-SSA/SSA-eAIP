@@ -59,7 +59,10 @@ There are no standard VFR routings for departures out of FCBB.
 ## Takeoff Phraseology
 
 !!! info "Takeoff (Full Length)"
-    ZSABC, Runway XX full length, wind 080 degrees at 9 knots, cleared for takeoff, bye bye.
+    ZSABC, Runway XX, wind 080 degrees at 9 knots, cleared for takeoff, report airborne.
 
 !!! info "Takeoff (Intersection)"
-    ZSABC, Runway XX at XX, wind 080 degrees at 9 knots, cleared for takeoff, bye bye.
+    ZSABC, Runway XX at XX, wind 080 degrees at 9 knots, cleared for takeoff, report airborne.
+
+!!! info "Handoff"
+    ZSABC, Contact Brazzaville Approach 121.100.
