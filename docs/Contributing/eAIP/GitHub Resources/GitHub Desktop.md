@@ -15,8 +15,8 @@ GitHub Desktop is another way of coding for GitHub. It can make the whole proces
 
 - If you choose to make edits through GitHub Desktop you will need Visual Studio Code installed. You can find the relevant info [here](https://eaip2.vatssa.com/Contributing/eAIP/GitHub-Resources/).
 
-!!!warning
-   You will have to keep your desktop version up to date by clicking the "Fetch origin" button.
+!!! warning
+    You will have to keep your desktop version up to date by clicking the "Fetch origin" button.
 
 
 ## Help

@@ -2,6 +2,10 @@
 
 The responsibility of SMC at "Airport Name" falls to the dedicated Ground ATS unit, "ATS Callsign" (XXXX_GND) on XXX.XXX MHz. SMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. SMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway. 
 
+"Airport name" does not have a dedicated Ground frequency, as such all Ground responsibilities are assumed by "ATS Callsign" (XXXX_TWR). Under no circumstances should XXXX_GND ever be opened without prior approval from staff.
+
+**Remove the unsuitable one**".
+
 ## Visual Flight Rules (VFR) Aircraft.
 
 On initial call with SMC, the VFR aircraft is expected to provide:
@@ -19,26 +23,47 @@ Once this data has been received by the SMC controller, the controller shall the
 
 ## Restrictions
 
-**Please talk about the relevant restirctions in regard to aircraft wingspan. You must mention Code F requirments if the airport is able to accomodate it**
+"Airport Name" is only able to accomodate up to Code X aircraft.
 
 !!! info "VFR Phraseology"
     "BAW09P, Confirm you are able to keep clear of the Bonair A350 ahead of you?"
 
 ### Stand Restrictions
 
+| Stands | Restricted To |
+| :---------: | :---------: |
+| XX | Code A (max 15m wingspan) |
+| XX | Code B (max 24m wingspan) | 
+| XX | Code C (max 36m wingspan) | 
+| XX | Code E (max 65m wingspan) |
+| XX, XX, XX | Code F (max 80m wingspan) |
+
 The best suited Code F stands are: **Only use this section if the airport is CODE F compliant**
 
-- B17
+- 
 
-- B20
+- 
 
-- B23
-
-- B26
-
-- B29
+- 
 
 Controllers should issue these stands rather than any terminal ones.
+
+### Taxiway and Apron Restrictions
+
+!!! warning 
+    Aircraft above Code X should be advised that there is no guranteed wingtip clearance provided / CODE F aircraft should be instructed to taxi via taxiway X and X
+
+| Aprons | Restricted to |
+| :---------: | :---------: |
+| - | - |
+
+| Taxiways | Restricted to |
+| :---------: | :---------: |
+| Taxiway X | Code A (max 15m wingspan) |
+| Taxiway X | Code B (max 24m wingspan) |
+| Taxiway X | Code C (max 36m wingspan) |
+| Taxiways X, X, X and X | Code E (max 65m wingspan) |
+| Taxiways X and X | Code F (max 80m wingspan) |
 
 **MARS**
 
@@ -54,11 +79,9 @@ At "Airport Name", the following stands can be used in conjuction with each othe
 | XX | XX | 
 | XX | XX | 
 
-
 ## Pushback Procedures
 
 SMC controllers should remain vigilant at all times.
-
 
 | Runway in use | Direction |
 | :---------: | :---------: |
@@ -85,15 +108,9 @@ By default, all aircraft should be taxied to the full length holding point unles
 | XX | XX | XXXX |
 | XX | XX | XXXX |
 
-### Taxi Restrictions 
-
-**Please speak about what Code Aircraft the airport can accomodate**
-
-
 ### Non-movement Areas
 
 **Only applicable at certain airports**
-
 
 ### Hotspots
 
@@ -104,6 +121,8 @@ Precision approach holding points are established at XX. During low visibility p
 
 ### Arriving Aircraft
 Upon arrival into "Airport Name", inbound aircraft are to provide their aircraft registration (tail number) and their parking bay (stand number) that they desire. You must check that their requested stand is in compliance with the restrictions listed above. If so, then the aircraft can be instructed to taxi to the bay. If not, ask the pilot for a different stand, or feel free to assign one yourself.
+
+**Change to ICAO where relevant [ICAO](https://eaip2.vatssa.com/General/phraseology/icao/)** REMOVE
 
 !!! info "Pilot Reporting Bay Number"
     SAA233: "SAA233, we are ZS-SZF looking for Bay XX."
