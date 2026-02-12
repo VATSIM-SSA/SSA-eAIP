@@ -63,8 +63,17 @@ The responsibility of Tower at "Airport Name" falls to the dedicated Tower ATS u
 
 **Please create a VFR Map**
 
-!!! info "Exit Clearance via STD VFR Departure Routing"
-    ZSABC, hold position, after departure Runway XX, comply with the XXXXXXXXXX XX departure, not above XXXXft, report abeam / overhead XXX XXXXXXXXX XXXXX."
+!!! info "Entry Clearance"
+    "ZSABC, cleared to enter the CTR from the N / S / W / E, not above altitude XXXXft, report L / R downwind Runway XX / Overhead VRP / Abeam VRP."
+
+!!! info "Entry Clearance via STD VFR Routing"
+    "ZSABC, cleared to enter the CTR, Standard XXX XXX Routing, not above altitude XXXXft, report L / R downwind Runway XX / Overhead VRP / Abeam VRP."
+
+!!! info "Exit Clearance"
+    "ZSABC, hold position, after departure Runway XX, exit the CTR to the N / S / W / E , not above altitude XXXXft, report exiting the CTR / Overhead VRP / Abeam VRP."
+    
+!!! info "Exit Clearance via STD VFR Routing"
+    "ZSABC, hold position, after departure Runway XX, comply with the XXXXXXXXXX XX departure, not above altitude XXXXft, report abeam / overhead XXX XXXXXXXXX XXXXX."
 
 ## Wake Seperation
 
