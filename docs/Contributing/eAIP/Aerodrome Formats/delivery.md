@@ -39,9 +39,9 @@ The responsibility of SMC at "Airport Name" falls to the dedicated Ground ATS un
 
 ## Phraseology
 
-**Change to ICAO where relevant [ICAO](https://eaip2.vatssa.com/General/phraseology/icao/)**
+**Change to ICAO where relevant [ICAO](https://eaip2.vatssa.com/General/phraseology/icao/)** REMOVE
 
-**The passing altitude to be issued in clearances is XXXXft.** REMOVE
+**The passing altitude to be issued in clearances is XXXXft.** REMOVE IF ICAO
 
 SID
 !!! info "Delivery Phraseology"
