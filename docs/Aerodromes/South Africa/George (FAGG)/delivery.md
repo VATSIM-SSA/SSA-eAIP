@@ -24,7 +24,7 @@
 Runway 11/29
 
 !!! info "Standard Instrument Departures"
-    There are no Standard Instrument Departures out of FAGG. All aircraft are to be given runway track with an initial climb of FL70.
+    There are no Standard Instrument Departures out of FAGG. All aircraft are to be given runway track with an initial climb of 8000ft.
     
 ## Phraseology
 
@@ -32,4 +32,4 @@ Runway 11/29
 
 Runway Track
 !!! info "Delivery Phraseology"
-    "SFR872, cleared to (destination), FLXXX on request, after departure runway XX, non standard, maintain runway track, climb to FL70, after passing altiude 4500ft, contact George Approach on 128.200, squawk XXXX."
+    "SFR872, cleared to (destination), FLXXX on request, after departure runway XX, non standard, maintain runway track, climb to altitude 8000ft, after passing altiude 4500ft, contact George Approach on 128.200, squawk XXXX."
