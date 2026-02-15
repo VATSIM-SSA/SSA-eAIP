@@ -21,6 +21,7 @@ The responsibility of Tower at Brazzaville falls to the dedicated Tower ATS unit
 ### VRP Map
 
 ![alt text](FCBB-VRPs.png)
+Base imagery © Google and imagery providers. Used in accordance with Google Maps/Earth permissions.
 
 ### VFR Departures
 
@@ -32,6 +33,7 @@ There are no standard VFR routings for departures out of FCBB.
 ### VFR Arrivals
 
 ![alt text](FCBB-VFR.png)
+Base imagery © Google and imagery providers. Used in accordance with Google Maps/Earth permissions.
 
 !!! info
     All standard VFR routes will require pilots to be given further instructions to join the circuit. None of the standard routings favour a certain runway.
