@@ -389,4 +389,4 @@ During Low Visibility Procedures, aircraft are to not exceed 10 knots until they
 
 From: **[VATSSA eAIP](https://eaip2.vatssa.com/)**
 
-Last Updated: **16/02/2026 20:48Z**
+Last Update: **16/02/2026 20:48Z**
