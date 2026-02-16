@@ -80,6 +80,6 @@
 
 - If needed, Tower will taxi no further than F, before being handed off to Ground for stand allocation.
 
-From: [VATSSA eAIP](https://eaip2.vatssa.com/) - **VATSSA eAIP**
+From: **[VATSSA eAIP](https://eaip2.vatssa.com/)**
 
 Last update: **16/02/2026 18:26**
