@@ -100,6 +100,6 @@
   
 - SLOP (Strategic Lateral Offset Procedure) is also available at Dakar Oceanic.
 
-*From: [VATSSA eAIP](https://eaip2.vatssa.com/)*
+From: **[VATSSA eAIP](https://eaip2.vatssa.com/)**
 
-*Last update: 16/02/2026 14:38*
+Last update: **16/02/2026 14:38**
