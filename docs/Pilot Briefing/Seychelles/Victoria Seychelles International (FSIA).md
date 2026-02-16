@@ -1,4 +1,4 @@
-# FSIA Pilot Briefing
+# Victoria Seychelles International (FSIA)
 
 *Pilots taking part in events that depart from or arrive at FSIA should make themselves familiar with this briefing page as well as with all existing charts.*
 
