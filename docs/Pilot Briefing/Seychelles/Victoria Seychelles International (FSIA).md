@@ -102,6 +102,6 @@ Charts are available through the public AIP [here](https://eaip2.vatssa.com/).
   
 - SLOP (Strategic Lateral Offset Procedure) is also available at Seychelles Oceanic.
 
-*From: [VATSSA eAIP](https://eaip2.vatssa.com/)*
+From: **[VATSSA eAIP](https://eaip2.vatssa.com/)**
 
-*Last update: 16/02/2026 15:21*
+Last update: **16/02/2026 15:21**
