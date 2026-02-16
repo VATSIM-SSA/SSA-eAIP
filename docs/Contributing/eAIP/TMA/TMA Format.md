@@ -2,6 +2,10 @@
 
 "ICAO_APP / CTR" will be the main station responsible.
 
+## Radar 
+
+There are no radar services applicable within the "Name" TMA. REMOVE IF NOT PROCEDURAL!!!
+ 
 **Any info on logon orders. For Example FAOR_W_APP should not be opened unless FAOR_APP is open.** REMOVE!!!
 
 **This section is for Director positions when avail. If no TWR then only _APP needs to be online to allow for the logon. IF you are confused consult VATSSA3 or VATSSA8.** REMOVE!!!
@@ -75,4 +79,4 @@ XXXX | **ICAO_W / E / S / N_APP**
 XXXX | **ICAO__APP**
 XXXX | **ICAO_W / E / S / N_APP**
 
-TMA formats are vary variable. Feel free to add whatever is relevant to TMA proceudres / Opertions. REMOVE!!!
+TMA pages are variable. Feel free to add whatever is relevant to TMA proceudres / Opertions. REMOVE!!!
