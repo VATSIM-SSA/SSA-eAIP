@@ -14,6 +14,15 @@
 
 Charts are available through the public AIP [here](https://eaip2.vatssa.com/).
 
+## Frequencies
+
+| Position    | Callsign | Frequency | Remarks |
+| :---------: | :---------: | :---------: | :---------: |
+| FSIA_ATIS | Seychelles ATIS | 131.900 | - |
+| FSIA_TWR   | Seychelles Tower| 118.300   | - |
+| FSIA_APP   | Seychelles Approach | 119.700   | - |
+| FSSS_CTR   | Seychelles Flight | 120.200   | - |
+
 ## Departure Briefing
 
 ### Clearance Delivery
