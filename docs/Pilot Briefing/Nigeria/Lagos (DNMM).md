@@ -12,6 +12,19 @@
 
 - Unfortunately, no charts are publicly available.
 
+## Frequencies
+
+| Position    | Callsign | Frequency | Remarks |
+| :---------: | :---------: | :---------: | :---------: |
+| DNMM_ATIS   | Lagos ATIS     | 123.800 | - |
+| DNMM_DEL    | Lagos Delivery | 119.100 | EVENTS ONLY |
+| DNMM_GND    | Lagos Ground   | 121.900 | - |
+| DNMM_E_GND  | Lagos Ground   | 121.100 | EVENTS ONLY |
+| DNMM_TWR    | Lagos Tower    | 118.100 | - |
+| DNKK_APP    | Lagos Approach | 124.700 | - |
+| DNMM_CTR    | Lagos Control  | 120.900 | - |
+| DNKK_CTR    | Kano East      | 124.100 | Bandbox |
+
 ## Departure Briefing
 
 ### Clearance Delivery
