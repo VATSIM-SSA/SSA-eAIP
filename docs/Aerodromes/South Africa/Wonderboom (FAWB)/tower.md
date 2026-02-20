@@ -29,17 +29,12 @@ The responsibility of Tower at Wonderboom falls to the dedicated Tower ATS unit,
 
 ### VRPs
 
-- N (GFA1/FAD 127): 2 NM N of Rooiwal PWR STN,
-- W: OHD Rosslyn industrial area,
-- NW: join W or N, that is: report at Rosslyn or 2 NM N of Rooiwal PWR STN.
-- E: OHD the Cullinan town or Cullinan dam.
-- SW: Crossing the Magaliesberg ridge S of Rosslyn industrial area.
-- SE: 5 NM S E of Mamelodi.g N E (GFA2/FAD128): 7 NM N E of Roodeplaat dam.
+![alt text](FAWB.png)
 
 ### VFR Runway Departures / Arrivals
 
 !!! warning
-    There are no standard VFR routings within the Wonderboom CTR.
+    There are no standard VFR routings within the Wonderboom CTR. Instead pilots must call for joining from the VRPs displayed on the VRP map.
 
 !!! info "Entering the CTR"
     ZSABC, cleared to enter the Wonderboom CTR not above altitude 5600ft, report L / R downwind runway XX / report "VRP".
