@@ -1,6 +1,6 @@
 # Tower
 
-The responsibility of Tower at Entebbe falls to the dedicated Tower ATS unit, Entebbe (HUEN_TWR) on 118.100. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the "Airport Name" CTR from GND - XXXXft MSL.
+The responsibility of Tower at Entebbe falls to the dedicated Tower ATS unit, Entebbe (HUEN_TWR) on 118.100. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Entebbe CTR from GND.
 
 ## Visual Flight Rules (VFR) Aircraft
 
