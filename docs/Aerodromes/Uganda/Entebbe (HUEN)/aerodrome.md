@@ -1,6 +1,7 @@
 # Aerodrome Data
 
-"Entebbe" International Airport (IATA: EBB, ICAO: HUEN) 
+"Entebbe" International Airport (IATA: EBB, ICAO: HUEN). It is located about 6 kilometres (3.7 mi) southwest of the town of Entebbe, on the northern shores of Lake Victoria.[5] This is approximately 40 kilometres (25 mi) by road south-west of the central business district of Kampala, the capital city of Uganda.
+
 
 ## Aerodrome Details
 
@@ -10,22 +11,9 @@
 | IATA | EBB |
 | Elevation | 3782ft |
 | Transition Altitude | 7000ft |
-| Transition Level | by ATC (see TL table) |
-| Mag Variation | XXº W |
-## Transition Levels
+| Transition Level | by ATC |
+| Mag Variation | 0.2º E |
 
-The following table should only be to determine the Transition Level for "Airport Name" ("ICAO").
-
-**TL reference table can be found [here](https://eaip2.vatssa.com/General/common/ssa-transition-table/).
-| QNH Range | TL |
-| :---------: | :---------: |
-| 946 - 962   | FL70 |
-| 963 - 979   | FL75 |
-| 980 - 996   | FL70 |
-| 997 - 1013  | FL75 |
-| 1014 - 1029 | FL70 |
-| 1030 - 1046 | FL75 |
-| 1047 - 1099 | FL70 |
 
 ## Declared Distances
 
