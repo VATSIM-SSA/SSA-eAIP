@@ -34,8 +34,6 @@ By default, all aircraft should be taxied to the full length holding point unles
 | :---------: | :---------: | :---------: |
 | 17 | A4 | 4117 | 
 | 35 | A1 | 4117 |
-| XX | XX | XXXX |
-| XX | XX | XXXX |
-| XX | XX | XXXX |
+
 
 
