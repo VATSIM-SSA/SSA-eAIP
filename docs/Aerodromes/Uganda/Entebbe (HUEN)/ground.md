@@ -32,34 +32,10 @@ By default, all aircraft should be taxied to the full length holding point unles
 
 | Runway in use | Intersection | TORA |
 | :---------: | :---------: | :---------: |
-| 17 | A4 | XXXX | 
-| 35 | XX | XXXX |
+| 17 | A4 | 4117 | 
+| 35 | A1 | 4117 |
 | XX | XX | XXXX |
 | XX | XX | XXXX |
 | XX | XX | XXXX |
 
-### Taxi Restrictions 
 
-**Please speak about what Code Aircraft the airport can accomodate**
-
-
-### Non-movement Areas
-
-**Only applicable at certain airports**
-
-
-### Hotspots
-
-**Only applicable at certain airports**
-
-Precision approach holding points are established at XX. During low visibility procedures (LVP) aircraft are to be instructed to hold short of these holding points. If the aircraft does not read these back clearly or the controller is unsure, the controller should confirm with the aircraft.
-
-
-### Arriving Aircraft
-Upon arrival into "Airport Name", inbound aircraft are to provide their aircraft registration (tail number) and their parking bay (stand number) that they desire. You must check that their requested stand is in compliance with the restrictions listed above. If so, then the aircraft can be instructed to taxi to the bay. If not, ask the pilot for a different stand, or feel free to assign one yourself.
-
-!!! info "Pilot Reporting Bay Number"
-    SAA233: "SAA233, we are ZS-SZF looking for Bay XX."
-
-!!! info "Taxiing to the Bay"
-    XXXX_GND: "SAA233, taxi via X and X to the bay.
