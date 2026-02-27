@@ -1,6 +1,6 @@
 # Aerodrome Data
 
-"Entebbe" International Airport (IATA: EBB, ICAO: HUEN). It is located about 6 kilometres (3.7 mi) southwest of the town of Entebbe, on the northern shores of Lake Victoria.[5] This is approximately 40 kilometres (25 mi) by road south-west of the central business district of Kampala, the capital city of Uganda.
+"Entebbe" International Airport (IATA: EBB, ICAO: HUEN). It is located about 6 kilometres (3.7 mi) southwest of the town of Entebbe, on the northern shores of Lake Victoria. This is approximately 40 kilometres (25 mi) by road south-west of the central business district of Kampala, the capital city of Uganda.
 
 
 ## Aerodrome Details
