@@ -35,8 +35,6 @@ HUEN doesn't have a dedicated Delivery Position, with Entebbe Apron (HUEN_GND) a
 
 SID
 !!! info "Delivery Phraseology"
-    "(callsign), cleared to (destination), FLxxx on request, after departure Runway XX, comply with the (SID), climb to FL70, passing 2000ft contact XXXX Approach / Radar on XXX.XXX, squawk (squawk)"
+    "(callsign), cleared to (destination),, departure (SID), squawk (squawk)"
 
-Runway Track
-!!! info "Delivery Phraseology"
-    "(callsign), cleared to (destination), FLxxx on request, after departure Runway XX, non standard, maintain runway track, climb to FL90, passing XXXXft contact XXXX Approach / Radar on XXX.XXX, squawk (squawk)"
+
