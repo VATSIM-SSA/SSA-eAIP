@@ -1,6 +1,6 @@
 # Ground
 
-The responsibility of SMC at "Airport Name" falls to the dedicated Ground ATS unit, "ATS Callsign" (XXXX_GND) on XXX.XXX MHz. SMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. SMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway. 
+The responsibility of SMC at "Bloemfontein" falls to the dedicated Ground ATS unit, "ATS Callsign" (XXXX_GND) on XXX.XXX MHz. SMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. SMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway. 
 
 "Airport name" does not have a dedicated Ground frequency, as such all Ground responsibilities are assumed by "ATS Callsign" (XXXX_TWR). Under no circumstances should XXXX_GND ever be opened without prior approval from staff.
 

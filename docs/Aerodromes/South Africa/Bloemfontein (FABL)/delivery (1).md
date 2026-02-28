@@ -1,52 +1,35 @@
 # Delivery
 
-The responsibility of SMC at "Airport Name" falls to the dedicated Ground ATS unit, "ATS Callsign" (XXXX_DEL) on XXX.XXX MHz. SMC will be responsible for the clearances and flow control.
-
 !!! info
-    "Airport Name" does not have a dedicated Delivery frequency, as such all Delivery responsibilities are assumed by "Next ATS Callsign" ("ICAO"_GND). Under no circumstances should a "ICAO"_DEL position ever be opened without prior approval from staff.   **Only include if there is no dedicated Delivery frequency**
+   Bloemfontein does not have a dedicated Delivery frequency, as such all Delivery responsibilities are assumed by "Bloemfontein Tower" (FABL_TWR). Under no circumstances should a FABL_DEL position ever be opened without prior approval from staff.
     
 ## Route Validation
 
-!!! warning
-    All flights departing out of "ICAO" must have their route checked and be in compliance with the latest Route Matrix. The Route Matrix below has been provided for easy cross checking of flights. **Use either local matrix or Simbrief to find the routes - Remove this line**
+ warning
+    All flights departing out of FABL must have their route checked and be in compliance with the latest Route Matrix. The Route Matrix below has been provided for easy cross checking of flights. **Use either local matrix or Simbrief to find the routes - Remove this line**
 
 | Destination / FIR Exit | Routing                                              | Restrictions         | Remarks                  |
 | ---------------------- | ---------------------------------------------------- | -------------------- | ------------------------ |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
-| "ICAO"                 |         -           | -                     | -                             |
+| FACT                 |BLV UZ40 ESRUK UQ51 GETEN|*|SIDs/STARs are suspended for runway 19, some are suspended for runway 01, check NOTAMS and ATIS for the most updated information regarding SIDs/STARs and which runway is in use.|
+| FALE                |BLV MZV GETOK|*|*|
+| FAGG                 |BLV ETGIS UQ9 XALIN APGUP|*|*                             |
+| FAOR                 |BLV EGSAN UZ4 TEVAR UZ2 NIBEX|*|*|
 
 
 ## Departure Procedures
-
-### Runway XX
-
-| Fix | SID | Remarks |
-| :---------: | :---------: | :---------: |
-| XXXXX | XXXXXXX | - |
-### Runway XX
+### Runway 02
 
 | Fix | SID | Remarks |
 | :---------: | :---------: | :---------: |
-| XXXXX | XXXXXXX | - |
+| OKTIG | OKTIG1B | INITIAL CLIMB TO FL210 |
 
 ## Phraseology
-
-**Change to ICAO where relevant [ICAO](https://eaip2.vatssa.com/General/phraseology/icao/)** REMOVE
-
-**The passing altitude to be issued in clearances is XXXXft.** REMOVE IF ICAO
+**The passing altitude to be issued in clearances is 8000ft.**
 
 SID
 !!! info "Delivery Phraseology"
-    "(callsign), cleared to (destination), FLxxx on request, after departure Runway XX, comply with the (SID), climb to FL70, passing 2000ft contact XXXX Approach / Radar on XXX.XXX, squawk (squawk)"
+    "(callsign), cleared to (destination), FLxxx on request, after departure Runway XX, comply with the (SID), climb to FL210, passing 8000ft contact Bloemfontein Approach on 124.300, squawk (squawk)"
 
 Runway Track
 !!! info "Delivery Phraseology"
-    "(callsign), cleared to (destination), FLxxx on request, after departure Runway XX, non standard, maintain runway track, climb to FL90, passing XXXXft contact XXXX Approach / Radar on XXX.XXX, squawk (squawk)"
+    "(callsign), cleared to (destination), FLxxx on request, after departure Runway XX, non standard, maintain runway track, climb to FL90, passing 8000ft contact Bloemfontein Approach on 124.300, squawk (squawk)"
