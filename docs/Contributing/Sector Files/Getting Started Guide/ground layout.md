@@ -103,26 +103,30 @@ In addition you can view the [TopSky Documentation](https://forum.vatsim-scandin
 
 - To delete layers: you can either `Right-click > Remove Layer` or by clicking the remove layer icon in the layers toolbar.
 
+- Depending on the number of layers, available each layer will be prefixed with a different number.
+
+- However, the suffix after the number will always be the same.
+
 - You can also use shift to select multiple layers.
 
 ![Delete Layers](Delete-Layers.png)
 
 - Delete the following layers, if they are present:
-- `017_tower_POINT`
-- `016_windsock_POINT`
-- `015_navigationaid_POINT`
-- `008_gate_POINT`
-- `004_taxiway_POINT`
-- `002_apron_POINT`
-- `001_aeroway_aerodrome_points`
+- `XXX_tower_POINT`
+- `XXX_windsock_POINT`
+- `XXX_navigationaid_POINT`
+- `XXX_gate_POINT`
+- `XXX_taxiway_POINT`
+- `XXX_apron_POINT`
+- `XXX_aeroway_aerodrome_points`
 
 - To hide a layer, click the eye icon next to the layer:
 
 ![Hiding Layers](Hide-Layer.png)
 
 - Hide the following layers, if they are present:
-- `012_holding_position_POINT` (maybe helpful later when adding stop bars)
-- `006_parking_position_POINT` (maybe useful for stands)
+- `XXX_holding_position_POINT` (maybe helpful later when adding stop bars)
+- `XXX_parking_position_POINT` (maybe useful for stands)
 
 ## Widening Taxiways and Runways
 
@@ -146,7 +150,7 @@ In addition you can view the [TopSky Documentation](https://forum.vatsim-scandin
 
 - Change the URL to
   * Google: https://www.google.cn/maps/vt?lyrs=s@189&gl=cn&x={x}&y={y}&z={z}
-  * Bing: http://ecn.t\3.tiles.virtualearth.net/tiles/a{q}.jpeg?g=1
+  * Bing: http://ecn.t3.tiles.virtualearth.net/tiles/a{q}.jpeg?g=1
 
 - No other settings need to be changed.
 
@@ -157,6 +161,116 @@ In addition you can view the [TopSky Documentation](https://forum.vatsim-scandin
 - The canvas will change to a satellite map.
 
 ![Satellite Canvas Map](Satellite-Map-Canvas.png)
+
+## Splitting Runway Layers
+
+- In OpenStreetMaps, all runways are grouped under one layer.
+
+- In order to convert the runwaay lines to polygon, each runway needs its own line layer, for us to control the widths of each runway individually.
+
+- First select the runway, layer then `Right Click > Open Attribute Table` or press `F6`
+
+![Attribute Table](Attribute-Table.png)
+
+- The attribute table details all the parts, also called features used to make this layer.
+
+- This also includes OSM attributes which help majorly.
+
+- Note that when you click the row number of any specific part that part will be highlited on the map while getting an indication of the number of selected features.
+
+![Selected Features](Selected-Features.png)
+
+- To split the runway select all applicable faeatures, including displaced thresholds. To identify which displaced threshold belongs to which runway, use the AIP or select the displaced threshold and see which runway it lines up with
+
+- Use `Ctrl` to select multiple features
+
+![Seleected Features in the Attribute Table](Selected-Features-Attribute-Table.png)
+
+- To copy the selected features to the clipboard, use `Ctrl+C` or use the copy to clipboard icon 
+
+![Copy Fetaures](Attribute-Table-Copy-Features.png)
+
+- To get the individual runway we are looking for, go to `Edit > Paste Features as > New Vector Layer`
+
+![Paste Features as Vector Layer](Paste-Features-as-VL.png)
+
+- In this dialog set the following:
+- File name: Click the three dots to the right and navigate to the folder you set for the airport, name the file a suitable name (the name of the runway), instead of using a slash you can use an underscore for file names such as `RW 03L_21R` instead of `RW 03L/21R`
+- Layer name: Name it the Runway, ie RW03L/21R
+- Click OK to add it to the map.
+- You can rename the layer name by `Right Click > Rename Layer` or by pressing `F2` as needed
+
+![New Runway Layer](New-VL.png)
+
+- Similarly the stopways can be split in the same manner to get seperate stopway layers for each runway.  
+
+## Splitting Taxiways
+- Before converting the taxiways, you may find it helpful to split the taxiway layer into each invidual taxiway reference ie `A`, `J`, `K` and so on.
+
+- In the Processing Toolbox, under `Aerodrome Utilities`, locate the `Split Taxiways` algorithm.
+
+![Taxiway Split Algorithm](./Taxiway-Split.png)
+
+- Select the input layer, which should be your `_taxiway_centerline_LINE` layer.
+
+- This will result in each taxiway getting its own layer, plus a  `TAXIWAY_NULL` layer to identify the taxiways that do not have a layer.
+
+![Taxiways Split](./Taxiways-Split.png)
+  
+### A quick note on saving layers
+
+- You will note that the right hand side of each layer has a memory chip icon.
+
+- This indicates that this layer is a memory layer, temporary and the data will only exist while QGIS is open.
+
+- If you close QGIS, you will lose all information about that layer.
+
+- To save that layer, click on the memory chip will open a dialog similar to the paste as vector layer dialog
+
+![Paste as Vector Layer Dialog](./Paste-Features-as-VL.png)
+
+- To make the layers easier to manage, you can select all the newly created taxiway layers and group them.
+
+- You can also delete any taxiway layers that are not in use, for example if all other taxiways have the same width except one taxiway, then only that taxiway is seperately needed.
+
+
+## Runway/Taxiway Conversion
+
+- The runways and stopways if existing, need to be converted into polygons so that they can be exported and rendered in EuroScope
+
+- In the Processing Toolbox, under `Aerodrome Utilities`, double click the `Widen Taxiway` algorithm to open it.
+
+![Widen Taxiway Algorithm](./Widen-Taxiway.png)
+
+- Set the input layer to the runway which you are going to "widen" (so that it becomes a rectangle)
+
+- Set the buffer distance to width of the runway as published in the eAIP.
+
+- Change the buffer cap style to square as we want the runway edges to be rectangular, not rounded.
+
+- Tick the checkbox to dissolve the result.
+
+- For the output layer, parameter, click the 3 dots and choose save to GeoPackage then save it to a relevant location as discussed earlier.
+
+- In the save prompt it will ask you the output layer name, name this whatever you want.
+
+- Repeat the same process for stopways (if applicable)
+
+- You can also use this process to convert taxiways.
+
+![Runway Converted(Widened)](./Runway-Converted.png)
+
+## Fine Tuning Runways and Taxiways
+
+- In order to make the runways and taxiways look as realistic as possible we can adjust the layer order to get better accuracy.
+
+![Widened Taxiways and Runways](./Widened-Taxiways+Runways.png)
+
+- In this case we move the runway layer above all other taxiways, by dragging the layer upwards.
+
+![Runway Order](./Runway-Order.png)
+
+In this case, you can still notice that taxiway E does not make a perfect intersection with the runway.
 
 ## Exportation
 - Shift-click everything except the hidden map layer else and create a group named after your ICAO.

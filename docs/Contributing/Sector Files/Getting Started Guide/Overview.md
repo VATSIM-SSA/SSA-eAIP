@@ -18,7 +18,7 @@ Furthermore, should you have any remaining questions, we strongly encourage you 
 
 - Contributors are encouraged to provide as much detail as possible within their PR.
 
-- Please follow the getting started guide [here](https://eaip2.vatssa.com/Contributing/Sector%20Files/Getting%20Started%20Guide/Overview/).
+- Please follow the getting started guide [here](ground%20layout.md).
 
 
 - We also encourage contributors to split up their PRs into branches. This makes it easier for maintainers to track changes.
