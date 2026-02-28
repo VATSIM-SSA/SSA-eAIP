@@ -53,8 +53,8 @@ VFR Procedures pubicly unavailable.
 
 ## Takeoff Phraseology
 
-!!! info "Takeoff (Full Length)"
+ "Takeoff (Full Length)"
     5XEBB, Runway XX full length, wind 080 degrees at 9 knots, cleared for takeoff.
 
-!!! info "Takeoff (Intersection)"
+ "Takeoff (Intersection)"
     ZSABC, Runway XX at XX, wind 080 degrees at 9 knots, cleared for takeoff.
