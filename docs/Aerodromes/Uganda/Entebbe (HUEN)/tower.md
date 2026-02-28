@@ -19,7 +19,18 @@ The responsibility of Tower at Entebbe falls to the dedicated Tower ATS unit, En
 
 !!! info "Circuit Clearance (Non STD)"
     5XEBB, hold position, after departure Runway XX, non standard L / R hand circuits, not above XXXXft, report non standard L / R downwind Runway XX.
+    
+### VRP Map
 
+VRP's publicly unavailable.
+
+### VFR Runway XX Departures / Arrivals
+
+VFR Procedures publicly unavailable.
+
+### VFR Runway XX Departures / Arrivals
+
+VFR Procedures pubicly unavailable.
 ## Wake Seperation
 
 ### Arrivals (nm)
