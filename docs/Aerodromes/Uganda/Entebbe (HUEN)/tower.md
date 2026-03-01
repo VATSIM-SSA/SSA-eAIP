@@ -26,11 +26,14 @@ VRP's publicly unavailable.
 
 ### VFR Runway 17 Departures / Arrivals
 
-VFR Procedures publicly unavailable.
+ Entry Clearance
+    "5XEBB, cleared to enter the CTR from the N / S / W / E, not above altitude XXXXft, report L / R downwind Runway 17."
 
 ### VFR Runway 35 Departures / Arrivals
 
-VFR Procedures pubicly unavailable.
+ Entry Clearance
+    "5XEBB, cleared to enter the CTR from the N / S / W / E, not above altitude XXXXft, report L / R downwind Runway 35."
+
 ## Wake Seperation
 
 ### Arrivals (nm)
