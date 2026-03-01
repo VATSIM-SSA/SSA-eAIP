@@ -45,6 +45,6 @@ All flights departing out of HUEN must have their route checked and be in compli
 
 
  "Delivery Phraseology"
-    "(callsign), cleared to (destination),, departure (SID), Intial Climb (intial climb), squawk (squawk)"
+    "(callsign), cleared to (destination), departure (SID), Intial Climb (intial climb), squawk (squawk)"
 
 
