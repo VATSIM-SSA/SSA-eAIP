@@ -23,7 +23,7 @@ SMC controllers should remain vigilant at all times.
 
 **An aircraft must be squawking their assigned ASSR code provided in the clearance before pushback clearance is issued. If this is not the case, the SMC controller must instruct the pilot to do so BEFORE any push clearance is issued.**
 
- "Pushback Phraseology"
+ Pushback Phraseology
     "(callsign), push and start approved, face N / S / W / E , QNH (QNH)."
 
 ## Taxi Procedures
