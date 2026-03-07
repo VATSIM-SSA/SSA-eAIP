@@ -24,26 +24,25 @@ N'Djili Airport (IATA: FIH, ICAO: FZAA)
 
 | Type | ID | Frequency | Remarks | 
 | :---------: | :---------: | :---------: | :---------: |
-| XXX XXX | XXX | XXX.XXX MHZ | - | 
-| XXX XXX | XXX | XXX.XXX MHZ | - | 
-| XXX XXX | XXX | XXX.XXX MHZ | - |
-| XXX XXX | XXX | XXX.XXX MHZ | - | 
+| ILS/LOC 24 | NDJ | 110.3 MHZ | - | 
+| VOR 24 | KSA | 115.0 MHZ | - | 
+| VOR 06 | KSA | 115.0 MHZ | - |
+
 
 ## Aprons 
 
 | Apron | Stands | Entry/Exit Point | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| Apron X | XX - XX | Twy X | - |
-| Apron X | XX - XX | Twy X | - |
-| GA Apron | XX - XX | Twy X | - |
+| Apron 1 | Free parking | Twy C | - |
+| Apron 2 | 1 - 16 | Twy C/B/A | - |
+| Apron 3 | Free parking | Twy A | - |
 
 ## ATS Frequencies
 
 | Position    | Callsign | Frequency | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| "ICAO"_ATIS  | "Airport Name" ATIS | XXX.XXX   | - |
-| "ICAO"_DEL   | "Airport Name" Delivery | XXX.XXX   | - |
-| "ICAO"_GND   | "Airport Name" "Ground / Apron"| XXX.XXX0   | - |
-| "ICAO"_TWR   | "Airport Name" Tower| XXX.XXX   | - |
-| "ICAO"_APP   | "Airport Name" "Approach / Radar" | XXX.XXX   | - |
-| "ICAO"_CTR   | "Airport Name" "Area / Centre / Radio" | XXX.XXX   | - |
+| FZAA_ATIS  | N'Djili ATIS | 120.500   | - |
+| FZAA_GND   | N'Djili Ground | 121.900   | - |
+| FZAA_TWR   | N'Djili Tower| 118.100   | - |
+| FZAA_APP   | N'Djili Approach | 119.700   | - |
+| FZZA_CTR   | Kinshasa  Control | 126.100   | - |
