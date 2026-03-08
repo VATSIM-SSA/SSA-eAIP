@@ -272,6 +272,108 @@ In addition you can view the [TopSky Documentation](https://forum.vatsim-scandin
 
 In this case, you can still notice that taxiway E does not make a perfect intersection with the runway.
 
+To fix this we can edit the taxiway E layer so that it intercepts perfectly with 03L/21R.
+
+To make it easier to edit, change the opacity of the Taxiway E layer by selecting the layer then presing `F7`. This will open the layer styling panel to the right, just above the processing toolbox.
+
+![Layer Styling Panel](./Layer-Styling-Panel.png)
+
+Scroll down(if neccessary) until you see the opacity slider.
+
+![Opacity Slider at 100%](./Opacity-Slider-100.png)
+
+I would recommend reducing it to 50% or less so that you can see the underlying layers and it is easier to align the layers.
+
+![Opacity Slider at 50%](./Opacity-Slider-50.png)
+
+Next, we need to set the snapping options in this project, allowing us to snap the layers together without causing other errors later in the process.
+
+Naviagate to the topbar, then select `Project > Snapping Options`
+
+![Project Snapping Options](./Project-Snapping-Options.png)
+
+That will open a dialog like this:
+
+![Project Snapping Settings](./Project-Snapping-Settings.png)
+
+Click the magnet icon to enable snapping:
+
+![Enable Snapping](./Enable-Snapping.png)
+
+This will reveal the other settings related to snapping, primarily what we care about is the snapping mode:
+
+![Snapping Mode](./Snapping-Mode.png)
+
+Which can be of:
+- Vertex
+- Segment
+- Area
+- Centroid
+- Middle of Segment
+- Line endpoints
+
+!!! info
+  99% of the time, you will only need vertex and segment, for our purposes, to be selected.
+
+Ensure that vertex and segment are both selected, they should be underlined.
+
+![Vertex + Segment](./Vertex-Segment.png)
+
+Note that as in, the image. The top selection may be only be one of the selected options, but you can also double-check by clicking the drop-down.
+
+Briefly noting: The number 12 stands for the snapping radius, this may be helpful if you want to adjust the snapping behaviour of the snapping feature.
+
+Allow Overlap dropdown - this decides whether snapping behaviour will allow overlap of different layers
+
+Topological editing - a feature in QGIS that allows editing of objects with topographical information, while keeping them topographically correct (not needed here)
+
+Snapping on intersection - As the name implies, this specifically enables snapping to intersections of different layers 
+
+!!! info
+  Self snapping - Allows features to snap to themselves, this may be useful if you are working with any taxiway that loops back on itself or when working with turning pads.
+
+I would highly recommend only using the snapping feature when it is required, because most scenarios do not require accurate snapping.
+
+Now let's edit taxiway E for this example.
+
+With taxiway E selected, enter edit mode by clicking on the pencil icon on the to 2nd toolbar from the top.
+
+![Entering Edit Mode](./Entering-Edit-Mode.png)
+
+You will notice, when hovering over the layer it highlights all vertices and segments of that layer
+
+![Hovering over the Layer](./Hovering-Over-the-Layer.png)
+
+Now we can select and move the first 4 vertices and move them so that the snap to the layers like this:
+
+![Editing First 4 Vertices](./Editing-First-Four-Vertices.png)
+
+As you can see it is very intuitive to click and move around the vertices, and that the reduced opacity also allows us to see the satellite scenery layer, which will be helpful in the process of adding runway stripes later. The edits can be continued in a similar fashion.
+
+Sometimes you may notice that there are not enough vertices to model the taxiway accurately. To solve this you can click the midpoint of any line segment (where there is +) to create a new vertex and drag them to the corresponding location.
+
+Clicking on the (+) icon:
+![Clicking on the Plus Icon](./Plus-Icon-Click.png)
+
+New Vertex created:
+![New Vertex Created](./New-Vertex-Created.png)
+
+Dragging the vertex to the proper location:
+![Vertex Relocated](./Vertex-Relocated.png)
+
+On the other hand, if a vertex needs to be deleted, click the vertex:
+![Vertex Selected](./Vertex-Relocated.png)
+
+And the press the `Delete` key to delete the vertex:
+![Vertex Deletd](./Vertex-Deleted.png)
+
+As good practice, it is best to align the vertices to the satellite taxiway or find a compromise if they are very close (as OpenStreetMap data may be slightly more up-to-date and accurate than satellite imagery).
+
+After performing the necessary edits, you can change the opacity back to 100%:
+![Opacity Restored](./Opacity-Restored.png)
+
+To exit edit mode click on the pencil icon and click save on the next dialog to save changes to that layer
+
 ## Exportation
 - Shift-click everything except the hidden map layer else and create a group named after your ICAO.
 - Move back to the processing toolbox and select `Convert GeoJSON to TS/GR`
