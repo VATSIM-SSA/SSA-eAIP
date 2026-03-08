@@ -2,11 +2,11 @@
 
 ![alt text](Contributing.png)
 
-Welcome to VATSSA's contributing guide. These quick guides have been setup to teach you how to contribute to our eAIP or Sector Files. VATSSA welcomes any and all help we can get in relation to our eAIP or Sector Files, both of which are constantly being devloped. To give you the best start we have created some user friendly contributing guides. We aim to take you from zero experience to a contributor of our eAIP and Sector Files.
+Welcome to VATSSA's contributing guide. These quick guides have been setup to teach you how to contribute to our eAIP or Sector Files. VATSSA welcomes any and all help we can get in relation to our eAIP or Sector Files, both of which are constantly being developed. To give you the best start we have created some user friendly contributing guides. We aim to take you from zero experience to a contributor of our eAIP and Sector Files.
 
 ## Notes
 
-- If you have not, please request the relevant contributor roles on our Discord Server, a link to which can be found [here](community.vatsim.net)
+- If you have not, please request the relevant contributor roles on our Discord Server, a link to which can be found [here](https://community.vatsim.net/)
 
 - Our eAIP and Sector Files are based off of GitHub.
 
@@ -14,7 +14,7 @@ Welcome to VATSSA's contributing guide. These quick guides have been setup to te
 
 - Pull Requests are reviewed on a regular basis by our Maintainers
 
-- These guides is not exhaustive. For additional support or questions you can message in our contributor chats on Discord.
+- These guides are not exhaustive. For additional support or questions you can message in our contributor chats on Discord.
 
 
 ## Exclusion of Liability
