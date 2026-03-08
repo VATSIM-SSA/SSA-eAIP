@@ -11,7 +11,7 @@ The responsibility of Tower at Cotonou falls to the dedicated Tower ATS unit, "C
 
   * Runway changes must be coordinate with existing TWR and APP controllers.
   * If possible, hold aircraft on stand before a runway change operation.
-  * If an aircraft is already taxying on Twy F, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
+  * If an aircraft is already taxiing on Twy F, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
   * If an aircraft as already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
 
 ## Wake Separation
@@ -41,7 +41,7 @@ The responsibility of Tower at Cotonou falls to the dedicated Tower ATS unit, "C
 
 If requested by pilots, aircraft are permitted to backtrack onto  Runway 06 or 24 at full length. 
 
-!! info "Backtracking Clearance"
+!!! info "Backtracking Clearance"
     "TYOWU, cleared to enter and backtrack Runway 24, report fully ready."
 
 ## Takeoff Phraseology

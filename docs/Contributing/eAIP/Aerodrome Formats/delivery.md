@@ -1,5 +1,10 @@
 # Delivery
 
+The responsibility of SMC at "Airport Name" falls to the dedicated Ground ATS unit, "ATS Callsign" (XXXX_DEL) on XXX.XXX MHz. SMC will be responsible for the clearances and flow control.
+
+!!! info
+    "Airport Name" does not have a dedicated Delivery frequency, as such all Delivery responsibilities are assumed by "Next ATS Callsign" ("ICAO"_GND). Under no circumstances should a "ICAO"_DEL position ever be opened without prior approval from staff.   **Only include if there is no dedicated Delivery frequency**
+    
 ## Route Validation
 
 !!! warning
@@ -34,7 +39,9 @@
 
 ## Phraseology
 
-**The passing altitude to be issued in clearances is XXXXft.**
+**Change to ICAO where relevant [ICAO](https://eaip2.vatssa.com/General/phraseology/icao/)** REMOVE
+
+**The passing altitude to be issued in clearances is XXXXft.** REMOVE IF ICAO
 
 SID
 !!! info "Delivery Phraseology"
