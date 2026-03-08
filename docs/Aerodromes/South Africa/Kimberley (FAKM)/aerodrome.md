@@ -1,5 +1,5 @@
 # Aerodrome Data
-Kimberley Airport (IATA: KIM, ICAO: FAKM) based in the Northern Cape is an airport that serves Kimberley, the capital city of the province and its surrounding areas. It was established in 1912. The airport is approximately 6.5 kilometers (12 minutes) away from the centre of Kimberley. Annually, the Airport transports approximately 170,000 passengers across around 10,000 flights through airlines Airlink and ChemAir and provides regular domestic flights in South Africa between Cape Town International Airport and O.R Tambo International Airport in Johannesburg.
+Kimberley Airport (IATA: KIM, ICAO: FAKM) based in the Northern Cape is an airport that serves Kimberley, the capital city of the province and its surrounding areas. It was established in 1912. The airport is approximately 6.5 kilometers (12 minutes) away from the centre of Kimberley. Annually, the Airport transports approximately 170,000 passengers across around 10,000 flights through airlines Airlink and CemAir and provides regular domestic flights in South Africa between Cape Town International Airport and O.R Tambo International Airport in Johannesburg.
 
 
 ## Aerodrome Details
