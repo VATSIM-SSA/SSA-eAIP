@@ -65,7 +65,7 @@
 | .nofp | I have not received a flight plan for your callsign. Please ensure that you have filed with the callsign you are connected with, and you have the correct ICAO codes for your departure and arrival airports. If this does not work, try reconnecting. VATSIM CoC B10 refers. | - |
 | .nofpl | I have not received a flight plan for your callsign. Please ensure that you have filed with the callsign you are connected with, and you have the correct ICAO codes for your departure and arrival airports. If this does not work, try reconnecting. VATSIM CoC B10 refers. | - |
 | .rte | The route you have filed is invalid. Please refile a new flight plan with valid route. I recommend using https://simbrief.com. | - |
-| .paused | The VATSIM CoC (B2) states that A pilot shall not pause while connected to the VATSIM Network except when operating under air traffic control. Please unpause immediately or disconnect from the network. | - |
+| .paused | The VATSIM CoC (B2) states that a pilot shall not pause while connected to the VATSIM Network except when operating under air traffic control. Please unpause immediately or disconnect from the network. | - |
 | .mic | .msg $aircraft You have an open mic, please check your push-to-talk keybind. | - |
 | .mayday | The VATSIM CoC (B6) states that air traffic control requests the pilot to terminate the emergency, then the pilot shall do so IMMEDIATELY or disconnect from the network. | - |
 | .runway | The VATSIM CoC (B1) states that a pilot shall not connect to the VATSIM network on a runway. Please disconnect immediately and re-connect at an open stand. | - |
