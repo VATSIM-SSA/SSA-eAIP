@@ -25,10 +25,10 @@
 
 <!-- Check off the files included in this PR. Remove any that don't apply. -->
 
-- [ ] Aerodrome.md
-- [ ] Delivery.md
-- [ ] Ground.md
-- [ ] Tower.md
+- [ ] aerodrome.md
+- [ ] delivery.md
+- [ ] ground.md
+- [ ] tower.md
 - [ ] VFR / VRP Maps
 - [ ] Other: <!-- specify -->
 
