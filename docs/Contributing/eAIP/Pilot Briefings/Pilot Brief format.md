@@ -8,6 +8,15 @@
 
 - The airport has runway “Runway numbers”
 
+## Frequencies
+
+| Position    | Callsign           | Frequency (MHz) | Remarks |
+|-------------|--------------------|-----------------|---------|
+| XXXX_ATIS  | "Airport Name" ATIS     | XXX.XXX         | -       |
+| XXXX_DEL   | "Airport Name" Delivery | XXX.XXX         | -       |
+| XXXX_GND   | "Airport Name" Ground   | XXX.XXX         | -       |
+| XXXX_TWR   | "Airport Name" Tower    | XXX.XXX          | -       |
+
 ## Charts
 
 - “ICAO” does not have any charts publicly available.  **OR**
