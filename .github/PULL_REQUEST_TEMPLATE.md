@@ -36,7 +36,7 @@
 
 <!-- Link to the real-world aviation sources used (AIP, NOTAM, ANSP website, etc.). This is required for new or updated aerodrome data. -->
 
--
+- <link to AIP/NOTAM/ANSP site/etc.>
 
 ## Related Issues
 
