@@ -46,6 +46,6 @@
 
 ## Checklist
 
-- [ ] I have followed the [eAIP formatting guide](https://vatsim-ssa.github.io/SSA-eAIP/contributing/getting-started/)
+- [ ] I have followed the [eAIP formatting guide](https://eaip2.vatssa.com/contributing/getting-started/)
 - [ ] All files in this PR are complete (no partial/placeholder content)
 - [ ] I have verified the information against official aviation sources
