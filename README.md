@@ -33,7 +33,7 @@ Then open <http://localhost:8000> to preview the site.
 
 ## Contributing
 
-Contributions are welcome! See the [Contributing](https://eaip2.vatssa.com/Contributing/eAIP/formatting/) section of the eAIP for formatting guidelines.
+Contributions are welcome! See the [Contributing](https://eaip2.vatssa.com/Contributing/eAIP/) section of the eAIP for formatting guidelines.
 
 1. Fork the repository
 2. Create a branch for your changes
