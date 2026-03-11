@@ -143,9 +143,8 @@ jobs:
             git tag -a "${PREV_TAG}" -m "Monthly release ${PREV_TAG}" "${COMMIT}"
             git push origin "refs/tags/${PREV_TAG}"
             echo "Created tag ${PREV_TAG} at ${COMMIT}"
+            echo "tagged=true" >> $GITHUB_OUTPUT
           fi
-
-          echo "tagged=true" >> $GITHUB_OUTPUT
 
       - name: Create GitHub Release for last month (with notes)
         if: steps.tagprev.outputs.tagged == 'true'
