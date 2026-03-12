@@ -118,6 +118,13 @@ You can also view the MKDocs Admonitions [here](https://squidfunk.github.io/mkdo
 
 Well done!! You have now completed your first edit to the eAIP. Soon enough it will be merged to the head repository, and you can see your changes come to life on the VATSSA eAIP.
 
+## Conclusion
+
+Congratulations!! Your first PR has now been submitted for review. Throughout this guide you have gone from 0 GitHub knowledge to your first edit. DUring the guide we focused on an aerodrome page edit. Specifically FACT. However, we have other sections which require maintanence and improvements. For example, our Pilot Briefings section and our Enroute section. As we start to build up the contributing section you will notice more and more guides appearing for each page. The guides are kept simple. PRs are the same process as above. We have simply provided the formats, useful links and any important info. So, take your pick. There is plenty of work to be done. 
+
+If you are unsure of where to start, check the issues page on the eAIP GitHub [here](https://github.com/VATSIM-SSA/SSA-eAIP/issues).
+
+
 ## Help
 
 It is very important to note that this is a tricky process and you may make mistakes. However, the great part about GitHub is that your changes are fully reversible. At no point should you feel worried about any changes you submit.
