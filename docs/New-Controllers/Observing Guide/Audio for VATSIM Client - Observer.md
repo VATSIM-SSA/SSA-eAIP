@@ -9,7 +9,7 @@ Our resources page, where you can find the Audio for VATSIM download link can be
 
 
 !!! warning 
-    Audio for VATSIM is not VATSSA's recommended controller audio client. We recommend TrackAudio, a link to the TrackAudio guide can be found [here](https://eaip2.vatssa.com/General/Resources/Software/TrackAudio%20Guide%20-%20Controller/)
+    Audio for VATSIM is not VATSSA's recommended controller audio client. We recommend TrackAudio, a link to the TrackAudio guide can be found [here](https://eaip2.vatssa.com/New-Controllers/Observing%20Guide/TrackAudio%20Guide%20-%20Observer/)
     
 ## Setting up Audio for VATSIM
 
