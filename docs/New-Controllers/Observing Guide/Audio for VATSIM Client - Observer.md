@@ -7,6 +7,10 @@ Audio for VATSIM (AFV) is a modern, high-fidelity voice communication system for
 
 Our resources page, where you can find the Audio for VATSIM download link can be found [here](https://eaip2.vatssa.com/General/Resources/Links/)
 
+
+!!! warning 
+    Audio for VATSIM is not VATSSA's recommended controller audio client. We recommend TrackAudio, a link to the TrackAudio guide can be found [here](https://eaip2.vatssa.com/General/Resources/Software/TrackAudio%20Guide%20-%20Controller/)
+    
 ## Setting up Audio for VATSIM
 
 - Input your VATSIM Details
