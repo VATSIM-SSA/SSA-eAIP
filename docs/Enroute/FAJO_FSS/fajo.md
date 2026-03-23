@@ -17,3 +17,6 @@ FAJO Johannesburg Oceanic does not cover any airport. It's a pure Oceanic sector
 
 ## Separation
 
+ Satellite based ADS-B coverage is available in the FAJO Johannesburg Oceanic sector and as such, the following separation standards are to be applied:
+
+ ### Vertical Separtion
