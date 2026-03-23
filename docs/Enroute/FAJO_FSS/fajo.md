@@ -26,3 +26,12 @@ Separation of 1000 ft in RVSM airspace and below then 2000 ft above RVSM airspac
  ### Horizontal Separation
 
  Longitudinal separation is dependent on destination of traffic:
+
+| Origin     | Destination                 | Separation Rule |
+|----------------|----------------------|---------|
+| FAJO     | FMMM Mauritius | Longitudinal separation of 10 minutes       |
+| FAJO     | FQMA Approach  | Longitudinal separation of 10 minutes       |
+| FAJO     | FIMM Approach  | Longitudinal separation of 10 minutes       |
+| FAJO     | FNLU Luanda    | Longitudinal separation of 20 minutes       |
+| FAJO     | FYWF Windhoek  | Longitudinal separation of 20 minutes       |
+| FAJO     | AORRA Westbound to South America  | Longitudinal separation of 10 minutes, can be shorten to 10 NM during high traffic events       |
