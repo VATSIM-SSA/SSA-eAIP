@@ -5,3 +5,5 @@
  It should be noted that the Atlantic component of the FAJO Johannesburg Oceanic FIR is part of the Atlantic Ocean Random Routing RNAV Area. More information about AORRA is found under Special Procedures tab in the eAIP.
 
 ## Airport Coverage
+
+FAJO Johannesburg Oceanic does not cover any airport. It's a pure Oceanic sector. It does however link with unmanned airfield in the Antartic.
