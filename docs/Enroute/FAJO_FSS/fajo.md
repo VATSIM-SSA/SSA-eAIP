@@ -48,3 +48,12 @@ Separation of 1000 ft in RVSM airspace and below then 2000 ft above RVSM airspac
   ## VFR Rules
 
   No specific VFR rules prescribed for FAJO Johannesburg Oceanic. 
+
+ ## Sectors
+
+ | Position/Callsign     | Frequency/CPDLC                 | Remarks |
+|----------------|----------------------|---------|
+| FAJO_FSS/Johannesburg Oceanic       | 120.850/FAJO       | -       |
+| FAJO_1_FSS/Johannesburg Oceanic   | 120.650/FAJO   | These are Event Support positions Only      |
+| FAJO_2_FSS/Johannesburg Oceanic   | 120.450/FAJO   | These are Event Support positions Only      |
+| FAJO_3_FSS/Johannesburg Oceanic   | 120.900/FAJO   | These are Event Support positions Only      |
