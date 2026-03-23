@@ -40,3 +40,7 @@ Separation of 1000 ft in RVSM airspace and below then 2000 ft above RVSM airspac
  ## SELCAL
 
  FAJO Johannesburg Oceanic offers SELCAL capabilities.
+
+ ## SLOP
+
+ The use of SLOP at FAJO Johannesburg Oceanic is possible up to 2 NM. Aircraft transitioning into FACA must transition to SLOP 0.5 NM.
