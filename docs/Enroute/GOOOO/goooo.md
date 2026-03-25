@@ -21,7 +21,7 @@ Dakar Oceanic does not cover any airports.
    10 minutes for crossing traffic withing Sal Oceanic.
    20 minutes in all other cases.
 
-   # Vertical Separation
+   ### Vertical Separation
 
    EUR-SAM Corridor airspace is RVSM desginated.
    Other airspace is ICAO standard.
@@ -47,3 +47,11 @@ codes. Route portions between waypoints will be indicated by means of “DCT” 
 
 Uncontrolled VFR flights should squawk 7000 unless issued a squawk code by ATC.
 
+## Sectors
+
+ GVSC represents Sal Oceanic and covers the Oceanic Airspace as well as performing Enroute / CTR functions.
+  GVSA represents Sal Approach and covers the four international airports at Cape Verde.
+
+  ### Sal Oceanic
+
+  
