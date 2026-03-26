@@ -100,7 +100,7 @@ Chartfox charts are available [here](https://chartfox.org/FACT).
 
 - Remain on your last ATC assigned squawk code until instructed otherwise. 
 
-- CPDLC may be available at Johannesburg Oceanic, but its availability is up to the Controller / is not available. 
+- CPDLC availability at Johannesburg Oceanic is at the controller’s discretion; if it is not explicitly offered, assume it is unavailable. 
 
 - SELCAL is also available at Johannesburg Oceanic.
 
