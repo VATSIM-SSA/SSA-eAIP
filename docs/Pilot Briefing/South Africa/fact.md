@@ -75,11 +75,11 @@ Chartfox charts are available [here](https://chartfox.org/FACT).
 
 ### Arrivals and Approaches
 
-- As your flight is approaching , please make yourself familiar with the arrival and approach procedures for Cape Town.
+- As your flight is approaching, please make yourself familiar with the arrival and approach procedures for Cape Town.
 
 - All pilots expect Runway 19 for landing.
 
-- Pilots should plan for the ILS runway 19.. 
+- Pilots should plan for the ILS runway 19. 
 
 - On initial contact with Cape Town International, you will be told the landing runway and the arrival. 
 
