@@ -20,7 +20,7 @@ VRP Maps are used for VFR Maps; therefore, it is really important that all the V
 
 - The best way to create your own maps is through Google Earth.
 
-- You can find the link to make custom Google Earth maps [here](https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBMikKJwolCiExaGg5VUlYdkk3T1ZLLUFVcWM0Ny1TUWFPTnJVdHFSOFogAToDCgEwQgIIAEoICMuy99gDEAE
+- You can find the link to make custom Google Earth maps [here](https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBMikKJwolCiExaGg5VUlYdkk3T1ZLLUFVcWM0Ny1TUWFPTnJVdHFSOFogAToDCgEwQgIIAEoICMuy99gDEAE)
 
 - Add a pin on the runway. Use a red pin with a plane icon. Use medium size.
 
