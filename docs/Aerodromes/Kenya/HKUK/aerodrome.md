@@ -1,6 +1,6 @@
 # Aerodrome Data
 
-Diani Airport (IATA: UKA, ICAO: HKUK) is a small airfield near Diani Beach in Kwale County, Kenya. The airport serves the local areas of Diani, Ukunda, Tiwi and Msambweni 
+Diani Airport (IATA: UKA, ICAO: HKUK) is a small airfield near Diani Beach in Kwale County, Kenya. The airport serves the local areas of Diani, Ukunda, Tiwi and Msambweni.
 
 ## Aerodrome Details
 
