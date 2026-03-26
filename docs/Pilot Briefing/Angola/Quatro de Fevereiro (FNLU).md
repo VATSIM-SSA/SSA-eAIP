@@ -51,7 +51,7 @@
 
 - If told to monitor a frequency, you're expected to tune in the frequency but not to contact the controller. He will contact you when able.
 
-- When approaching the runway, you'll be asked to report fully ready for departure. That means that when given line-up or take-off clearance, you're expected to be ready to do so without delay. If you need more time, please advise the tower.
+- Before approaching the runway, ensure all checklists are complete and you are fully ready for departure so that, when given line-up or take-off clearance, you can comply without delay. If you require additional time, advise ATC as early as possible.
 
 ### Code F Restrictions
 
