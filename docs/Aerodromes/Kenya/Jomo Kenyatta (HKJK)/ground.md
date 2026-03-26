@@ -32,10 +32,14 @@ Stands F1 thru F9, J1 thru J9 and 4 thru 21 are nose-in stands and **pushback is
 At Nairobi, Apron 1 operates with a one way system in and out, depending on the runway direction.
 
 Runway 06: Taxi out via J, K Taxi in via H, M
-<!-- TODO: Add apron06.png image for Runway 06 config -->
+
+!!! info "Diagram pending"
+    Apron 1 Runway 06 configuration diagram will be added in a future update.
 
 Runway 24: Taxi out via H, M Taxi in via J, K
-<!-- TODO: Add apron24.png image for Runway 24 config -->
+
+!!! info "Diagram pending"
+    Apron 1 Runway 24 configuration diagram will be added in a future update.
 
 By default, all aircraft should be taxiied to the full length holding point unless otherwise requested by a pilot. 
 During runway 06 operations, there are two shortcut lanes from G to K that pilots can take. These can be used for sequencing and should be coordinated.
