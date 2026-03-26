@@ -52,4 +52,4 @@ SIDs and STARs are currently inactive. FACT_APP assumes the role of vectoring ai
 
 | Radio Aid | Min Distance | Max Distance | Radial From | Radial To | MSA     | Remarks |
 |-----------|--------------|--------------|-------------|-----------|---------|---------|
-| CPT ARP   | 0 nm         | 25 nm        | 0º          | 0º        | 2500 ft | -       |
+| CPT ARP   | 0 nm         | 25 nm        | 000º        | 360º      | 2500 ft | -       |
