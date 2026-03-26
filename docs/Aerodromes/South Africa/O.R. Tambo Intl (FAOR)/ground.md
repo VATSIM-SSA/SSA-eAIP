@@ -119,7 +119,7 @@ To help expedite the flow of traffic out of Johannesburg during busy operations,
 **The pilot is to read back the CAT 2 Holding Point, if they do not, you must pick up and make sure they do.**
 
 !!! info "Taxi Phraseology Regular"
-    "(callsign), taxi D, A, Q holding point runway 21R".
+    FAOR_GND: "(callsign), taxi D, A, Q holding point runway 21R".
 
 Aircraft should be handed off early before reaching the desired holding point.
 
