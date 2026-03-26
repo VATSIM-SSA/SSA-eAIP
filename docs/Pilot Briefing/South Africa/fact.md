@@ -30,7 +30,7 @@ Chartfox charts are available [here](https://chartfox.org/FACT).
 
 ### Clearance Delivery
 
-- **FACT_DEL** will be the Position responsible for providing push-back and taxiing instructions.
+- **FACT_DEL** will be the Position responsible for issuing IFR clearances.
 
 - When requesting IFR clearance, please provide your Aircraft Type, Stand Number and ATIS letter. 
 
