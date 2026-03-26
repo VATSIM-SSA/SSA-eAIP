@@ -37,7 +37,7 @@
 
 - Comply with any speed restrictions if provided. They are important to maintain adequate separation between traffic.
 
-- When approaching the runway, you'll be asked to report fully ready for departure. That means that when given line-up or take-off clearance, you're expected to be ready to do so without delay. If you need more time, please advise the tower.
+- As you near the departure runway, ensure you are fully prepared so that, when line-up or take-off clearance is issued, you can depart without delay; if you require additional time, inform the tower as early as possible.
 
 - All aircraft will expect to depart on a Runway Heading, with an initial climb to 3000ft.
 
