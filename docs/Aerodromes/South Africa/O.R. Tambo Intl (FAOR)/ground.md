@@ -138,5 +138,4 @@ Upon arrival into O.R. Tambo, inbound aircraft are to provide their aircraft reg
 
 !!! info "Taxiing to the Bay"
     FAOR_TWR: "SAA233, thank you, taxi via E, K and L, hold 03L."
-
     FAOR_GND: "SAA233, welcome, taxi via L to the bay, bye bye."
