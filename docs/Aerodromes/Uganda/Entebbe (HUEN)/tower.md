@@ -26,7 +26,7 @@ VRP's publicly unavailable.
  !!! info "Entry Clearance"
     "5XEBB, cleared to enter the CTR from the N / S / W / E, not above altitude 5200ft, report L / R downwind Runway 35."
 
-## Wake Seperation
+## Wake Separation
 
 ### Arrivals (nm)
 | Lead  | J | H | M | L |
