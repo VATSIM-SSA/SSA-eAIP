@@ -4,7 +4,7 @@ Diani Airport (IATA: UKA, ICAO: HKUK) is a small airfield near Diani Beach in Kw
 
 ## Aerodrome Details
 
-|  Diani Aiport    |                           |
+|  Diani Airport    |                           |
 | :---------: | :----------------------------------: |
 | ICAO | HKUK |
 | IATA | UKA |
