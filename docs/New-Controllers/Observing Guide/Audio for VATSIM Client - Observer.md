@@ -28,7 +28,7 @@ Our resources page, where you can find the Audio for VATSIM download link can be
 - Once connected, press the `+` button to Add a Station.
 - Type in the station you want to observe, in this case we have `FACT_GND`.
 ![AFV Observing 2 - Adding a Station](../img/AFVObserving-1.png)
-- Click 'RX' (receive) to listen in the frequency.
+- Click 'RX' (receive) to listen on the frequency.
 ![AFV Observing 3 - RX a Frequency](../img/AFVObserving-2.png)
 
 Still having issues with TrackAudio? Feel free to ask for help in one of our channels in the VATSSA Discord server which can be found in the [VATSIM Community Server's](https://community.vatsim.net/)
