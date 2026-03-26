@@ -55,7 +55,7 @@
 
 ### Code F Restrictions
 
-- Quatro de Feveriro International can **NOT** accomodate Code F aircraft.
+- Quatro de Fevereiro International can **NOT** accomodate Code F aircraft.
 
 ### Departure Timeline
 
