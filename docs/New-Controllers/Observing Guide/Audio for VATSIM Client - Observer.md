@@ -27,7 +27,7 @@ Our resources page, where you can find the Audio for VATSIM download link can be
 - Open Audio for VATSIM, if setup correctly and connected to VATSIM you will be able to connect by pressing the 'Connect' button.
 - Once connected, press the `+` button to Add a Station.
 - Type in the station you want to observe, in this case we have `FACT_GND`.
-![AFV Observing 2 - Adding a Station](../img/AFVObserving-1.png)
+<!-- TODO: Add AFVObserving-1.png image for Adding a Station -->
 - Click 'RX' (receive) to listen on the frequency.
 ![AFV Observing 3 - RX a Frequency](../img/AFVObserving-2.png)
 

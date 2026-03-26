@@ -20,14 +20,14 @@ Our resources page, where you can find the Audio for VATSIM download link can be
 - Set a Push-To-Talk (PTT) bind
 - Save your changes by pressing 'Apply all' on the bottom right
 
-![Audio for VATSIM settings](../img/AFVSettings.png)
+![Audio for VATSIM settings](img/AFVSettings.png)
 
 ## Connecting and Listening to ATC
 
 - Open Audio for VATSIM, if setup correctly and connected to VATSIM you will be able to connect by pressing the 'Connect' button.
 - Click 'RX' (receive) to listen in the frequency.
-![AFV Controlling 1 - RX a Frequency](../img/AFVControlling-1.png)
+![AFV Controlling 1 - RX a Frequency](img/AFVControlling-1.png)
 - Click 'TX' (transmit) to transmit on the frequency. You will still need to utilise your Push-To-Talk key.
-![AFV Controlling 2 - TX a Frequency](../img/AFVControlling-2.png)
+![AFV Controlling 2 - TX a Frequency](img/AFVControlling-2.png)
 
 Still having issues with TrackAudio? Feel free to ask for help in one of our channels in the VATSSA Discord server which can be found in the [VATSIM Community Server's](https://community.vatsim.net/)
