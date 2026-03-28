@@ -32,6 +32,7 @@ There are no standard VFR routings for depature out of FZAA
 
 ### VFR Arrivals
 
+There are no standard VFR routings for arrivals into FZAA.
 
 !!! info
     All standard VFR routes will require pilots to be given further instructions to join the circuit. None of the standard routings favour a certain runway.
