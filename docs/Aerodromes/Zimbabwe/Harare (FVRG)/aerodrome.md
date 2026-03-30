@@ -18,7 +18,7 @@ Robert Gabriel Mugabe International Airport, colloquially known as "RGM" or Muga
 | Runway | Heading | TORA (m) | TODA (m) | ASDA (m) | LDA (m) | Remarks |
 |---------|---------|----------|----------|----------|---------|---------|
 | 05      | 052º    | 4725     | 4785     | 5025     | 4725    | -       |
-| 23      | 232º    | -        | -        | -        | 4725    | -       |
+| 23      | 232º    | 4725        | 4785       | 5025        | 4725    | -       |
 
 ## Radio Navigation & Landing Aids
 
