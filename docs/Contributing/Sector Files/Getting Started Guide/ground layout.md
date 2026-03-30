@@ -450,6 +450,44 @@ Similarly, repeat this for all taxiways.
 Your result should like this (after exiting edit mode and saving):
 ![Taxiway Labels Complete](./Taxiway-Labels-Complete.png)
 
+### Stand Labels
+In a similar way we can label the stand Labels at the airport. There are two approaches:
+
+- IF the airport does not have any stand data, then a stand layer can be created which can be used to populate `TopSkyStands.txt` with relevant stand data as we develop the ground layout
+
+- IF the airport already does have stand data (which is true for FAOR), then you can create stand labels, using the previous method we discussedf for Taxiway Labels
+
+For the sake of completeness in this guide, adding stand data will be demonstrated.
+
+To add a stand layer, we can create a GeoPackage layer and add the following properties:
+- Database:  an appropriate file name
+- Table name: auto-generated
+- Geometry type: **Point**
+
+Fields to add in the field form  
+**STAND**: This is a mandatory field, it is the name of the stand
+- Type: Text (string)
+
+**WTC**: The weight class of the stand.
+- Type: Text (string)
+
+**USE**: The use of the stand, civilian military, helicopter etc.
+- Type: Text (string)
+
+**AREA**: Whether or not the "stand" is a wider area, for example an apron that has free parking with no designated stands.
+- Type: Boolean
+
+Every field other than **STAND** is optional here, depending on the level of detail that you have for your ground layout.
+
+After creating the stand GeoPackage, you can enter edit mode and similarly add all the locations of stands on the airport.
+
+If you opted to add stand data for TopSky, you will get the add feature form giving you to extra fields that you specified.
+
+After editing in, your result should look like this:
+![Stand Edits](./Stand-Edits-Complete.png)
+
+As you can see the stands are now in green.
+
 ## Exportation
 - Shift-click everything except the hidden map layer else and create a group named after your ICAO.
 - Move back to the processing toolbox and select `Convert GeoJSON to TS/GR`
