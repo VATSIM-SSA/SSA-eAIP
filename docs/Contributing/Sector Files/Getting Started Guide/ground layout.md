@@ -32,6 +32,14 @@ In addition you can view the [TopSky Documentation](https://forum.vatsim-scandin
 
 - Now we can head over to our repository and start making changes.
 
+- On the repository, click the green Code button and copy the HTTPS link
+
+![Github Repo Link](./Github-Repo-Link.png)
+
+- Clone the repository into an appropriate directory by running `git clone {your URL} {destination}`
+
+
+
 ## QGIS Setup
 - Download QGIS from [here](https://qgis.org)
 
@@ -487,6 +495,88 @@ After editing in, your result should look like this:
 ![Stand Edits](./Stand-Edits-Complete.png)
 
 As you can see the stands are now in green.
+
+### Adding Colour
+
+To avoid further hassle later, we can assign each layer a colour value for the plugin to use during export. We will use the colour profile which looks like this
+
+```json
+{
+	"colors": {
+		"heliport": {
+			"color": "96,96,96",
+			"gr_color": "APRONSURFACE",
+			"ts_color": "APRONSURFACE"
+		},
+		"apron": {
+			"color": "96,96,96",
+			"gr_color": "APRONSURFACE",
+			"ts_color": "APRONSURFACE"
+		},
+		"taxiway": {
+			"color": "96,96,96",
+			"gr_color": "TWY2",
+			"ts_color": "TWY2"
+		},
+		"terminal": {
+			"color": "70,70,70",
+			"gr_color": "BUILDING",
+			"ts_color": "BUILDING"
+		},
+		"hangar": {
+			"color": "70,70,70",
+			"gr_color": "BUILDING",
+			"ts_color": "BUILDING"
+		},
+		"helipad": {
+			"color": "96,96,96",
+			"gr_color": "APRONSURFACE",
+			"ts_color": "APRONSURFACE"
+		},
+		"runway": {
+			"color": "35,35,35",
+			"gr_color": "HARDSURFACE2",
+			"ts_color": "HARDSURFACE2"
+		},
+		"background": {
+			"color": "25,25,25",
+			"gr_color": "BACKGROUND",
+			"ts_color": "BACKGROUND"
+		}
+	}
+}
+```
+In the processing toolbox, under Aerodrome Utilities navigate to the Colorize algorithm.
+
+![Colorize Algorithm](./Colorize-Algorithm.png)
+
+Double click to open the parameters of the algorithm:
+
+![Colorize Algorithm Parameters](./Colorize-Algorithm-Parameters.png)
+
+You will see 3 values that correspond to the keys in the JSON file. If you want to add colour to one layer, add the correct values for each input. Clicking on the colour field will reveal a colour matrix as well as places where you can add the RGB values. Note that you may have to scroll down to see the colours
+
+![Colour Menu](./Colour-Menu.png)
+
+However if you are trying to add colour to every layer, then you need to run the algorithm as a batch process, At the bottom left corner, click run as batch process.
+
+You will see something like this:
+
+![Batch Processing](./Batch-Processing-Colorize.png)
+
+Under Input Layer, click `Autofill... > Select from open layers`
+
+![Autofill Layer Selection](./Autofill-Layer-Selection.png)
+
+You can simply select all except `001_....`
+
+You can specify colours, TopSky colour and GroundRadar colours per layer, then execute the algorithm by clicking `Run`. If the colour you need isn't listed in the profile, then you can use any colour that is defined either in the `TopSkyMaps.txt` or in the `GroundRadarMaps.txt` files as the exporter uses those definitions. The `Color` parameter itself is what is shown in QGIS and is completely up to you, although I recommend that it same the TopSky colours.
+
+
+!!! info
+  You can copy and paste inputs to make this a lot easier. For colours right-click, Copy and paste options exist.
+
+
 
 ## Exportation
 - Shift-click everything except the hidden map layer else and create a group named after your ICAO.
