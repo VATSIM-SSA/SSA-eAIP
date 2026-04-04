@@ -18,7 +18,9 @@ In addition you can view the [TopSky Documentation](https://forum.vatsim-scandin
 
 - The links to the repository of each Sector File can be found in the Overview repository [here](https://github.com/VATSIM-SSA/sectorfile-overview)
 
-- It is a good idea to have a look through the different folders and familiarize yourself with the layout of each Sector File, primarily looking at the `Plugins/TopSky` and `Plugins/GroundRadar` folders. 
+- It is a good idea to have a look through the different folders and familiarize yourself with the layout of each Sector File, primarily looking at the `Plugins/TopSky` and `Plugins/GroundRadar` folders.
+
+- Create an issue first by going to the Issues tab and create a new issue regarding the specific ground layout if it dosen't exist already.
 
 - Now we are going to "fork" the Sector File. Forking allows us to edit our own copy of the Sector File without changing anything on the main Sector File.
 
@@ -36,8 +38,14 @@ In addition you can view the [TopSky Documentation](https://forum.vatsim-scandin
 
 ![Github Repo Link](./Github-Repo-Link.png)
 
-- Clone the repository into an appropriate directory by running `git clone {your URL} {destination}`
+- Clone the repository into an appropriate directory by running `git clone {your URL} {destination}`. For purposes of ease of testing I recommend the sectorfile should be in a nested directory ie `FASA/FASA`
 
+## Sectorfile Setup
+- Like regular controlling, we will need a valid profile associated with the sectorfiles in order for us to test any ground layouts.
+- Download the latest sectorfile
+- Copy all the files except the folder with the name of the sectorfile to the outer directory.
+- Your folder structure should now look like this with the Github repository clone inside, the "FASA" folder here:
+![Nested Folder Structure](./Nested-Folder-Structure.png)
 
 
 ## QGIS Setup
@@ -576,13 +584,48 @@ You can specify colours, TopSky colour and GroundRadar colours per layer, then e
 !!! info
   You can copy and paste inputs to make this a lot easier. For colours right-click, Copy and paste options exist.
 
+Run the algorithm to add the colour properties to the layers.
 
 
 ## Exportation
-- Shift-click everything except the hidden map layer else and create a group named after your ICAO.
+- Delete any layers that are not visible or wouldn't be seen in the ground layout.
+- Rename layers to appropriate names by right clicking the layer and renaming.
+
+The ground layout should now look like this:
+![GL Complete](./GL-Complete-Pre-Export.png)
+
+- Hide the map layers
+
+- Make the aerodrome background layer visible. Your ground layout should now look like this:
+![Ground Layout Export Layer](./GL-Export-Ready.png)
+
+- Shift-click everything except the hidden map layer else and create a group named after your ICAO (if not already done)
+
 - Move back to the processing toolbox and select `Convert GeoJSON to TS/GR`
 - You will see a panel with ICAO code input, multi map and output directory.
-- For simplicity's sake, we will export to GroundRadar
-- Leave Multi Map unchecked, and enter the ICAO code and the output directory we used
+- For simplicity's sake, we will export to GroundRadar, the TopSky file works similarly.
+- Leave Multi Map unchecked, and enter the ICAO code and an appropriate output directory.
 - Execute the algorithm
 - You will find  a `GroundRadar.txt` file in that directory.
+
+## Importation Into EuroScope
+- In order to submit a new ground layout, it shouldn't:
+  - Cause errors
+  - Be broken
+- To test the ground layout, open the folder where your fork has been cloned to your local system using VSCode or any other code editor
+- Open the `GroundRadar.txt`
+- Copy the contents and append to the relevant section of the `GRpluginMaps.txt` file in `Plugins/GroundRadar`
+- For purposes of this guide, we will need to disable the existing FAOR ground layout, by checking for FAOR under Ground Layouts section and setting the first map's `ACTIVE` line from `ACTIVE:1` to `ACTIVE:0`
+- Just below that add the ground layout code.
+- Open EuroScope using the profile in the "Outer" directory.
+- You should now see the groundlayout
+-  After visually confirming the ground layout
+-  Creating a new branch by using `git checkout -b {branch name}`
+-  Add all files `git add .`
+-  Create a commit `git commit -m {commit message}`
+-  Push upstream to your fork: `git push origin {branch name}`
+-  You will see a notification to compare and pull reuqest if you view the main sectorfile repository:
+![Pull Message](./Pull-Request-CTA.png)
+- Click Compare and Pull Request to create a pull request
+- Just fill in the template and you have created your first pull request
+- Pull request do not change the content of the sectorfiles until they are approved and submitted, so feel free to create as many contributions as possible!
