@@ -6,10 +6,10 @@ The responsibility of Tower at Entebbe falls to the dedicated Tower ATS unit, En
   * Circuit altitude is 5200ft.
 * All circuits are conducted left hand normally, but may be conducted right hand at the discretion of the Tower controller.   
 
- !!! info Circuit Clearance
+ !!! info "Circuit Clearance"
     "5XEBB, hold position, after departure Runway XX, L / R hand circuits, not above XXXXft, report L / R downwind Runway XX."
 
- !!! info Circuit Clearance (Non STD)
+ !!! info "Circuit Clearance (Non STD)"
     "5XEBB, hold position, after departure Runway XX, non standard L / R hand circuits, not above XXXXft, report non standard L / R downwind Runway XX."
     
 ### VRP Map
@@ -18,15 +18,15 @@ VRP's publicly unavailable.
 
 ### VFR Runway 17 Departures / Arrivals
 
- !!! info Entry Clearance
+ !!! info "Entry Clearance"
     "5XEBB, cleared to enter the CTR from the N / S / W / E, not above altitude 5200ft, report L / R downwind Runway 17."
 
 ### VFR Runway 35 Departures / Arrivals
 
- !!! info Entry Clearance
+ !!! info "Entry Clearance"
     "5XEBB, cleared to enter the CTR from the N / S / W / E, not above altitude 5200ft, report L / R downwind Runway 35."
 
-## Wake Seperation
+## Wake Separation
 
 ### Arrivals (nm)
 | Lead  | J | H | M | L |

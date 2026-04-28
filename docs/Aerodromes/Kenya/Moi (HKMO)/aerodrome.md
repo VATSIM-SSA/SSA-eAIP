@@ -45,4 +45,4 @@ Moi International Airport (IATA: MBA, ICAO: HKMO) is an international airport in
 | HKMO_TWR    | Mombasa Tower          | 118.100  | - |
 | HKMO_APP    | Mombasa Approach       | 122.700  | - |
 | HKNA_CTR    | Nairobi Control        | 121.300  | - |
-| HKNA_S_CTR  | Nairobi South Control  | 123.700  | - |
+| HKNA_S_CTR  | Nairobi South Control  | 125.300  | - |
