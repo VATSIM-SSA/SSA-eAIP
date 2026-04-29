@@ -1,4 +1,4 @@
-# Audio for VATSIM - Observer Guide
+# Audio for VATSIM - Controller Guide
 
 ![alt text](Audio for VATSIM.png) 
 
