@@ -23,7 +23,7 @@ The following documentation provided is to help first time contributors to Secto
 
 - Contributors are encouraged to provide as much detail as possible within their PR.
 
-- Please follow the getting started guide [here](ground%20layout.md).
+- Please follow the getting started guide [here](./Getting%20Started/ground%20layout.md).
 
 
 - We also encourage contributors to split up their PRs into branches. This makes it easier for maintainers to track changes.
