@@ -60,6 +60,6 @@ The following table should only be to determine the Transition Level for Blaise 
 | GOBD_ATIS   | Diass ATIS | 126.200 | 126.600 not simulated |
 | GOBD_DEL   | Diass Delivery | 122.100 | Events Only |
 | GOBD_GND   | Diass Ground | 121.800 | - |
-| GOBD_TWR   | Cape Town Tower | 118.800 | - |
+| GOBD_TWR   | Diass  Tower | 118.800 | - |
 | GOBD_APP   | Diass Approach | 120.500 | - |
 | GOOO_CTR   | Dakar Control | 129.500   | - |

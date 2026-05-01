@@ -3,6 +3,9 @@
 
 # Basic Jekyll gitignores (synchronize to Jekyll.gitignore)
 _site/
+
+# MkDocs build output
+site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
@@ -16,3 +19,4 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+docs/Aerodromes/South Africa/Bloemfontein (FABL)/ground.md

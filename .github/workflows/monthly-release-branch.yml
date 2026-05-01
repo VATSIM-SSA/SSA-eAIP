@@ -21,6 +21,10 @@ permissions:
   contents: write # needed to push branches/tags
   pull-requests: write
 
+concurrency:
+  group: monthly-rollover
+  cancel-in-progress: false
+
 jobs:
   rollover:
     runs-on: ubuntu-latest
@@ -134,6 +138,7 @@ jobs:
 
           if [ "$DRY_RUN" = "true" ]; then
             echo "[dry-run] Would create annotated tag ${PREV_TAG} at ${COMMIT}"
+            echo "tagged=false" >> $GITHUB_OUTPUT
           else
             git tag -a "${PREV_TAG}" -m "Monthly release ${PREV_TAG}" "${COMMIT}"
             git push origin "refs/tags/${PREV_TAG}"

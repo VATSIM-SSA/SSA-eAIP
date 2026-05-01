@@ -386,3 +386,7 @@ During Low Visibility Procedures, aircraft are to not exceed 10 knots until they
 - Code F aircraft are restricted to a MAXIMUM of 10 knots on Taxiway A between Taxiways E and L.
 
 - Code F aircraft operating out of Bay D1 to enter or exit via Taxiway G8.
+
+From: **[VATSSA eAIP](https://eaip2.vatssa.com/)**
+
+Last Update: **16/02/2026 20:48Z**

@@ -8,21 +8,25 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-              fetch-depth: "0"
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.12"
+          cache: pip
 
-      # Install all deps from requirements.txt
       - run: pip install -r requirements.txt
-      - run: mkdocs build
+      - run: mkdocs build --strict
 
       - uses: actions/upload-pages-artifact@v3
         with:
@@ -31,9 +35,10 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/configure-pages@v5
       - id: deployment
         uses: actions/deploy-pages@v4
-      - run: pip install mkdocs-material 
-      - run: pip install mkdocs-awesome-pages-plugin

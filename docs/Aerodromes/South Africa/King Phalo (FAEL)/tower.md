@@ -21,18 +21,13 @@ The responsibility of Tower at King Phalo falls to the dedicated Tower ATS unit,
 
 ### VRP Map
 
-- Peddie
-- Wesley
-- Hamburg
-- Keysers Beach
-- Laing Dam
-- Bridle Draft Dam
-- Nahoon Dam
-- Goodsheds
-- Gonubie
-- Cintsa
+![alt text](FAEL-VRP.png)
+Base imagery © Google and imagery providers. Used in accordance with Google Maps/Earth permissions.
 
 ### VFR Runway 11 Departures 
+
+![alt text](FAEL-VFR-11-Dep.png)
+Base imagery © Google and imagery providers. Used in accordance with Google Maps/Earth permissions.
 
 | Departure | Report Point | Altitude |
 |--------|--------------|----------|
@@ -50,6 +45,9 @@ The responsibility of Tower at King Phalo falls to the dedicated Tower ATS unit,
     
 ### VFR Runway 29 Departures 
 
+![alt text](FAEL-VFR-29-Dep.png)
+Base imagery © Google and imagery providers. Used in accordance with Google Maps/Earth permissions.
+
 | Departure | Report Point | Altitude |
 |--------|--------------|----------|
 | Keysers Beach 29 | Keyser Beach | 1000 ft |
@@ -65,6 +63,9 @@ The responsibility of Tower at King Phalo falls to the dedicated Tower ATS unit,
     "ZSABC, cleared to transit the King Phalo CTR, remain seawards of the coastline, not above altitude 1000ft, report overhead Keysers Beach / Gonubie."
     
 ### VFR Arrivals 
+
+![alt text](FAEL-VFR-11-29-Arr.png)
+Base imagery © Google and imagery providers. Used in accordance with Google Maps/Earth permissions.
 
 !!! Warning "VFR Arrivals"
     All VFR arrivals will be required to report over the relevant point. They will then require further instructions to enter the circuit.

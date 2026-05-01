@@ -4,7 +4,7 @@
 
 - [EuroScope - Controlling Software](https://www.euroscope.hu/)
 - [TrackAudio - Recommended Audio Client](https://github.com/pierr3/TrackAudio/releases)
-- [Audio for VATSIM - Alternative Audio Client](https://github.com/pierr3/TrackAudio/releases) 
+- [Audio for VATSIM - Alternative Audio Client](https://audio.vatsim.net/docs/atc/euroscope)
 - [vATIS - ATIS Software](http://vatis.clowd.io/)
 - [VATSSA vATIS Profiles - ATIS Presets](https://vatssa.com/hq/vatis.php)
 
@@ -12,7 +12,6 @@
 ## Useful Information
 
 - [VATSSA Airspace](https://vatssa.com/hq/images/airspace.png)
-- [VATSSA Airsapce](https://vatssa.com/hq/images/airspace.png)
 - [FSS Map](https://vatssa.com/hq/images/fss.jpg)
 - [FSS Operations](https://vatssa.com/hq/vmats/VATSSA_FSS_Document.pdf) 
 - [Transition Altitude / Level Guide](https://vatssa.com/hq/cribsheets/TA_Guide.pdf)
