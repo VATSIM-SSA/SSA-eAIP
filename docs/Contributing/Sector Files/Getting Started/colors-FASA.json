@@ -1,0 +1,44 @@
+{
+	"colors": {
+		"heliport": {
+			"color": "96,96,96",
+			"gr_color": "APRONSURFACE",
+			"ts_color": "APRONSURFACE"
+		},
+		"apron": {
+			"color": "96,96,96",
+			"gr_color": "APRONSURFACE",
+			"ts_color": "APRONSURFACE"
+		},
+		"taxiway": {
+			"color": "96,96,96",
+			"gr_color": "TWY2",
+			"ts_color": "TWY2"
+		},
+		"terminal": {
+			"color": "70,70,70",
+			"gr_color": "BUILDING",
+			"ts_color": "BUILDING"
+		},
+		"hangar": {
+			"color": "70,70,70",
+			"gr_color": "BUILDING",
+			"ts_color": "BUILDING"
+		},
+		"helipad": {
+			"color": "96,96,96",
+			"gr_color": "APRONSURFACE",
+			"ts_color": "APRONSURFACE"
+		},
+		"runway": {
+			"color": "35,35,35",
+			"gr_color": "HARDSURFACE2",
+			"ts_color": "HARDSURFACE2"
+		},
+		"background": {
+			"color": "25,25,25",
+			"gr_color": "BACKGROUND",
+			"ts_color": "BACKGROUND"
+		}
+	}
+}

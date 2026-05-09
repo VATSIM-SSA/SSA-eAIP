@@ -114,12 +114,12 @@ To help expedite the flow of traffic out of Johannesburg during busy operations,
     The SMC controller should not send any aircraft to holding point J (west) without the prior approval of the TWR controller.
 
 !!! info "Taxi Phraseology (CAT 2 Hold)"
-    "(callsign), taxi to the CAT 2 holding point Runway 03L via D and A.".
+    FAOR_GND: "(callsign), taxi D, A, to the CAT 2 holding point runway 03L."
 
 **The pilot is to read back the CAT 2 Holding Point, if they do not, you must pick up and make sure they do.**
 
 !!! info "Taxi Phraseology Regular"
-    "(callsign), taxi to holding point Q, via D and A.".
+    FAOR_GND: "(callsign), taxi D, A, Q holding point runway 21R".
 
 Aircraft should be handed off early before reaching the desired holding point.
 
@@ -138,5 +138,4 @@ Upon arrival into O.R. Tambo, inbound aircraft are to provide their aircraft reg
 
 !!! info "Taxiing to the Bay"
     FAOR_TWR: "SAA233, thank you, taxi via E, K and L, hold 03L."
-
     FAOR_GND: "SAA233, welcome, taxi via L to the bay, bye bye."

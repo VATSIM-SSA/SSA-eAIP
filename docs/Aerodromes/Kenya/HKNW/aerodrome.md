@@ -40,4 +40,5 @@ Nairobi Wilson Airport (IATA: WIL, ICAO: HKNW)
 | HKNW_GND   | Wilson Ground| 121.900   | - |
 | HKNW_TWR   | Wilson Tower| 118.100   | - |
 | HKJK_APP   | Nairobi  Radar | 122.300   | - |
-| HKNA_CTR   | Nairobi Control | 121.300   | - |
+| HKNA_CTR   | Nairobi Control | 121.300   | North/Bandbox |
+| HKNA_S_CTR   | Nairobi Control | 125.300   | South |
