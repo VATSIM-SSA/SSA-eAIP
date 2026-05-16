@@ -33,6 +33,7 @@ Click on the "BARS OFF" popout and insert your API token (copied from the websit
 
 ## End result
 
+### Runway 01/19 runway setup with BARS visible
 ![BARStoken](img/BARSEAIP.png)
 
 ## Note
