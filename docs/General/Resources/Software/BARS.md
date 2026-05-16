@@ -24,6 +24,10 @@ To connect to the BARS network, you need an API code. This requires you to visit
 ![BARStoken](img/BARSsetup2.png)
 
 
+![BARStoken](img/BARSsetup2.png)
+
+
+
 ### Setup
 
 Click on the "BARS OFF" popout and insert your API token (copied from the website.) After this is completed,  BARS should automatically connect. The next step, for BARS to work you need to setup your runways. By clicking the BARS popout, you should see "Set Runways". To set your runways, click on the runways you are using. This will now draw the stopbars. To highlight the BARS, left click on them. 
