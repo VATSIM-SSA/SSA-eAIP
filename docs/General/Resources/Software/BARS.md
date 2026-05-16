@@ -17,7 +17,7 @@ To allow bars to draw on the groundradar, you need to go to OTHER SET and plug-i
 
 ### Account
 
-To connect to the BARS network, you need an API code. This requires you to visit the BARS website. Simply, create an account and regenerate an API token. Also remember to verify your email with a 6 digit code to allow you to connect. Now you are ready to connect to the network. The link to the BARS website in the Links page of the eAIP
+To connect to the BARS network, you need an API code. This requires you to visit the BARS website. Simply, create an account and regenerate an API token. Also remember to verify your email with a 6 digit code to allow you to connect. Now you are ready to connect to the network. The link to the BARS website in the "Resources" page of the eAIP under software.
 
 
 ### Simply show token or regenerate token
