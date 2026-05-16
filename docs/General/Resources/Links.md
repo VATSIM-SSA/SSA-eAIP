@@ -28,7 +28,7 @@
 
 ## Sector Files
 
-- [DGAC sector file]((https://files.aero-nav.com/DGAC))
+- [DGAC sector file]((https://files.aero-nav.com/DGAC)
 
 
 
