@@ -23,7 +23,7 @@ To connect to the BARS network, you need an API code. This requires you to visit
 
 ![BARStoken](img/BARSsetup2.png)
 
-### Paste that token into API Link.
+### Paste that token into API Key
 ![BARStoken](img/BARSsetup3.png)
 
 
