@@ -31,6 +31,10 @@ Click on the "BARS OFF" popout and insert your API token (copied from the websit
 ### Paste that token into API Key
 ![BARStoken](img/BARSsetup3.png)
 
+## End result
+
+![BARStoken](img/BARS EAIP.png)
+
 ## Note
 
 BARS isn't commonly used. Aircraft using BARS will have a visible green dot . BARS is not required to be used, it's just a cool addition to the VATSIM experience.
