@@ -33,7 +33,7 @@ Click on the "BARS OFF" popout and insert your API token (copied from the websit
 
 ## End result
 
-![BARStoken](img/BARS EAIP.png)
+![BARStoken](img/BARSEAIP.png)
 
 ## Note
 
