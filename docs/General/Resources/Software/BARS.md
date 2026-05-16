@@ -5,7 +5,7 @@ BARS is an addon for Microsoft Flight Simulator that guides pilots using taxi li
 
 ## Installation
 
-BARS is configurated in the sector file already, however you need an API link to connect to the BARS network and allow BARS to draw on the Ground radar.
+BARS is configurated in the sector file already, however you need an API link to connect to the BARS network and allow BARS to draw on the Ground radar. Below is the step by step guide from the start to your first connection on the BARS network.
 
 ### Ground Radar
 
