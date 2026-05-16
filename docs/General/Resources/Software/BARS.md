@@ -11,7 +11,7 @@ BARS is configurated in the sector file already, however you need an API link to
 
 To allow bars to draw on the groundradar, you need to go to OTHER SET and plug-ins. This will open a window for the sector files plugins, you will find BARS in this list. You need to allow BARS to draw on the Ground Radar display. You can do this by selecting the "Ground Radar display" and clicking the two arrows. This should move the "Ground Radar display" to the other list. This will allow BARS to draw on the Ground Radar when connected. 
 
-![Plugins](/SSA-eAIP/docs/General/Resources/Software/img/BARSsetup1.png "BARS Plugin to Ground Radar")
+
 
 
 ### Account
