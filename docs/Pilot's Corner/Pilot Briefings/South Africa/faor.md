@@ -35,17 +35,17 @@ Alternatively, users of MSFS2024 are more than welcome to use the inbuilt flight
 | Position    | Callsign              | Frequency | Remarks             |
 | :---------: | :---------: | :---------: | :---------: |
 | FAOR_ATIS   | Johannesburg ATIS     | 126.200   | -                   |
-| FAOR_DEL    | O.R. Tambo Clearance Delivery    | 121.700   | -                   |
-| FAOR_GND    | O.R. Tambo Ground       | 121.900   | -                   |
-| FAOR_TWR    | O.R. Tambo Tower    | 118.100   | -                   |
-| FAOR_E_TWR  | O.R. Tambo Tower    | 118.600   | - |
-| FAOR_APP    | Johannesburg Radar  | 124.500   | -                   |
+| FAOR_DEL    | O.R. Tambo Clearance Delivery    | 121.700   | -        |
+| FAOR_GND    | O.R. Tambo Ground       | 121.900   | Responsible of Aerodrome West of 03L/21R |
+| FAOR_TWR    | O.R. Tambo Tower    | 118.100   | -                     |
+| FAOR_E_TWR  | O.R. Tambo Tower    | 118.600   | Responsible of Aerodrome between the two runways |
+| FAOR_APP    | Johannesburg Radar  | 124.500   | -                     |
 | FAOR_W_APP    | Johannesburg Radar  | 123.700   | -                   |
 | FAOR_F_APP  | Johannesburg Director | 121.400   | -                   |
 | FAJA_CTR    | Johannesburg Area     | 134.400   | Frequency can be used for FAJA_N or FAJA_NE |
-| FAJA_NW_CTR    | Johannesburg Area     | 126.700   | -                   |
-| FAJA_SW_CTR    | Johannesburg Area     | 128.300   | -                   |
-| FAJA_SE_CTR    | Johannesburg Area     | 132.150   | -                   |
+| FAJA_NW_CTR    | Johannesburg Area     | 126.700   | -                |
+| FAJA_SW_CTR    | Johannesburg Area     | 128.300   | -                |
+| FAJA_SE_CTR    | Johannesburg Area     | 132.150   | -                |
 
 
 ## Aerodrome
@@ -340,7 +340,7 @@ On initial contact with any FAJA unit, you will be issued the arrival clearance:
 You only need to acknowledge the arrival and runway direction. **Do not be alarmed if you haven’t been given 03L or 03R. This is normal.** FAJA will not issue the landing runway. This is Johannesburg Radar’s responsibility. If Johannesburg Radar is offline, expect runway assignment from FAJA when descending. If you are to read back L or R, you will be corrected, so simply read back 03 or 21 only!
 
 !!! warning
-    **Please note, all of these STARs will end up with you on a vector when on the downwind leg. DO NOT TURN BASE OR FINAL UNLESS INSTRUCTED BY RADAR.**
+    **Please note, all of these STARs will end up with you on a vector when on the downwind leg, also known as open-ended. DO NOT TURN BASE OR FINAL UNLESS INSTRUCTED BY RADAR.**
 
 ### Approach
 
