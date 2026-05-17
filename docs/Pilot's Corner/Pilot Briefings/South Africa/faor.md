@@ -245,13 +245,13 @@ At Johannesburg, pilots should first take into consideration the following NOTAM
 !!! warning
     The only operational SIDs of current are:
 
-    - VASUR3A
+    - APDAK1B (03L)
 
-    - RAGUL3A & RAGUL1D
+    - RAGUL1D (21R)
 
-    - EXOBI1A
+    - EXOBI1C (03L)
 
-    - GEROX1C
+    - ETLIG1B (21R)
 
 If your SID is not listed above for your specific runway, you are to expect runway track for your departure clearance, and this should be reflected as such. Please don’t request the SID that was originally in your flight plan, because chances are, it's **SUSPENDED**.
 
@@ -270,10 +270,10 @@ If your SID is not listed above for your specific runway, you are to expect runw
 You should expect the following clearance:
 
 !!! info "SID"
-    “SAA322, O.R. Tambo Delivery, cleared to Cape Town, FL380 on request, after departure Runway 03L, comply with the RAGUL3A departure, radar frequency 123.7, squawk 7300.”
+    “SAA322, O.R. Tambo Delivery, cleared to Cape Town, FL380 on request, after departure Runway 21R, comply with the RAGUL1D departure, radar frequency 123.7, squawk 7301.”
 
 !!! info "RWY TRK"
-    “SAA322, O.R. Tambo Delivery, cleared to Cape Town, FL380 on request, after departure Runway 03L, maintain non standard runway track, climb to 8000ft, radar frequency 123.7, squawk 7300.”
+    “SAA322, O.R. Tambo Delivery, cleared to Cape Town, FL380 on request, after departure Runway 03L, maintain non standard runway track, climb to 8000ft, radar frequency 123.7, squawk 7301.”
 
 
 !!! tip
@@ -293,7 +293,7 @@ You should expect the following clearance:
 
 ![alt text](image-6.png)
 
-**You will then be handed off to Tower for sequencing onto Taxiway J to line up and wait.**
+**You will then be handed off to Tower for sequencing onto Taxiway J or B to line up and wait.**
 
 Aircraft who wish to take an intersection departure should immediately advise the Ground controller once requesting taxi.
 
@@ -324,7 +324,7 @@ Pilots should expect the following STAR assignments for **21s**.
 
 - OKPIT1D
 
-- UNPOM
+- UNPOM1B
 
 !!! note
     Aircraft arriving from WIV or AVILO are to expect a direct to JSV thereafter.
@@ -344,7 +344,7 @@ You only need to acknowledge the arrival and runway direction. **Do not be alarm
 
 ### Approach
 
-All aircraft flying into Johannesburg expecting an ILS approach should plan for the ILS Z approach, which will also be stated in the ATIS.
+All aircraft flying into Johannesburg expecting an ILS approach onto 03s should plan for the ILS Z approach, which will also be stated in the ATIS.
 
 !!! failure "Approach NOTAMs"
     - Do not request 03L/21R for landing. This is the main departure runway.
