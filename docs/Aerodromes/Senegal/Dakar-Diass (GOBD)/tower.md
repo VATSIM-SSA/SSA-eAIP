@@ -18,7 +18,7 @@ The responsibility of Tower at "Airport Name" falls to the dedicated Tower ATS u
 !!! info "Circuit Clearance (Non STD)"
     GWARY, hold position, after departure Runway 01, non standard L / R hand circuits, not above altitude 1500ft, report non standard  R downwind Runway 01.
 
-  ### VFR Departures runway 01
+### VFR Departures runway 01
 
   | Rwy | Sector | Exit Procedure | Altitude | Remarks                      |
 |-----|--------|----------------|----------|------------------------------|
