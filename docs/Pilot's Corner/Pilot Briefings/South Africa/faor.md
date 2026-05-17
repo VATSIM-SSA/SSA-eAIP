@@ -35,17 +35,17 @@ Alternatively, users of MSFS2024 are more than welcome to use the inbuilt flight
 | Position    | Callsign              | Frequency | Remarks             |
 | :---------: | :---------: | :---------: | :---------: |
 | FAOR_ATIS   | Johannesburg ATIS     | 126.200   | -                   |
-| FAOR_DEL    | O.R. Tambo Clearance Delivery    | 121.700   | -                   |
-| FAOR_GND    | O.R. Tambo Ground       | 121.900   | -                   |
-| FAOR_TWR    | O.R. Tambo Tower    | 118.100   | -                   |
-| FAOR_E_TWR  | O.R. Tambo Tower    | 118.600   | - |
-| FAOR_APP    | Johannesburg Radar  | 124.500   | -                   |
+| FAOR_DEL    | O.R. Tambo Clearance Delivery    | 121.700   | -        |
+| FAOR_GND    | O.R. Tambo Ground       | 121.900   | Responsible of Aerodrome West of 03L/21R |
+| FAOR_TWR    | O.R. Tambo Tower    | 118.100   | -                     |
+| FAOR_E_TWR  | O.R. Tambo Tower    | 118.600   | Responsible of Aerodrome between the two runways |
+| FAOR_APP    | Johannesburg Radar  | 124.500   | -                     |
 | FAOR_W_APP    | Johannesburg Radar  | 123.700   | -                   |
 | FAOR_F_APP  | Johannesburg Director | 121.400   | -                   |
 | FAJA_CTR    | Johannesburg Area     | 134.400   | Frequency can be used for FAJA_N or FAJA_NE |
-| FAJA_NW_CTR    | Johannesburg Area     | 126.700   | -                   |
-| FAJA_SW_CTR    | Johannesburg Area     | 128.300   | -                   |
-| FAJA_SE_CTR    | Johannesburg Area     | 132.150   | -                   |
+| FAJA_NW_CTR    | Johannesburg Area     | 126.700   | -                |
+| FAJA_SW_CTR    | Johannesburg Area     | 128.300   | -                |
+| FAJA_SE_CTR    | Johannesburg Area     | 132.150   | -                |
 
 
 ## Aerodrome
@@ -245,13 +245,13 @@ At Johannesburg, pilots should first take into consideration the following NOTAM
 !!! warning
     The only operational SIDs of current are:
 
-    - VASUR3A
+    - APDAK1B (03L)
 
-    - RAGUL3A & RAGUL1D
+    - RAGUL1D (21R)
 
-    - EXOBI1A
+    - EXOBI1C (03L)
 
-    - GEROX1C
+    - ETLIG1B (21R)
 
 If your SID is not listed above for your specific runway, you are to expect runway track for your departure clearance, and this should be reflected as such. Please don’t request the SID that was originally in your flight plan, because chances are, it's **SUSPENDED**.
 
@@ -270,10 +270,10 @@ If your SID is not listed above for your specific runway, you are to expect runw
 You should expect the following clearance:
 
 !!! info "SID"
-    “SAA322, O.R. Tambo Delivery, cleared to Cape Town, FL380 on request, after departure Runway 03L, comply with the RAGUL3A departure, radar frequency 123.7, squawk 7300.”
+    “SAA322, O.R. Tambo Delivery, cleared to Cape Town, FL380 on request, after departure Runway 21R, comply with the RAGUL1D departure, radar frequency 123.7, squawk 7301.”
 
 !!! info "RWY TRK"
-    “SAA322, O.R. Tambo Delivery, cleared to Cape Town, FL380 on request, after departure Runway 03L, maintain non standard runway track, climb to 8000ft, radar frequency 123.7, squawk 7300.”
+    “SAA322, O.R. Tambo Delivery, cleared to Cape Town, FL380 on request, after departure Runway 03L, maintain non standard runway track, climb to 8000ft, radar frequency 123.7, squawk 7301.”
 
 
 !!! tip
@@ -293,7 +293,7 @@ You should expect the following clearance:
 
 ![alt text](image-6.png)
 
-**You will then be handed off to Tower for sequencing onto Taxiway J to line up and wait.**
+**You will then be handed off to Tower for sequencing onto Taxiway J or B to line up and wait.**
 
 Aircraft who wish to take an intersection departure should immediately advise the Ground controller once requesting taxi.
 
@@ -324,7 +324,7 @@ Pilots should expect the following STAR assignments for **21s**.
 
 - OKPIT1D
 
-- UNPOM
+- UNPOM1B
 
 !!! note
     Aircraft arriving from WIV or AVILO are to expect a direct to JSV thereafter.
@@ -340,11 +340,11 @@ On initial contact with any FAJA unit, you will be issued the arrival clearance:
 You only need to acknowledge the arrival and runway direction. **Do not be alarmed if you haven’t been given 03L or 03R. This is normal.** FAJA will not issue the landing runway. This is Johannesburg Radar’s responsibility. If Johannesburg Radar is offline, expect runway assignment from FAJA when descending. If you are to read back L or R, you will be corrected, so simply read back 03 or 21 only!
 
 !!! warning
-    **Please note, all of these STARs will end up with you on a vector when on the downwind leg. DO NOT TURN BASE OR FINAL UNLESS INSTRUCTED BY RADAR.**
+    **Please note, all of these STARs will end up with you on a vector when on the downwind leg, also known as open-ended. DO NOT TURN BASE OR FINAL UNLESS INSTRUCTED BY RADAR.**
 
 ### Approach
 
-All aircraft flying into Johannesburg expecting an ILS approach should plan for the ILS Z approach, which will also be stated in the ATIS.
+All aircraft flying into Johannesburg expecting an ILS approach onto 03s should plan for the ILS Z approach, which will also be stated in the ATIS.
 
 !!! failure "Approach NOTAMs"
     - Do not request 03L/21R for landing. This is the main departure runway.
